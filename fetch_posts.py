@@ -9,13 +9,12 @@ API_ID = int(os.environ["API_ID"])
 API_HASH = os.environ["API_HASH"]
 SESSION_STRING = os.environ["SESSION_STRING"]
 
-# paths
 BASE_DIR = "posts"
 RAW_DIR = "posts/raw"
-HTML_SIMPLE_DIR = "posts/html_simple"
-HTML_ADV_DIR = "posts/html_advanced"
+HTML_DIR = "posts/html"
+MEDIA_DIR = "posts/media"
 
-for p in [BASE_DIR, RAW_DIR, HTML_SIMPLE_DIR, HTML_ADV_DIR]:
+for p in [BASE_DIR, RAW_DIR, HTML_DIR, MEDIA_DIR]:
     if not os.path.exists(p):
         os.makedirs(p)
 
@@ -25,72 +24,90 @@ async def fetch():
     await client.start()
 
     with open("channels.txt", "r", encoding="utf-8") as f:
-        channels = [x.strip() for x in f if x.strip()]
+        channels = [line.strip() for line in f if line.strip()]
 
     cutoff = datetime.now(tz.UTC) - timedelta(days=10)
+    channel_index_links = []
 
     for channel in channels:
         entity = await client.get_entity(channel)
-        async for msg in client.iter_messages(entity, limit=100):
+        username = entity.username
+
+        channel_html_path = f"{HTML_DIR}/{username}.html"
+        media_path = f"{MEDIA_DIR}/{username}"
+
+        if not os.path.exists(media_path):
+            os.makedirs(media_path)
+
+        posts_html = ""
+        raw_posts = []
+
+        async for msg in client.iter_messages(entity, limit=200):
             if msg.date < cutoff:
                 break
 
-            post_id = f"{entity.username}_{msg.id}"
-
+            post_id = f"{username}_{msg.id}"
             raw_path = f"{RAW_DIR}/{post_id}.json"
-            html_simple_path = f"{HTML_SIMPLE_DIR}/{post_id}.html"
-            html_adv_path = f"{HTML_ADV_DIR}/{post_id}.html"
 
-            # save raw
             raw_data = {
-                "channel": entity.username,
+                "channel": username,
                 "message_id": msg.id,
                 "date": msg.date.isoformat(),
-                "text": msg.text,
-                "link": f"https://t.me/{entity.username}/{msg.id}"
+                "text": msg.text or "",
+                "link": f"https://t.me/{username}/{msg.id}",
+                "media": []
             }
+
+            media_links_html = ""
+
+            if msg.media:
+                file_name = f"{post_id}"
+                saved_path = os.path.join(media_path, file_name)
+                try:
+                    saved_file = await msg.download_media(saved_path)
+                    if saved_file:
+                        github_path = f"{saved_file}".replace("\\", "/")
+                        raw_data["media"].append(github_path)
+
+                        media_links_html += f"<p><a href='/{github_path}'>Download media</a></p>"
+                except:
+                    pass
 
             with open(raw_path, "w", encoding="utf-8") as f:
                 json.dump(raw_data, f, ensure_ascii=False, indent=2)
 
-            # simple HTML
-            with open(html_simple_path, "w", encoding="utf-8") as f:
-                f.write(
-                    f"<html><body>"
-                    f"<h3>Channel: @{entity.username}</h3>"
-                    f"<p>{msg.text}</p>"
-                    f"<a href='https://t.me/{entity.username}/{msg.id}'>View Source</a>"
-                    f"</body></html>"
-                )
+            posts_html += f"""
+            <div style="border:1px solid #ccc; padding:10px; margin-bottom:10px">
+                <h3>Post ID: {msg.id}</h3>
+                <p>{msg.text}</p>
+                <p><a href="https://t.me/{username}/{msg.id}">View source</a></p>
+                {media_links_html}
+            </div>
+            """
 
-            # advanced HTML
-            with open(html_adv_path, "w", encoding="utf-8") as f:
-                f.write(
-                    f"<html><head><style>"
-                    f"body {{ font-family: sans-serif; padding: 20px; }}"
-                    f".card {{ border: 1px solid #ccc; padding: 15px; border-radius: 10px; }}"
-                    f".link {{ margin-top: 10px; }}"
-                    f"</style></head><body>"
-                    f"<div class='card'>"
-                    f"<h2>Channel: @{entity.username}</h2>"
-                    f"<p>{msg.text}</p>"
-                    f"<div class='link'><a href='https://t.me/{entity.username}/{msg.id}'>Open Post</a></div>"
-                    f"</div></body></html>"
-                )
+        with open(channel_html_path, "w", encoding="utf-8") as f:
+            f.write(f"""
+            <html><body>
+            <h1>Channel: @{username}</h1>
+            <p>Telegram: <a href="https://t.me/{username}">https://t.me/{username}</a></p>
+            <hr>
+            {posts_html}
+            </body></html>
+            """)
 
-    # delete old files
-    delete_old(RAW_DIR)
-    delete_old(HTML_SIMPLE_DIR)
-    delete_old(HTML_ADV_DIR)
+        channel_index_links.append(
+            f"<li><a href='posts/html/{username}.html'>@{username}</a></li>"
+        )
 
-def delete_old(folder):
-    now = datetime.now()
-    for f in os.listdir(folder):
-        path = os.path.join(folder, f)
-        if os.path.isfile(path):
-            t = datetime.fromtimestamp(os.path.getmtime(path))
-            if now - t > timedelta(days=10):
-                os.remove(path)
+    with open("index.html", "w", encoding="utf-8") as f:
+        f.write(f"""
+        <html><body>
+        <h1>Telegram Channel Archive</h1>
+        <ul>
+            {''.join(channel_index_links)}
+        </ul>
+        </body></html>
+        """)
 
 with client:
     client.loop.run_until_complete(fetch())
