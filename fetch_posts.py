@@ -3,9 +3,9 @@ import json
 import datetime
 import asyncio
 from telethon import TelegramClient
+from telethon.sessions import StringSession
 from telethon.tl.functions.messages import GetHistoryRequest
 from telethon.tl.functions.photos import GetUserPhotosRequest
-from telethon.tl.types import MessageMediaPhoto
 
 API_ID = int(os.getenv("API_ID"))
 API_HASH = os.getenv("API_HASH")
@@ -45,7 +45,6 @@ async def download_channel_profile_photo(client, channel, save_path):
             max_id=0,
             limit=1
         ))
-
         if photos.photos:
             await client.download_media(photos.photos[0], save_path)
             return True
@@ -89,8 +88,9 @@ async def fetch_channel_posts(client, channel_username):
         for msg in history.messages:
             if not msg.date:
                 continue
-            msg_date_utc = msg.date.replace(tzinfo=datetime.timezone.utc)
-            if msg_date_utc < limit_date:
+
+            msg_date = msg.date.replace(tzinfo=datetime.timezone.utc)
+            if msg_date < limit_date:
                 continue
 
             post_id = msg.id
@@ -99,21 +99,20 @@ async def fetch_channel_posts(client, channel_username):
 
             if msg.media:
                 try:
-                    filename = f"{post_id}.jpg"
-                    save_path = os.path.join(channel_dir, filename)
+                    file_name = f"{post_id}.jpg"
+                    save_path = os.path.join(channel_dir, file_name)
                     await client.download_media(msg, save_path)
-                    media_files.append(filename)
+                    media_files.append(file_name)
                 except:
                     pass
 
-            post_data = {
+            all_posts.append({
                 "post_id": post_id,
                 "text": post_text,
-                "date": msg_date_utc.isoformat(),
+                "date": msg_date.isoformat(),
                 "media": media_files,
                 "channel": channel_name
-            }
-            all_posts.append(post_data)
+            })
 
         offset = history.messages[-1].id
 
@@ -125,78 +124,81 @@ async def fetch_channel_posts(client, channel_username):
 
 
 def generate_post_page(post, channel_name):
-    filename = f"{post['post_id']}.html"
-    path = os.path.join(POST_PAGES_DIR, filename)
+    file_name = f"{post['post_id']}.html"
+    path = os.path.join(POST_PAGES_DIR, file_name)
+
+    safe_text = post["text"].replace("\n", "<br>")
 
     media_html = ""
     for m in post["media"]:
-        raw_url = github_media_url(channel_name, m)
-        media_html += f"<div><img src='{raw_url}' style='max-width:500px;'><br><a href='{raw_url}' target='_blank'>Download File</a></div><br>"
+        url = github_media_url(channel_name, m)
+        media_html += (
+            f"<div><img src='{url}' style='max-width:500px;'><br>"
+            f"<a href='{url}' target='_blank'>Download File</a></div><br>"
+        )
 
     html = f"""
-<html>
-<head>
-<meta charset='utf-8'>
-<title>Post {post['post_id']} - {channel_name}</title>
-</head>
+<html><head><meta charset='utf-8'><title>{channel_name} - {post['post_id']}</title></head>
 <body>
-<h2>Channel: {channel_name}</h2>
+<h2>{channel_name}</h2>
 <p><b>Date:</b> {post['date']}</p>
-<p>{post['text'].replace('\n','<br>')}</p>
+<p>{safe_text}</p>
 {media_html}
 <a href='../html/{channel_name}.html'>Back to channel</a>
-</body>
-</html>
+</body></html>
 """
 
     with open(path, "w", encoding="utf-8") as f:
         f.write(html)
 
-    return filename
+    return file_name
 
 
-def generate_channel_html(channel_name, profile_photo_path, posts):
+def generate_channel_html(channel_name, profile_path, posts):
     out_path = os.path.join(HTML_DIR, f"{channel_name}.html")
 
-    profile_url = github_media_url(channel_name, "profile.jpg") if os.path.exists(profile_photo_path) else ""
+    if os.path.exists(profile_path):
+        profile_url = github_media_url(channel_name, "profile.jpg")
+    else:
+        profile_url = ""
 
     post_cards = ""
 
     for post in posts:
+        safe_text = post["text"].replace("\n", "<br>")
+
         media_html = ""
         for m in post["media"]:
-            file_url = github_media_url(channel_name, m)
-            media_html += f"<div><img src='{file_url}' style='max-width:150px;'><br><a href='{file_url}'>Download</a></div>"
+            url = github_media_url(channel_name, m)
+            media_html += (
+                f"<div><img src='{url}' style='max-width:150px;'><br>"
+                f"<a href='{url}' target='_blank'>Download</a></div>"
+            )
 
         post_page = f"{post['post_id']}.html"
 
-        post_cards += f"""
-<div style='border:1px solid #ccc;padding:10px;margin:10px;border-radius:8px;'>
-<h3>Post {post['post_id']}</h3>
-<p><b>Date:</b> {post['date']}</p>
-<p>{post['text'].replace('\n','<br>')}</p>
-{media_html}
-<br>
-<a href='../post_pages/{post_page}' target='_blank'>Open Full Page</a>
-</div>
-"""
+        card = (
+            "<div style='border:1px solid #ccc;padding:10px;margin:10px;border-radius:8px;'>"
+            f"<h3>Post {post['post_id']}</h3>"
+            f"<p><b>Date:</b> {post['date']}</p>"
+            f"<p>{safe_text}</p>"
+            f"{media_html}"
+            f"<br><a href='../post_pages/{post_page}' target='_blank'>Open Full Page</a>"
+            "</div>"
+        )
 
-    html = f"""
-<html>
-<head>
-<meta charset='utf-8'>
-<title>{channel_name}</title>
-</head>
-<body>
-<div style='display:flex;align-items:center;gap:15px;margin:20px;'>
-<img src='{profile_url}' style='width:60px;height:60px;border-radius:50%;'>
-<h2>{channel_name}</h2>
-</div>
-{post_cards}
-<a href='../index.html'>Back to Home</a>
-</body>
-</html>
-"""
+        post_cards += card
+
+    html = (
+        "<html><head><meta charset='utf-8'><title>" + channel_name + "</title></head><body>"
+        "<div style='display:flex;align-items:center;gap:15px;margin:20px;'>"
+        f"<img src='{profile_url}' style='width:60px;height:60px;border-radius:50%;'>"
+        f"<h2>{channel_name}</h2>"
+        "</div>"
+        f"{post_cards}"
+        "<a href='../index.html'>Back to Home</a>"
+        "</body></html>"
+    )
 
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(html)
@@ -212,34 +214,26 @@ def generate_index(all_channels_posts):
         channel_links += f"<li><a href='html/{channel_name}.html'>{channel_name}</a></li>"
 
         for post in posts:
-            all_posts_html += f"""
-<div style='border:1px solid #aaa;margin:10px;padding:10px;border-radius:8px;'>
-<h3>{channel_name} — Post {post['post_id']}</h3>
-<p><b>Date:</b> {post['date']}</p>
-<p>{post['text'][:200].replace('\n','<br>')}...</p>
-<a href='post_pages/{post['post_id']}.html'>Open Post</a>
-</div>
-"""
+            preview = post["text"][:200].replace("\n", "<br>")
+            all_posts_html += (
+                "<div style='border:1px solid #aaa;margin:10px;padding:10px;border-radius:8px;'>"
+                f"<h3>{channel_name} — Post {post['post_id']}</h3>"
+                f"<p><b>Date:</b> {post['date']}</p>"
+                f"<p>{preview}...</p>"
+                f"<a href='post_pages/{post['post_id']}.html'>Open Post</a>"
+                "</div>"
+            )
 
-    html = f"""
-<html>
-<head>
-<meta charset='utf-8'>
-<title>Telegram Archive</title>
-</head>
-<body>
-<h1>Telegram Channels Archive</h1>
-<h2>Channels</h2>
-<ul>
-{channel_links}
-</ul>
-
-<h2>All Posts</h2>
-{all_posts_html}
-
-</body>
-</html>
-"""
+    html = (
+        "<html><head><meta charset='utf-8'><title>Telegram Archive</title></head><body>"
+        "<h1>Telegram Channels Archive</h1>"
+        "<h2>Channels</h2><ul>"
+        f"{channel_links}"
+        "</ul>"
+        "<h2>All Posts</h2>"
+        f"{all_posts_html}"
+        "</body></html>"
+    )
 
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(html)
@@ -255,12 +249,12 @@ async def main():
     all_channels_posts = {}
 
     for c in channels:
-        posts, profile_photo_path = await fetch_channel_posts(client, c)
+        posts, profile_photo = await fetch_channel_posts(client, c)
 
-        for post in posts:
-            generate_post_page(post, post["channel"])
+        for p in posts:
+            generate_post_page(p, p["channel"])
 
-        generate_channel_html(posts[0]["channel"], profile_photo_path, posts)
+        generate_channel_html(posts[0]["channel"], profile_photo, posts)
 
         all_channels_posts[posts[0]["channel"]] = posts
 
