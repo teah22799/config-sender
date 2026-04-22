@@ -1,10 +1,172 @@
 {
-  "channel": "shirvanico",
-  "message_id": 1699,
+  "_": "Message",
+  "id": 1699,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1634658293
+  },
   "date": "2026-04-17T15:53:59+00:00",
-  "text": "این میشه همون که میگفتم\n\nهنوز هیچی نشده پرسش های قشر طرفدار حاکمیت شروع شده\n\nگرچه هنوز هم عقیدم همینه که توافقی در کار نیست مگر تسلیم کامل یکی از طرفین کدوم طرفش هم خودتون فک کنید\n\nو حتی احتمال همون تسلیم رو هم بسیار کم میبینم، چون هیچکدوم از طرفین اهل تسلیم نیستن",
-  "link": "https://t.me/shirvanico/1699",
-  "media": [
-    "posts/media/shirvanico/shirvanico_1699.jpg"
-  ]
+  "message": "این میشه همون که میگفتم\n\nهنوز هیچی نشده پرسش های قشر طرفدار حاکمیت شروع شده\n\nگرچه هنوز هم عقیدم همینه که توافقی در کار نیست مگر تسلیم کامل یکی از طرفین کدوم طرفش هم خودتون فک کنید\n\nو حتی احتمال همون تسلیم رو هم بسیار کم میبینم، چون هیچکدوم از طرفین اهل تسلیم نیستن",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": {
+    "_": "MessageReplyHeader",
+    "reply_to_scheduled": false,
+    "forum_topic": false,
+    "quote": true,
+    "reply_to_msg_id": 1680,
+    "reply_to_peer_id": null,
+    "reply_from": null,
+    "reply_media": null,
+    "reply_to_top_id": null,
+    "quote_text": "به پاهای پینه بسته ام چه بگویم؟",
+    "quote_entities": [],
+    "quote_offset": 74,
+    "todo_item_id": null,
+    "poll_option": null
+  },
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 5985846825124039854,
+      "access_hash": -638846650920007488,
+      "file_reference": "b'\\x02an\\xe7\\xf5\\x00\\x00\\x06\\xa3i\\xe9\\x1c1\\x88\\x07\\xfe9c\\xe5\\xae\\x13\\xff\\xc0\\xe91$d/\\n'",
+      "date": "2026-04-17T15:53:59+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01%(\\xd1\\x17\\x11oo\\x9d\\x8e\\x7f\\xd98\\x14\\xe3s\\x0e>\\xff\\x00>\\xc2\\xb2\\x03\\xb9b#\\x89[\\x1d\\xcdI\\xb2\\xe4\\xaf\\x04\\x0f@\\xbd\\xa8\\x03A\\xa5@74\\xc5G\\xe5MmF\\xd5r\\x0c\\x9d=\\x8df\\xf9\\x12\\x191(>\\xfb\\xcdY1G\\x1f (\\xfc9\\xa0I\\x96\\x96\\xfa\\xd9\\xd8m\\x90\\xf1\\xdb\\x06\\x8a\\xca\\x99Lw%\\xbb{\\xf7\\xa2\\x81s\"\\xdcP\\x84\\x8ca\\x0e1\\x9eMH\\xdb\\xc2\\x9f,\\xa2\\x9aq\\xb2\\xda\\x01\\x12\\x80\\x07\\x07+\\x9f\\xebR\\x08\\x97\\x07\\x12\\x8f\\xa8\\x14\\x14\\xb4\\xd4\\xad*K(\\x1f7#\\xbe)\\x91\\xc6\\xf1\\xcaZI\\x81\\xc8\\xe4\\n\\xb2\\xf0+\\x82<\\xe6\\xc9\\xf4\\x1d*1j\\xe0|\\xb7k\\xff\\x00~\\xc5\\x05]\\xb2\\xad\\xd2\\x97\\x8bx\\xcf\\xcb\\xd7=\\xe8\\xab?aiO\\xcdw\\xb8\\x10A\\x01q\\xfdh\\xa0\\x87\\x14i\\x1a(\\xa2\\x81\\x8c\\xd8\\xc0\\x7f\\xaco\\xd2\\x80\\x8c\\x07\\xfa\\xc6?\\\\QE\\x00\\x01\\n\\xf3\\xbd\\x8f\\xd6\\x8a(\\xa0\\x0f'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 299,
+          "size": 26243
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 800,
+          "h": 748,
+          "size": 95349
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 1080,
+          "h": 1010,
+          "sizes": [
+            16745,
+            43178,
+            61357,
+            94369,
+            128869
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [],
+  "views": 1534,
+  "forwards": 8,
+  "replies": null,
+  "edit_date": "2026-04-17T15:54:02+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 23,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👏"
+        },
+        "count": 7,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😁"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🍾"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💋"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
 }

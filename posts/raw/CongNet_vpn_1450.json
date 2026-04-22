@@ -1,10 +1,103 @@
 {
-  "channel": "CongNet_vpn",
-  "message_id": 1450,
+  "_": "Message",
+  "id": 1450,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3141068018
+  },
   "date": "2026-04-17T15:05:18+00:00",
-  "text": "دلقک🤡",
-  "link": "https://t.me/CongNet_vpn/1450",
-  "media": [
-    "posts/media/CongNet_vpn/CongNet_vpn_1450.jpg"
-  ]
+  "message": "دلقک🤡",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 5985398542207487164,
+      "access_hash": 1905055050587376701,
+      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbb8\\xe4\\xf2\\x00\\x00\\x05\\xaai\\xe9\\x1cT\\xb0\\xec\\xde.b\\xd7\\xb8\\xc4\\xa6\\xc3\\xad\\xe18SE\\xaa'",
+      "date": "2026-04-17T15:05:18+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01\\x13(\\xd2\\x08\\xe2W-!\\xdaz\\x01\\x9a~?\\xda?\\x91\\xa9)1\\xf5\\xfc\\xe8\\x012\\x07\\xaf\\xe4j\\xbc\\xd0<\\x92\\xef[\\x89\\x10c\\xee\\x80qVq\\xf5\\xfc\\xe8\\xdb\\xf5\\xfc\\xe8\\x02\\x08!hK\\x17\\x9d\\xe4\\x07\\xa0a\\xd2\\x8a\\x99\\xb1\\x83\\xd7\\xa5\\x14\\x00\\xecQE\\x14\\x00QE\\x14\\x00\\x8d\\xf7[\\xe9E\\x14P\\x07'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 152,
+          "size": 10000
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 800,
+          "h": 379,
+          "size": 34734
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 1220,
+          "h": 578,
+          "sizes": [
+            4623,
+            10477,
+            18908,
+            26070,
+            42802
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [],
+  "views": 206,
+  "forwards": 1,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
 }

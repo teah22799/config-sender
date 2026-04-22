@@ -1,10 +1,166 @@
 {
-  "channel": "shirvanico",
-  "message_id": 1703,
+  "_": "Message",
+  "id": 1703,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1634658293
+  },
   "date": "2026-04-18T12:42:50+00:00",
-  "text": "حقیقتا بخوام بگم نظرم اینه که خر داغ میکنن\n\nچند ماه دیگه از این قیمتا فقط یه خاطره میمونه\nحالا تو بگو ۵ـ۱۰ هزار تومن دیگه هم بیاد پایین (جالبه بدونید همین ۱۰ هزار تومان کمتر از ۷ درصد میشه، اون قدیما بود که ۱۰ هزار تومان ۱۰ـ۱۵ درصد نوسان به حساب میومد)",
-  "link": "https://t.me/shirvanico/1703",
-  "media": [
-    "posts/media/shirvanico/shirvanico_1703.jpg"
-  ]
+  "message": "حقیقتا بخوام بگم نظرم اینه که خر داغ میکنن\n\nچند ماه دیگه از این قیمتا فقط یه خاطره میمونه\nحالا تو بگو ۵ـ۱۰ هزار تومن دیگه هم بیاد پایین (جالبه بدونید همین ۱۰ هزار تومان کمتر از ۷ درصد میشه، اون قدیما بود که ۱۰ هزار تومان ۱۰ـ۱۵ درصد نوسان به حساب میومد)",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 5990176847943109742,
+      "access_hash": -5267326406932290203,
+      "file_reference": "b'\\x02an\\xe7\\xf5\\x00\\x00\\x06\\xa7i\\xe9\\x1c1C#\\xc7\\xe4\\x15\\x03V\\xc1\\x19K\\xa0@\\xd2\\x90J\\x18'",
+      "date": "2026-04-18T12:42:50+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01(\\x1c\\xd9\\xefFsI\\x9e{\\xd1\\x9c\\x1eO\\xe9@\\x08Tc\\xbf\\xe7J9\\xa5\\xcd\\x14\\x00\\xd3\\x9e\\xc3?\\x8d\\x1b\\xb9\\xc7\\x7f\\xad*\\xf7\\xfa\\xd0G\\x04\\xf7\\xa0\\x03\\x14c\\xebM\\xcb\\x1c\\x8e3\\x8e(@\\xdb~lf\\x80\\x17\\xb99\\xe3\\xd2\\x97?Z(\\xa0\\x04\\xecy#\\xf0\\xa4\\x0b\\xc7\\xdfj(\\xa0\\x0f'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 222,
+          "h": 320,
+          "size": 15537
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 556,
+          "h": 800,
+          "size": 57387
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 889,
+          "h": 1280,
+          "sizes": [
+            10359,
+            25809,
+            47943,
+            67498,
+            94216
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [],
+  "views": 1456,
+  "forwards": 15,
+  "replies": null,
+  "edit_date": "2026-04-18T12:42:51+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 22,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 4,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💯"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😁"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💋"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🫡"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
 }

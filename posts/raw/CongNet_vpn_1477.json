@@ -1,10 +1,131 @@
 {
-  "channel": "CongNet_vpn",
-  "message_id": 1477,
+  "_": "Message",
+  "id": 1477,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3141068018
+  },
   "date": "2026-04-21T11:23:59+00:00",
-  "text": "https://github.com/masterking32/MasterHttpRelayVPN",
-  "link": "https://t.me/CongNet_vpn/1477",
-  "media": [
-    "posts/media/CongNet_vpn/CongNet_vpn_1477.jpg"
-  ]
+  "message": "https://github.com/masterking32/MasterHttpRelayVPN",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaWebPage",
+    "webpage": {
+      "_": "WebPage",
+      "id": 7364193029346637009,
+      "url": "https://github.com/masterking32/MasterHttpRelayVPN",
+      "display_url": "github.com/masterking32/MasterHttpRelayVPN",
+      "hash": 0,
+      "has_large_media": true,
+      "video_cover_photo": false,
+      "type": "photo",
+      "site_name": "GitHub",
+      "title": "GitHub - masterking32/MasterHttpRelayVPN",
+      "description": "Contribute to masterking32/MasterHttpRelayVPN development by creating an account on GitHub.",
+      "photo": {
+        "_": "Photo",
+        "id": 6000087777036406076,
+        "access_hash": 7057120787468205375,
+        "file_reference": "b'\\x00i\\xe9\\x1cT\\xee\\x11\\x97\\xce\\x7f\\xc0\\x9eI\\xb9\\xebBRF\\x08\\x11\\x99'",
+        "date": "2026-04-21T19:05:58+00:00",
+        "sizes": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": "b'\\x01\\x14(\\xd6w*p\\x06\\x7f\\x03M\\xf3O\\x1c\\x1f\\xfb\\xe4\\xff\\x00\\x85KE\\x000H\\x0ff\\xff\\x00\\xbeM\\x131H\\x99\\x97\\x19\\x03\\x8c\\xd3\\xf2=i\\x18\\x06\\x04\\x1eA\\xa0\\n\\x96\\xd7\\x12I(V*W\\x1d\\xa8\\xa9\\xe3\\x82(\\x8f\\xc8\\x81M\\x14XE/\\xed\\t\\x7f\\xba\\x9f\\x91\\xff\\x00\\x1a>\\xdf/\\xf7S\\xf2?\\xe3E\\x14\\xc0>\\xdf/\\xf7S\\xf2?\\xe3K\\xf6\\xf9\\x7f\\xba\\x9f\\x91\\xa2\\x8a\\x00r^\\xc8\\xd2\\x00U?*(\\xa2\\x93\\x04\\x7f'"
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 320,
+            "h": 160,
+            "size": 8439
+          },
+          {
+            "_": "PhotoSize",
+            "type": "x",
+            "w": 800,
+            "h": 400,
+            "size": 28899
+          },
+          {
+            "_": "PhotoSizeProgressive",
+            "type": "y",
+            "w": 1200,
+            "h": 600,
+            "sizes": [
+              4637,
+              10378,
+              20782,
+              29144,
+              45637
+            ]
+          }
+        ],
+        "dc_id": 4,
+        "has_stickers": false,
+        "video_sizes": []
+      },
+      "embed_url": null,
+      "embed_type": null,
+      "embed_width": null,
+      "embed_height": null,
+      "duration": null,
+      "author": null,
+      "document": null,
+      "cached_page": null,
+      "attributes": []
+    },
+    "force_large_media": false,
+    "force_small_media": false,
+    "manual": false,
+    "safe": true
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityUrl",
+      "offset": 0,
+      "length": 50
+    }
+  ],
+  "views": 81,
+  "forwards": 1,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
 }

@@ -1,8 +1,26 @@
 {
-  "channel": "CongNet_vpn",
-  "message_id": 1425,
+  "_": "MessageService",
+  "id": 1425,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3141068018
+  },
   "date": "2026-04-13T09:17:21+00:00",
-  "text": "",
-  "link": "https://t.me/CongNet_vpn/1425",
-  "media": []
+  "action": {
+    "_": "MessageActionPaidMessagesPrice",
+    "stars": 0,
+    "broadcast_messages_allowed": true
+  },
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "reactions_are_possible": true,
+  "silent": false,
+  "post": true,
+  "legacy": false,
+  "from_id": null,
+  "saved_peer_id": null,
+  "reply_to": null,
+  "reactions": null,
+  "ttl_period": null
 }

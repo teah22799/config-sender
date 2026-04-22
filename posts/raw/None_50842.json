@@ -1,8 +1,146 @@
 {
-  "channel": null,
-  "message_id": 50842,
+  "_": "Message",
+  "id": 50842,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1346269822
+  },
   "date": "2026-04-16T18:48:41+00:00",
-  "text": "ادعای ترامپ: ایران موافقت کرده که سلاح هسته‌ای نداشته باشد و این خبر خوبی است\n\nما نمی‌توانیم به ایران اجازه دهیم سلاح هسته‌ای داشته باشد و به دستیابی به توافق بسیار نزدیک هستیم.\n\nایران موافقت کرده است که از داشتن سلاح هسته‌ای دست بکشد و اتفاقات مثبتی رخ خواهد داد.\n\nایران آماده انجام کارهایی است که قبلاً آماده انجام آنها نبود.\n\nایران می‌خواهد توافق کند و ما با آنها با مهربانی رفتار می‌کنیم.\n\n**در صورت لزوم، توافق آتش‌بس با ایران را تمدید خواهیم کرد**\n\nحاضرم به پاکستان سفر کنم.\n\nاگر توافق با ایران در اسلام‌آباد امضا شود، ممکن است به آنجا بروم.",
-  "link": "https://t.me/None/50842",
-  "media": []
+  "message": "ادعای ترامپ: ایران موافقت کرده که سلاح هسته‌ای نداشته باشد و این خبر خوبی است\n\nما نمی‌توانیم به ایران اجازه دهیم سلاح هسته‌ای داشته باشد و به دستیابی به توافق بسیار نزدیک هستیم.\n\nایران موافقت کرده است که از داشتن سلاح هسته‌ای دست بکشد و اتفاقات مثبتی رخ خواهد داد.\n\nایران آماده انجام کارهایی است که قبلاً آماده انجام آنها نبود.\n\nایران می‌خواهد توافق کند و ما با آنها با مهربانی رفتار می‌کنیم.\n\nدر صورت لزوم، توافق آتش‌بس با ایران را تمدید خواهیم کرد\n\nحاضرم به پاکستان سفر کنم.\n\nاگر توافق با ایران در اسلام‌آباد امضا شود، ممکن است به آنجا بروم.",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 394,
+      "length": 55
+    }
+  ],
+  "views": 263312,
+  "forwards": 493,
+  "replies": null,
+  "edit_date": "2026-04-16T18:49:53+00:00",
+  "post_author": "Sa",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionPaid"
+        },
+        "count": 5,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👎"
+        },
+        "count": 1213,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 337,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 226,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💔"
+        },
+        "count": 132,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": [
+      {
+        "_": "MessageReactor",
+        "count": 2,
+        "top": true,
+        "my": false,
+        "anonymous": false,
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 823280964
+        }
+      },
+      {
+        "_": "MessageReactor",
+        "count": 1,
+        "top": true,
+        "my": false,
+        "anonymous": false,
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 6173782760
+        }
+      },
+      {
+        "_": "MessageReactor",
+        "count": 1,
+        "top": true,
+        "my": false,
+        "anonymous": false,
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 7513168976
+        }
+      }
+    ]
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
 }

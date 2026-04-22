@@ -1,8 +1,133 @@
 {
-  "channel": "official_maxvpn",
-  "message_id": 3028,
+  "_": "Message",
+  "id": 3028,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1868040551
+  },
   "date": "2026-04-14T10:16:39+00:00",
-  "text": "**سلام و وقت بخیر خدمت کاربران گرامی**❤️\n\nهمینطور که در جریان هستید\nدسترسی ما از ربات به طور کامل قطع شده !!\n\n❗️ **توجه کنید** ❗️ \n**آیدی و کانالی که داخل ربات هستش هیچ ارتباطی به ما \nو مکس وی پی ان نداره**\n\nتنها راه ارتباطی و خرید و پشتیبانی مکس وی پی ان همون آیدی همیشگی هستش \n👨🏻‍💻@Maxvpn_addmin\n**\nجهت خرید و هرگونه سوال به آیدی پشتیبانی مراجعه کنید**",
-  "link": "https://t.me/official_maxvpn/3028",
-  "media": []
+  "message": "سلام و وقت بخیر خدمت کاربران گرامی❤️\n\nهمینطور که در جریان هستید\nدسترسی ما از ربات به طور کامل قطع شده !!\n\n❗️ توجه کنید ❗️ \nآیدی و کانالی که داخل ربات هستش هیچ ارتباطی به ما \nو مکس وی پی ان نداره\n\nتنها راه ارتباطی و خرید و پشتیبانی مکس وی پی ان همون آیدی همیشگی هستش \n👨🏻‍💻@Maxvpn_addmin\n\nجهت خرید و هرگونه سوال به آیدی پشتیبانی مراجعه کنید",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 34
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 109,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 123,
+      "length": 71
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 274,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 289,
+      "length": 52
+    }
+  ],
+  "views": 3019,
+  "forwards": 6,
+  "replies": null,
+  "edit_date": "2026-04-14T10:17:04+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 8,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤‍🔥"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👻"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🙈"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🦄"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
 }

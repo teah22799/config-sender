@@ -1,8 +1,151 @@
 {
-  "channel": "shirvanico",
-  "message_id": 1709,
+  "_": "Message",
+  "id": 1709,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1634658293
+  },
   "date": "2026-04-19T18:44:04+00:00",
-  "text": "برای تحلیل دلار و طلا مجبور شدم واسه اینکه واضح شه وویس بدم میدونم شاید خیلیاتون نتونید گوش کنید خلاصشو زیرش نوشتم\n\nبخش بندی صحبت‌ها هم اینه:\nآینده ی ۵ ساله بعد از جنگ 00:10\nدرمورد تکلیف خود دلار 01:10\nکفی که شاییید دلار و طلا ببینه 05:20\nچرا نظر خودم با دلاره به جای طلا 03:20\nسبد خودم توی دلار و طلا چه نسبتیه 04:17\nدلایلی اقتصادی که باعث رشد دلار میشه و سناریو ریزش کنسله 06:10\nآینده ی چند ماهه ی بازار ماشین 11:30\nبا ملک چه کنیم؟ 12:32",
-  "link": "https://t.me/shirvanico/1709",
-  "media": []
+  "message": "برای تحلیل دلار و طلا مجبور شدم واسه اینکه واضح شه وویس بدم میدونم شاید خیلیاتون نتونید گوش کنید خلاصشو زیرش نوشتم\n\nبخش بندی صحبت‌ها هم اینه:\nآینده ی ۵ ساله بعد از جنگ 00:10\nدرمورد تکلیف خود دلار 01:10\nکفی که شاییید دلار و طلا ببینه 05:20\nچرا نظر خودم با دلاره به جای طلا 03:20\nسبد خودم توی دلار و طلا چه نسبتیه 04:17\nدلایلی اقتصادی که باعث رشد دلار میشه و سناریو ریزش کنسله 06:10\nآینده ی چند ماهه ی بازار ماشین 11:30\nبا ملک چه کنیم؟ 12:32",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": {
+    "_": "MessageReplyHeader",
+    "reply_to_scheduled": false,
+    "forum_topic": false,
+    "quote": false,
+    "reply_to_msg_id": 1708,
+    "reply_to_peer_id": null,
+    "reply_from": null,
+    "reply_media": null,
+    "reply_to_top_id": null,
+    "quote_text": null,
+    "quote_entities": [],
+    "quote_offset": null,
+    "todo_item_id": null,
+    "poll_option": null
+  },
+  "media": null,
+  "reply_markup": null,
+  "entities": [],
+  "views": 1098,
+  "forwards": 19,
+  "replies": null,
+  "edit_date": "2026-04-19T21:27:11+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionPaid"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 22,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🐳"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🏆"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🍾"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💋"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🫡"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": [
+      {
+        "_": "MessageReactor",
+        "count": 1,
+        "top": true,
+        "my": false,
+        "anonymous": false,
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 1459363700
+        }
+      }
+    ]
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
 }

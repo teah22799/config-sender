@@ -1,8 +1,114 @@
 {
-  "channel": "shirvanico",
-  "message_id": 1706,
+  "_": "Message",
+  "id": 1706,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1634658293
+  },
   "date": "2026-04-18T18:37:17+00:00",
-  "text": "تصور کنید چهار ماهه اقتصاد نداریم\nنه که ضعیف شدیما، نه…\nکلا چیزی تحت عنوان اقتصاد نداریم!\n\nنه تنها کلی حقوق و هزینه ی دولتی همچنان پابرجاست بلکه دولت هم درامدی نداره\n\nدر کنارش یه سری زیرساخت هامون رو زدن و کلی هزینه بابت جنگ بار اومده\n\nحالا یه عده هم خوشحالن که ترامپ میاد و توافق میکنه و ۲۰ میلیارد دلار هم بهمون پول میده\nاونم ترامپی که بارها اوباما رو مسخره کرده بابت اینکه ۵ میلیارد دلار پول تو زمان روحانی به ایران داده\n\nحالا شما از من میخواید قبول کنم همه چیز گل و بلبل شده و قراره دلار و طلا بریزه!؟\nخیر \nنمیتونم قبول کنم و عقیده دارم این قضایا بو میده و یه کاسه ای زیر نیم کاسست و سناریو ها دوتا بیشتر نیست\nیا تسلیم کامل یا جنگ دوباره و چیزی تحت عنوان توافق توهم خواهد بود\n\nعه آقا پس اینکه میگفتید به شرایط امیدوارید و اوضاع خوب میشه چی بود؟\nاگه این سوال براتون پیش اومده یعنی نخوندید دقیقا چی گفتم و باید مجدد برید و بخونید [اینجا](https://t.me/shirvanico/1695)",
-  "link": "https://t.me/shirvanico/1706",
-  "media": []
+  "message": "تصور کنید چهار ماهه اقتصاد نداریم\nنه که ضعیف شدیما، نه…\nکلا چیزی تحت عنوان اقتصاد نداریم!\n\nنه تنها کلی حقوق و هزینه ی دولتی همچنان پابرجاست بلکه دولت هم درامدی نداره\n\nدر کنارش یه سری زیرساخت هامون رو زدن و کلی هزینه بابت جنگ بار اومده\n\nحالا یه عده هم خوشحالن که ترامپ میاد و توافق میکنه و ۲۰ میلیارد دلار هم بهمون پول میده\nاونم ترامپی که بارها اوباما رو مسخره کرده بابت اینکه ۵ میلیارد دلار پول تو زمان روحانی به ایران داده\n\nحالا شما از من میخواید قبول کنم همه چیز گل و بلبل شده و قراره دلار و طلا بریزه!؟\nخیر \nنمیتونم قبول کنم و عقیده دارم این قضایا بو میده و یه کاسه ای زیر نیم کاسست و سناریو ها دوتا بیشتر نیست\nیا تسلیم کامل یا جنگ دوباره و چیزی تحت عنوان توافق توهم خواهد بود\n\nعه آقا پس اینکه میگفتید به شرایط امیدوارید و اوضاع خوب میشه چی بود؟\nاگه این سوال براتون پیش اومده یعنی نخوندید دقیقا چی گفتم و باید مجدد برید و بخونید اینجا",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 832,
+      "length": 5,
+      "url": "https://t.me/shirvanico/1695"
+    }
+  ],
+  "views": 1446,
+  "forwards": 4,
+  "replies": null,
+  "edit_date": "2026-04-18T18:37:18+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👏"
+        },
+        "count": 26,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 9,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 4,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😁"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💋"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
 }

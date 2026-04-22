@@ -1,10 +1,152 @@
 {
-  "channel": null,
-  "message_id": 50865,
+  "_": "Message",
+  "id": 50865,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1346269822
+  },
   "date": "2026-04-21T09:44:13+00:00",
-  "text": "باهم بشنویم.",
-  "link": "https://t.me/None/50865",
-  "media": [
-    "posts/media/None/None_50865.mp3"
-  ]
+  "message": "باهم بشنویم.",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaDocument",
+    "nopremium": false,
+    "spoiler": false,
+    "video": false,
+    "round": false,
+    "voice": false,
+    "document": {
+      "_": "Document",
+      "id": 5395749503951218332,
+      "access_hash": 7187547352431147047,
+      "file_reference": "b'\\x02P>r~\\x00\\x00\\xc6\\xb1i\\xe9\\x1c\\xa0(\\xfeu\\x05\\x01G\\x15M\\xc7\\x0fM\\x98-\\xfc=T'",
+      "date": "2026-04-12T23:02:54+00:00",
+      "mime_type": "audio/mpeg",
+      "size": 7231149,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeAudio",
+          "duration": 301,
+          "voice": false,
+          "title": "Elnur Valeh - Qargis (Official Audio)",
+          "performer": "RahidRobot",
+          "waveform": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "1776034958008.mp3"
+        }
+      ],
+      "thumbs": [],
+      "video_thumbs": []
+    },
+    "alt_documents": [],
+    "video_cover": null,
+    "video_timestamp": null,
+    "ttl_seconds": null
+  },
+  "reply_markup": null,
+  "entities": [],
+  "views": 139723,
+  "forwards": 603,
+  "replies": null,
+  "edit_date": "2026-04-21T09:45:38+00:00",
+  "post_author": "Haji",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionPaid"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👎"
+        },
+        "count": 174,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 91,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 26,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💔"
+        },
+        "count": 13,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": [
+      {
+        "_": "MessageReactor",
+        "count": 2,
+        "top": true,
+        "my": false,
+        "anonymous": true,
+        "peer_id": null
+      }
+    ]
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
 }

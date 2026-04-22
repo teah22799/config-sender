@@ -1,10 +1,409 @@
 {
-  "channel": "shirvanico",
-  "message_id": 1698,
+  "_": "Message",
+  "id": 1698,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1634658293
+  },
   "date": "2026-04-14T11:17:17+00:00",
-  "text": "",
-  "link": "https://t.me/shirvanico/1698",
-  "media": [
-    "posts/media/shirvanico/shirvanico_1698.mp4"
-  ]
+  "message": "",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaDocument",
+    "nopremium": false,
+    "spoiler": false,
+    "video": true,
+    "round": false,
+    "voice": false,
+    "document": {
+      "_": "Document",
+      "id": 5976588223793603241,
+      "access_hash": 6638750048932641612,
+      "file_reference": "b'\\x02an\\xe7\\xf5\\x00\\x00\\x06\\xa2i\\xe9\\x1c1[\\x7f\\x9c\\x10\\x82BZ\\x16\\xabQ\\xa8\\x96\\x9f\\x1fo$'",
+      "date": "2026-04-14T11:17:14+00:00",
+      "mime_type": "video/mp4",
+      "size": 2424033,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeVideo",
+          "duration": 28.189,
+          "w": 936,
+          "h": 720,
+          "round_message": false,
+          "supports_streaming": true,
+          "nosound": false,
+          "preload_prefix_size": null,
+          "video_start_ts": null,
+          "video_codec": "h264"
+        }
+      ],
+      "thumbs": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01\\x1f(\\xbeiQw\\x1ez\\n\\x15w\\x1aIe\\x11\\x9cp\\x07\\xa9\\xa9(\\x94\\x1c0U\\x1cw\\xa78\\x0c\\xa4\\x1a\\xce[\\xd5\\x12\\x10\\x1f*;\\xd3\\xda\\xf9\\x14d\\x1c\\x9fJAb;\\x91\\xfb\\x87\\x1dx\\xa2\\x96S\\xbe\\x07$c \\xf0h\\xa6\\x05\\xf0p\\xb8\\x15R\\xf8\\r\\x99\\xc5N\\x1f\\xa0\\xa4\\x94\\x06^i\\x01\\x88\\xe0g\\x81O\\x96#\\x0c(\\xe0\\xe5\\x98\\xf5\\x1d\\xaaYb\\ns\\xda\\x9d\\x1d\\xa8\\x99N\\xe3\\x85\\xcfAB\\x02X\\x98\\xbd\\xa8-\\xd7\\x14T\\xa4mB\\xa3\\xb0\\xe2\\x8a`\\x7f'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 246,
+          "size": 7739
+        }
+      ],
+      "video_thumbs": []
+    },
+    "alt_documents": [
+      {
+        "_": "Document",
+        "id": 5976294903297088476,
+        "access_hash": -2829964267684718215,
+        "file_reference": "b'\\x02an\\xe7\\xf5\\x00\\x00\\x06\\xa2i\\xe9\\x1c1W\\x88\\x10\\xfd\\x04\\x9bs>\\xee14s\\x1f\\x95\\xf9s'",
+        "date": "2026-04-14T11:17:17+00:00",
+        "mime_type": "video/mp4",
+        "size": 2095960,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 28.167,
+            "w": 936,
+            "h": 720,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": "av01"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": "b'\\x01\\x1f(\\xbeiQw\\x1ez\\n\\x15w\\x1aIe\\x11\\x9cp\\x07\\xa9\\xa9(\\x94\\x1c0U\\x1cw\\xa78\\x0c\\xa4\\x1a\\xce[\\xd5\\x12\\x10\\x1f*;\\xd3\\xda\\xf9\\x14d\\x1c\\x9fJAb;\\x91\\xfb\\x87\\x1dx\\xa2\\x96S\\xe6@\\xe4\\x8cd\\x1e\\r\\x14\\xc0\\xbe\\x0e\\x17\\x02\\xaa_\\x01\\xb38\\xa9\\xc3\\xf4\\x14\\x92\\x80\\xcb\\xcd 1\\x1c\\x0c\\xf0)\\xf2\\xc4a\\x85\\x1c\\x1c\\xb3\\x1e\\xa3\\xb5K,AN{S\\xa3\\xb5\\x13)\\xdcp\\xb9\\xe8(@K\\x13\\x17\\xb5\\x05\\xba\\xe2\\x8a\\x94\\x8d\\xa8Tv\\x1cQL\\x0f'"
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 320,
+            "h": 246,
+            "size": 7756
+          }
+        ],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5976586368367730466,
+        "access_hash": 5501148727887070653,
+        "file_reference": "b'\\x02an\\xe7\\xf5\\x00\\x00\\x06\\xa2i\\xe9\\x1c1\\x07\\xb1&\\xa8E\\x8d\\x19\\xf5\\x94\\xe449\\x19f\\x97\\xd4'",
+        "date": "2026-04-14T11:17:17+00:00",
+        "mime_type": "application/x-mpegurl",
+        "size": 602,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "mtproto:5976294903297088476"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5976475721420250350,
+        "access_hash": -7143146477292284731,
+        "file_reference": "b'\\x02an\\xe7\\xf5\\x00\\x00\\x06\\xa2i\\xe9\\x1c1\\xab\\x88F\\x99\\x07\\x07\\xcc\\xeb\\xb9\\xa5\\xd0\\xb3\\xd6\\xa9Z\\x1b'",
+        "date": "2026-04-14T11:17:17+00:00",
+        "mime_type": "video/mp4",
+        "size": 2901046,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 28.167,
+            "w": 936,
+            "h": 720,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": "h264"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": "b'\\x01\\x1f(\\xbeiQw\\x1ezP\\xab\\xb8\\xfbRK(\\x8c\\xe3\\x80=MID\\xa0\\xe1\\x82\\xa8\\xe3\\xbd9\\xc0e \\xd6r\\xde\\xa8\\x90\\x80\\xf9Q\\xde\\x9e\\xd7\\xc8\\xa3 \\xe4\\xfaR\\x0b\\x11\\xdc\\x8f\\xdc8\\xeb\\xc5\\x14\\xb2\\x9f2\\x07$c \\x9c\\x1a)\\x81|\\x10\\x17\\x02\\xaa^\\x81\\xb38\\xa9\\xc3\\xf4\\x14\\x92\\x80\\xeasH\\x0cG\\x03<\\n|\\xb1\\x18aG\\x07,\\xc7\\xa8\\xedR\\xcb\\x10\\x07=\\xa9\\xd1\\xda\\x89\\x94\\x968\\\\\\xf4\\x14 %\\x89\\x8b\\xda\\x82\\xddqEJF\\xd4*;\\x0e(\\xa6\\x07'"
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 320,
+            "h": 246,
+            "size": 7716
+          }
+        ],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5976516545084399040,
+        "access_hash": -6829128869044358722,
+        "file_reference": "b'\\x02an\\xe7\\xf5\\x00\\x00\\x06\\xa2i\\xe9\\x1c1\\x1d\\x07\\xba\\x12\\xa6[\\x15\\xe3\\x0eCWd8\\x85a\\x87'",
+        "date": "2026-04-14T11:17:17+00:00",
+        "mime_type": "application/x-mpegurl",
+        "size": 603,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "mtproto:5976475721420250350"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5979067901687113722,
+        "access_hash": 1406111757123620866,
+        "file_reference": "b'\\x02an\\xe7\\xf5\\x00\\x00\\x06\\xa2i\\xe9\\x1c1\\xcfN\\xc8I;jN\\xca\\x8e\\xb6\\x00\\xb0`\\xb2\\x9fi'",
+        "date": "2026-04-14T11:17:17+00:00",
+        "mime_type": "video/mp4",
+        "size": 1053930,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 28.167,
+            "w": 624,
+            "h": 480,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": "av01"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": "b'\\x01\\x1f(\\xbeiQw\\x1ez\\n\\x15w\\x1aIe\\x11\\x9cp\\x07\\xa9\\xa9(\\x94\\x1c0U\\x1cw\\xa78\\x0c\\xa4\\x1a\\xce[\\xd5\\x12\\x10\\x1f*;\\xd3\\xda\\xf9\\x14d\\x1c\\x9fJAb;\\x91\\xfb\\x87\\x1dx\\xa2\\x96S\\xe6@\\xe4\\x8cd\\x1e\\r\\x14\\xc0\\xbe\\x0e\\x17\\x02\\xaa_\\x01\\xb38\\xa9\\xc3\\xf4\\x14\\x92\\x80\\xcb\\xcd 1\\x1c\\x0c\\xf0)\\xf2\\xc4a\\x85\\x1c\\x1c\\xb3\\x1e\\xa3\\xb5K,AN{S\\xa3\\xb5\\x13)\\xdcp\\xb9\\xe8(@K\\x13\\x17\\xb5\\x05\\xba\\xe2\\x8a\\x94\\x8d\\xa8Tv\\x1cQL\\x0f'"
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 320,
+            "h": 246,
+            "size": 7756
+          }
+        ],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5976816892147408312,
+        "access_hash": 7261534506119895090,
+        "file_reference": "b'\\x02an\\xe7\\xf5\\x00\\x00\\x06\\xa2i\\xe9\\x1c1\\xdc\\xef\\xfb\\x0b)\\xf1\\x9d\\xd4_\\x8b!?\\x02RR\\xbc'",
+        "date": "2026-04-14T11:17:17+00:00",
+        "mime_type": "application/x-mpegurl",
+        "size": 599,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "mtproto:5979067901687113722"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5976771374084005052,
+        "access_hash": 6248581023150670542,
+        "file_reference": "b'\\x02an\\xe7\\xf5\\x00\\x00\\x06\\xa2i\\xe9\\x1c1\\xa9\\xb7\\tU)d|\\x1f>-\\xfa\\xe9\\x842\\xf2y'",
+        "date": "2026-04-14T11:17:17+00:00",
+        "mime_type": "video/mp4",
+        "size": 1399550,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 28.167,
+            "w": 624,
+            "h": 480,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": "h264"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": "b\"\\x01\\x1f(\\xbeiQw\\x1ezP\\xab\\xb8\\xd2K(\\x8c\\xe3\\x80=MID\\xb9\\xc3\\x05Q\\xc7zW\\x01\\x94\\x83Y\\xebz\\xa2B\\x03\\xe4\\x0e\\xf4\\xf6\\xbeE\\x19\\x07'\\xd2\\x90X\\x8e\\xe4~\\xe1\\xc7^(\\xa5\\x94\\xf9\\x90\\xb9#\\x19\\x07\\x83E0/\\x83\\x85\\xc0\\xaa\\x97\\xa0l\\xce*p\\xfd\\x05$\\xa0:\\xf3H\\x0cG\\x03<\\n|\\xb1\\x18aG\\x07,\\xc7\\xa8\\xedR\\xcb\\x10\\x07=\\xa9c\\xb6\\x13),p\\xb9\\xedB\\x02hX\\xbd\\xa8-\\xd7\\x14T\\xa4mB\\xa3\\xb0\\xe2\\x8a`\\x7f\""
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 320,
+            "h": 246,
+            "size": 7700
+          }
+        ],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5976539699253091220,
+        "access_hash": -333503834551542986,
+        "file_reference": "b'\\x02an\\xe7\\xf5\\x00\\x00\\x06\\xa2i\\xe9\\x1c1_\\xf8\\xb6\\xca\\xe8\\xd35\\xcd\\xd2I;\\xfaN\\xf9\\xcc9'",
+        "date": "2026-04-14T11:17:17+00:00",
+        "mime_type": "application/x-mpegurl",
+        "size": 601,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "mtproto:5976771374084005052"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5978960600519154607,
+        "access_hash": 1051713738223433019,
+        "file_reference": "b'\\x02an\\xe7\\xf5\\x00\\x00\\x06\\xa2i\\xe9\\x1c1\\x1b\\x83\\x83\\x0b\\xe4mv\\x043j\\xa6\\xa7\\\\\\xe6\\x9eI'",
+        "date": "2026-04-14T11:17:17+00:00",
+        "mime_type": "application/x-tgstoryboard",
+        "size": 22369,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": ".sb.jpg"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5976658283300135228,
+        "access_hash": -7594260940003425777,
+        "file_reference": "b'\\x02an\\xe7\\xf5\\x00\\x00\\x06\\xa2i\\xe9\\x1c1c\\xb6\\x03`@\\xa29E\\xe0\\xa2y\\xd3\\xd1\\x1e\\xa5\\x92'",
+        "date": "2026-04-14T11:17:17+00:00",
+        "mime_type": "application/x-tgstoryboardmap",
+        "size": 196,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 144,
+            "h": 112
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "mtproto:5978960600519154607"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      }
+    ],
+    "video_cover": null,
+    "video_timestamp": null,
+    "ttl_seconds": null
+  },
+  "reply_markup": null,
+  "entities": [],
+  "views": 2062,
+  "forwards": 6,
+  "replies": null,
+  "edit_date": "2026-04-14T11:17:22+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😁"
+        },
+        "count": 16,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💋"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🗿"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
 }

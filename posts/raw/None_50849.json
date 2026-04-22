@@ -1,8 +1,104 @@
 {
-  "channel": null,
-  "message_id": 50849,
+  "_": "Message",
+  "id": 50849,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1346269822
+  },
   "date": "2026-04-17T14:58:17+00:00",
-  "text": "**ترامپ:\n**ایران توافق کرده که دیگه تنگه هرمز رو نبنده و به عنوان سلاحی علیه جهان استفاده نخواهد شد! رئیس‌جمهور دونالد ترامپ.",
-  "link": "https://t.me/None/50849",
-  "media": []
+  "message": "ترامپ:\nایران توافق کرده که دیگه تنگه هرمز رو نبنده و به عنوان سلاحی علیه جهان استفاده نخواهد شد! رئیس‌جمهور دونالد ترامپ.",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 7
+    }
+  ],
+  "views": 275352,
+  "forwards": 128,
+  "replies": null,
+  "edit_date": "2026-04-18T05:44:03+00:00",
+  "post_author": "Haji",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👎"
+        },
+        "count": 931,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 198,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 117,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💔"
+        },
+        "count": 40,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
 }

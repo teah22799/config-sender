@@ -1,8 +1,106 @@
 {
-  "channel": "CongNet_vpn",
-  "message_id": 1493,
+  "_": "Message",
+  "id": 1493,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3141068018
+  },
   "date": "2026-04-22T07:26:14+00:00",
-  "text": "https://github.com/averygan/reclip",
-  "link": "https://t.me/CongNet_vpn/1493",
-  "media": []
+  "message": "https://github.com/averygan/reclip",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaWebPage",
+    "webpage": {
+      "_": "WebPage",
+      "id": 7364193030050143430,
+      "url": "https://github.com/averygan/reclip",
+      "display_url": "github.com/averygan/reclip",
+      "hash": 0,
+      "has_large_media": false,
+      "video_cover_photo": false,
+      "type": "article",
+      "site_name": "GitHub",
+      "title": "GitHub - averygan/reclip: Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI. - averygan/reclip",
+      "photo": null,
+      "embed_url": null,
+      "embed_type": null,
+      "embed_width": null,
+      "embed_height": null,
+      "duration": null,
+      "author": null,
+      "document": null,
+      "cached_page": null,
+      "attributes": []
+    },
+    "force_large_media": false,
+    "force_small_media": false,
+    "manual": true,
+    "safe": true
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityUrl",
+      "offset": 0,
+      "length": 34
+    }
+  ],
+  "views": 52,
+  "forwards": 1,
+  "replies": null,
+  "edit_date": "2026-04-22T13:15:30+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
 }

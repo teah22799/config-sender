@@ -1,8 +1,129 @@
 {
-  "channel": null,
-  "message_id": 50868,
+  "_": "Message",
+  "id": 50868,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1346269822
+  },
   "date": "2026-04-21T20:20:36+00:00",
-  "text": "🇺🇸 پست جدید ترامپ:\nبا توجه به اینکه حکومت ایران به‌طور جدی دچار اختلاف و چنددستگی شده ــ که البته چیز عجیبی هم نیست ــ و به درخواست فرمانده ارتش پاکستان، عاصم منیر و نخست‌وزیر این کشور، شهباز شریف، از ما خواسته شده که فعلاً حمله به ایران رو متوقف کنیم تا زمانی که مسئولان و نماینده‌هایشان بتوانند روی یک پیشنهاد مشترک به توافق برسن.\nبه همین خاطر، به نیروهای نظامی‌مون دستور دادم که محاصره را ادامه بدن و از هر نظر تو حالت آماده‌باش کامل باقی بمونن. \nهمچنین آتش‌بس رو هم تمدید می‌کنیم تا وقتی که اونا پیشنهادشون رو ارائه بدن و گفت‌وگوها به یه نتیجه مشخص برسه؛ چه به توافق ختم بشه، چه نشه.",
-  "link": "https://t.me/None/50868",
-  "media": []
+  "message": "🇺🇸 پست جدید ترامپ:\nبا توجه به اینکه حکومت ایران به‌طور جدی دچار اختلاف و چنددستگی شده ــ که البته چیز عجیبی هم نیست ــ و به درخواست فرمانده ارتش پاکستان، عاصم منیر و نخست‌وزیر این کشور، شهباز شریف، از ما خواسته شده که فعلاً حمله به ایران رو متوقف کنیم تا زمانی که مسئولان و نماینده‌هایشان بتوانند روی یک پیشنهاد مشترک به توافق برسن.\nبه همین خاطر، به نیروهای نظامی‌مون دستور دادم که محاصره را ادامه بدن و از هر نظر تو حالت آماده‌باش کامل باقی بمونن. \nهمچنین آتش‌بس رو هم تمدید می‌کنیم تا وقتی که اونا پیشنهادشون رو ارائه بدن و گفت‌وگوها به یه نتیجه مشخص برسه؛ چه به توافق ختم بشه، چه نشه.",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [],
+  "views": 120929,
+  "forwards": 379,
+  "replies": null,
+  "edit_date": "2026-04-21T20:21:52+00:00",
+  "post_author": "Haji",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionPaid"
+        },
+        "count": 9,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👎"
+        },
+        "count": 1035,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 177,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💔"
+        },
+        "count": 64,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 60,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": [
+      {
+        "_": "MessageReactor",
+        "count": 5,
+        "top": true,
+        "my": false,
+        "anonymous": false,
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 1605221921
+        }
+      },
+      {
+        "_": "MessageReactor",
+        "count": 4,
+        "top": true,
+        "my": false,
+        "anonymous": false,
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 5492671207
+        }
+      }
+    ]
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
 }
