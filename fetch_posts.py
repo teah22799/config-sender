@@ -172,7 +172,7 @@ def create_index_page(channels_info, content, navbar):
 # حذف فایل‌های قدیمی
 # ---------------------------------------------------------
 def cleanup_old_files():
-    cutoff = datetime.datetime.utcnow() - datetime.timedelta(days=DAYS_LIMIT)
+    cutoff = datetime.datetime.now(tz=datetime.timezone.utc) - datetime.timedelta(days=DAYS_LIMIT)
     cutoff_ts = cutoff.timestamp()
 
     for folder in [RAW_DIR, HTML_DIR, POST_PAGES_DIR]:
