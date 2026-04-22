@@ -1,266 +1,193 @@
 import os
 import json
-import datetime
 import asyncio
+import datetime
 from telethon import TelegramClient
 from telethon.sessions import StringSession
-from telethon.tl.functions.messages import GetHistoryRequest
-from telethon.tl.functions.photos import GetUserPhotosRequest
 
-API_ID = int(os.getenv("API_ID"))
-API_HASH = os.getenv("API_HASH")
-SESSION = os.getenv("SESSION_STRING")
-
+DAYS_LIMIT = 10
 BASE_DIR = "posts"
-RAW_DIR = "posts/raw"
-HTML_DIR = "posts/html"
-POST_PAGES_DIR = "posts/post_pages"
-MEDIA_DIR = "posts/media"
+RAW_DIR = f"{BASE_DIR}/raw"
+HTML_DIR = f"{BASE_DIR}/html"
+MEDIA_DIR = f"{BASE_DIR}/media"
+POST_PAGES_DIR = f"{BASE_DIR}/post_pages"
 
-GITHUB_USER = "teah22799"
-GITHUB_REPO = "config-sender"
-GITHUB_BRANCH = "main"
+for d in [BASE_DIR, RAW_DIR, HTML_DIR, MEDIA_DIR, POST_PAGES_DIR]:
+    os.makedirs(d, exist_ok=True)
 
-os.makedirs(RAW_DIR, exist_ok=True)
-os.makedirs(HTML_DIR, exist_ok=True)
-os.makedirs(POST_PAGES_DIR, exist_ok=True)
-os.makedirs(MEDIA_DIR, exist_ok=True)
+# ============================================
+# JSON SAFE SERIALIZER (حل کامل مشکل datetime)
+# ============================================
+def safe_json(obj):
+    if isinstance(obj, (datetime.datetime, datetime.date)):
+        return obj.isoformat()
+    return str(obj)
 
+# ============================================
+# HTML / CSS TEMPLATE
+# ============================================
+CSS_STYLE = """<style>
+body { background:#f2f3f5; font-family:sans-serif; margin:0; padding:0;}
+.navbar { background:#fff; border-bottom:1px solid #ddd; padding:10px; display:flex; gap:12px; overflow-x:auto;}
+.nav_item { display:flex; align-items:center; gap:6px; padding:8px 12px; background:#f8f9fa; border-radius:18px; text-decoration:none; border:1px solid #e2e2e2;}
+.nav_item img { width:28px;height:28px;border-radius:50%; }
+.card { background:#fff; margin:15px auto; width:92%; max-width:600px; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08);}
+.card img { width:100%; border-radius:12px 12px 0 0; }
+.card_text { padding:15px; white-space:pre-wrap; }
+.download_btn { padding:8px 14px; background:#0099ff; color:#fff; text-decoration:none; border-radius:6px; margin:8px; display:inline-block;}
+.source_link { margin:10px; display:block;}
+.section_title { font-size:22px; font-weight:bold; padding:20px;}
+</style>
+"""
 
-def safe_json(o):
-    if isinstance(o, datetime.datetime):
-        return o.isoformat()
-    return str(o)
+def build_navbar(channels_info):
+    html = '<div class="navbar">'
+    for ch in channels_info:
+        logo = ch["profile_pic"] if ch["profile_pic"] else ""
+        html += f'''
+        <a class="nav_item" href="{ch["html_path"]}">
+            <img src="{logo}">
+            <span>{ch["title"]}</span>
+        </a>
+        '''
+    html += "</div>"
+    return html
 
+def create_post_page(post_id, username, text, media_files):
+    path = f"{POST_PAGES_DIR}/{username}_{post_id}.html"
+    html = "<html><head>"+CSS_STYLE+"</head><body>"
+    html += f'<div class="section_title">Post from @{username}</div>'
+    html += '<div class="card">'
+    for mf in media_files:
+        html += f'<img src="../media/{username}/{mf}">'
+    html += f'<div class="card_text">{text}</div>'
+    for mf in media_files:
+        html += f'<a class="download_btn" download href="../media/{username}/{mf}">Download {mf}</a>'
+    html += "</div></body></html>"
+    with open(path,"w",encoding="utf8") as f: f.write(html)
+    return path
 
-def github_media_url(channel, filename):
-    return f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/{GITHUB_BRANCH}/posts/media/{channel}/{filename}"
+def create_channel_page(info, posts_html, navbar):
+    path = f"{HTML_DIR}/{info['username']}.html"
+    html = "<html><head>"+CSS_STYLE+"</head><body>"
+    html += navbar
+    html += f'<div class="section_title">@{info["username"]}</div>'
+    html += posts_html
+    html += "</body></html>"
+    with open(path,"w",encoding="utf8") as f: f.write(html)
 
+def create_index_page(channels_info, posts_html, navbar):
+    html = "<html><head>"+CSS_STYLE+"</head><body>"
+    html += navbar
+    html += '<div class="section_title">All Recent Posts</div>'
+    html += posts_html
+    html += "</body></html>"
+    with open(f"{BASE_DIR}/index.html","w",encoding="utf8") as f: f.write(html)
 
-async def download_channel_profile_photo(client, channel, save_path):
-    try:
-        photos = await client(GetUserPhotosRequest(
-            user_id=channel,
-            offset=0,
-            max_id=0,
-            limit=1
-        ))
-        if photos.photos:
-            await client.download_media(photos.photos[0], save_path)
-            return True
-    except:
-        pass
-    return False
+def cleanup_old_files():
+    cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=DAYS_LIMIT)
+    cutoff_ts = cutoff.timestamp()
+    for folder in [RAW_DIR, POST_PAGES_DIR, HTML_DIR]:
+        for filename in os.listdir(folder):
+            path = os.path.join(folder, filename)
+            if os.path.getmtime(path) < cutoff_ts:
+                os.remove(path)
 
+# ============================================
+# MAIN TELEGRAM LOGIC
+# ============================================
+async def main():
+    api_id = int(os.environ["API_ID"])
+    api_hash = os.environ["API_HASH"]
+    session = os.environ["SESSION_STRING"]
 
-async def fetch_channel_posts(client, channel_username):
-    channel = await client.get_entity(channel_username)
-    channel_name = channel.username or channel.title or channel_username
-    print(f"Fetching posts from {channel_name}")
+    client = TelegramClient(StringSession(session), api_id, api_hash)
+    await client.start()
 
-    channel_dir = os.path.join(MEDIA_DIR, channel_name)
-    os.makedirs(channel_dir, exist_ok=True)
+    with open("channels.txt") as f:
+        channels = [l.strip() for l in f if l.strip()]
 
-    profile_photo_path = os.path.join(channel_dir, "profile.jpg")
-    await download_channel_profile_photo(client, channel, profile_photo_path)
+    channels_info = []
+    all_posts_html = ""
 
-    now = datetime.datetime.now(tz=datetime.timezone.utc)
-    limit_date = now - datetime.timedelta(days=10)
+    cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=DAYS_LIMIT)
 
-    all_posts = []
-    offset = 0
+    for link in channels:
+        entity = await client.get_entity(link)
+        username = entity.username
+        title = entity.title
 
-    while True:
-        history = await client(GetHistoryRequest(
-            peer=channel,
-            offset_id=offset,
-            offset_date=None,
-            add_offset=0,
-            limit=100,
-            max_id=0,
-            min_id=0,
-            hash=0
-        ))
+        media_dir = f"{MEDIA_DIR}/{username}"
+        os.makedirs(media_dir, exist_ok=True)
 
-        if not history.messages:
-            break
+        # پروفایل کانال
+        profile_pic = f"{media_dir}/profile.jpg"
+        try:
+            await client.download_profile_photo(entity, file=profile_pic)
+        except:
+            profile_pic = ""
 
-        for msg in history.messages:
-            if not msg.date:
+        ch_info = {
+            "username": username,
+            "title": title,
+            "profile_pic": f"media/{username}/profile.jpg" if profile_pic else "",
+            "html_path": f"html/{username}.html"
+        }
+        channels_info.append(ch_info)
+
+        posts_html = ""
+
+        async for msg in client.iter_messages(entity, limit=100):
+            if not hasattr(msg, "date") or msg.date is None:
                 continue
 
-            msg_date = msg.date.replace(tzinfo=datetime.timezone.utc)
-            if msg_date < limit_date:
+            msg_date = msg.date
+            if msg_date.tzinfo is None:
+                msg_date = msg_date.replace(tzinfo=datetime.timezone.utc)
+
+            if msg_date < cutoff:
                 continue
 
-            post_id = msg.id
-            post_text = msg.message or ""
+            text = msg.message or ""
             media_files = []
 
+            # --------------------------
+            # RAW JSON (حل کامل datetime)
+            # --------------------------
+            raw_path = f"{RAW_DIR}/{username}_{msg.id}.json"
+            with open(raw_path, "w", encoding="utf8") as f:
+                json.dump(msg.to_dict(), f, ensure_ascii=False, indent=2, default=safe_json)
+
+            # دانلود مدیا
             if msg.media:
                 try:
-                    file_name = f"{post_id}.jpg"
-                    save_path = os.path.join(channel_dir, file_name)
-                    await client.download_media(msg, save_path)
-                    media_files.append(file_name)
+                    res = await client.download_media(msg, file=f"{media_dir}/")
+                    if res:
+                        media_files.append(os.path.basename(res))
                 except:
                     pass
 
-            all_posts.append({
-                "post_id": post_id,
-                "text": post_text,
-                "date": msg_date.isoformat(),
-                "media": media_files,
-                "channel": channel_name
-            })
+            post_page = create_post_page(msg.id, username, text, media_files)
 
-        offset = history.messages[-1].id
+            # کارت HTML
+            card = '<div class="card">'
+            for mf in media_files:
+                card += f'<img src="../media/{username}/{mf}">'
+            card += f'<div class="card_text">{text}</div>'
+            card += f'<a class="source_link" target="_blank" href="https://t.me/{username}/{msg.id}">Open on Telegram</a>'
+            card += f'<a class="source_link" href="../{post_page}">Open Single Page</a>'
+            card += "</div>"
 
-    raw_path = os.path.join(RAW_DIR, f"{channel_name}.json")
-    with open(raw_path, "w", encoding="utf-8") as f:
-        json.dump(all_posts, f, ensure_ascii=False, indent=2, default=safe_json)
+            posts_html += card
+            all_posts_html += card
 
-    return all_posts, profile_photo_path
+        navbar = build_navbar(channels_info)
+        create_channel_page(ch_info, posts_html, navbar)
 
+    navbar = build_navbar(channels_info)
+    create_index_page(channels_info, all_posts_html, navbar)
 
-def generate_post_page(post, channel_name):
-    file_name = f"{post['post_id']}.html"
-    path = os.path.join(POST_PAGES_DIR, file_name)
+    cleanup_old_files()
+    print("DONE ✓")
 
-    safe_text = post["text"].replace("\n", "<br>")
-
-    media_html = ""
-    for m in post["media"]:
-        url = github_media_url(channel_name, m)
-        media_html += (
-            f"<div><img src='{url}' style='max-width:500px;'><br>"
-            f"<a href='{url}' target='_blank'>Download File</a></div><br>"
-        )
-
-    html = f"""
-<html><head><meta charset='utf-8'><title>{channel_name} - {post['post_id']}</title></head>
-<body>
-<h2>{channel_name}</h2>
-<p><b>Date:</b> {post['date']}</p>
-<p>{safe_text}</p>
-{media_html}
-<a href='../html/{channel_name}.html'>Back to channel</a>
-</body></html>
-"""
-
-    with open(path, "w", encoding="utf-8") as f:
-        f.write(html)
-
-    return file_name
-
-
-def generate_channel_html(channel_name, profile_path, posts):
-    out_path = os.path.join(HTML_DIR, f"{channel_name}.html")
-
-    if os.path.exists(profile_path):
-        profile_url = github_media_url(channel_name, "profile.jpg")
-    else:
-        profile_url = ""
-
-    post_cards = ""
-
-    for post in posts:
-        safe_text = post["text"].replace("\n", "<br>")
-
-        media_html = ""
-        for m in post["media"]:
-            url = github_media_url(channel_name, m)
-            media_html += (
-                f"<div><img src='{url}' style='max-width:150px;'><br>"
-                f"<a href='{url}' target='_blank'>Download</a></div>"
-            )
-
-        post_page = f"{post['post_id']}.html"
-
-        card = (
-            "<div style='border:1px solid #ccc;padding:10px;margin:10px;border-radius:8px;'>"
-            f"<h3>Post {post['post_id']}</h3>"
-            f"<p><b>Date:</b> {post['date']}</p>"
-            f"<p>{safe_text}</p>"
-            f"{media_html}"
-            f"<br><a href='../post_pages/{post_page}' target='_blank'>Open Full Page</a>"
-            "</div>"
-        )
-
-        post_cards += card
-
-    html = (
-        "<html><head><meta charset='utf-8'><title>" + channel_name + "</title></head><body>"
-        "<div style='display:flex;align-items:center;gap:15px;margin:20px;'>"
-        f"<img src='{profile_url}' style='width:60px;height:60px;border-radius:50%;'>"
-        f"<h2>{channel_name}</h2>"
-        "</div>"
-        f"{post_cards}"
-        "<a href='../index.html'>Back to Home</a>"
-        "</body></html>"
-    )
-
-    with open(out_path, "w", encoding="utf-8") as f:
-        f.write(html)
-
-
-def generate_index(all_channels_posts):
-    out_path = "posts/index.html"
-
-    channel_links = ""
-    all_posts_html = ""
-
-    for channel_name, posts in all_channels_posts.items():
-        channel_links += f"<li><a href='html/{channel_name}.html'>{channel_name}</a></li>"
-
-        for post in posts:
-            preview = post["text"][:200].replace("\n", "<br>")
-            all_posts_html += (
-                "<div style='border:1px solid #aaa;margin:10px;padding:10px;border-radius:8px;'>"
-                f"<h3>{channel_name} — Post {post['post_id']}</h3>"
-                f"<p><b>Date:</b> {post['date']}</p>"
-                f"<p>{preview}...</p>"
-                f"<a href='post_pages/{post['post_id']}.html'>Open Post</a>"
-                "</div>"
-            )
-
-    html = (
-        "<html><head><meta charset='utf-8'><title>Telegram Archive</title></head><body>"
-        "<h1>Telegram Channels Archive</h1>"
-        "<h2>Channels</h2><ul>"
-        f"{channel_links}"
-        "</ul>"
-        "<h2>All Posts</h2>"
-        f"{all_posts_html}"
-        "</body></html>"
-    )
-
-    with open(out_path, "w", encoding="utf-8") as f:
-        f.write(html)
-
-
-async def main():
-    client = TelegramClient(StringSession(SESSION), API_ID, API_HASH)
-    await client.start()
-
-    with open("channels.txt", "r", encoding="utf-8") as f:
-        channels = [c.strip() for c in f.readlines() if c.strip()]
-
-    all_channels_posts = {}
-
-    for c in channels:
-        posts, profile_photo = await fetch_channel_posts(client, c)
-
-        for p in posts:
-            generate_post_page(p, p["channel"])
-
-        generate_channel_html(posts[0]["channel"], profile_photo, posts)
-
-        all_channels_posts[posts[0]["channel"]] = posts
-
-    generate_index(all_channels_posts)
-    print("Completed.")
-
-
-if __name__ == "__main__":
-    asyncio.run(main())
+asyncio.run(main())
