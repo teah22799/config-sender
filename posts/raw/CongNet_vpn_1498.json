@@ -3,5 +3,8 @@
   "message_id": 1498,
   "date": "2026-04-22T09:22:51+00:00",
   "text": "🚀 نسخه اختصاصی ویندوز MasterHttpRelayVPN منتشر شد! \n\nیک ابزار قدرتمند و کاملاً مستقل (Standalone) برای دور زدن فیلترینگ که ترافیک شما را از طریق زیرساخت‌های قدرتمند گوگل (Google Apps Script) و با روش Domain Fronting تونل می‌کند.\n\n✅ ویژگی‌های این نسخه:\nبدون نیاز به سرور (VPS): فقط با یک اسکریپت رایگان گوگل کار می‌کند!\nتنظیم خودکار: پروکسی کل ویندوز را به صورت اتوماتیک تغییر می‌دهد.\n\nراهنما داخل فایل زیپ هست - لطفا مطالعه فرمایید \n\nلینک دانلود داخلی : \nhttps://dl.toolschi.com/up/fb6a5977aa14898e.zip\n\nاین پروژه بر گرفته از زحمات عزیزانی هست که صفحه گیت هابشون در پایین گذاشته شده - \nلطفا ازشون حمایت کنید \nhttps://github.com/patterniha/MITM-DomainFronting\n\nhttps://github.com/masterking32/MasterHttpRelayVPN\n\nتیم WhiteDns\n\n@whitedns",
-  "link": "https://t.me/CongNet_vpn/1498"
+  "link": "https://t.me/CongNet_vpn/1498",
+  "media": [
+    "posts/media/CongNet_vpn/CongNet_vpn_1498.zip"
+  ]
 }
