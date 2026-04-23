@@ -1,0 +1,74 @@
+{
+  "_": "Message",
+  "id": 193065,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2080689208
+  },
+  "date": "2026-04-23T13:20:35+00:00",
+  "message": "vless://cbb2d3b3-9164-46cc-84f9-82722fbf1353@172.67.220.204:443?allowInsecure=1&encryption=none&host=0n0w5jre3ro-p4vmk-dilf-3hcr9u9fc.talumy147.workers.dev&path=%2FeyJqdW5rIjoiVXhYd0VacUYxaUEzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&security=tls&sni=0n0W5JrE3RO-P4VmK-DILF-3HCr9U9fC.taLUmY147.WOrKErS.deV&type=ws#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬\n\nCᴏᴜɴᴛʀʏ: #Singapore(🇸🇬)\nPɪɴɢ: 11ms 🟢\n\nJᴏɪɴ »» @Farah_VPN - @Farah_Proxy",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCode",
+      "offset": 0,
+      "length": 379
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 390,
+      "length": 10
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 430,
+      "length": 10
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 443,
+      "length": 12
+    }
+  ],
+  "views": 20,
+  "forwards": 0,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

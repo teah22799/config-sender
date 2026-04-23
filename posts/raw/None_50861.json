@@ -33,7 +33,7 @@
   "media": null,
   "reply_markup": null,
   "entities": [],
-  "views": 173171,
+  "views": 176489,
   "forwards": 298,
   "replies": null,
   "edit_date": "2026-04-20T21:15:49+00:00",
@@ -56,7 +56,7 @@
           "_": "ReactionEmoji",
           "emoticon": "👎"
         },
-        "count": 3549,
+        "count": 3554,
         "chosen_order": null
       },
       {
@@ -65,7 +65,7 @@
           "_": "ReactionEmoji",
           "emoticon": "❤"
         },
-        "count": 167,
+        "count": 168,
         "chosen_order": null
       },
       {
@@ -74,7 +74,7 @@
           "_": "ReactionEmoji",
           "emoticon": "👍"
         },
-        "count": 140,
+        "count": 141,
         "chosen_order": null
       },
       {
