@@ -33,8 +33,8 @@
   "media": null,
   "reply_markup": null,
   "entities": [],
-  "views": 126201,
-  "forwards": 134,
+  "views": 130826,
+  "forwards": 135,
   "replies": null,
   "edit_date": "2026-04-21T20:17:40+00:00",
   "post_author": "Haji",
@@ -48,7 +48,7 @@
           "_": "ReactionEmoji",
           "emoticon": "👎"
         },
-        "count": 456,
+        "count": 461,
         "chosen_order": null
       },
       {
@@ -57,7 +57,7 @@
           "_": "ReactionEmoji",
           "emoticon": "❤"
         },
-        "count": 91,
+        "count": 94,
         "chosen_order": null
       },
       {
@@ -66,7 +66,7 @@
           "_": "ReactionEmoji",
           "emoticon": "👍"
         },
-        "count": 78,
+        "count": 80,
         "chosen_order": null
       },
       {
