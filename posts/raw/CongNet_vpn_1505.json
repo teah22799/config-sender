@@ -1,0 +1,157 @@
+{
+  "_": "Message",
+  "id": 1505,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3141068018
+  },
+  "date": "2026-04-23T06:18:06+00:00",
+  "message": "📝 دو پیامک اول برای دو پزشک رفته؛ بدون ثبت‌نام یا درخواست اینترنت پرو یا طبقاتی. پیامک دوم برای یک دفتر پیشخوان دولت رفته؛ برای جذب مشتری برای اینترنت طبقاتی.\n\n❌ برای عده زیادی این پیامک رفته. بدون اینکه درخواستی داده باشن.\n\n❗️ اولش هم مثلا سرویس‌ها کار می‌کنه (بجز اینستا و توییتر که کلا با پرو هم بسته‌ست)، ولی بعد از یکی دو روز همون سرویس‌های باز رو هم می‌بندنش. که باید بری دوباره سراغ خرید وی‌پی‌ان. یعنی ۲۲۰۰ میدی ۵۰ گیگ اینترنت میخری از اینا گیگی ۴۴ هزار تومن. بعد دوباره باید بری فیلترشکن هم بخری گیگی ۵۰۰ هزار تومن.\n\n@mamlekate 🕊️ مملکته",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": true,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": {
+    "_": "MessageFwdHeader",
+    "date": "2026-04-22T12:03:48+00:00",
+    "imported": false,
+    "saved_out": false,
+    "from_id": {
+      "_": "PeerChannel",
+      "channel_id": 1005042065
+    },
+    "from_name": null,
+    "channel_post": 103319,
+    "post_author": null,
+    "saved_from_peer": null,
+    "saved_from_msg_id": null,
+    "saved_from_id": null,
+    "saved_from_name": null,
+    "saved_date": null,
+    "psa_type": null
+  },
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 6001422631397166280,
+      "access_hash": -368561047716495853,
+      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbb8\\xe4\\xf2\\x00\\x00\\x05\\xe1i\\xe9\\xeaEzL|\\x123\\xd0\\x8e\\x02\\x071\\xfd\\xda,\\xe3\\x86\\xae'",
+      "date": "2026-04-22T12:03:06+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b\"\\x01('\\xcf\\xce\\x14\\r\\xc0\\xf7\\xe9\\xd2\\x98z\\xd3rh\\xdci\\x81\\xab\\xa3\\xe7l\\xd8\\x19\\xc9\\\\\\xf3\\x8cu\\xadA\\x9c\\xf4\\xfdk7B9\\x13\\xe7\\xfd\\x9f\\xebZ\\xd8\\x14\\x00\\xda)\\xd8\\x14P\\x07#E<FH\\xa7yy\\xf4\\x14\\x01\\xa5\\xa1t\\x9f\\xfe\\x03\\xfdk[5\\x93\\xa2\\x8cy\\xe3\\xdd\\x7f\\xadi\\xe0\\xfa\\x9a\\x00\\x939\\xe9E23\\x9c\\xf3\\x9a(\\x03\\x98\\xcf\\xa7\\xeair\\xde\\xdf\\x9d\\x14P\\x06\\x96\\x8d\\x93\\xe7\\x9e:\\xaf\\xf5\\xadN=(\\xa2\\x80\\x14\\x1cv\\xa2\\x8a(\\x03\""
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 309,
+          "h": 320,
+          "size": 16867
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 772,
+          "h": 800,
+          "size": 73558
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 869,
+          "h": 900,
+          "sizes": [
+            6220,
+            14661,
+            34599,
+            50302,
+            77064
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 0,
+      "length": 2,
+      "document_id": 5958662078272118209
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 161,
+      "length": 1,
+      "document_id": 5958758865360133207
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 226,
+      "length": 2,
+      "document_id": 5958605586567272542
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 527,
+      "length": 10
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 538,
+      "length": 3,
+      "document_id": 5922242233070788168
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 542,
+      "length": 6,
+      "url": "https://x.com/mamlekate/status/2046922119737483481"
+    }
+  ],
+  "views": 33,
+  "forwards": 2,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": 14215400688575193,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

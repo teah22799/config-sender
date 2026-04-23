@@ -33,7 +33,7 @@
   "media": null,
   "reply_markup": null,
   "entities": [],
-  "views": 243313,
+  "views": 245189,
   "forwards": 647,
   "replies": null,
   "edit_date": "2026-04-18T21:14:20+00:00",
@@ -56,7 +56,7 @@
           "_": "ReactionEmoji",
           "emoticon": "💔"
         },
-        "count": 2723,
+        "count": 2725,
         "chosen_order": null
       },
       {
@@ -65,7 +65,7 @@
           "_": "ReactionEmoji",
           "emoticon": "👍"
         },
-        "count": 265,
+        "count": 266,
         "chosen_order": null
       },
       {
