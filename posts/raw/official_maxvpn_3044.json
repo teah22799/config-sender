@@ -14,7 +14,7 @@
   "post": true,
   "from_scheduled": false,
   "legacy": false,
-  "edit_hide": false,
+  "edit_hide": true,
   "pinned": false,
   "noforwards": false,
   "invert_media": false,
@@ -65,13 +65,40 @@
       "length": 14
     }
   ],
-  "views": 44,
+  "views": 577,
   "forwards": 0,
   "replies": null,
-  "edit_date": null,
+  "edit_date": "2026-04-23T13:56:32+00:00",
   "post_author": null,
   "grouped_id": null,
-  "reactions": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤‍🔥"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 2,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
   "restriction_reason": [],
   "ttl_period": null,
   "quick_reply_shortcut_id": null,

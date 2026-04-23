@@ -1,0 +1,125 @@
+{
+  "_": "Message",
+  "id": 3045,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1868040551
+  },
+  "date": "2026-04-23T13:50:38+00:00",
+  "message": "خب اگه یادتون باشه راجب یه شرایط ویژه صحبت کرده بودیم \nحالا شرایط ویژه چیه؟\n\nما برای خرید های بالای 5گیگابایت میخوایم جدا از کانفیگ خودشون \nهدیه ای ام تقدیم کنیم \nیعنی چی :\n\nخرید 5گیگابایت + 1گیگابایت هدیه🎁\nخرید 10گیگابایت + 2گیگابایت هدیه🎁\nخرید 20گیگابایت + 5گیگابایت هدیه🎁\n\n❕❗️خرید از MaxVPN فقد و فقد از همین کانال و همون آیدی پشتیبانی سابق هستش \n\nآیدی پشتیبانی\n👨🏻‍💻@Maxvpn_addmin\nآیدی کانال \n📣@official_maxvpn",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": {
+    "_": "MessageReplyHeader",
+    "reply_to_scheduled": false,
+    "forum_topic": false,
+    "quote": false,
+    "reply_to_msg_id": 3036,
+    "reply_to_peer_id": null,
+    "reply_from": null,
+    "reply_media": null,
+    "reply_to_top_id": null,
+    "quote_text": null,
+    "quote_entities": [],
+    "quote_offset": null,
+    "todo_item_id": null,
+    "poll_option": null
+  },
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 174,
+      "length": 101
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 282,
+      "length": 69
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 375,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 404,
+      "length": 16
+    }
+  ],
+  "views": 563,
+  "forwards": 4,
+  "replies": null,
+  "edit_date": "2026-04-23T13:52:19+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤‍🔥"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🦄"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}
