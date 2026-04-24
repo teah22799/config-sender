@@ -15,7 +15,7 @@
   "from_scheduled": false,
   "legacy": false,
   "edit_hide": false,
-  "pinned": false,
+  "pinned": true,
   "noforwards": false,
   "invert_media": false,
   "offline": false,
