@@ -1,0 +1,74 @@
+{
+  "_": "Message",
+  "id": 196040,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2080689208
+  },
+  "date": "2026-04-24T09:08:07+00:00",
+  "message": "vless://4cc545b9-1343-48fd-b5e2-aaf37216f48d@nl.pfvpn.cfd:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZhjnYVxJjlHqRng99rliQCf1kYo--OF7DvEiNzNpTys&security=reality&sid=3a3023cac1da&sni=max.ru&type=tcp#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱\n\nCᴏᴜɴᴛʀʏ: #Netherlands(🇳🇱)\nPɪɴɢ: 100ms 🟢\n\nJᴏɪɴ »» @Farah_VPN - @Farah_Proxy",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCode",
+      "offset": 0,
+      "length": 246
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 257,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 300,
+      "length": 10
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 313,
+      "length": 12
+    }
+  ],
+  "views": 30,
+  "forwards": 0,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}
