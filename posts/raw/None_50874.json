@@ -33,10 +33,10 @@
   "media": null,
   "reply_markup": null,
   "entities": [],
-  "views": 71849,
-  "forwards": 571,
+  "views": 98593,
+  "forwards": 671,
   "replies": null,
-  "edit_date": "2026-04-24T14:43:10+00:00",
+  "edit_date": "2026-04-24T22:10:04+00:00",
   "post_author": "Sa",
   "grouped_id": null,
   "reactions": {
@@ -45,10 +45,18 @@
       {
         "_": "ReactionCount",
         "reaction": {
+          "_": "ReactionPaid"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
           "_": "ReactionEmoji",
           "emoticon": "👍"
         },
-        "count": 3111,
+        "count": 3652,
         "chosen_order": null
       },
       {
@@ -57,7 +65,7 @@
           "_": "ReactionEmoji",
           "emoticon": "💔"
         },
-        "count": 288,
+        "count": 331,
         "chosen_order": null
       },
       {
@@ -66,7 +74,7 @@
           "_": "ReactionEmoji",
           "emoticon": "❤"
         },
-        "count": 112,
+        "count": 129,
         "chosen_order": null
       },
       {
@@ -75,7 +83,7 @@
           "_": "ReactionEmoji",
           "emoticon": "👎"
         },
-        "count": 26,
+        "count": 32,
         "chosen_order": null
       }
     ],
@@ -83,7 +91,19 @@
     "can_see_list": false,
     "reactions_as_tags": false,
     "recent_reactions": [],
-    "top_reactors": []
+    "top_reactors": [
+      {
+        "_": "MessageReactor",
+        "count": 1,
+        "top": true,
+        "my": false,
+        "anonymous": false,
+        "peer_id": {
+          "_": "PeerChannel",
+          "channel_id": 1551395013
+        }
+      }
+    ]
   },
   "restriction_reason": [],
   "ttl_period": null,
