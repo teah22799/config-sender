@@ -39,7 +39,7 @@
       "length": 35
     }
   ],
-  "views": 468,
+  "views": 713,
   "forwards": 1,
   "replies": null,
   "edit_date": "2026-04-25T10:02:44+00:00",
@@ -54,7 +54,7 @@
           "_": "ReactionEmoji",
           "emoticon": "❤‍🔥"
         },
-        "count": 25,
+        "count": 29,
         "chosen_order": null
       },
       {
@@ -63,7 +63,7 @@
           "_": "ReactionEmoji",
           "emoticon": "❤"
         },
-        "count": 7,
+        "count": 10,
         "chosen_order": null
       },
       {
