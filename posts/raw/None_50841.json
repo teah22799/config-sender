@@ -33,7 +33,7 @@
   "media": null,
   "reply_markup": null,
   "entities": [],
-  "views": 247813,
+  "views": 248789,
   "forwards": 70,
   "replies": null,
   "edit_date": "2026-04-16T16:34:05+00:00",
@@ -47,7 +47,7 @@
         "reaction": {
           "_": "ReactionPaid"
         },
-        "count": 5,
+        "count": 6,
         "chosen_order": null
       },
       {
