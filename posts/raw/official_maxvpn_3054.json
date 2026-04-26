@@ -1,0 +1,207 @@
+{
+  "_": "Message",
+  "id": 3054,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1868040551
+  },
+  "date": "2026-04-26T20:35:01+00:00",
+  "message": "قیمت اشتراک های جدیدمون \n(مناسب نت ملی)\n\n💎مناسب وب گردی اینستاگرام تلگرام یوتیوب گیم وتمامی هوش مصنوعی ها\n💎تضمین سرعت و ضمانت بازگشت وجه در صورت قطعی مکرر\n💎پینگ زیر 200 و بدون تاریخ انقضا\n💎بدون ضریب مصرفی \n💎دارای لینک ساب جهت دیدن حجم مصرفی خودتون\n\nجهت ثبت سفارش\nمیتونید از طریق پشتیبانی اقدام کنید \n\nآیدی پشتیبانی:@Maxvpn_addmin",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": true,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 6014939782535908632,
+      "access_hash": -6521873915680366288,
+      "file_reference": "b'\\x02oX\\tg\\x00\\x00\\x0b\\xeei\\xeexL\\x0e\\x0b\\x15\\xe2\\xbdbD\\xcbZ\\xa9\\xac\\xb6\\xc2\\x06\\xba\\x01'",
+      "date": "2026-04-26T20:20:19+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01(\\x1b\\xce\\x85\\x11\\xb7\\x17\\xc61\\xeb\\x8a|\\x90*\\xca\\xaa\\xad\\xbdYs\\xc1\\xf6\\xa5\\xb4\\x8c\\xca\\xac7\\x10\\x14v\\x19\\xa4\\x99JM\\xb4\\xbf\\xdd\\xe8O\\x157\\xd6\\xc3\\x17\\xec\\x80\\xaeT\\xe4\\xf6\\xe6\\x98\\x8d\\xb5@ \\x92=\\xe9\\xb9\\xc0$7OBi\\x9b\\xdb\\xb1\\xa3P.i\\xa4\\xe2n\\t\\xe0Snrn\\x98\\x8c\\x8e\\x07|TV\\xb3\\x08\\xb7e\\x03n\\xf5\\xedI$\\x9b\\xe4\\xdd\\xb3\\x19\\xec)Y\\xf3\\\\}\\x04l\\xedl\\xe7\\xb7V\\xa8jC\\x93\\x9e:\\xd3*\\x89\\x1d\\x8fN=ip\\xb8\\xfb\\xe0~\\x14Q@\\xc5\\n\\t\\xe1\\xc6;\\x9a\\x8c\\x8fJ(\\xa0G'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 213,
+          "h": 320,
+          "size": 26445
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 533,
+          "h": 800,
+          "size": 104281
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 853,
+          "h": 1280,
+          "sizes": [
+            16985,
+            44044,
+            90074,
+            132434,
+            183236
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 23
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 26,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 41,
+      "length": 65,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 43,
+      "length": 63
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 107,
+      "length": 49,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 109,
+      "length": 47
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 157,
+      "length": 33,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 159,
+      "length": 31
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 191,
+      "length": 18,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 191,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 209,
+      "length": 1
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 210,
+      "length": 42,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 210,
+      "length": 42
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 254,
+      "length": 50
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 306,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 320,
+      "length": 14
+    }
+  ],
+  "views": 93,
+  "forwards": 1,
+  "replies": null,
+  "edit_date": "2026-04-26T20:35:46+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

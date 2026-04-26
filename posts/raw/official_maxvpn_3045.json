@@ -6,7 +6,7 @@
     "channel_id": 1868040551
   },
   "date": "2026-04-23T13:50:38+00:00",
-  "message": "خب اگه یادتون باشه راجب یه شرایط ویژه صحبت کرده بودیم \nحالا شرایط ویژه چیه؟\n\nما برای خرید های بالای 5گیگابایت میخوایم جدا از کانفیگ خودشون \nهدیه ای ام تقدیم کنیم \nیعنی چی :\n\nخرید 5گیگابایت + 1گیگابایت هدیه🎁\nخرید 10گیگابایت + 2گیگابایت هدیه🎁\nخرید 20گیگابایت + 5گیگابایت هدیه🎁\n\n❕❗️خرید از MaxVPN فقد و فقد از همین کانال و همون آیدی پشتیبانی سابق هستش \n\nآیدی پشتیبانی\n👨🏻‍💻@Maxvpn_addmin\nآیدی کانال \n📣@official_maxvpn",
+  "message": "خب اگه یادتون باشه راجب یه شرایط ویژه صحبت کرده بودیم \nحالا شرایط ویژه چیه؟\n\nما برای خرید های بالای 5گیگابایت میخوایم جدا از کانفیگ خودشون \nهدیه ای ام تقدیم کنیم \nیعنی چی :\n\nخرید 10گیگابایت + 2گیگابایت هدیه🎁\nخرید 20گیگابایت + 5گیگابایت هدیه🎁\n\n❕❗️خرید از MaxVPN فقد و فقد از همین کانال و همون آیدی پشتیبانی سابق هستش \n\nآیدی پشتیبانی\n👨🏻‍💻@Maxvpn_addmin\nآیدی کانال \n📣@official_maxvpn",
   "out": false,
   "mentioned": false,
   "media_unread": false,
@@ -14,7 +14,7 @@
   "post": true,
   "from_scheduled": false,
   "legacy": false,
-  "edit_hide": true,
+  "edit_hide": false,
   "pinned": true,
   "noforwards": false,
   "invert_media": false,
@@ -50,29 +50,29 @@
   "entities": [
     {
       "_": "MessageEntityBold",
-      "offset": 174,
-      "length": 101
+      "offset": 173,
+      "length": 68
     },
     {
       "_": "MessageEntityBold",
-      "offset": 282,
+      "offset": 248,
       "length": 69
     },
     {
       "_": "MessageEntityMention",
-      "offset": 375,
+      "offset": 341,
       "length": 14
     },
     {
       "_": "MessageEntityMention",
-      "offset": 404,
+      "offset": 370,
       "length": 16
     }
   ],
-  "views": 1639,
+  "views": 1902,
   "forwards": 12,
   "replies": null,
-  "edit_date": "2026-04-23T13:52:19+00:00",
+  "edit_date": "2026-04-26T16:58:58+00:00",
   "post_author": null,
   "grouped_id": null,
   "reactions": {
