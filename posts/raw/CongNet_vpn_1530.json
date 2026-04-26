@@ -1,0 +1,109 @@
+{
+  "_": "Message",
+  "id": 1530,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3141068018
+  },
+  "date": "2026-04-26T05:43:51+00:00",
+  "message": "دستگاه گوسونیک مدل gem-873\n\nبا تمامی وسایل جانبی باریستایی :\nلولر ، تمپر ، پامپ اسکرین ، باکس باریستایی\n\nقیمت : ۱۵ میلیون تمن\n\nاگه کسی خواست بیاد پی وی :\n@congnet_supp",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 6012500803752496127,
+      "access_hash": 7909374016871307604,
+      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbb8\\xe4\\xf2\\x00\\x00\\x05\\xfai\\xed\\xac\\x10\\x93B7$Ynr\\x92M\\xae\\xdf\\xcb\\xfb\\x92\\xab\\x89'",
+      "date": "2026-04-26T05:36:11+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01(\\x1e\\xbb{\\x9d\\xd9\\x1e\\x95\\\\O0\\xff\\x00\\x96\\x86\\x96\\xf6v\\xf3p>\\xee*\\xb8f=\\x01\\xfd)\\x81n\\x19\\xa5i\\x94\\x17$f\\xb4+\\x19ex\\xdbv\\xdc\\x11\\xd35\\xa1mq\\xe6FZB\\x01\\xcfj@R\\xb9\\xc7\\x9d\\x90;T&9?\\xe7\\xba\\x9a\\xb1q\\x19IFrx\\xac\\xf90&\\x199^\\xe4\\x9a\\x00\\x9a&.\\xed\\x92H\\x02\\xb4-HXG\\xa9&\\xb3\\xad\\xc8\\xf3\\x1b`\\xf9q\\xd4t\\xad\\x04\\xb6g\\x81\\n\\xc9\\xb4\\xf7\\xe2\\x80\\x12\\xf7vC(\\xcf\\x18\\xfaU<9\\xea\\x7fZ(\\xa4\\x02\\x80\\xea0\\xb8\\xad(\\x89X\\x94\\x1e\\xb8\\xa2\\x8a`\\x7f'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 240,
+          "h": 320,
+          "size": 16929
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 600,
+          "h": 800,
+          "size": 71207
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 960,
+          "h": 1280,
+          "sizes": [
+            11923,
+            24131,
+            32958,
+            51740,
+            96678
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityMention",
+      "offset": 154,
+      "length": 13
+    }
+  ],
+  "views": 7,
+  "forwards": 0,
+  "replies": null,
+  "edit_date": "2026-04-26T05:45:24+00:00",
+  "post_author": null,
+  "grouped_id": 14217457846540044,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}
