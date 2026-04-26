@@ -39,8 +39,8 @@
       "length": 145
     }
   ],
-  "views": 175825,
-  "forwards": 1198,
+  "views": 181137,
+  "forwards": 1220,
   "replies": null,
   "edit_date": "2026-04-24T02:35:16+00:00",
   "post_author": "Sa",
@@ -62,7 +62,7 @@
           "_": "ReactionEmoji",
           "emoticon": "❤"
         },
-        "count": 1359,
+        "count": 1376,
         "chosen_order": null
       },
       {
@@ -71,7 +71,7 @@
           "_": "ReactionEmoji",
           "emoticon": "👍"
         },
-        "count": 187,
+        "count": 188,
         "chosen_order": null
       },
       {
@@ -80,7 +80,7 @@
           "_": "ReactionEmoji",
           "emoticon": "💔"
         },
-        "count": 180,
+        "count": 181,
         "chosen_order": null
       },
       {
