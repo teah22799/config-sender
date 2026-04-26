@@ -14,7 +14,7 @@
   "post": true,
   "from_scheduled": false,
   "legacy": false,
-  "edit_hide": false,
+  "edit_hide": true,
   "pinned": false,
   "noforwards": false,
   "invert_media": false,
@@ -39,13 +39,78 @@
       "length": 7
     }
   ],
-  "views": 1,
-  "forwards": 0,
+  "views": 67937,
+  "forwards": 86,
   "replies": null,
-  "edit_date": null,
+  "edit_date": "2026-04-26T09:54:07+00:00",
   "post_author": "Haji",
   "grouped_id": null,
-  "reactions": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionPaid"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👎"
+        },
+        "count": 2336,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 646,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 596,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💔"
+        },
+        "count": 50,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": [
+      {
+        "_": "MessageReactor",
+        "count": 2,
+        "top": true,
+        "my": false,
+        "anonymous": false,
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 6918374012
+        }
+      }
+    ]
+  },
   "restriction_reason": [],
   "ttl_period": null,
   "quick_reply_shortcut_id": null,

@@ -1,0 +1,92 @@
+{
+  "_": "Message",
+  "id": 201027,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2080689208
+  },
+  "date": "2026-04-26T12:43:42+00:00",
+  "message": "vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImhvc3QiOiI4Mi4xOTguMjQ2Ljk3IiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLz9lZD0yMDQ4QFYyUmF5X2hpZGRpZnkxMC0taHR0cHM6Ly90Lm1lL1YyUmF5X2hpZGRpZnkxMC0tVjJSYXlfaGlkZGlmeTEwLS1WMlJheV9oaWRkaWZ5MTAtLVYyUmF5X2hpZGRpZnkxMC0tVjJSYXlfaGlkZGlmeTEwLS1WMlJheV9oaWRkaWZ5MTAtLVYyUmF5X2hpZGRpZnkxMC0tVjJSYXlfaGlkZGlmeTEwLS1WMlJheV9oaWRkaWZ5MTAtLVYyUmF5X2hpZGRpZnkxMC0tVjJSYXlfaGlkZGlmeTEwLS1WMlJheV9oaWRkaWZ5MTAtLVYyUmF5X2hpZGRpZnkxMC0tVjJSYXlfaGlkZGlmeTEwLS1WMlJheV9oaWRkaWZ5MTAtLVYyUmF5X2hpZGRpZnkxMC0tVjJSYXlfaGlkZGlmeTEwLS1WMlJheV9oaWRkaWZ5MTAtLVYyUmF5X2hpZGRpZnkxMC0tVjJSYXlfaGlkZGlmeTEwLS1WMlJheV9oaWRkaWZ5MTAtLVYyUmF5X2hpZGRpZnkxMC0tVjJSYXlfaGlkZGlmeTEwLS1WMlJheV9oaWRkaWZ5MTAtLVYyUmF5X2hpZGRpZnkxMC0tVjJSYXlfaGlkZGlmeTEwLS1WMlJheV9oaWRkaWZ5MTAtLVYyUmF5X2hpZGRpZnkxMC0tVjJSYXlfaGlkZGlmeTEwLS1odHRwczovL3QubWUvVjJSYXlfaGlkZGlmeTEwIiwicG9ydCI6IjE4MCIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGVzdF9uYW1lIjoiR0JcdTgyZjFcdTU2ZmQzIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9\n\nCᴏᴜɴᴛʀʏ: #UnitedStates(🇺🇸)\nPɪɴɢ: 100ms 🟢\n\nJᴏɪɴ »» @Farah_VPN - @Farah_Proxy",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCode",
+      "offset": 0,
+      "length": 1188
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 1199,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 1243,
+      "length": 10
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 1256,
+      "length": 12
+    }
+  ],
+  "views": 13,
+  "forwards": 0,
+  "replies": null,
+  "edit_date": "2026-04-26T12:45:13+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": "pl"
+}

@@ -1,0 +1,118 @@
+{
+  "_": "Message",
+  "id": 50877,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1346269822
+  },
+  "date": "2026-04-26T09:15:11+00:00",
+  "message": "۵۰ گیگ اینترنت ایرانسل با قیمت ۳۸۰تومن خب؟ یه اینترنت پرو هم داریم که اونم ۵۰ گیگه و قیمتش هست ۲/۵ میلیون تومن!\n\n معتقدند با این ۵۰ گیگ ۳۸۰ تومنیه امنیت کشور به خطر میوفته اما با اون ۵۰ گیگ ۲/۵ میلیونیه نه!",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [],
+  "views": 65236,
+  "forwards": 676,
+  "replies": null,
+  "edit_date": "2026-04-26T09:54:10+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionPaid"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👎"
+        },
+        "count": 1983,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 1434,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💔"
+        },
+        "count": 592,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 72,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": [
+      {
+        "_": "MessageReactor",
+        "count": 2,
+        "top": true,
+        "my": false,
+        "anonymous": false,
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 6918374012
+        }
+      }
+    ]
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

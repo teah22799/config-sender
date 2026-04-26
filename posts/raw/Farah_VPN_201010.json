@@ -1,0 +1,92 @@
+{
+  "_": "Message",
+  "id": 201010,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2080689208
+  },
+  "date": "2026-04-26T12:38:12+00:00",
+  "message": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.183.186.27:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.navy&path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540wangcai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷\n\nCᴏᴜɴᴛʀʏ: #France(🇫🇷)\nPɪɴɢ: 194ms 🟢\n\nJᴏɪɴ »» @Farah_VPN - @Farah_Proxy",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCode",
+      "offset": 0,
+      "length": 291
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 302,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 340,
+      "length": 10
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 353,
+      "length": 12
+    }
+  ],
+  "views": 12,
+  "forwards": 0,
+  "replies": null,
+  "edit_date": "2026-04-26T12:44:09+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}
