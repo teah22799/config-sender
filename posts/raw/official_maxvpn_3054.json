@@ -38,7 +38,7 @@
       "_": "Photo",
       "id": 6014826872140663906,
       "access_hash": -3585509124516627210,
-      "file_reference": "b'\\x02oX\\tg\\x00\\x00\\x0b\\xeei\\xef\\x9b\\xfa\\xdb\\xfe\\x88G\\xe5\\x8e\\xc42\\xfb\\xed\\xd8\\x8b}\\x97[w'",
+      "file_reference": "b'\\x02oX\\tg\\x00\\x00\\x0b\\xeei\\xef\\xcf\\x8a\\x99\\xf6GO>\\xabA\\x837.l\\xf4\\xc9\\xd1\\x8c~'",
       "date": "2026-04-27T02:17:29+00:00",
       "sizes": [
         {
@@ -169,8 +169,8 @@
       "length": 14
     }
   ],
-  "views": 865,
-  "forwards": 22,
+  "views": 925,
+  "forwards": 23,
   "replies": null,
   "edit_date": "2026-04-27T02:17:29+00:00",
   "post_author": null,
@@ -236,6 +236,15 @@
         "_": "ReactionCount",
         "reaction": {
           "_": "ReactionEmoji",
+          "emoticon": "💔"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
           "emoticon": "⚡"
         },
         "count": 2,
@@ -247,7 +256,7 @@
           "_": "ReactionEmoji",
           "emoticon": "🥰"
         },
-        "count": 1,
+        "count": 2,
         "chosen_order": null
       },
       {
@@ -255,15 +264,6 @@
         "reaction": {
           "_": "ReactionEmoji",
           "emoticon": "😍"
-        },
-        "count": 1,
-        "chosen_order": null
-      },
-      {
-        "_": "ReactionCount",
-        "reaction": {
-          "_": "ReactionEmoji",
-          "emoticon": "💔"
         },
         "count": 1,
         "chosen_order": null
