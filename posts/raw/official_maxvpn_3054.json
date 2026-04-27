@@ -14,7 +14,7 @@
   "post": true,
   "from_scheduled": false,
   "legacy": false,
-  "edit_hide": true,
+  "edit_hide": false,
   "pinned": true,
   "noforwards": false,
   "invert_media": false,
@@ -36,41 +36,41 @@
     "live_photo": false,
     "photo": {
       "_": "Photo",
-      "id": 6014939782535908632,
-      "access_hash": -6521873915680366288,
-      "file_reference": "b'\\x02oX\\tg\\x00\\x00\\x0b\\xeei\\xeexL\\x0e\\x0b\\x15\\xe2\\xbdbD\\xcbZ\\xa9\\xac\\xb6\\xc2\\x06\\xba\\x01'",
-      "date": "2026-04-26T20:20:19+00:00",
+      "id": 6014826872140663906,
+      "access_hash": -3585509124516627210,
+      "file_reference": "b'\\x02oX\\tg\\x00\\x00\\x0b\\xeei\\xee\\xcfV\\x01L\\xecs\\x95.\\x1c\\xd0\\xdd\\xbe;)\\x90\\xb8F\\x9b'",
+      "date": "2026-04-27T02:17:29+00:00",
       "sizes": [
         {
           "_": "PhotoStrippedSize",
           "type": "i",
-          "bytes": "b'\\x01(\\x1b\\xce\\x85\\x11\\xb7\\x17\\xc61\\xeb\\x8a|\\x90*\\xca\\xaa\\xad\\xbdYs\\xc1\\xf6\\xa5\\xb4\\x8c\\xca\\xac7\\x10\\x14v\\x19\\xa4\\x99JM\\xb4\\xbf\\xdd\\xe8O\\x157\\xd6\\xc3\\x17\\xec\\x80\\xaeT\\xe4\\xf6\\xe6\\x98\\x8d\\xb5@ \\x92=\\xe9\\xb9\\xc0$7OBi\\x9b\\xdb\\xb1\\xa3P.i\\xa4\\xe2n\\t\\xe0Snrn\\x98\\x8c\\x8e\\x07|TV\\xb3\\x08\\xb7e\\x03n\\xf5\\xedI$\\x9b\\xe4\\xdd\\xb3\\x19\\xec)Y\\xf3\\\\}\\x04l\\xedl\\xe7\\xb7V\\xa8jC\\x93\\x9e:\\xd3*\\x89\\x1d\\x8fN=ip\\xb8\\xfb\\xe0~\\x14Q@\\xc5\\n\\t\\xe1\\xc6;\\x9a\\x8c\\x8fJ(\\xa0G'"
+          "bytes": "b'\\x01(\\x14\\xcd\\x817H8\\xcf8\\x03\\xd4\\xf6\\xab/l\\x8e\\xb3\\x18\\x88\\xf9\\x0f\\x1e\\xfe\\xb5LpGJq\\xe7\\x81\\x8f\\xc6\\xa5\\x8c\\x8e\\x8aR\\x084U\\x08q\\xfe\\x1ar\\x10\\x18\\x9c\\xfe\\xb4\\xcc\\x9e=\\xa9\\xc1\\x889\\x19\\x04\\xd2\\x01\\xad\\xcb\\x1a)\\x0fS\\xcd\\x14\\x00\\xab\\xc9\\xa5=(\\xa2\\x98\\x0c<\\x9a(\\xa2\\x80?'"
         },
         {
           "_": "PhotoSize",
           "type": "m",
-          "w": 213,
+          "w": 157,
           "h": 320,
-          "size": 26445
+          "size": 15459
         },
         {
           "_": "PhotoSize",
           "type": "x",
-          "w": 533,
+          "w": 392,
           "h": 800,
-          "size": 104281
+          "size": 64481
         },
         {
           "_": "PhotoSizeProgressive",
           "type": "y",
-          "w": 853,
+          "w": 627,
           "h": 1280,
           "sizes": [
-            16985,
-            44044,
-            90074,
-            132434,
-            183236
+            10649,
+            26225,
+            53089,
+            85773,
+            118624
           ]
         }
       ],
@@ -86,7 +86,7 @@
     {
       "_": "MessageEntityBold",
       "offset": 0,
-      "length": 23
+      "length": 5
     },
     {
       "_": "MessageEntityBold",
@@ -169,10 +169,10 @@
       "length": 14
     }
   ],
-  "views": 93,
-  "forwards": 1,
+  "views": 473,
+  "forwards": 11,
   "replies": null,
-  "edit_date": "2026-04-26T20:35:46+00:00",
+  "edit_date": "2026-04-27T02:17:29+00:00",
   "post_author": null,
   "grouped_id": null,
   "reactions": {
@@ -183,6 +183,69 @@
         "reaction": {
           "_": "ReactionEmoji",
           "emoticon": "❤"
+        },
+        "count": 45,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💯"
+        },
+        "count": 37,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🎉"
+        },
+        "count": 36,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 31,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👏"
+        },
+        "count": 27,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🔥"
+        },
+        "count": 25,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "⚡"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🥰"
         },
         "count": 1,
         "chosen_order": null

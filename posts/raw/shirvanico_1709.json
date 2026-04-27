@@ -48,8 +48,8 @@
   "media": null,
   "reply_markup": null,
   "entities": [],
-  "views": 2014,
-  "forwards": 23,
+  "views": 2133,
+  "forwards": 24,
   "replies": null,
   "edit_date": "2026-04-19T21:27:11+00:00",
   "post_author": null,
@@ -80,7 +80,7 @@
           "_": "ReactionEmoji",
           "emoticon": "🐳"
         },
-        "count": 3,
+        "count": 4,
         "chosen_order": null
       },
       {
