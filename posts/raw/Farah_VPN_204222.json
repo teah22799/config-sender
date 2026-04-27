@@ -1,0 +1,74 @@
+{
+  "_": "Message",
+  "id": 204222,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2080689208
+  },
+  "date": "2026-04-27T16:53:14+00:00",
+  "message": "vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?allowInsecure=1&encryption=none&security=tls&type=tcp#🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧\n\nCᴏᴜɴᴛʀʏ: #UnitedKingdom(🇬🇧)\nPɪɴɢ: 90ms 🟢\n\nJᴏɪɴ »» @Farah_VPN - @Farah_Proxy",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCode",
+      "offset": 0,
+      "length": 164
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 175,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 219,
+      "length": 10
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 232,
+      "length": 12
+    }
+  ],
+  "views": 18,
+  "forwards": 0,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}
