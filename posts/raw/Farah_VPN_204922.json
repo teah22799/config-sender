@@ -1,0 +1,74 @@
+{
+  "_": "Message",
+  "id": 204922,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2080689208
+  },
+  "date": "2026-04-28T02:11:56+00:00",
+  "message": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.162.156.131:14850?encryption=none&security=tls&sni=sni.111000.v6.rocks&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷\n\nCᴏᴜɴᴛʀʏ: #SouthKorea(🇰🇷)\nPɪɴɢ: 95ms 🟢\n\nJᴏɪɴ »» @Farah_VPN - @Farah_Proxy",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCode",
+      "offset": 0,
+      "length": 255
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 266,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 307,
+      "length": 10
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 320,
+      "length": 12
+    }
+  ],
+  "views": 26,
+  "forwards": 1,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}
