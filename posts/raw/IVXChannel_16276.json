@@ -52,12 +52,12 @@
       "url": "https://t.me/proxy?server=212.227.40.113&port=443&secret=eea1b2c3d4e5f60123456789abcdef012373332e616d617a6f6e6177732e636f6d"
     }
   ],
-  "views": 3598,
-  "forwards": 12,
+  "views": 3691,
+  "forwards": 13,
   "replies": {
     "_": "MessageReplies",
     "replies": 0,
-    "replies_pts": 1274039,
+    "replies_pts": 1275372,
     "comments": true,
     "recent_repliers": [],
     "channel_id": 3392070575,

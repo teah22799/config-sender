@@ -1,0 +1,71 @@
+{
+  "_": "Message",
+  "id": 155725,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3111946920
+  },
+  "date": "2026-04-28T17:29:39+00:00",
+  "message": "دوستان پیوی زیاد ازم پرسیدید خودت کانفیگ از کجا میخری و خواستم بهتون بگم که خودمم از پنل مالک اینجا (ممد فریک) میخرم\n@l5mmd\nلطف کنید پیوی نپرسید همه رو نمیتونم جواب بدم💘.",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": false,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": {
+    "_": "PeerUser",
+    "user_id": 8197096030
+  },
+  "from_boosts_applied": null,
+  "from_rank": "ADMIN7",
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityMention",
+      "offset": 117,
+      "length": 6
+    }
+  ],
+  "views": null,
+  "forwards": null,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 326852,
+    "comments": false,
+    "recent_repliers": [],
+    "channel_id": null,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

@@ -41,7 +41,7 @@
       "_": "Document",
       "id": 6016942276217936184,
       "access_hash": -8545376314736364864,
-      "file_reference": "b'\\x02l\\x98;\\xad\\x00\\x00\\x94Qi\\xf0\\xdf\\tBL\\xd7Z\\xa4q\\xb8\\x89\\x92\\x80\\xf1\\xd8r\\x02\\xf6I'",
+      "file_reference": "b'\\x02l\\x98;\\xad\\x00\\x00\\x94Qi\\xf0\\xf9\\xc5\\x99w\\t\"\\x0c\\x8a\\x1f\\xd1\\xa1+\\x92\\xc9d\\x9d\\xa4\\xdb'",
       "date": "2026-04-27T18:30:21+00:00",
       "mime_type": "application/octet-stream",
       "size": 15472,
@@ -73,8 +73,8 @@
       "length": 24
     }
   ],
-  "views": 35611,
-  "forwards": 562,
+  "views": 36119,
+  "forwards": 564,
   "replies": null,
   "edit_date": "2026-04-27T18:31:00+00:00",
   "post_author": null,
@@ -106,7 +106,16 @@
           "_": "ReactionEmoji",
           "emoticon": "💅"
         },
-        "count": 6,
+        "count": 5,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤‍🔥"
+        },
+        "count": 1,
         "chosen_order": null
       },
       {

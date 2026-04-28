@@ -45,12 +45,12 @@
       "document_id": 6032845964589403285
     }
   ],
-  "views": 3029,
+  "views": 3242,
   "forwards": 14,
   "replies": {
     "_": "MessageReplies",
     "replies": 0,
-    "replies_pts": 455655,
+    "replies_pts": 455662,
     "comments": true,
     "recent_repliers": [],
     "channel_id": 1694825362,
@@ -69,7 +69,7 @@
           "_": "ReactionEmoji",
           "emoticon": "👍"
         },
-        "count": 36,
+        "count": 37,
         "chosen_order": null
       },
       {

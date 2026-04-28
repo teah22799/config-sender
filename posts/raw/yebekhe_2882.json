@@ -55,12 +55,12 @@
       "collapsed": false
     }
   ],
-  "views": 1883,
+  "views": 1912,
   "forwards": 10,
   "replies": {
     "_": "MessageReplies",
     "replies": 7,
-    "replies_pts": 70301,
+    "replies_pts": 70311,
     "comments": true,
     "recent_repliers": [
       {
@@ -92,7 +92,7 @@
           "_": "ReactionEmoji",
           "emoticon": "❤"
         },
-        "count": 17,
+        "count": 18,
         "chosen_order": null
       },
       {

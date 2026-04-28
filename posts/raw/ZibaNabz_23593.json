@@ -95,12 +95,12 @@
       "length": 9
     }
   ],
-  "views": 6756,
+  "views": 6765,
   "forwards": 138,
   "replies": {
     "_": "MessageReplies",
     "replies": 0,
-    "replies_pts": 455655,
+    "replies_pts": 455662,
     "comments": true,
     "recent_repliers": [],
     "channel_id": 1694825362,
@@ -138,6 +138,15 @@
           "emoticon": "😐"
         },
         "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😢"
+        },
+        "count": 1,
         "chosen_order": null
       },
       {

@@ -38,7 +38,7 @@
       "_": "Photo",
       "id": 6016867767585278964,
       "access_hash": -4549718946631709717,
-      "file_reference": "b\"\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\r\\x01i\\xf0\\xd6I\\xe4\\xb0\\xa1\\xf6\\xd0B#\\xc1!jtP\\x8d\\xd7'\\x9b\"",
+      "file_reference": "b\"\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\r\\x01i\\xf0\\xf5LO\\xdd\\t \\xd2\\xed\\x8f\\xb0\\xb8#'^\\xceO\\xdfK\"",
       "date": "2026-04-27T23:51:15+00:00",
       "sizes": [
         {
@@ -83,8 +83,8 @@
   },
   "reply_markup": null,
   "entities": [],
-  "views": 7074,
-  "forwards": 251,
+  "views": 21619,
+  "forwards": 716,
   "replies": null,
   "edit_date": "2026-04-27T23:51:46+00:00",
   "post_author": "سال گودمن",

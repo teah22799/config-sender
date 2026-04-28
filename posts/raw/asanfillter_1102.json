@@ -48,12 +48,12 @@
   "media": null,
   "reply_markup": null,
   "entities": [],
-  "views": 3107,
+  "views": 3158,
   "forwards": 22,
   "replies": {
     "_": "MessageReplies",
     "replies": 1,
-    "replies_pts": 53044,
+    "replies_pts": 53083,
     "comments": true,
     "recent_repliers": [
       {
@@ -77,7 +77,7 @@
           "_": "ReactionEmoji",
           "emoticon": "🤣"
         },
-        "count": 63,
+        "count": 65,
         "chosen_order": null
       },
       {

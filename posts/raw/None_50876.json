@@ -39,8 +39,8 @@
       "length": 7
     }
   ],
-  "views": 192354,
-  "forwards": 147,
+  "views": 194715,
+  "forwards": 148,
   "replies": null,
   "edit_date": "2026-04-26T09:54:07+00:00",
   "post_author": "Haji",
@@ -62,7 +62,7 @@
           "_": "ReactionEmoji",
           "emoticon": "👎"
         },
-        "count": 2581,
+        "count": 2584,
         "chosen_order": null
       },
       {
@@ -71,7 +71,7 @@
           "_": "ReactionEmoji",
           "emoticon": "👍"
         },
-        "count": 1249,
+        "count": 1261,
         "chosen_order": null
       },
       {

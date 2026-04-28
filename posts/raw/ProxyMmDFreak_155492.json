@@ -69,12 +69,12 @@
       "length": 8
     }
   ],
-  "views": 6317,
-  "forwards": 42,
+  "views": 7469,
+  "forwards": 43,
   "replies": {
     "_": "MessageReplies",
     "replies": 0,
-    "replies_pts": 326560,
+    "replies_pts": 326852,
     "comments": false,
     "recent_repliers": [],
     "channel_id": null,

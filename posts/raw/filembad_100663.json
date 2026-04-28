@@ -41,7 +41,7 @@
       "_": "Document",
       "id": 6019117848952053754,
       "access_hash": 999362695072054391,
-      "file_reference": "b'\\x02x\\xb9\\xca\\xd5\\x00\\x01\\x897i\\xf0\\xd5\\xd7\\x17%\\x0b\\x02r\\xaa\\xac\\x91\\xb3\\xbcJ\\x13B$\\xc4\\xd6'",
+      "file_reference": "b'\\x02x\\xb9\\xca\\xd5\\x00\\x01\\x897i\\xf0\\xf5\\x04\\x86\\xde,\\xa2\\xd29\\x985\\rIIwk\\xb2\\xfe('",
       "date": "2026-04-28T15:10:47+00:00",
       "mime_type": "application/octet-stream",
       "size": 3816,
@@ -84,12 +84,12 @@
       "url": "https://t.me/v2rayy_config_bot"
     }
   ],
-  "views": 476,
-  "forwards": 5,
+  "views": 660,
+  "forwards": 6,
   "replies": {
     "_": "MessageReplies",
     "replies": 0,
-    "replies_pts": 217330,
+    "replies_pts": 217480,
     "comments": true,
     "recent_repliers": [],
     "channel_id": 3665682785,

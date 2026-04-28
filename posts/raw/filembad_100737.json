@@ -1,0 +1,114 @@
+{
+  "_": "Message",
+  "id": 100737,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2025442005
+  },
+  "date": "2026-04-28T17:46:26+00:00",
+  "message": "🔐 Config & Proxy @filembad\n✅ پایدار و متصل\n\nvless://b84c936f-4ef8-4972-bbe9-7766feb0caeb@185.143.233.235:2082?security=none&type=ws&headerType=&path=%2F&host=Dev.artarona.ir#%40filembad\n\nvless://b84c936f-4ef8-4972-bbe9-7766feb0caeb@185.143.233.235:2052?security=none&type=ws&headerType=&path=%2F&host=dev.artarona.ir#%40filembad\n\nvless://b84c936f-4ef8-4972-bbe9-7766feb0caeb@185.143.233.235:2052?security=none&type=ws&headerType=&path=%2F&host=Ml.artarona.ir#%40filembad\n\nvless://b84c936f-4ef8-4972-bbe9-7766feb0caeb@185.143.233.235:2082?security=none&type=ws&headerType=&path=%2F&host=Dev.artarona.ir#%40filembad\n\nvless://b84c936f-4ef8-4972-bbe9-7766feb0caeb@185.143.233.5:2052?security=none&type=ws&headerType=&path=%2F&host=Ld.artarona.ir#%40filembad\n\nvless://b84c936f-4ef8-4972-bbe9-7766feb0caeb@185.143.233.235:2095?security=none&type=ws&headerType=&path=%2F&host=Ml.artarona.ir#%40filembad\n\nدریافت کانفیگ رایگان اختصاصی",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 3,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 18,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 30,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 45,
+      "length": 141
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 188,
+      "length": 141
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 331,
+      "length": 140
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 473,
+      "length": 141
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 616,
+      "length": 138
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 756,
+      "length": 140
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 898,
+      "length": 28,
+      "url": "https://t.me/v2rayy_config_bot"
+    }
+  ],
+  "views": 366,
+  "forwards": 4,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 217480,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 3665682785,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T17:46:32+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

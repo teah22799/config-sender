@@ -41,7 +41,7 @@
       "_": "Document",
       "id": 5971887098620288089,
       "access_hash": -6410790023545356349,
-      "file_reference": "b'\\x02N\\xa8\\x8c\\xe5\\x00\\x00\\\\ji\\xf0\\xdb\\x1aT\\xe9\\x04\\x90\\x16\\x98\\x89\\x14H1\\xbe\\x07\\xc4\\xf6\\x05\\xe7'",
+      "file_reference": "b'\\x02N\\xa8\\x8c\\xe5\\x00\\x00\\\\ji\\xf0\\xf7\\xed\\x16\\xd9\\xb4\\xea\\x0e\\xd9\\x9d\\xc0\\xee\\x81\\rY\\x1d\\xc2\\x18\\xf2'",
       "date": "2025-06-25T21:17:48+00:00",
       "mime_type": "video/mp4",
       "size": 257830,
@@ -102,12 +102,12 @@
       "length": 11
     }
   ],
-  "views": 2221,
+  "views": 2634,
   "forwards": 10,
   "replies": {
     "_": "MessageReplies",
     "replies": 0,
-    "replies_pts": 455655,
+    "replies_pts": 455662,
     "comments": true,
     "recent_repliers": [],
     "channel_id": 1694825362,
@@ -126,7 +126,7 @@
           "_": "ReactionEmoji",
           "emoticon": "🤣"
         },
-        "count": 16,
+        "count": 17,
         "chosen_order": null
       },
       {
@@ -142,7 +142,7 @@
         "_": "ReactionCount",
         "reaction": {
           "_": "ReactionEmoji",
-          "emoticon": "👍"
+          "emoticon": "❤"
         },
         "count": 2,
         "chosen_order": null
@@ -151,9 +151,9 @@
         "_": "ReactionCount",
         "reaction": {
           "_": "ReactionEmoji",
-          "emoticon": "❤"
+          "emoticon": "👍"
         },
-        "count": 1,
+        "count": 2,
         "chosen_order": null
       }
     ],

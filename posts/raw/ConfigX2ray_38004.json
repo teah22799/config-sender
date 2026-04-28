@@ -92,15 +92,52 @@
       "length": 24
     }
   ],
-  "views": 1687,
-  "forwards": 17,
+  "views": 13273,
+  "forwards": 99,
   "replies": null,
   "edit_date": "2026-04-28T16:23:21+00:00",
   "post_author": null,
   "grouped_id": null,
   "reactions": {
     "_": "MessageReactions",
-    "results": [],
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 7,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤‍🔥"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🫡"
+        },
+        "count": 2,
+        "chosen_order": null
+      }
+    ],
     "min": false,
     "can_see_list": false,
     "reactions_as_tags": false,

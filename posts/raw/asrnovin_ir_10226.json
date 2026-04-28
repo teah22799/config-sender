@@ -77,8 +77,8 @@
       "length": 12
     }
   ],
-  "views": 11487,
-  "forwards": 802,
+  "views": 12883,
+  "forwards": 866,
   "replies": null,
   "edit_date": "2026-04-28T09:56:10+00:00",
   "post_author": null,
@@ -92,7 +92,7 @@
           "_": "ReactionEmoji",
           "emoticon": "❤"
         },
-        "count": 75,
+        "count": 76,
         "chosen_order": null
       },
       {
@@ -110,7 +110,7 @@
           "_": "ReactionEmoji",
           "emoticon": "😢"
         },
-        "count": 9,
+        "count": 10,
         "chosen_order": null
       },
       {

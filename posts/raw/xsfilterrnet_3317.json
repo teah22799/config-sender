@@ -38,7 +38,7 @@
       "_": "Photo",
       "id": 6012561822352870610,
       "access_hash": 7700772185773147469,
-      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xf5i\\xf0\\xd6Id\\xcf\\x9cHV\\x05:3`\\x133Z#\\xf8s\\x11'",
+      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xf5i\\xf0\\xf5LC\\x8cT\\xbd_\\xb4\\x9f\\xfd\\xbc\\xfc(Z\\xc6\\t\\x82\\xb0'",
       "date": "2026-04-26T20:16:50+00:00",
       "sizes": [
         {
@@ -76,8 +76,8 @@
   },
   "reply_markup": null,
   "entities": [],
-  "views": 9247,
-  "forwards": 597,
+  "views": 9560,
+  "forwards": 608,
   "replies": null,
   "edit_date": "2026-04-26T20:16:54+00:00",
   "post_author": "امیرپارسا",

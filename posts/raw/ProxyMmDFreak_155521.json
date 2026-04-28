@@ -54,7 +54,7 @@
   "replies": {
     "_": "MessageReplies",
     "replies": 0,
-    "replies_pts": 326560,
+    "replies_pts": 326852,
     "comments": false,
     "recent_repliers": [],
     "channel_id": null,
@@ -75,12 +75,36 @@
         },
         "count": 5,
         "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👎"
+        },
+        "count": 1,
+        "chosen_order": null
       }
     ],
     "min": false,
     "can_see_list": true,
     "reactions_as_tags": false,
     "recent_reactions": [
+      {
+        "_": "MessagePeerReaction",
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 744647423
+        },
+        "date": "2026-04-28T17:29:25+00:00",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👎"
+        },
+        "big": false,
+        "unread": false,
+        "my": false
+      },
       {
         "_": "MessagePeerReaction",
         "peer_id": {
@@ -103,21 +127,6 @@
           "user_id": 5931606428
         },
         "date": "2026-04-28T15:11:54+00:00",
-        "reaction": {
-          "_": "ReactionEmoji",
-          "emoticon": "❤"
-        },
-        "big": false,
-        "unread": false,
-        "my": false
-      },
-      {
-        "_": "MessagePeerReaction",
-        "peer_id": {
-          "_": "PeerUser",
-          "user_id": 7355531433
-        },
-        "date": "2026-04-28T14:51:12+00:00",
         "reaction": {
           "_": "ReactionEmoji",
           "emoticon": "❤"

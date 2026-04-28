@@ -41,7 +41,7 @@
       "_": "Document",
       "id": 6012375373067590846,
       "access_hash": -2382069235863870562,
-      "file_reference": "b'\\x02l\\x98;\\xad\\x00\\x00\\x94%i\\xf0\\xdf\\tN\\xfd\\xecAxY\\x83\\xf9\\xe6\\r\\xba\\x08\\xc8a\\x86\\x80'",
+      "file_reference": "b'\\x02l\\x98;\\xad\\x00\\x00\\x94%i\\xf0\\xf9\\xc5+t\\x8d~\\xb5 \\xa1v\\x01\\xeeC4\\xe4\\x9bkw'",
       "date": "2026-04-26T20:08:29+00:00",
       "mime_type": "application/octet-stream",
       "size": 6188,
@@ -73,7 +73,7 @@
       "length": 24
     }
   ],
-  "views": 38282,
+  "views": 38402,
   "forwards": 532,
   "replies": null,
   "edit_date": "2026-04-26T20:08:59+00:00",

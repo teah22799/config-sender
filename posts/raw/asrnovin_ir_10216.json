@@ -59,8 +59,8 @@
       "length": 9
     }
   ],
-  "views": 18561,
-  "forwards": 481,
+  "views": 18777,
+  "forwards": 487,
   "replies": {
     "_": "MessageReplies",
     "replies": 0,
@@ -92,7 +92,7 @@
           "_": "ReactionEmoji",
           "emoticon": "💔"
         },
-        "count": 33,
+        "count": 34,
         "chosen_order": null
       },
       {

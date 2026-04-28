@@ -48,7 +48,7 @@
         "_": "Photo",
         "id": 6001176293547904008,
         "access_hash": 8903295468264738678,
-        "file_reference": "b'\\x00i\\xf0\\xd5\\xc8\\xf0\\x82\\xd6\\xb1\\xf6\\xaf\\xd3\\xe4\\xb1d\\xfd\\xb0P\\xc7\\x8d\\xaa'",
+        "file_reference": "b'\\x00i\\xf0\\xf4\\xf7\\x97\\xc6\\xb4\\x10\\x16\\xb0f\\x9c\\xb2\\x9b\\x06\\xb9\\x83T\\xfe\\x96'",
         "date": "2026-04-22T22:08:14+00:00",
         "sizes": [
           {
@@ -105,12 +105,12 @@
       "length": 24
     }
   ],
-  "views": 3206,
+  "views": 3391,
   "forwards": 0,
   "replies": {
     "_": "MessageReplies",
     "replies": 0,
-    "replies_pts": 1274039,
+    "replies_pts": 1275372,
     "comments": true,
     "recent_repliers": [],
     "channel_id": 3392070575,

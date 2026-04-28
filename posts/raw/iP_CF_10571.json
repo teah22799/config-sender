@@ -41,7 +41,7 @@
       "_": "Document",
       "id": 5442612974449628444,
       "access_hash": -1228858076227179490,
-      "file_reference": "b\"\\x02V\\x81D\\x9a\\x00\\x00)Ki\\xf0\\xd6'yb\\xba\\xf5\\xec|\\n\\xe7q\\x9a\\x83\\xe5\\xb2|'\\xba\"",
+      "file_reference": "b\"\\x02V\\x81D\\x9a\\x00\\x00)Ki\\xf0\\xf51w\\x07'H\\xd5|}\\xe9=zj\\x95\\xba\\xcce\\x8d\"",
       "date": "2026-04-28T03:51:17+00:00",
       "mime_type": "application/zip",
       "size": 7218981,
@@ -100,12 +100,12 @@
       "length": 18
     }
   ],
-  "views": 1599,
-  "forwards": 35,
+  "views": 1800,
+  "forwards": 42,
   "replies": {
     "_": "MessageReplies",
     "replies": 0,
-    "replies_pts": 512334,
+    "replies_pts": 512346,
     "comments": true,
     "recent_repliers": [],
     "channel_id": 1916600896,
@@ -124,7 +124,7 @@
           "_": "ReactionEmoji",
           "emoticon": "❤‍🔥"
         },
-        "count": 5,
+        "count": 6,
         "chosen_order": null
       }
     ],

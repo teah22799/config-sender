@@ -58,12 +58,12 @@
       "url": "tg://proxy?port=443&secret=ee03391d9e585b20ee18f588274347c2ff7777772e676f6f676c652e636f6d&server=185.224.215.172"
     }
   ],
-  "views": 3713,
+  "views": 3865,
   "forwards": 30,
   "replies": {
     "_": "MessageReplies",
     "replies": 0,
-    "replies_pts": 1274039,
+    "replies_pts": 1275372,
     "comments": true,
     "recent_repliers": [],
     "channel_id": 3392070575,

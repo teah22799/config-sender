@@ -142,7 +142,7 @@
       "min": false,
       "has_unread_votes": false,
       "results": [],
-      "total_voters": 1129,
+      "total_voters": 1130,
       "recent_voters": [],
       "solution": null,
       "solution_entities": [],
@@ -152,12 +152,12 @@
   },
   "reply_markup": null,
   "entities": [],
-  "views": 9360,
+  "views": 9464,
   "forwards": 6,
   "replies": {
     "_": "MessageReplies",
     "replies": 29,
-    "replies_pts": 102786,
+    "replies_pts": 102860,
     "comments": true,
     "recent_repliers": [
       {

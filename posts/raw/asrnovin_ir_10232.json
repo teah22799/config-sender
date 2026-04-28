@@ -1,0 +1,210 @@
+{
+  "_": "Message",
+  "id": 10232,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1139260001
+  },
+  "date": "2026-04-28T17:27:05+00:00",
+  "message": "از جمعیت ۹۰ میلیونی ایران فقط ۱۱۲ میلیون نفر در چنل اصلی روبیکا عضو هستند!\n@asrnovin_ir",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 6019147325772598593,
+      "access_hash": 5396179487827833356,
+      "file_reference": "b\"\\x02C\\xe7\\xbaa\\x00\\x00'\\xf8i\\xf0\\xf7\\xe1H6\\x9d@\\xa4q\\xaa\\x9e\\xdd\\xbd\\xeb\\xdf\\x11\\xc7\\xf1\\xe1\"",
+      "date": "2026-04-28T17:27:05+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01(%\\xd7\\xa4f\\xda\\xa5\\x8fa\\x9aZ(\\x02\\x18\\xe7.\\xc8\\x08\\x18q\\x91\\x8e\\xdfZ\\x9a\\x98\\x98\\x07\\x84\\xdb\\x9fJ}\\x08\\x00w\\xa2\\x8a(\\x02\\x16w\\x0cGo\\xa5\\x1b\\xdf\\x07\\xfc*\\xc6(\\xc5;\\x8a\\xc5m\\xef\\xeb\\xfaR\\x97|\\x9f\\xf0\\xab\\x18\\xa6\\xff\\x00\\xc0\\xa8\\xb8Xdl\\xcc\\x0eO\\xe9EH9\\x1e\\xb4Qp\\xb0\\xb8\\x19\\xcfsE\\x14R\\x18R`\\x1e\\xd4Q@\\n\\x07\\x1c\\x0cQE\\x14\\x01'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 295,
+          "h": 320,
+          "size": 10223
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 738,
+          "h": 800,
+          "size": 35198
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 1080,
+          "h": 1171,
+          "sizes": [
+            7582,
+            14776,
+            24637,
+            36142,
+            50851
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityMention",
+      "offset": 75,
+      "length": 12
+    }
+  ],
+  "views": 3868,
+  "forwards": 58,
+  "replies": null,
+  "edit_date": "2026-04-28T18:00:37+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionPaid"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🤣"
+        },
+        "count": 229,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😁"
+        },
+        "count": 42,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🤯"
+        },
+        "count": 4,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👀"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🏆"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💔"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😈"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": [
+      {
+        "_": "MessageReactor",
+        "count": 1,
+        "top": true,
+        "my": false,
+        "anonymous": false,
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 535216217
+        }
+      }
+    ]
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

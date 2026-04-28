@@ -1,0 +1,114 @@
+{
+  "_": "Message",
+  "id": 100712,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2025442005
+  },
+  "date": "2026-04-28T17:04:07+00:00",
+  "message": "🔐 Config & Proxy @filembad\n✅ پایدار و متصل\n\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha01LTzlLWG93eEZjeDVB@20.87.107.99:443?outline=1&prefix=POST%20N330abfk#%40filembad\n\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha01LTzlLWG93eEZjeDVB@20.87.107.99:443#%40filembad\n\nvless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.145:443?allowInsecure=1&encryption=none&host=sni.111000.v6.rocks&security=tls&sni=sni.111000.v6.rocks&type=ws#%40filembad\n\nvless://dacb912c-39ef-4fe0-d720-fadaa53111c0@3.72.6.34:443?security=none&encryption=none&headerType=none&type=tcp#%40filembad\n\nvless://d340e519-6b0f-4a84-84d7-431a72a98440@104.20.6.134:8443?path=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=1&amp%3Bhost=a1d.bioritalin.ir&amp%3Btype=ws&amp%3BallowInsecure=1&amp%3Bsni=a1d.bioritalin.ir#%40filembad\n\nvless://981fca81-5be1-41f8-ac9b-d138e8109943@43.169.19.179:443?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#%40filembad\n\nدریافت کانفیگ رایگان اختصاصی",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 3,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 18,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 30,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 45,
+      "length": 119
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 166,
+      "length": 86
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 254,
+      "length": 176
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 432,
+      "length": 125
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 559,
+      "length": 232
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 793,
+      "length": 205
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 1000,
+      "length": 28,
+      "url": "https://t.me/v2rayy_config_bot"
+    }
+  ],
+  "views": 497,
+  "forwards": 4,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 217480,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 3665682785,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T17:04:10+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": "en"
+}

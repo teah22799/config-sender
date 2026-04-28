@@ -1,0 +1,101 @@
+{
+  "_": "Message",
+  "id": 24624,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3744627358
+  },
+  "date": "2026-04-28T17:27:25+00:00",
+  "message": "📂 کانفیگ MTPROTO\n📍 لوکیشن: Poland 🇵🇱\n📶 پینگ: 110ms\n\n#Proxy #MTProto\n\n🕒 انتشار: 19:25 - 1405/02/08\n💡 منبع: @beshkan\n\nhttps://t.me/proxy?server=connect.0xl1r.cfd&port=853&secret=eea1f31ce5039ccb8331e906d5ab00a31777622e7275",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": {
+    "_": "ReplyInlineMarkup",
+    "rows": [
+      {
+        "_": "KeyboardButtonRow",
+        "buttons": [
+          {
+            "_": "KeyboardButtonUrl",
+            "text": "⚡️ اتصال (Connect)",
+            "url": "https://t.me/proxy?server=connect.0xl1r.cfd&port=853&secret=eea1f31ce5039ccb8331e906d5ab00a31777622e7275",
+            "style": null
+          }
+        ]
+      },
+      {
+        "_": "KeyboardButtonRow",
+        "buttons": [
+          {
+            "_": "KeyboardButtonUrl",
+            "text": "🔍 دریافت کانفیگ‌های بیشتر",
+            "url": "https://t.me/persianvpnhub",
+            "style": null
+          }
+        ]
+      }
+    ]
+  },
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 57,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 64,
+      "length": 8
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 113,
+      "length": 8
+    },
+    {
+      "_": "MessageEntityPre",
+      "offset": 123,
+      "length": 104,
+      "language": ""
+    }
+  ],
+  "views": 215,
+  "forwards": 2,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

@@ -1,0 +1,92 @@
+{
+  "_": "Message",
+  "id": 1086782,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1281277996
+  },
+  "date": "2026-04-28T17:50:49+00:00",
+  "message": "• کاربر ( M Y )\n• برای ارسال پیام باید در اینترنتِ آزاد برای همه | پروکسی - کانفیگ - فیلترشکن عضو شوید.\n• لطفا با استفاده از دکمه زیر عضو شوید!",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": false,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": {
+    "_": "PeerUser",
+    "user_id": 547549835
+  },
+  "from_boosts_applied": null,
+  "from_rank": "خدمتکار گروه",
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": {
+    "_": "ReplyInlineMarkup",
+    "rows": [
+      {
+        "_": "KeyboardButtonRow",
+        "buttons": [
+          {
+            "_": "KeyboardButtonUrl",
+            "text": "• لینک عضویت",
+            "url": "https://t.me/farsiproxy",
+            "style": null
+          }
+        ]
+      }
+    ]
+  },
+  "entities": [
+    {
+      "_": "MessageEntityMentionName",
+      "offset": 10,
+      "length": 3,
+      "user_id": 5477202583
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 42,
+      "length": 51
+    }
+  ],
+  "views": null,
+  "forwards": null,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 2212001,
+    "comments": false,
+    "recent_repliers": [],
+    "channel_id": null,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": 604800,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

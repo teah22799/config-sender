@@ -1,0 +1,71 @@
+{
+  "_": "Message",
+  "id": 155630,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3111946920
+  },
+  "date": "2026-04-28T16:15:21+00:00",
+  "message": "slipnet-enc://AZ/SMjyvzdZyEchVJb8nBh5J7DXu+rLa+3kqh7QY9iueaY0D96D3VjXfyY6LhQj7lbK2VMBIL5qq2Jt7eW9rjy0eViwofgZw9hXUd8GtcXpNv4nVu1/HQUNbGNnzVp4QD6ZvkNv8VAcpfzw9qd02rYwsh3OqomjTMi0/ZG0CL0OGfLQ+Nsvoei+kpg6I6H1hg3r/cyU1TCodFcuYd2TXdZGl9YiK5ZbuUVp6IXEScHoOZ8SNRY1CFCj+s/piaQDsU4fUaj/P8Po7nqE+AfGNQ9WB42tC2hVrxnRtPFGu49EacFrlK+7NJYBTjFWRvManyRj5GvdH8kGRgF18mv77LESy8dXMnI6784q1lBhqUYu73wVwmKKrUysJWIkb4N+H+1V4COXoz2roiUWiBRov1xgl/p/RmsgJ8+dyadVoKg56odGqjca3OZossH0AllVVn3BJ2Zk4IRWkGC4GAKBhKJIsWfrUZjHaMyL+KxVMfa+Et326KFuQw9j60VRzXrao2hJfywH1mJrN/4RiwCuQlB8dGJEs+BqNHNWawCJwLDkDqgine3/lCL2biRM3+JeteK9Ee8tU0GlJyfCREDWjpXe/ANePwwI21OAfQ+ZaFVORmXuDIexxXhuN61atdhL4hxCw+9FBm+svApajbeTY5g++Q+sZNS8ixer6QlRn71MoqqsNwszMx+G+qMuaQNRzczeCvBeB8AseM7o=",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": false,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": {
+    "_": "PeerUser",
+    "user_id": 198434601
+  },
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCode",
+      "offset": 0,
+      "length": 734
+    }
+  ],
+  "views": null,
+  "forwards": null,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 326852,
+    "comments": false,
+    "recent_repliers": [],
+    "channel_id": null,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

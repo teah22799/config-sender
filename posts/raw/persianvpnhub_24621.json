@@ -1,0 +1,101 @@
+{
+  "_": "Message",
+  "id": 24621,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3744627358
+  },
+  "date": "2026-04-28T17:27:09+00:00",
+  "message": "📂 کانفیگ VLESS\n📍 لوکیشن: کلودفلر ☁️\n📶 پینگ: 90ms\n\n#VLESS #VPN\n\n🕒 انتشار: 18:50 - 1405/02/08\n💡 منبع: @filtershekan_channel\n\nvless://a4f963d4-a5c5-4189-8b4d-d7b8b8ab05f8@snapp.ir:8080?path=%2F&security=none&encryption=none&host=duster.star2feri.ir&type=ws#%40filtershekan_channel",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": {
+    "_": "ReplyInlineMarkup",
+    "rows": [
+      {
+        "_": "KeyboardButtonRow",
+        "buttons": [
+          {
+            "_": "KeyboardButtonUrl",
+            "text": "⛶ کد QR کانفیگ",
+            "url": "https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&chs=200x200&chl=vless%3A%2F%2Fa4f963d4-a5c5-4189-8b4d-d7b8b8ab05f8%40snapp.ir%3A8080%3Fpath%3D%252F%26security%3Dnone%26encryption%3Dnone%26host%3Dduster.star2feri.ir%26type%3Dws%23%2540filtershekan_channel",
+            "style": null
+          }
+        ]
+      },
+      {
+        "_": "KeyboardButtonRow",
+        "buttons": [
+          {
+            "_": "KeyboardButtonUrl",
+            "text": "🔍 دریافت کانفیگ‌های بیشتر",
+            "url": "https://t.me/persianvpnhub",
+            "style": null
+          }
+        ]
+      }
+    ]
+  },
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 53,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 60,
+      "length": 4
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 105,
+      "length": 21
+    },
+    {
+      "_": "MessageEntityPre",
+      "offset": 128,
+      "length": 154,
+      "language": ""
+    }
+  ],
+  "views": 449,
+  "forwards": 3,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

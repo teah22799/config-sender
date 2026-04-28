@@ -1,0 +1,199 @@
+{
+  "_": "Message",
+  "id": 10231,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1139260001
+  },
+  "date": "2026-04-28T16:10:30+00:00",
+  "message": "📱تحویل اپل آیدی آماده در لحظه آنی⚡️\n🔴با اطلاعات شخصی یک ربعه 🔴\n🟢 ربات  ۲۴ ساعته اکتیو (حتی روزهای تعطیل) 🔜\n🟢 موجودی همیشه فول 👌\n🟢 اپل آیدی‌های ساخت قدیم و بدون ناتی 📱\n 🟢۳ سال سابقه + ضمانت واقعی ناتی ✅\n🟢 زیر قیمت پخش بازار 🤔\n\n😎لینک سفارش  ✉️\n\n☎️ راهنمایی  09128489787\n🔤@appleidgold1\n\nربات اپل آیدی بله 🔽🔽\nhttps://ble.ir/goldappleid_bot",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 5893139526543150734,
+      "access_hash": 4522216877840290710,
+      "file_reference": "b\"\\x02C\\xe7\\xbaa\\x00\\x00'\\xf7i\\xf0\\xf7\\xe1\\x89\\rvG\\xd5g\\xdb\\x84\\x19R\\x9b\\xa9hA\\xebZ\"",
+      "date": "2026-03-17T22:19:14+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01((\\xc9\\xc5:8\\x9eC\\x84RM>\\x04\\x12J\\x14\\xf7\\xf5\\xad\\x1bi\\x1e6\\x11\\xacAq\\xf7\\x80\\x1d\\x7f\\x1a%+\\x14\\xa2\\xd9\\x96\\xc8W\\xafZn=k^\\xf6\\xda9\\x08e\\x18s\\xdf\\xd6\\xa8\\x08\\x9b\\x7f\\x96\\xc3\\x93\\xd2\\x9a\\x9abqh\\xadE9\\x86\\x0e(\\xaa to\\xb5\\xc1\\xf45w\\xed\\x8c\\xb3\\x1d\\xdc\\xa1\\xe4U\\x05R\\xc7\\n2jB\\xae\\x18\\xc6T\\xee^1I\\xa4\\xd5\\x99z\\xa7th\\xb4\\xa2E\\x04\\x1c\\x81M\\xcf \\xe3\\x91\\xc8\\xaajd\\x84\\xfc\\xd9\\x19\\x19\\xe4S\\xa4\\x99\\xf9\\xd8\\xac\\x07\\xa9\\xaewI\\xdfC\\xa1T\\x8d\\xb5\"\\xb8\\x18\\x99\\x87\\xe3E1\\x83u`y\\xf5\\xa2\\xbaV\\x88\\xe5{\\x82;Fr\\xa7\\x06\\x9f\\xf6\\x99}\\x7fJ(\\xa2\\xc5\\x87\\xda\\xa5\\xe7\\xe7\\xeb\\xc5 \\xb8\\x94tsE\\x14X\\x9b\\x8dy\\x1eLnb@\\xa2\\x8a(\\x11'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 320,
+          "size": 19489
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 800,
+          "h": 800,
+          "size": 76439
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 1024,
+          "h": 1024,
+          "sizes": [
+            13470,
+            28417,
+            46540,
+            70297,
+            96466
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 36
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 37,
+      "length": 203
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 240,
+      "length": 10,
+      "url": "https://t.me/goldappleid_bot?start=8237670787"
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 250,
+      "length": 33
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 283,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 283,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 298,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 321,
+      "length": 30
+    }
+  ],
+  "views": 6376,
+  "forwards": 63,
+  "replies": null,
+  "edit_date": "2026-04-28T16:13:04+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🔥"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🤯"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😈"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

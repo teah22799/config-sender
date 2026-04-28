@@ -1,0 +1,77 @@
+{
+  "_": "Message",
+  "id": 155649,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3111946920
+  },
+  "date": "2026-04-28T16:40:23+00:00",
+  "message": "PROXY : \nhttps://t.me/socks?server=46.245.80.6&port=10808&user=Telegram%3A%40saministamm&pass=%40saministamm",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": false,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": {
+    "_": "PeerUser",
+    "user_id": 8393077874
+  },
+  "from_boosts_applied": null,
+  "from_rank": "Rti Serotonin",
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 9,
+      "length": 99,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 9,
+      "length": 99
+    }
+  ],
+  "views": null,
+  "forwards": null,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 326852,
+    "comments": false,
+    "recent_repliers": [],
+    "channel_id": null,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

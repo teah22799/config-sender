@@ -56,7 +56,7 @@
       "_": "Photo",
       "id": 6016909312803933236,
       "access_hash": -58517009155244879,
-      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xc6\\xd9ci\\x00\\x00@\\x16i\\xf0\\xd5\\xc8<\\x95*\\xe1\\xc34\\xe8\\xde\\x17\\x0c \\xc91\\xf8\\x91z'",
+      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xc6\\xd9ci\\x00\\x00@\\x16i\\xf0\\xf4\\xf7Y\\x80=\\xbc@\\x01\\x0e\\xab\\xfd\\xb4\\xa2\\xd5J\\x80K\\x14'",
       "date": "2026-04-28T12:30:01+00:00",
       "sizes": [
         {
@@ -127,15 +127,25 @@
       "length": 13
     }
   ],
-  "views": 1802,
-  "forwards": 8,
+  "views": 3212,
+  "forwards": 9,
   "replies": null,
   "edit_date": "2026-04-28T15:20:11+00:00",
   "post_author": "Mhsenivx",
   "grouped_id": null,
   "reactions": {
     "_": "MessageReactions",
-    "results": [],
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
     "min": false,
     "can_see_list": false,
     "reactions_as_tags": false,

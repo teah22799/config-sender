@@ -44,7 +44,7 @@
       "_": "Document",
       "id": 6019399280979090785,
       "access_hash": 4349225803416870952,
-      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xb9|\\x8a\\xa8\\x00\\x02_\\x9ai\\xf0\\xd6;\\xb6\\x9c\\xa4\\xa2\\x03}\\x1a\\xf4\\xb0*\\xab\\xc2c&#\\xbb'",
+      "file_reference": "b\"\\x05\\x00\\x00\\x00\\x00\\xb9|\\x8a\\xa8\\x00\\x02_\\x9ai\\xf0\\xf5?\\xb8\\xee/\\xb6\\xea\\xc4\\xddsHJ\\xe0\\xbe`\\xb4'\\t\"",
       "date": "2026-04-28T14:15:19+00:00",
       "mime_type": "application/octet-stream",
       "size": 1192,
@@ -76,7 +76,7 @@
   "replies": {
     "_": "MessageReplies",
     "replies": 0,
-    "replies_pts": 326560,
+    "replies_pts": 326852,
     "comments": false,
     "recent_repliers": [],
     "channel_id": null,

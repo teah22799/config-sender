@@ -41,7 +41,7 @@
       "_": "Document",
       "id": 6016867767125285620,
       "access_hash": -4477258894734007994,
-      "file_reference": "b'\\x02|X\\xe5+\\x00\\x00\\x0bNi\\xf0\\xd2?\\x10\\xc5\\xb6d\\t;\\x1fN\\x1bJ3:\\xb7\\xc3?\\xb1'",
+      "file_reference": "b'\\x02|X\\xe5+\\x00\\x00\\x0bNi\\xf0\\xf2\\xeb:\\xe3\\xb8n\\xd2\\x81\\x8aQ\\x02\\xc5\\x1b\\xce\\xc0p\\xb9\\xb1'",
       "date": "2026-04-27T23:51:39+00:00",
       "mime_type": "video/mp4",
       "size": 2683177,
@@ -81,7 +81,7 @@
         "_": "Document",
         "id": 6017005060049869683,
         "access_hash": -7620928844009511451,
-        "file_reference": "b'\\x02|X\\xe5+\\x00\\x00\\x0bNi\\xf0\\xd2?~\\ndalb^WN\"%\\x92i\\xea\\x021'",
+        "file_reference": "b'\\x02|X\\xe5+\\x00\\x00\\x0bNi\\xf0\\xf2\\xeb\\xaf\\x93O\\x8d4\\xcfSwt\\x06\\xfb\\x08\\xbe0H\\x01'",
         "date": "2026-04-27T23:51:42+00:00",
         "mime_type": "video/mp4",
         "size": 2543185,
@@ -120,7 +120,7 @@
         "_": "Document",
         "id": 6016936551026531921,
         "access_hash": -6270143247871696811,
-        "file_reference": "b'\\x02|X\\xe5+\\x00\\x00\\x0bNi\\xf0\\xd2?E\\x07\\xcck\\xc8])\\xad\\x95\\xf0F\\xc3\\x8aU\\x043'",
+        "file_reference": "b'\\x02|X\\xe5+\\x00\\x00\\x0bNi\\xf0\\xf2\\xebsO\\xb6\\x96\\x92\\xd7f\\x97\\xd0\\x1f\\xe5\\x87\\xcd\\xc0k^'",
         "date": "2026-04-27T23:51:42+00:00",
         "mime_type": "application/x-mpegurl",
         "size": 1364,
@@ -138,7 +138,7 @@
         "_": "Document",
         "id": 6017059438630805289,
         "access_hash": 8661421783150858915,
-        "file_reference": "b'\\x02|X\\xe5+\\x00\\x00\\x0bNi\\xf0\\xd2?$\\xbb\\x85G\\xe6\\xb2d\\xf2\\xa7\\x1a#\"g\\xf7\\xfd\\xfa'",
+        "file_reference": "b'\\x02|X\\xe5+\\x00\\x00\\x0bNi\\xf0\\xf2\\xeb\\xdc\\x97I\\xd2mG=\\x12\\x8b\\x8a\\x9d\\xaf-^-\\x82'",
         "date": "2026-04-27T23:51:42+00:00",
         "mime_type": "video/mp4",
         "size": 3340928,
@@ -177,7 +177,7 @@
         "_": "Document",
         "id": 6017095512061123802,
         "access_hash": 1012268561541169090,
-        "file_reference": "b'\\x02|X\\xe5+\\x00\\x00\\x0bNi\\xf0\\xd2?\\xc4\\xc4\\n\\xc5\\xfe\\xe2\\x18,\\x01@\\x0b@H<a\\x92'",
+        "file_reference": "b'\\x02|X\\xe5+\\x00\\x00\\x0bNi\\xf0\\xf2\\xeb^\\xd0f\\x16\\xcb~\\x13\\x11\\xad\\x9e[~S\\xd2\\xec:'",
         "date": "2026-04-27T23:51:42+00:00",
         "mime_type": "application/x-mpegurl",
         "size": 1367,
@@ -195,7 +195,7 @@
         "_": "Document",
         "id": 6016991591032429921,
         "access_hash": -1157237088152814269,
-        "file_reference": "b'\\x02|X\\xe5+\\x00\\x00\\x0bNi\\xf0\\xd2?\\x1dbH\\xce\\xd3\\xb1\\xc8\\xea\\xe4\\xdf\\x06\\xcc\\xcb\\xe1\\xe5\\x06'",
+        "file_reference": "b'\\x02|X\\xe5+\\x00\\x00\\x0bNi\\xf0\\xf2\\xeb\\xb9\\xe4\\xb0\\x0e\\xd0\\xdd@1\\rq\\xb7t\\xe9\\xe7\\xc8/'",
         "date": "2026-04-27T23:51:42+00:00",
         "mime_type": "application/x-tgstoryboard",
         "size": 47664,
@@ -213,7 +213,7 @@
         "_": "Document",
         "id": 6016951927009450594,
         "access_hash": -2862686239499893969,
-        "file_reference": "b'\\x02|X\\xe5+\\x00\\x00\\x0bNi\\xf0\\xd2?\\xc3\\xa1\\xe9\\xd2\\x8c\\xd5\\xce\\xfe\\xe2\\x82\\x17\\xbd^\\xa7W\\x07'",
+        "file_reference": "b'\\x02|X\\xe5+\\x00\\x00\\x0bNi\\xf0\\xf2\\xebQ\\xaa \\xc2n\\x8bjX\\xa8c`\\xa4r\\xe9S\\xff'",
         "date": "2026-04-27T23:51:42+00:00",
         "mime_type": "application/x-tgstoryboardmap",
         "size": 488,
@@ -291,12 +291,12 @@
       "url": "https://x.com/aleskxyz"
     }
   ],
-  "views": 1121,
-  "forwards": 50,
+  "views": 1320,
+  "forwards": 52,
   "replies": {
     "_": "MessageReplies",
     "replies": 1,
-    "replies_pts": 70301,
+    "replies_pts": 70311,
     "comments": true,
     "recent_repliers": [
       {
@@ -320,7 +320,7 @@
           "_": "ReactionEmoji",
           "emoticon": "❤‍🔥"
         },
-        "count": 11,
+        "count": 12,
         "chosen_order": null
       },
       {

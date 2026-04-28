@@ -1,0 +1,122 @@
+{
+  "_": "Message",
+  "id": 100743,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2025442005
+  },
+  "date": "2026-04-28T17:54:54+00:00",
+  "message": "🔐 Config & Proxy @filembad\n✅ پایدار و متصل\n\nvless://a7266efd-3d62-4727-a11c-9edbf25dbfc3@snappfood.ir:80?type=ws&encryption=none&path=%2Fws&host=cdnisfucka.drnimaamini.ir&security#%40filembad\n\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha01LTzlLWG93eEZjeDVB@20.87.107.99:443#%40filembad\n\nvless://d4b4d02e-8277-42b2-921f-13995ef6fdf8@snapp.ir:80?path=/&security=none&encryption=none&host=cpi.lithiumnet.ir&type=ws#%40filembad\n\nvless://4278a814-4a82-4b9b-8092-0ba60a3fb2f6@193.151.153.47:34661?security=none&encryption=none&headerType=none&type=tcp#%40filembad\n\nvless://ac5a52a4-3765-4d74-92b1-dc0dd0de931e@snapp.ir:80?path=/?ed=1024&security=none&encryption=none&host=freept-1.followon.ir&type=ws#%40filembad\n\nvless://fc53bae5-92f5-4572-9ce8-9e56901479f1@104.20.5.134:80?encryption=none&security=none&type=ws&host=尼亞團員1尼亞團員2尼亞團員3尼亞團亞團員尼亞團尼亞團亞團員亞團員員亞3亞團員亞團員.尼亞團員1尼亞團員2尼亞團員3尼亞團亞團員尼亞團尼亞團亞團員亞團員員亞團亞團員亞團員.com.&path=/amo-mohammad#%40filembad\n\nدریافت کانفیگ رایگان اختصاصی",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 3,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 18,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 30,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 45,
+      "length": 147
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 194,
+      "length": 86
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 282,
+      "length": 136
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 420,
+      "length": 132
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 554,
+      "length": 147
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 703,
+      "length": 225
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 930,
+      "length": 28,
+      "url": "https://t.me/v2rayy_config_bot"
+    }
+  ],
+  "views": 153,
+  "forwards": 4,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 217480,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 3665682785,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T17:55:18+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

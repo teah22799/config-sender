@@ -33,12 +33,12 @@
   "media": null,
   "reply_markup": null,
   "entities": [],
-  "views": 2649,
-  "forwards": 20,
+  "views": 2661,
+  "forwards": 21,
   "replies": {
     "_": "MessageReplies",
     "replies": 0,
-    "replies_pts": 70301,
+    "replies_pts": 70311,
     "comments": true,
     "recent_repliers": [],
     "channel_id": 3045905167,
@@ -57,7 +57,7 @@
           "_": "ReactionEmoji",
           "emoticon": "❤"
         },
-        "count": 45,
+        "count": 46,
         "chosen_order": null
       },
       {

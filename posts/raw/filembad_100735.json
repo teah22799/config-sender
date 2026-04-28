@@ -1,0 +1,172 @@
+{
+  "_": "Message",
+  "id": 100735,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2025442005
+  },
+  "date": "2026-04-28T17:44:04+00:00",
+  "message": "🚨 ۳۰۰ اکانت رایگان ویژه استارلینک شارژ شد!\n\n‼️در حال حاضر تنها سرویسی که بدون قطعی کار میکنه، تونستیم براتون شارژ کنیم اکانت استارلینک هست\n\n📶 این اکانتها از طریق استارلینک کانفیگ شدن و پرسرعت، پایدار و کاملاً متصل میباشند کاملا رایگان \n\n‼️ توجه کنین!! تعداد خیلی محدوده و با این حجم درخواست، سریع تموم میشه\n\nاگه کار مهمی دارین تا وصلین\nهمین الان از طریق زیر اکانتتو بگیر کاملا رایگان 🔻\n\n@v2rayy_config_bot\n\nجهت دریافت👆",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": {
+    "_": "MessageFwdHeader",
+    "date": "2026-04-21T15:47:10+00:00",
+    "imported": false,
+    "saved_out": false,
+    "from_id": {
+      "_": "PeerChannel",
+      "channel_id": 2025442005
+    },
+    "from_name": null,
+    "channel_post": 95683,
+    "post_author": null,
+    "saved_from_peer": null,
+    "saved_from_msg_id": null,
+    "saved_from_id": null,
+    "saved_from_name": null,
+    "saved_date": null,
+    "psa_type": null
+  },
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 5944989071820131499,
+      "access_hash": 4859458914687363950,
+      "file_reference": "b'\\x02x\\xb9\\xca\\xd5\\x00\\x01\\x89\\x7fi\\xf0\\xf5\\x04\\xb8\\xf6\\xe4c\\xe1\\x83\\xc7\\xa5\\xc5\\xd5\\xaf\\x8a}P$b'",
+      "date": "2026-04-03T10:32:19+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01(\\x1c\\xc9 m\\x1f2\\xf1\\xdb\\x9c\\xd4u0#\\x18-\\xc57j\\xfa\\xd0\\x03wq\\xd0R\\x13\\x9a\\x91B\\x86\\xeb\\x8aF\\x0b\\x9f\\xbd@\\x12\\xa1Q\\x8d\\xeb\\xdb\\xb6)\\xaf\\xd7\\x81\\xc5Xf\\x8dv\\xf9-\\x81\\xb4n\\xe0\\xf5\\xa8\\x9dW\\x92_\\x9f\\xa1\\xe6\\x91[\\xa1b\\x19\\xce\\xd8\\xf7\\x109\\xc9\\xe9Q\\xca\\x08nT\\x0fjz\\x14\\xdb\\x87f\\xc68\\x03\\xb1\\xa6\\xb1@x\\xdd\\xf8\\xd3$\\x92\\x15$ghn*9A\\x0f\\xd0\\x0fj(\\xa5\\xd4\\xd1\\xafu\\x0f\\x8bz\\xa9*U2\\xa7\\x93\\xdf\\xda\\xa3\\x94\\xb1a\\x97\\x07\\x8a(\\xa6d\\x8f'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 219,
+          "h": 320,
+          "size": 17838
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 547,
+          "h": 800,
+          "size": 60539
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 850,
+          "h": 1243,
+          "sizes": [
+            10145,
+            25023,
+            44672,
+            73051,
+            102461
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 0,
+      "length": 2,
+      "document_id": 5807866102927071266
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 45,
+      "length": 2,
+      "document_id": 5969756691762257855
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 141,
+      "length": 2,
+      "document_id": 5816659996926025458
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 239,
+      "length": 2,
+      "document_id": 5807767228484949274
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 386,
+      "length": 2,
+      "document_id": 5807662216534563077
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 390,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 420,
+      "length": 2,
+      "document_id": 6026095130698584657
+    }
+  ],
+  "views": 155,
+  "forwards": 0,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 217480,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 3665682785,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T17:44:07+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

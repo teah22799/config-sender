@@ -91,25 +91,29 @@
       "document_id": 5053169761232356354
     }
   ],
-  "views": 13690,
-  "forwards": 1195,
+  "views": 14726,
+  "forwards": 1227,
   "replies": {
     "_": "MessageReplies",
-    "replies": 67,
-    "replies_pts": 102786,
+    "replies": 76,
+    "replies_pts": 102860,
     "comments": true,
     "recent_repliers": [
       {
         "_": "PeerUser",
-        "user_id": 42331466
+        "user_id": 1530406068
       },
       {
         "_": "PeerUser",
-        "user_id": 220221283
+        "user_id": 440669645
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 42331466
       }
     ],
     "channel_id": 2200550029,
-    "max_id": 65100,
+    "max_id": 65215,
     "read_max_id": null
   },
   "edit_date": "2026-04-28T01:52:40+00:00",

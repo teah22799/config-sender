@@ -1,0 +1,249 @@
+{
+  "_": "Message",
+  "id": 1086772,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1281277996
+  },
+  "date": "2026-04-28T17:50:13+00:00",
+  "message": "سفیر بریتانیا در ایالات متحده، کریستین ترنر، در اظهارات خصوصی نشت یافته که توسط فایننشال تایمز به دست آمده است: به نظر من احتمالاً یک کشور وجود دارد که «رابطه ویژه‌ای» با ایالات متحده دارد و آن احتمالاً اسرائیل است.",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": false,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": true,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": {
+    "_": "PeerChannel",
+    "channel_id": 1062709660
+  },
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": {
+    "_": "MessageFwdHeader",
+    "date": "2026-04-28T17:50:10+00:00",
+    "imported": false,
+    "saved_out": false,
+    "from_id": {
+      "_": "PeerChannel",
+      "channel_id": 1062709660
+    },
+    "from_name": null,
+    "channel_post": 52868,
+    "post_author": null,
+    "saved_from_peer": {
+      "_": "PeerChannel",
+      "channel_id": 1062709660
+    },
+    "saved_from_msg_id": 52868,
+    "saved_from_id": null,
+    "saved_from_name": null,
+    "saved_date": null,
+    "psa_type": null
+  },
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaDocument",
+    "nopremium": false,
+    "spoiler": false,
+    "video": true,
+    "round": false,
+    "voice": false,
+    "document": {
+      "_": "Document",
+      "id": 6019351404978642573,
+      "access_hash": -7600466809361039064,
+      "file_reference": "b'\\x02L^\\xc0,\\x00\\x10\\x954i\\xf0\\xf4\\xe1\\x06\\x1a(-f\\xad7:\\x08P\\xfc=P%\\xc7\\xde'",
+      "date": "2026-04-28T14:21:27+00:00",
+      "mime_type": "video/mp4",
+      "size": 1748512,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeVideo",
+          "duration": 19.947,
+          "w": 1920,
+          "h": 1080,
+          "round_message": false,
+          "supports_streaming": true,
+          "nosound": false,
+          "preload_prefix_size": null,
+          "video_start_ts": null,
+          "video_codec": "h264"
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "2049131434460185073.mp4"
+        }
+      ],
+      "thumbs": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01\\x16(i\\x98\\xdd\\x93\\x1ep\\xcaN3\\xe9NVh\\xc1Lr:\\xd5\\x11!\\x06g\\xdd\\x82\\xc7\\x8f\\xce\\x9ff\\xc7{\\x0c\\x16\\xdc?Zm\\x04{\\x1ap1\\x10\\xb6\\xce\\x80\\x9c\\n\\xa93>\\xf0\\xcd\\x87\\xce\\x06q\\x8cUYdh\\xae\\x1f\\xef\\x05bx<dS\\xa5\\x95L*:\\xb1\\xe4\\xd2`H\\xc7\\x03$\\x9c\\x8e\\x83\\x18\\xcf4TPa\\xc1\\xdc\\xfc\\x0e\\x99\\xedEi\\x15\\x1bjCl\\x92\\xe9\\x01\\x021\\xc1A\\xcf\\xbdI\\xa6\\x12\\xab(\\xfaQEC\\xd8h[\\xf4Y\\x1dKg u\\xfc\\xeb9\\x89#\\xf4\\xa2\\x8aH\\xa2[IJ\\x12\\xb8\\x04>\\x074QE14\\x7f'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 180,
+          "size": 16375
+        }
+      ],
+      "video_thumbs": []
+    },
+    "alt_documents": [
+      {
+        "_": "Document",
+        "id": 6019594701991058722,
+        "access_hash": 5722673947270957175,
+        "file_reference": "b'\\x02L^\\xc0,\\x00\\x10\\x954i\\xf0\\xf4\\xe1%\\xe4\\xadIU\\xe4\\x99\\xb3\\xc3K\\x18\\xef\\xa9\\xab\\x9e\\x9e'",
+        "date": "2026-04-28T14:21:29+00:00",
+        "mime_type": "video/mp4",
+        "size": 1745678,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 19.817,
+            "w": 1920,
+            "h": 1080,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": "h264"
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "2049131434460185073.mp4"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": "b'\\x01\\x16(i\\x98\\xdd\\x93\\x1ep\\xcaN3\\xe9NVh\\xc1Lr:\\xd5\\x11!\\x06g\\xdd\\x82\\xc7\\x8f\\xce\\x9ff\\xc7{\\x0c\\x16\\xdc?Zm\\x04{\\x1ap1\\x10\\xb6\\xce\\x80\\x9c\\n\\xa93>\\xf0\\xcd\\x87\\xce\\x06q\\x8cUYdh\\xae\\x1f\\xef\\x05bx<dS\\xa5\\x95L*:\\xb1\\xe4\\xd2`H\\xc7\\x03$\\x9c\\x8e\\x83\\x18\\xcf4TPa\\xc1,\\xfc\\x0e\\x99\\xedEi\\x15\\x1bjCl\\x92\\xe9\\x01\\x021\\xc1A\\xcf\\xbdI\\xa6\\x12\\xab(\\xfaQEC\\xd8h[\\xf4Y\\x1dKg u\\xfc\\xeb9\\x89#\\xf4\\xa2\\x8aH\\xa2[IJ\\x12\\xb8\\x04>\\x074QE14\\x7f'"
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 320,
+            "h": 180,
+            "size": 16374
+          }
+        ],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 6017345968784023575,
+        "access_hash": 3897166350437120733,
+        "file_reference": "b'\\x02L^\\xc0,\\x00\\x10\\x954i\\xf0\\xf4\\xe1hz\\xae\\xad\\xd7\\x8e\\xbdE\\xa2&\\xc7\\xa1\\xbeJ\\xd2\\x1b'",
+        "date": "2026-04-28T14:21:29+00:00",
+        "mime_type": "application/x-mpegurl",
+        "size": 459,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "mtproto:6019594701991058722"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 6019482762258422585,
+        "access_hash": -2116834242287964798,
+        "file_reference": "b'\\x02L^\\xc0,\\x00\\x10\\x954i\\xf0\\xf4\\xe1\\xeb\\xc7\\xc1\\xdc\\x81\\xdf-\\x95\\x12\\x1a\\xf75\\x8e\\xca\\x8b\\xc7'",
+        "date": "2026-04-28T14:21:29+00:00",
+        "mime_type": "application/x-tgstoryboard",
+        "size": 37234,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "2049131434460185073.mp4.sb.jpg"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 6019554423787756895,
+        "access_hash": 6228652831943024884,
+        "file_reference": "b'\\x02L^\\xc0,\\x00\\x10\\x954i\\xf0\\xf4\\xe1\\x89\\xfb\\x92\\xd5\\x9b\\xe9\\xa0%\\xfc2\\x92\\xb3\\xf6\\xd1\\x10\\xc2'",
+        "date": "2026-04-28T14:21:29+00:00",
+        "mime_type": "application/x-tgstoryboardmap",
+        "size": 149,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 144,
+            "h": 80
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "mtproto:6019482762258422585"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      }
+    ],
+    "video_cover": null,
+    "video_timestamp": null,
+    "ttl_seconds": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 108
+    }
+  ],
+  "views": 356,
+  "forwards": 0,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 2212001,
+    "comments": false,
+    "recent_repliers": [],
+    "channel_id": null,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

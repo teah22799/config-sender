@@ -38,7 +38,7 @@
       "_": "Photo",
       "id": 6012646334424353919,
       "access_hash": -1335243357760047464,
-      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\x97\\xde\\xd0O\\x00\\x00\\x15\\xabi\\xf0\\xdf&Mq\\x03\\xcaZ\\x97\\xca\\x851\\xb9\\xc4\\xa5]\\xee\\xc8\\x0f'",
+      "file_reference": "b\"\\x05\\x00\\x00\\x00\\x00\\x97\\xde\\xd0O\\x00\\x00\\x15\\xabi\\xf0\\xf9\\xdeF\\xc2o\\xf9>A-\\x98\\xb8\\xd8'\\xfd\\xc1`Eb\"",
       "date": "2026-04-26T19:02:35+00:00",
       "sizes": [
         {
@@ -83,7 +83,7 @@
   },
   "reply_markup": null,
   "entities": [],
-  "views": 1446,
+  "views": 1451,
   "forwards": 3,
   "replies": {
     "_": "MessageReplies",

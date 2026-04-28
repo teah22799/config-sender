@@ -56,7 +56,7 @@
       "_": "Photo",
       "id": 6017146025631485127,
       "access_hash": 4594491136791865458,
-      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xc6\\xd9ci\\x00\\x00?\\xa0i\\xf0\\xd5\\xc8\\xaaS5dU443:\\xfaS\\xba\\xc4\\xf2\\xa8\\x1f'",
+      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xc6\\xd9ci\\x00\\x00?\\xa0i\\xf0\\xf4\\xf7\\t\\x91\\t\\x1a?S\\xeb\\xfc\\xad\\xf3\\x8e\\xebHx\\xa2p'",
       "date": "2026-04-27T16:06:43+00:00",
       "sizes": [
         {
@@ -217,12 +217,12 @@
       "url": "http://t.me/StarzyOff_bot?start=ref7254890750"
     }
   ],
-  "views": 3695,
-  "forwards": 0,
+  "views": 3787,
+  "forwards": 1,
   "replies": {
     "_": "MessageReplies",
     "replies": 0,
-    "replies_pts": 1274039,
+    "replies_pts": 1275372,
     "comments": true,
     "recent_repliers": [],
     "channel_id": 3392070575,

@@ -1,0 +1,92 @@
+{
+  "_": "Message",
+  "id": 1086802,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1281277996
+  },
+  "date": "2026-04-28T17:52:05+00:00",
+  "message": "سی‌ان‌ان: منابع نزدیک به روند میانجی‌گری گفتند که میانجی‌گران در پاکستان انتظار دارند در چند روز آینده پیشنهاد تغییر یافته‌ای از سوی ایران برای پایان دادن به جنگ دریافت کنند، پس از آنکه دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد نسخه قبلی را نمی‌پذیرد.\n\nبه گفته این منابع، عباس عراقچی، وزیر خارجه ایران، پس از سفر به روسیه قرار بود امروز به تهران بازگردد و پیش‌بینی می‌شود با تصمیم‌گیران مشورت کند. \n\nترامپ اعلام کرده است نسخه‌ای از پیشنهاد ایران که آخر هفته ارائه شد را نمی‌پذیرد؛ پیشنهادی که خواستار پایان اولیه جنگ و سپس حل مسائل دشوارتر مرتبط با برنامه هسته‌ای ایران در مرحله بعد بود.",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": false,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": true,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": {
+    "_": "PeerChannel",
+    "channel_id": 1062709660
+  },
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": {
+    "_": "MessageFwdHeader",
+    "date": "2026-04-28T17:52:02+00:00",
+    "imported": false,
+    "saved_out": false,
+    "from_id": {
+      "_": "PeerChannel",
+      "channel_id": 1062709660
+    },
+    "from_name": null,
+    "channel_post": 52869,
+    "post_author": null,
+    "saved_from_peer": {
+      "_": "PeerChannel",
+      "channel_id": 1062709660
+    },
+    "saved_from_msg_id": 52869,
+    "saved_from_id": null,
+    "saved_from_name": null,
+    "saved_date": null,
+    "psa_type": null
+  },
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 10
+    }
+  ],
+  "views": 292,
+  "forwards": 0,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 2212001,
+    "comments": false,
+    "recent_repliers": [],
+    "channel_id": null,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

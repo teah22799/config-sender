@@ -41,7 +41,7 @@
       "_": "Document",
       "id": 6016867767125285620,
       "access_hash": -4477258894734007994,
-      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\r\\x00i\\xf0\\xd6It\\xe1\\xa0\\xf5A\\xebr\\xc9A\\xf8\\xcf\\x89\\xc5_\\xb6\\xb0'",
+      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\r\\x00i\\xf0\\xf5L\\x9bW/\\xc7\\xd3v\\xde\\x19AM\\xaa\\xaf\\x8fc\\xf6\\xa6'",
       "date": "2026-04-27T23:51:39+00:00",
       "mime_type": "video/mp4",
       "size": 2683177,
@@ -81,7 +81,7 @@
         "_": "Document",
         "id": 6017005060049869683,
         "access_hash": -7620928844009511451,
-        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\r\\x00i\\xf0\\xd6I\\x8b\\xda\\xb8\\x88=G\\x1c\\xad\\xc6DIO\\xc3\\x95\\x9a\\xbe'",
+        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\r\\x00i\\xf0\\xf5L\\x1cW\\xe5F\\xd2\\x94\\xb0Z)\\x07\\x1e\\xf9a9\\xc3\\x8f'",
         "date": "2026-04-27T23:51:42+00:00",
         "mime_type": "video/mp4",
         "size": 2543185,
@@ -120,7 +120,7 @@
         "_": "Document",
         "id": 6016936551026531921,
         "access_hash": -6270143247871696811,
-        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\r\\x00i\\xf0\\xd6I\\x94\\xc7\\xf7\\xf6\\x9bd^\\x9c6eE\\x84\\xd4\\xfd&%'",
+        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\r\\x00i\\xf0\\xf5LM\\xc8\\xac\\xf67\\xdb\\xaf7\\x85\\x15b\\x12\\xe8\\x05\\x0c\\xe7'",
         "date": "2026-04-27T23:51:42+00:00",
         "mime_type": "application/x-mpegurl",
         "size": 1364,
@@ -138,7 +138,7 @@
         "_": "Document",
         "id": 6017059438630805289,
         "access_hash": 8661421783150858915,
-        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\r\\x00i\\xf0\\xd6I!\\x83\\xbbZ;\\xe1\\xd2\\xf1\\t\\x9c\\xbds\\xcb\\xfaY\\xf1'",
+        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\r\\x00i\\xf0\\xf5L>kd\\xfd:&y}\\xc2\\xc3\\xe8\\rq5\\x13\\x0f'",
         "date": "2026-04-27T23:51:42+00:00",
         "mime_type": "video/mp4",
         "size": 3340928,
@@ -177,7 +177,7 @@
         "_": "Document",
         "id": 6017095512061123802,
         "access_hash": 1012268561541169090,
-        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\r\\x00i\\xf0\\xd6I\\xc1\\xd1\\xa2\\xb4\\x83\\xfc\\xf3H\\x87\\x06U\\x9ab\\xc7\\x1c\\xe1'",
+        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\r\\x00i\\xf0\\xf5L\\xc2XH\\xf3.\\x0f\\x82\\xd7\\x88e#!\\x982]\\x15'",
         "date": "2026-04-27T23:51:42+00:00",
         "mime_type": "application/x-mpegurl",
         "size": 1367,
@@ -195,7 +195,7 @@
         "_": "Document",
         "id": 6016991591032429921,
         "access_hash": -1157237088152814269,
-        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\r\\x00i\\xf0\\xd6I\\x06\\x1d\\x0f\\xdbE\\x14\\x8f\\xe9<\\xe2\\xd2\\xed\\x04\\\\/\\x90'",
+        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\r\\x00i\\xf0\\xf5L^\\x1e\\x0f\\xcc\\x1a\\xa1\\x87\\xe2g\\xa1\\xcc\\r\\xa9J \\xe1'",
         "date": "2026-04-27T23:51:42+00:00",
         "mime_type": "application/x-tgstoryboard",
         "size": 47664,
@@ -213,7 +213,7 @@
         "_": "Document",
         "id": 6016951927009450594,
         "access_hash": -2862686239499893969,
-        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\r\\x00i\\xf0\\xd6Il\\x1aR\\xa6\\xbd\\xd2\\xc1)\\xb0\\xc1\\x00F\\xbe\\xa4\\xc2:'",
+        "file_reference": "b\"\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\r\\x00i\\xf0\\xf5LK\\xf7\\xf1`\\xedZu\\xe8\\xc2v\\r\\xf2\\xcf'\\xf6O\"",
         "date": "2026-04-27T23:51:42+00:00",
         "mime_type": "application/x-tgstoryboardmap",
         "size": 488,
@@ -297,29 +297,29 @@
       "document_id": 5053169761232356354
     }
   ],
-  "views": 7063,
-  "forwards": 258,
+  "views": 21640,
+  "forwards": 739,
   "replies": {
     "_": "MessageReplies",
-    "replies": 20,
-    "replies_pts": 102786,
+    "replies": 26,
+    "replies_pts": 102860,
     "comments": true,
     "recent_repliers": [
       {
         "_": "PeerUser",
-        "user_id": 8535628859
+        "user_id": 7213347449
       },
       {
         "_": "PeerUser",
-        "user_id": 143346379
+        "user_id": 6476779945
       },
       {
         "_": "PeerUser",
-        "user_id": 1073337059
+        "user_id": 5138151783
       }
     ],
     "channel_id": 2200550029,
-    "max_id": 65104,
+    "max_id": 65232,
     "read_max_id": null
   },
   "edit_date": "2026-04-28T00:25:26+00:00",

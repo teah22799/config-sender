@@ -38,7 +38,7 @@
       "_": "Photo",
       "id": 6017169970074160225,
       "access_hash": 5030497866281744515,
-      "file_reference": "b\"\\x02{\\x9d\\xcc'\\x00\\x00\\x04Oi\\xf0\\xdf\\xd7\\x16\\xe0\\xa5\\x1a\\xbbu\\xe7\\xff\\xda\\xee\\xe6cqy_\\xe0\"",
+      "file_reference": "b\"\\x02{\\x9d\\xcc'\\x00\\x00\\x04Oi\\xf0\\xfa8\\x1c\\x8b\\x1e\\xf9\\x06_\\xdbtY\\xe1\\xad$\\xf5\\xbc\\x1b\\xde\"",
       "date": "2026-04-28T07:34:56+00:00",
       "sizes": [
         {
@@ -90,12 +90,12 @@
       "url": "https://t.me/netblocks/1470"
     }
   ],
-  "views": 2418,
+  "views": 2517,
   "forwards": 9,
   "replies": {
     "_": "MessageReplies",
     "replies": 7,
-    "replies_pts": 53044,
+    "replies_pts": 53083,
     "comments": true,
     "recent_repliers": [
       {

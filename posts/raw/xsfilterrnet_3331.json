@@ -80,29 +80,25 @@
       "document_id": 5053169761232356354
     }
   ],
-  "views": 6409,
-  "forwards": 449,
+  "views": 7903,
+  "forwards": 484,
   "replies": {
     "_": "MessageReplies",
-    "replies": 44,
-    "replies_pts": 102786,
+    "replies": 54,
+    "replies_pts": 102860,
     "comments": true,
     "recent_repliers": [
       {
         "_": "PeerUser",
-        "user_id": 304233507
+        "user_id": 170021153
       },
       {
         "_": "PeerUser",
-        "user_id": 7156431824
-      },
-      {
-        "_": "PeerUser",
-        "user_id": 71684702
+        "user_id": 849627822
       }
     ],
     "channel_id": 2200550029,
-    "max_id": 65168,
+    "max_id": 65224,
     "read_max_id": null
   },
   "edit_date": "2026-04-28T08:44:54+00:00",

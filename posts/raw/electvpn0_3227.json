@@ -67,12 +67,12 @@
       "length": 10
     }
   ],
-  "views": 426,
-  "forwards": 5,
+  "views": 593,
+  "forwards": 6,
   "replies": {
     "_": "MessageReplies",
     "replies": 1,
-    "replies_pts": 3251,
+    "replies_pts": 3283,
     "comments": true,
     "recent_repliers": [
       {
@@ -96,7 +96,7 @@
           "_": "ReactionEmoji",
           "emoticon": "❤"
         },
-        "count": 4,
+        "count": 5,
         "chosen_order": null
       },
       {

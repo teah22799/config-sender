@@ -1,0 +1,151 @@
+{
+  "_": "Message",
+  "id": 100717,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2025442005
+  },
+  "date": "2026-04-28T17:14:03+00:00",
+  "message": "🔹🔹اثبات اینکه سرورای ربات استار لینک هستن\nکاملا رایگان ازش کانفیگ بگیرید تضمین میدم خودم الان وصلم\n\n@v2rayy_config_bot",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": {
+    "_": "MessageFwdHeader",
+    "date": "2026-04-17T12:42:44+00:00",
+    "imported": false,
+    "saved_out": false,
+    "from_id": {
+      "_": "PeerChannel",
+      "channel_id": 2025442005
+    },
+    "from_name": null,
+    "channel_post": 92689,
+    "post_author": null,
+    "saved_from_peer": null,
+    "saved_from_msg_id": null,
+    "saved_from_id": null,
+    "saved_from_name": null,
+    "saved_date": null,
+    "psa_type": null
+  },
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaDocument",
+    "nopremium": false,
+    "spoiler": false,
+    "video": false,
+    "round": false,
+    "voice": false,
+    "document": {
+      "_": "Document",
+      "id": 5971936752737197528,
+      "access_hash": 1390586935817582542,
+      "file_reference": "b'\\x02x\\xb9\\xca\\xd5\\x00\\x01\\x89mi\\xf0\\xf5\\x04\\xe3\\x94\\xe1y>Mw\\xac\\x94Q\\x0bO\\xe9\\xa2\\xbc\\xc1'",
+      "date": "2026-04-13T05:33:08+00:00",
+      "mime_type": "video/mp4",
+      "size": 2697524,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeVideo",
+          "duration": 21.236,
+          "w": 382,
+          "h": 854,
+          "round_message": false,
+          "supports_streaming": true,
+          "nosound": true,
+          "preload_prefix_size": null,
+          "video_start_ts": null,
+          "video_codec": "h264"
+        },
+        {
+          "_": "DocumentAttributeAnimated"
+        }
+      ],
+      "thumbs": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01(\\x12\\xa1\\x90P\\r\\xb99\\xeb\\x93I\\x9cv\\xc7\\xbd\\x0b\\xbbo\\x19\\xa0\\x96\\xdax\\xedL\\x06\\x19\\x06z\\xd1Q\\x1cg\\x8c\\xd1E\\xc0\\xdc\\x80\\xday\\x11\\xee1\\xee\\xda3\\xca\\xf5\\xc5HM\\x96O1c\\xea\\x95\\x90\\x1f!s\\x9e\\x0684\\x8d\\x82\\xa7\\x92x\\xa0\\x06\\\\\\x01\\xf6\\x896cf\\xf3\\xb7\\x1d1\\x9a*,\\xfb\\xd1H\\t\\x83er;Sw\\x8eA?\\xa5\\x14S\\x01\\x0f\\x97\\x93\\x86l\\x7f\\xbb\\xff\\x00\\xd7\\xa2\\x8a(\\x11'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 143,
+          "h": 320,
+          "size": 13737
+        }
+      ],
+      "video_thumbs": []
+    },
+    "alt_documents": [],
+    "video_cover": null,
+    "video_timestamp": null,
+    "ttl_seconds": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 0,
+      "length": 2,
+      "document_id": 5868621005194270091
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 2,
+      "length": 2,
+      "document_id": 5868621005194270091
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 102,
+      "length": 18
+    }
+  ],
+  "views": 154,
+  "forwards": 1,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 217480,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 3665682785,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T17:14:06+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

@@ -33,12 +33,12 @@
   "media": null,
   "reply_markup": null,
   "entities": [],
-  "views": 1083,
+  "views": 1089,
   "forwards": 3,
   "replies": {
     "_": "MessageReplies",
     "replies": 1,
-    "replies_pts": 708302,
+    "replies_pts": 708336,
     "comments": true,
     "recent_repliers": [
       {

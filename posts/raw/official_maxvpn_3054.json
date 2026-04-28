@@ -36,41 +36,41 @@
     "live_photo": false,
     "photo": {
       "_": "Photo",
-      "id": 6014826872140663906,
-      "access_hash": -3585509124516627210,
-      "file_reference": "b'\\x02oX\\tg\\x00\\x00\\x0b\\xeei\\xf0\\xd2*\\x89\\xd8\\xfc\\xb1\\x17\\xc9\\xae>\\x06)\\xfbEn\\xe3\\x88\\x10'",
-      "date": "2026-04-27T02:17:29+00:00",
+      "id": 6019571359303797734,
+      "access_hash": 9110208093667001948,
+      "file_reference": "b'\\x02oX\\tg\\x00\\x00\\x0b\\xeei\\xf0\\xf2\\xdb\\xc9\\x9c\\xdb\\xd2N\\x1a\\xcc\\xb3\\x08*\\x0f~\\xf1\\xa2\\xbag'",
+      "date": "2026-04-28T15:54:01+00:00",
       "sizes": [
         {
           "_": "PhotoStrippedSize",
           "type": "i",
-          "bytes": "b'\\x01(\\x14\\xcd\\x817H8\\xcf8\\x03\\xd4\\xf6\\xab/l\\x8e\\xb3\\x18\\x88\\xf9\\x0f\\x1e\\xfe\\xb5LpGJq\\xe7\\x81\\x8f\\xc6\\xa5\\x8c\\x8e\\x8aR\\x084U\\x08q\\xfe\\x1ar\\x10\\x18\\x9c\\xfe\\xb4\\xcc\\x9e=\\xa9\\xc1\\x889\\x19\\x04\\xd2\\x01\\xad\\xcb\\x1a)\\x0fS\\xcd\\x14\\x00\\xab\\xc9\\xa5=(\\xa2\\x98\\x0c<\\x9a(\\xa2\\x80?'"
+          "bytes": "b'\\x01(\\x18\\xc8\\xa9\\x95#0\\xf2\\xd8~\\x7f\\x1a\\x8c\\x0c\\xe6\\x94\\x0f\\xde\\x05\\xc7\\x19\\xa4\\x03(\\xab7Q\\xa2cb\\xed\\xe7\\xde\\x8a/q\\xb2\\x01\\xde\\x951\\xbcg\\xd6\\x93\\x8e:R\\x820\\x051\\x13]\\x148\\xd8G^\\xd8\\xfe\\x94T\\x07\\x1f\\xad\\x14\\x92\\xb0\\xd8\\xde\\xf4\\xfe=E\\x14S\\x10\\xca(\\xa2\\x80?'"
         },
         {
           "_": "PhotoSize",
           "type": "m",
-          "w": 157,
+          "w": 193,
           "h": 320,
-          "size": 15459
+          "size": 17089
         },
         {
           "_": "PhotoSize",
           "type": "x",
-          "w": 392,
+          "w": 483,
           "h": 800,
-          "size": 64481
+          "size": 68839
         },
         {
           "_": "PhotoSizeProgressive",
           "type": "y",
-          "w": 627,
+          "w": 773,
           "h": 1280,
           "sizes": [
-            10649,
-            26225,
-            53089,
-            85773,
-            118624
+            12633,
+            29334,
+            56535,
+            89769,
+            125532
           ]
         }
       ],
@@ -169,10 +169,10 @@
       "length": 14
     }
   ],
-  "views": 1074,
-  "forwards": 25,
+  "views": 1222,
+  "forwards": 32,
   "replies": null,
-  "edit_date": "2026-04-27T02:17:29+00:00",
+  "edit_date": "2026-04-28T15:54:01+00:00",
   "post_author": null,
   "grouped_id": null,
   "reactions": {
@@ -184,7 +184,7 @@
           "_": "ReactionEmoji",
           "emoticon": "❤"
         },
-        "count": 49,
+        "count": 52,
         "chosen_order": null
       },
       {
@@ -211,7 +211,7 @@
           "_": "ReactionEmoji",
           "emoticon": "👍"
         },
-        "count": 31,
+        "count": 32,
         "chosen_order": null
       },
       {
