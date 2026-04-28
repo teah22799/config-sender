@@ -33,8 +33,8 @@
   "media": null,
   "reply_markup": null,
   "entities": [],
-  "views": 219606,
-  "forwards": 337,
+  "views": 221913,
+  "forwards": 338,
   "replies": null,
   "edit_date": "2026-04-24T22:16:35+00:00",
   "post_author": "Sa",
@@ -56,7 +56,7 @@
           "_": "ReactionEmoji",
           "emoticon": "💔"
         },
-        "count": 2863,
+        "count": 2868,
         "chosen_order": null
       },
       {
@@ -83,7 +83,7 @@
           "_": "ReactionEmoji",
           "emoticon": "👎"
         },
-        "count": 76,
+        "count": 77,
         "chosen_order": null
       }
     ],
