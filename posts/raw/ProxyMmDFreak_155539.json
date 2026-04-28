@@ -1,0 +1,129 @@
+{
+  "_": "Message",
+  "id": 155539,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3111946920
+  },
+  "date": "2026-04-28T13:40:30+00:00",
+  "message": "vless://4f8b8ea9-dc11-48ff-af72-d65ab7ab59be@vitallife.gg:443?path=%2Fwp-content%2Fcachecache&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vitallife.gg&fp=chrome&type=ws&allowInsecure=0&sni=vitallife.gg#%F0%9F%9F%A8%20%20%7C%20%40%F0%9D%90%93%F0%9D%90%84%F0%9D%90%92%F0%9D%90%8B%F0%9D%90%80_%F0%9D%90%82%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%85%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%86%F0%9D%90%87\n\nvasl tarkibi \ndan nazanid",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": false,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": {
+    "_": "PeerUser",
+    "user_id": 6176899677
+  },
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [],
+  "views": null,
+  "forwards": null,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 326560,
+    "comments": false,
+    "recent_repliers": [],
+    "channel_id": null,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T13:42:14+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👎"
+        },
+        "count": 3,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": true,
+    "reactions_as_tags": false,
+    "recent_reactions": [
+      {
+        "_": "MessagePeerReaction",
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 8179117930
+        },
+        "date": "2026-04-28T14:07:05+00:00",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👎"
+        },
+        "big": false,
+        "unread": false,
+        "my": false
+      },
+      {
+        "_": "MessagePeerReaction",
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 7958296068
+        },
+        "date": "2026-04-28T13:43:41+00:00",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👎"
+        },
+        "big": false,
+        "unread": false,
+        "my": false
+      },
+      {
+        "_": "MessagePeerReaction",
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 1092412476
+        },
+        "date": "2026-04-28T13:42:14+00:00",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👎"
+        },
+        "big": false,
+        "unread": false,
+        "my": false
+      }
+    ],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

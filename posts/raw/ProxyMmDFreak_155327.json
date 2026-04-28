@@ -1,0 +1,131 @@
+{
+  "_": "Message",
+  "id": 155327,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3111946920
+  },
+  "date": "2026-04-28T06:06:26+00:00",
+  "message": "vless://c8cb0c7c-bf54-4291-ad11-fe7b5fdb82bc@red.nahidapp.com:443?path=%2Fred%2F&security=tls&encryption=none&insecure=0&host=red.nahidapp.com&type=ws&allowInsecure=0&sni=red.nahidapp.com#@Frekanssad\n\nvless://15a4482c-0bb4-4b61-845d-3775847852f8@snapp.ir:8080?path=%2F&security=none&encryption=none&host=duster.star2feri.ir&type=ws#@Frekanssad\n\nss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206dndGWHR2Ky96SDJrYVFNVUxEWHRIZz09OmFObUdIc3Y5VHBRdXdSMkd5OTJVUGF0Y3ZROGpZaDZo@vip.cafebaha.mom:5000?security=none&type=tcp#@Frekanssad\n\nvless://8135074a-49d9-46da-b79d-b58d2b9dcb6a@185.143.233.235:80?type=ws&encryption=none&path=/ytugihaowlndawobd&host=blitbegir.ir&security=none#\nvless://44de73bc-eb6d-429d-9c2f-ec0a6e4a6681@my.configfast.site:4013?security=none&encryption=none&host=bale.ai%2Cweb.splus.ir%2Cigap.net&headerType=http&type=tcp#@Frekanssad\n\nvless://8a60fc9e-c867-480d-8044-e577310bfc93@193.58.119.134:443?security=&encryption=none&host=google.com&headerType=http&type=tcp#@Frekanssad\n\nvless://dfd6a265-d0ad-44ab-a066-27c049f10b95@37.152.185.161:14914?encryption=none&type=tcp&headerType=none#@Frekanssad\n\nvless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.183:9000?security=&encryption=none&headerType=http&type=tcp#@Frekanssad\n\nvless://31bdae38-ab95-499a-8105-2fe7c45a8240@hub1.wiziii.xyz:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@Frekanssad",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": false,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": {
+    "_": "PeerUser",
+    "user_id": 1781172949
+  },
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 0,
+      "length": 1384,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 0,
+      "length": 1373
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 1373,
+      "length": 11
+    }
+  ],
+  "views": null,
+  "forwards": null,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 326560,
+    "comments": false,
+    "recent_repliers": [],
+    "channel_id": null,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T06:10:41+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👎"
+        },
+        "count": 2,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": true,
+    "reactions_as_tags": false,
+    "recent_reactions": [
+      {
+        "_": "MessagePeerReaction",
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 8135852409
+        },
+        "date": "2026-04-28T06:19:50+00:00",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👎"
+        },
+        "big": false,
+        "unread": false,
+        "my": false
+      },
+      {
+        "_": "MessagePeerReaction",
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 6565522510
+        },
+        "date": "2026-04-28T06:10:41+00:00",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👎"
+        },
+        "big": false,
+        "unread": false,
+        "my": false
+      }
+    ],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

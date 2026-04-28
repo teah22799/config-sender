@@ -1,0 +1,178 @@
+{
+  "_": "Message",
+  "id": 10184,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1139260001
+  },
+  "date": "2026-04-23T17:25:23+00:00",
+  "message": "〰️ از آخرین اخبار تکنولوژی جهان جا نمونیم:\n\n1.  ربات انسان‌نمای Unitree R1 در راه بازار جهانی با قیمت 4370 دلار.\n2.  ثبت اختراع توالت داخلی صندیل خودرو توسط یک خودروساز چینی.\n3.  رنگ جدید «دارک چری» احتمالی برای آیفون 18 پرو.\n4.  پیشنهاد ایلان ماسک برای پرداخت‌های دولتی به افراد بیکار شده توسط هوش مصنوعی.\n5.  تیم کوک پس از 15 سال، از اول سپتامبر جای خود را به جان ترنوس در اپل خواهد داد.\n6.  واتس‌اپ در حال آزمایش اشتراک پولی 2.49 یورو در ماه برای کاربران اندروید.\n7.  اداره رگولاتوری Ofcom بریتانیا تحقیقاتی را درباره تلگرام در خصوص محتوای غیرقانونی آغاز کرده است.\n8. شرکت OpenAI مدل بصری Images 2.0 را با قابلیت‌های «تفکر» برای تولید تصویر معرفی کرد.\n9.  واتس‌اپ در حال آزمایش خلاصه‌سازی پیام‌های نخوانده با پردازش خصوصی توسط هوش مصنوعی.\n10. اپل نقص امنیتی را برطرف کرد که می‌توانست اعلان‌های حذف‌شده را روی دستگاه نگه دارد.\n11. اینتل با لپ‌تاپ مفهومی سبک‌وزن خود با تراشه Wildcat Lake، رقیبی برای مک‌بوک نشان داد.\n💬 @asrnovin_ir",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 0,
+      "length": 2,
+      "document_id": 5301275719681190738
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 3,
+      "length": 39
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 44,
+      "length": 68,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 113,
+      "length": 61,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 175,
+      "length": 50,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 226,
+      "length": 81,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 307,
+      "length": 82,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 390,
+      "length": 76,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 467,
+      "length": 101,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 568,
+      "length": 87,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 655,
+      "length": 87,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 742,
+      "length": 87,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 829,
+      "length": 90,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 919,
+      "length": 2,
+      "document_id": 5285350148451344065
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 922,
+      "length": 12
+    }
+  ],
+  "views": 22110,
+  "forwards": 36,
+  "replies": null,
+  "edit_date": "2026-04-23T17:25:44+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 40,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💔"
+        },
+        "count": 13,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🤯"
+        },
+        "count": 5,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

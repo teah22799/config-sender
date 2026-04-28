@@ -1,0 +1,101 @@
+{
+  "_": "Message",
+  "id": 24556,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3744627358
+  },
+  "date": "2026-04-27T17:17:45+00:00",
+  "message": "📂 کانفیگ VLESS\n📍 لوکیشن: کلودفلر ☁️\n📶 پینگ: 141ms\n\n#VLESS #VPN\n\n🕒 انتشار: 18:47 - 1405/02/07\n💡 منبع: @electvpn0\n\nvless://4be80655-e439-49d1-9560-d69a46297063@185.143.233.5:80?encryption=none&type=ws&path=%2Fgamescore%3Fed%3D128&host=cdn4.restaurantworld.ir#@electvpn0",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": {
+    "_": "ReplyInlineMarkup",
+    "rows": [
+      {
+        "_": "KeyboardButtonRow",
+        "buttons": [
+          {
+            "_": "KeyboardButtonUrl",
+            "text": "⛶ کد QR کانفیگ",
+            "url": "https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&chs=200x200&chl=vless%3A%2F%2F4be80655-e439-49d1-9560-d69a46297063%40185.143.233.5%3A80%3Fencryption%3Dnone%26type%3Dws%26path%3D%252Fgamescore%253Fed%253D128%26host%3Dcdn4.restaurantworld.ir%23%40electvpn0",
+            "style": null
+          }
+        ]
+      },
+      {
+        "_": "KeyboardButtonRow",
+        "buttons": [
+          {
+            "_": "KeyboardButtonUrl",
+            "text": "🔍 دریافت کانفیگ‌های بیشتر",
+            "url": "https://t.me/persianvpnhub",
+            "style": null
+          }
+        ]
+      }
+    ]
+  },
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 54,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 61,
+      "length": 4
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 106,
+      "length": 10
+    },
+    {
+      "_": "MessageEntityPre",
+      "offset": 118,
+      "length": 154,
+      "language": ""
+    }
+  ],
+  "views": 1618,
+  "forwards": 4,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

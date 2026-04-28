@@ -1,0 +1,159 @@
+{
+  "_": "Message",
+  "id": 20650,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1891582980
+  },
+  "date": "2026-04-26T09:18:42+00:00",
+  "message": "Slipnet\nslipnet-enc://AeEe5C2MKCEyU0UPT+MOX//Cf3nfs/1iPzRHeKwuqGX1oND93wCx5vslBDwqqymwh/p1U3tkorZcyfMl46uGsXuHEDQ76HtNHBsxPmm4AAbqYDVCpZ/ZhHdJGHLWy+7XBii80iBuna8cYJGsRSa+wXrVRevbdEdN+04W+hx9XeZv8Yoz0D2zfn4cBA+Cz3zZgMYAK2B9YVovD0gzkUAwTvGlrfSz/Ik54VBcgHEUBtYx8cUhfIs8kyZsVtUq2U+NKIRwrt2YQLQg96FuwYmaefI3m0OS2PjwUJEqCGaiME4IJMzfcfVAtqAzYVZ1sntygSH1k1myI0wB7IADRnTKMHDd16XT2aHKsw4DbCQYnnWvTB8B51TO5rDQDcaTU+eqg26zVP7G/i4Lvpp9o7C7aTKAUEKK43dv0Uf01R+TVPoVDKebmZNCsyW1MXEiyUktDhAWYGjktvvKWXcIHVPMxQ7SqsWAIeFetAvptiAVHbOhB5XPUHXsUCcvIERQ6E6pjPNMcePoIVMFpntmxkoacqxjF7XRFrmsHN5wpstR2IDfCDH+7dG2Gy6UsLpsXXhkJJxUstZhzDYnSZuoZst2KJNQfFkBKANcQdlpE/sdXbB8JParfcRFPScVSq19G4gXw3RpzMKcBSgvc6ro1sPnuu3rag5OG7gyBIY3HoVaxdCKYrKJb1TcRU7dScWKbYs0l8DoWJDL1X6kuVi0rd97qDVT0U1mbSWfycQpf00le032ww==\nبعد کانکت بیاید تلگرام به این پروکسی وصل شید\n\nhttps://t.me/socks?server=127.0.0.1&port=10880\n\nکانال ما در پیام رسان های داخلی 👇\n\nhttps://rubika.ir/V2rayng751👈 روبیکا\n\nhttps://splus.ir/ghalagyann  👈سروش\n\nChannel 🤍 @ghalagyann\n\n🛡️هرسوالی در مورد اشتراک ها یا قصد خرید اشتراک اختصاصی داشتین  پشتیبانی آنلاینم پیام بدین 👇\nPV⚡️@V2rayng751\nPV⚡️@V2rayng751",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 0,
+      "length": 7,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 8,
+      "length": 767,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 8,
+      "length": 766
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 821,
+      "length": 46,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 821,
+      "length": 46
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 869,
+      "length": 31
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 905,
+      "length": 30
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 936,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 944,
+      "length": 27
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 975,
+      "length": 4
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 992,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 1005,
+      "length": 93
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 1103,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 1119,
+      "length": 11
+    }
+  ],
+  "views": 1552,
+  "forwards": 12,
+  "replies": null,
+  "edit_date": "2026-04-26T09:18:53+00:00",
+  "post_author": "ramin",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🤯"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😍"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

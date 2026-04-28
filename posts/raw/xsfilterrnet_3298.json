@@ -1,0 +1,165 @@
+{
+  "_": "Message",
+  "id": 3298,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3209702364
+  },
+  "date": "2026-04-24T17:11:07+00:00",
+  "message": "💡آپلودسنتر زرین استوریج:\n\n- حداکثر حجم هر فایل: 4.5 گیگابایت\n- حداکثر تعداد آپلود: نامحدود\n- ترافیک نامحدود و دانلود نامحدود\n- پخش و دانلود نیم بها\n- آپلود پرسرعت با تمام توان سرور\n- کاملا رایگان و بدون نیاز به خرید اشتراک\n- بدون نیاز به ثبت‌نام\n\nآدرس اول:\nhttps://up.zaringo.sbs\n\nآدرس دوم:\nhttps://storage.zaringo.sbs\n\n\nمرسی از عشقم حسین پیرا☺️\n\n\n@xszapass 👑",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 6008304199797509067,
+      "access_hash": -9136980696472687803,
+      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe2i\\xf0\\xd6I\\xed\\x10\\n\\x98\\x02eP\\x8e#\\xbf\\x91\\x81\\xdf\\x04\\xdb\\xb6'",
+      "date": "2026-04-24T17:11:07+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b\"\\x01(\\x14\\xcb\\x0e\\xfd\\xb1\\xf9P\\xc5\\xcfQ\\xfaR\\x0e\\x9d)\\xd9\\xaa\\x10\\xc6$\\x1eh\\xa0\\xf5\\xe9E!\\x8eQ\\x90)\\xef\\x83\\x8cm\\x18\\x18\\xe3\\xbf\\xbd5q\\x8eh$S\\x10\\xc3\\xd6\\x8aS\\xd6\\x8a\\x00zL\\xc8\\xb8\\n\\x08\\xf7\\x14\\xff\\x00\\xb49\\xfe\\x15\\xfc\\xa8\\xa2\\x86\\x91\\\\\\xce\\xc4Lw1'\\x82}\\x05\\x14Q@\\xae\\x7f\""
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 160,
+          "h": 320,
+          "size": 11294
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 401,
+          "h": 800,
+          "size": 41964
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 576,
+          "h": 1150,
+          "sizes": [
+            6273,
+            15101,
+            28930,
+            47698,
+            65158
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 0,
+      "length": 2,
+      "document_id": 5312536423851630001
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 27,
+      "length": 219,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 258,
+      "length": 22
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 292,
+      "length": 27
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 344,
+      "length": 2,
+      "document_id": 5924712049719384252
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 349,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 359,
+      "length": 2,
+      "document_id": 5053169761232356354
+    }
+  ],
+  "views": 9497,
+  "forwards": 464,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 32,
+    "replies_pts": 102786,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 436435852
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 1825486266
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 7354044102
+      }
+    ],
+    "channel_id": 2200550029,
+    "max_id": 65141,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-24T17:11:10+00:00",
+  "post_author": "امیرپارسا",
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

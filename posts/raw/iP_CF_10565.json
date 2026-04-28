@@ -1,0 +1,107 @@
+{
+  "_": "Message",
+  "id": 10565,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1451312282
+  },
+  "date": "2026-04-25T21:29:20+00:00",
+  "message": "✅کانفیگ اختصاصی موجود شد\n\nکانفیگ تکی گیگی 300 تومان\nاوتباند (حداقل خرید 30 گیگ) گیگی 250 تومن\n\n🔥مناسب تمامی اپراتورها\n🔥کیفیت فوق‌العاده بالا\n🔥ضمانت اتصال تا آخرین روز\n🔥تضمین بازگشت وجه\n🔥دارای ساب لینک\n🔥بدون ضریب و محدودیت زمانی و کاربر\n\n(متاسفانه بدلیل محدودیت ها امکان ارائه تست نیست)\n\nقیمت فوق العاده مناسب.\nبــرای خرید از طریق ربات اقدام بفرمایید.\n\n@IP_CF_CONFIG2_BOT",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": true,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 293
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 293,
+      "length": 22,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 293,
+      "length": 22
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 315,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 358,
+      "length": 18
+    }
+  ],
+  "views": 3003,
+  "forwards": 53,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 0,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 777,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-26T18:29:10+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤‍🔥"
+        },
+        "count": 9,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

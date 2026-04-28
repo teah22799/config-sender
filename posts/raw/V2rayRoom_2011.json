@@ -1,0 +1,538 @@
+{
+  "_": "Message",
+  "id": 2011,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1964007005
+  },
+  "date": "2026-04-20T07:50:44+00:00",
+  "message": "تعدادی پروکسی ساکس \n\ntg://socks?server=185.88.177.197&port=21369\ntg://socks?server=176.65.252.158&port=29818\ntg://socks?server=185.42.224.195&port=22025\ntg://socks?server=176.97.220.45&port=24169\ntg://socks?server=188.121.116.107&port=27328\ntg://socks?server=178.157.0.113&port=23848\ntg://socks?server=164.138.158.158&port=31432\ntg://socks?server=178.173.190.126&port=24579\ntg://socks?server=188.121.116.120&port=6125\ntg://socks?server=185.221.154.178&port=1080\ntg://socks?server=146.59.35.221&port=1080\ntg://socks?server=51.158.108.42&port=1080\ntg://socks?server=95.216.25.89&port=1080\ntg://socks?server=135.181.48.123&port=1080\ntg://socks?server=65.21.123.45&port=1080\ntg://socks?server=168.119.78.90&port=1080\ntg://socks?server=49.12.100.200&port=1080\ntg://socks?server=5.161.200.150&port=1080\ntg://socks?server=144.76.88.12&port=1080\ntg://socks?server=159.69.120.99&port=1080\ntg://socks?server=78.46.88.200&port=1080\ntg://socks?server=88.198.25.67&port=1080\ntg://socks?server=136.243.50.11&port=1080\ntg://socks?server=116.202.120.88&port=1080\ntg://socks?server=49.13.200.150&port=1080\ntg://socks?server=95.217.35.77&port=1080\ntg://socks?server=135.181.200.99&port=1080\ntg://socks?server=65.108.200.33&port=1080\ntg://socks?server=5.9.120.44&port=1080\ntg://socks?server=78.47.200.66&port=1080\ntg://socks?server=144.76.100.55&port=1080\ntg://socks?server=49.12.50.77&port=1080\ntg://socks?server=159.69.200.22&port=1080\ntg://socks?server=116.203.40.11&port=1080\ntg://socks?server=95.216.100.33&port=1080\ntg://socks?server=135.181.50.77&port=1080\ntg://socks?server=65.21.150.88&port=1080\ntg://socks?server=168.119.60.44&port=1080\ntg://socks?server=5.161.100.99&port=1080\ntg://socks?server=49.13.80.22&port=1080\ntg://socks?server=144.76.30.55&port=1080\ntg://socks?server=78.46.70.11&port=1080\ntg://socks?server=88.198.200.77&port=1080\ntg://socks?server=136.243.100.33&port=1080\ntg://socks?server=116.202.80.99&port=1080\ntg://socks?server=49.12.150.44&port=1080\ntg://socks?server=95.217.200.66&port=1080\ntg://socks?server=135.181.150.22&port=1080\ntg://socks?server=65.108.80.55&port=1080\ntg://socks?server=5.9.200.77&port=1080\ntg://socks?server=185.143.233.5&port=1080\ntg://socks?server=185.143.234.122&port=1080\ntg://socks?server=185.143.235.200&port=1080\ntg://socks?server=193.151.133.50&port=1080\ntg://socks?server=193.151.142.86&port=1080\ntg://socks?server=37.32.9.87&port=1080\ntg://socks?server=37.32.4.154&port=1080\ntg://socks?server=185.239.104.22&port=1080\ntg://socks?server=185.189.58.195&port=1080\ntg://socks?server=188.121.97.74&port=1080\ntg://socks?server=185.206.95.229&port=1080\ntg://socks?server=5.56.132.46&port=1080\ntg://socks?server=79.175.136.84&port=1080\ntg://socks?server=212.86.76.69&port=1080\ntg://socks?server=91.243.161.221&port=1080\ntg://socks?server=185.124.175.174&port=1080\ntg://socks?server=185.116.162.199&port=1080\ntg://socks?server=185.235.197.72&port=1080\ntg://socks?server=87.248.156.29&port=1080\ntg://socks?server=79.132.192.233&port=1080\ntg://socks?server=185.94.97.185&port=1080\ntg://socks?server=194.60.231.235&port=1080\ntg://socks?server=103.245.237.124&port=1080\ntg://socks?server=45.82.251.115&port=1080\ntg://socks?server=188.121.117.21&port=1080\ntg://socks?server=5.61.25.42&port=1080\ntg://socks?server=37.152.188.114&port=1080\ntg://socks?server=2.144.20.130&port=1080\ntg://socks?server=8.6.112.0&port=1080\ntg://socks?server=8.6.112.6&port=1080\ntg://socks?server=104.18.16.56&port=1080\ntg://socks?server=104.16.80.73&port=1080\ntg://socks?server=104.18.4.130&port=1080\ntg://socks?server=172.64.149.54&port=1080\ntg://socks?server=104.24.39.51&port=1080\ntg://socks?server=151.101.1.55&port=1080\ntg://socks?server=188.114.98.0&port=1080\ntg://socks?server=104.17.72.206&port=1080\ntg://socks?server=104.18.12.149&port=1080\ntg://socks?server=104.18.13.149&port=1080\ntg://socks?server=45.86.153.138&port=1080\n\n @v2rayRoom",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 21,
+      "length": 3818,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 21,
+      "length": 43
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 65,
+      "length": 43
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 109,
+      "length": 43
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 153,
+      "length": 42
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 196,
+      "length": 44
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 241,
+      "length": 42
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 284,
+      "length": 44
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 329,
+      "length": 44
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 374,
+      "length": 43
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 418,
+      "length": 43
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 462,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 504,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 546,
+      "length": 40
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 587,
+      "length": 42
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 630,
+      "length": 40
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 671,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 713,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 755,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 797,
+      "length": 40
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 838,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 880,
+      "length": 40
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 921,
+      "length": 40
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 962,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1004,
+      "length": 42
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1047,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1089,
+      "length": 40
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1130,
+      "length": 42
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1173,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1215,
+      "length": 38
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1254,
+      "length": 40
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1295,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1337,
+      "length": 39
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1377,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1419,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1461,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1503,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1545,
+      "length": 40
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1586,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1628,
+      "length": 40
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1669,
+      "length": 39
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1709,
+      "length": 40
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1750,
+      "length": 39
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1790,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1832,
+      "length": 42
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1875,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1917,
+      "length": 40
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1958,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2000,
+      "length": 42
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2043,
+      "length": 40
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2084,
+      "length": 38
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2123,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2165,
+      "length": 43
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2209,
+      "length": 43
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2253,
+      "length": 42
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2296,
+      "length": 42
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2339,
+      "length": 38
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2378,
+      "length": 39
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2418,
+      "length": 42
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2461,
+      "length": 42
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2504,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2546,
+      "length": 42
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2589,
+      "length": 39
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2629,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2671,
+      "length": 40
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2712,
+      "length": 42
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2755,
+      "length": 43
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2799,
+      "length": 43
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2843,
+      "length": 42
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2886,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2928,
+      "length": 42
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2971,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3013,
+      "length": 42
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3056,
+      "length": 43
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3100,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3142,
+      "length": 42
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3185,
+      "length": 38
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3224,
+      "length": 42
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3267,
+      "length": 40
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3308,
+      "length": 37
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3346,
+      "length": 37
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3384,
+      "length": 40
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3425,
+      "length": 40
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3466,
+      "length": 40
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3507,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3549,
+      "length": 40
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3590,
+      "length": 40
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3631,
+      "length": 40
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3672,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3714,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3756,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3798,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 3842,
+      "length": 10
+    }
+  ],
+  "views": 1963,
+  "forwards": 35,
+  "replies": null,
+  "edit_date": "2026-04-20T21:53:17+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 3,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": "en"
+}

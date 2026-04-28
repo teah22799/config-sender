@@ -1,0 +1,113 @@
+{
+  "_": "Message",
+  "id": 2850,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2086200619
+  },
+  "date": "2026-04-19T05:55:52+00:00",
+  "message": "🌙🚀 وسط همه این چیزا یه خبر مهم از تکنولوژی بدم:\n\nبعد گذشت چند روز از پرتاب آرتمیس ۲ به سمت ماه 🌕 و بازگشت اون، دانشمندان ناسا رو تصاویر گرفته شده بررسی های تحلیلی ای انجام دادن که قابل تامل بود! 🤯\n\nدانشمندان پس ساعت ها 🔬 بررسی تصاویر مشاهده کردند هنوز هم تصویر خمینی و آفتابه‌اش در ماه دیده می‌شود! 🌚😂",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntitySpoiler",
+      "offset": 252,
+      "length": 52
+    }
+  ],
+  "views": 2592,
+  "forwards": 18,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 70301,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 3045905167,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-19T05:57:13+00:00",
+  "post_author": "ʏᴇʙᴇᴋʜᴇ",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🤣"
+        },
+        "count": 94,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😁"
+        },
+        "count": 6,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🤬"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😡"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

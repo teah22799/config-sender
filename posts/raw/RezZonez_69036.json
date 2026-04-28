@@ -1,0 +1,76 @@
+{
+  "_": "Message",
+  "id": 69036,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2097572960
+  },
+  "date": "2026-04-26T18:09:21+00:00",
+  "message": "سرور V2BOX متصل :\nvless://57d4c214-6be1-4c84-be67-85880e0c7a9b@104.20.6.134:443?type=xhttp&encryption=none&path=%2F&host=dalag.master33varkarjoo.ir&mode=auto&x_padding_bytes=100-1000&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=dalag.master33varkarjoo.ir#@RezZonez\n@RezZonez✉️",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 18,
+      "length": 299,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 308,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 318,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 327,
+      "length": 2,
+      "document_id": 5985592201822869703
+    }
+  ],
+  "views": 6461,
+  "forwards": 52,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

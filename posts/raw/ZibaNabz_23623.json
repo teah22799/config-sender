@@ -1,0 +1,173 @@
+{
+  "_": "Message",
+  "id": 23623,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1319668965
+  },
+  "date": "2026-04-23T16:30:40+00:00",
+  "message": "slipnet-enc://AQlV3GSfpvAq6yvpBu1IoDATczK1kz7xd7PxSp5U4EMQU9pjc4hXNx3IsogtrPfiT7RIMf1PFIZCCT/liSBbQuQPKldGE3gY3EDamnlcNv0jTk5l+vUnCgU5tGgj1ZwLNZa+1QaKwZZoHRW3bTVZX3ZAxjcPDsJSAcoHiNN7BeXDLJrhTpI1keeocQjrXeIuxjCWI3/39++yBmJuwJsk5qvsemhXNKUKf4eK1ZzzUXwYS7FF1IEPvV6fH9b3ksKJCceiyKLl5yrpyF7gHfqUD+3Xg60tty3CHya1teBWGWpvZGxLEKQ6aqFgQZ+Z3yOgVoUlfisYibBIqLb9FtqqLp7loKjKDViO7IOXsdfRWpSnTITjzvNjhbV3py9j4DuFarxaT1syoXPY0VlKKDhQO0Bd/nGT2t7Um1oKH89+4UUP+XBv1BS1DuFjYK3Dl/V6DB02qv4Jf5tOkXZRQvrf7wWFGHmYDoezdFLt9yRz0bb1zasJdyYTNN0X0Dg42fQ9OKSnOBIDIuMwA7GcHePCYnN9RXoiMEmfmNhm8EXqtxpuOZYHt9PEq5pa8Baa0FI2tNCNymxb0totCj9Joq78sEESKMlW79gF1TNmEeGYx8B0Pb7Xs12GEYkM6a+O5IRPwOJz\n\nتست شده✅\n📥فایل برنامه SlipNet \n\n🔻برای خرید سرویس با کیفیت میتونید پیام بدین🔺\n💠@v2rayngsaz \n\n\n#SlipNet \n#VayDNS \n🆔@ZibaNabz",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 669,
+      "length": 2,
+      "document_id": 6039420807900303010
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 671,
+      "length": 20,
+      "url": "https://t.me/ZibaNabz/23570"
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 693,
+      "length": 2,
+      "document_id": 5972223227055836399
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 737,
+      "length": 2,
+      "document_id": 5971789963639917544
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 740,
+      "length": 2,
+      "document_id": 5972185809300753162
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 742,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 757,
+      "length": 8
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 767,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 776,
+      "length": 2,
+      "document_id": 6035239240625820254
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 778,
+      "length": 9
+    }
+  ],
+  "views": 6844,
+  "forwards": 78,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 455655,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 1694825362,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-23T16:31:21+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 6,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🕊"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😢"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🗿"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

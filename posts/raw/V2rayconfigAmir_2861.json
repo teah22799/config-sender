@@ -1,0 +1,164 @@
+{
+  "_": "Message",
+  "id": 2861,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2232706026
+  },
+  "date": "2026-04-26T08:01:18+00:00",
+  "message": "🚀 لیست جدید کانفیگ‌های V2Ray\nتعداد: 10\n\nvmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA2NzMxIiwiYWRkIjoiMTcyLjIzMy4xNy43NiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0=\n\nvmess://eyJhZGQiOiIxNzIuMjMzLjE3Ljc2IiwidiI6IjIiLCJwcyI6IkB2MnJheWNvbmZpZ2FtaXIgMTk3NyIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjEiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIn0=\n\nvless://9adc4114-18c3-4c31-9ef7-b35e87c9d499@45.194.71.3:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rbc.ru&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&sid=50e09046c0c00159#%40v2rayconfigamir%203925\n\nvless://5212e69c-78ce-4aa9-bab6-1bdabe89dfde@br-m247-01.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rbc.ru&fp=chrome&security=reality&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=b4f3a05896b60039&packetEncoding=xudp#%40v2rayconfigamir%206265\n\nvmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciAzNDEyIiwiYWRkIjoiMTcyLjIzMy4xNy43NiIsInBvcnQiOiIyMjMyNCIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwiZnAiOiJjaHJvbWUifQ==\n\nvless://6c32c1d3-ac95-4622-86fb-204e3557b777@cdntr213.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1096?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#%40v2rayconfigamir%205976\n\nvless://6c32c1d3-ac95-4622-86fb-204e3557b777@cdntr213.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1096?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#%40v2rayconfigamir%205566\n\nvless://6c32c1d3-ac95-4622-86fb-204e3557b777@cdntr213.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1096?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#%40v2rayconfigamir%204654\n\nvless://6c32c1d3-ac95-4622-86fb-204e3557b777@cdntr213.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1096?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#%40v2rayconfigamir%201854\n\nvless://0f0f568e-de71-4e08-acdd-0865b6cb116c@ww.sansorchi.net:443?sni=5s51da56a8a9.sansorchi.beauty&host=5s51da56a8a9.sansorchi.beauty&type=ws&security=tls&path=%2Ftel%2Fsansorchi_bezan_gheychi_bot&encryption=none#%40v2rayconfigamir%201588\n──────────────\n📢 فوروارد کنید به هموطنامون ❤️🤍💚\n\n⏱ بعد از کانکت شدن ۴۰ ثانیه در تلگرام منتظر بمونید تا کانکت شه (پینگ نمیده)\n\n⚡️ عملکرد سرورها روی هر اپراتور متفاوت است در صورت قطعی از سرورهای دیگر کانال استفاده کنید.\n\n✅ ری اکشن فراموش نشه :)\n🆔 @V2rayconfigamir",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 3,
+      "length": 26
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 41,
+      "length": 316
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 359,
+      "length": 248
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 609,
+      "length": 240
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 851,
+      "length": 265
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1118,
+      "length": 260
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1380,
+      "length": 205
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1587,
+      "length": 205
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1794,
+      "length": 205
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 2001,
+      "length": 205
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 2208,
+      "length": 239
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 2466,
+      "length": 32
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 2697,
+      "length": 16
+    }
+  ],
+  "views": 141,
+  "forwards": 0,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 7854,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 2428075715,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-26T08:01:21+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 6,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🥰"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": "pl"
+}

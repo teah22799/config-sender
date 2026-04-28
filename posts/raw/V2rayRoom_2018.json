@@ -1,0 +1,213 @@
+{
+  "_": "Message",
+  "id": 2018,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1964007005
+  },
+  "date": "2026-04-21T12:38:19+00:00",
+  "message": "✅ سایت های آپلودر داخلی\n\nبه ترتیب با بهترین عملکرد:\n\nhttps://guardnet.ir\nhttps://punkpaste.ir\nhttp://pastehub.ir\nhttps://m.ulni.ir\nhttps://my.files.ir\nhttps://www.picofile.com\nhttps://uploadboy.com\nhttp://linklick.ir\n\n\n@v2rayRoom",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaWebPage",
+    "webpage": {
+      "_": "WebPage",
+      "id": 2907614691771188366,
+      "url": "https://uploadboy.com/",
+      "display_url": "uploadboy.com",
+      "hash": 0,
+      "has_large_media": false,
+      "video_cover_photo": false,
+      "type": "article",
+      "site_name": "Uploadboy",
+      "title": "انتقال رسمی آپلودبوی به آپلودبی | سرویس آپلود و ماندگاری فایل",
+      "description": "سرویس آپلودبوی (UploadBoy) به دامنه جدید آپلودبی (UploadB) منتقل شد. بهترین فضای ابری برای آپلود فایل، اشتراک‌گذاری سریع و لینک مستقیم پرسرعت.",
+      "photo": null,
+      "embed_url": null,
+      "embed_type": null,
+      "embed_width": null,
+      "embed_height": null,
+      "duration": null,
+      "author": null,
+      "document": null,
+      "cached_page": null,
+      "attributes": []
+    },
+    "force_large_media": false,
+    "force_small_media": false,
+    "manual": true,
+    "safe": true
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 2,
+      "length": 15
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 18,
+      "length": 5
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 53,
+      "length": 19,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 53,
+      "length": 19
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 73,
+      "length": 20,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 73,
+      "length": 20
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 94,
+      "length": 18,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 94,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 113,
+      "length": 17,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 113,
+      "length": 17
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 131,
+      "length": 19,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 131,
+      "length": 19
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 151,
+      "length": 24,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 151,
+      "length": 24
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 176,
+      "length": 21,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 176,
+      "length": 21
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 198,
+      "length": 18,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 198,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 219,
+      "length": 10
+    }
+  ],
+  "views": 1449,
+  "forwards": 36,
+  "replies": null,
+  "edit_date": "2026-04-21T23:06:07+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👏"
+        },
+        "count": 2,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

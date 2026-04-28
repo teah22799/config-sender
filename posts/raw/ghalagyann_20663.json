@@ -1,0 +1,137 @@
+{
+  "_": "Message",
+  "id": 20663,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1891582980
+  },
+  "date": "2026-04-26T16:43:28+00:00",
+  "message": "🟥سرور جدید V2ray:\n\nvless://telegram-dickiriptorbot@vercel.com:443?mode=auto&path=%2F%40dickiriptorbot&security=tls&encryption=none&insecure=0&host=mamadmiagmms-six.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=vercel.com#Telegram%20:%20@ghalagyann\nکانال ما در پیام رسان های داخلی 👇\n\nhttps://rubika.ir/V2rayng751👈 روبیکا\n\nhttps://splus.ir/ghalagyann  👈سروش\n\nChannel 🤍 @ghalagyann\n\n🛡️هرسوالی در مورد اشتراک ها یا قصد خرید اشتراک اختصاصی داشتین  پشتیبانی آنلاینم پیام بدین 👇\nPV⚡️@V2rayng751\nPV⚡️@V2rayng751",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 20,
+      "length": 234,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 20,
+      "length": 234
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 255,
+      "length": 31
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 291,
+      "length": 30
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 322,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 330,
+      "length": 27
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 361,
+      "length": 4
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 378,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 391,
+      "length": 93
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 489,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 505,
+      "length": 11
+    }
+  ],
+  "views": 1454,
+  "forwards": 8,
+  "replies": null,
+  "edit_date": "2026-04-26T17:15:42+00:00",
+  "post_author": "ramin",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👌"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

@@ -1,0 +1,100 @@
+{
+  "_": "Message",
+  "id": 1886,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2631910832
+  },
+  "date": "2026-04-27T15:37:56+00:00",
+  "message": "SlipNet \n\n\n(همراه اول)\n\nبزنید سه نقطه بالا بزنید رو import Profiles و کانفیگ زیر رو وارد کنید\n\nslipnet-enc://AQDSNZrUZ3yA/liSXSnJImglxwBpry+oeX18Ix6CdEDsXS3Z88u2NoM1ZPBABf0OZzdyTMDLWsYD4t3HLPPIkr+7b6NcF2Mo4g3ckrpm+1Nqdo4jVuY+G9nvZnMCLp2MbP/5ijeTd00ZVhJ683Onwp4iQlBQUkI55bHTo0QE54BhDrywrHXjjMMUhy3DNIrUx+nOFQFt2tp8/7E9TsyXF44K9OkjoW3TwFv0F6ANEeuOeqxtcTQ/6BYLhqOUCaUlmEdDoKD1Kw3leV9wj5plKZ5pptQcgaHKRGTVNfE4Q4hZ16z2/HCv6C9xOhzpOEER4nEePOYt5eWwe8I/5wjihgcRGD49ug41EdjGmctE9hDMeufVTe0lyhQi3HdXg0o0hQojgrRyCqoZfYLK5D7zxTQx4ESFzKELpuAm+rcjCKyIN/byAqY801KjTJ8yNsHC4t8URSJtNpAZ4hnY7hlMPkwEGHmVpeOq0EHQutCQuAwaNkIuOIf8fl71iCYppg==\n\n\nبه کانفیگ بالا وصل شید و بعد به پروکسی پایین داخل تلگرام وصل شید\n\nترکیب با پروکسی \n\nhttps://t.me/socks?server=127.0.0.1&port=1080\n\nتنظیمات رو از داخل SlipNet وارد کنید👇\n\nPort : 1080\nProxy-only mode : (on)\nHTTP proxy :(on)",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCode",
+      "offset": 95,
+      "length": 526
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 708,
+      "length": 45
+    }
+  ],
+  "views": 2341,
+  "forwards": 23,
+  "replies": null,
+  "edit_date": "2026-04-27T15:38:31+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 6,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🍓"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🤣"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

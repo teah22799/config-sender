@@ -1,0 +1,114 @@
+{
+  "_": "Message",
+  "id": 100685,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2025442005
+  },
+  "date": "2026-04-28T15:43:42+00:00",
+  "message": "🔐 Config & Proxy @filembad\n✅ پایدار و متصل\n\nvless://954968cf-1827-404e-9862-6c84fe234086@mv2.amydoodles.com:443?mode=auto&path=%2Fed%3D3072&security=tls&encryption=none&insecure=0&host=tv1.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#%40filembad\n\nvless://954968cf-1827-404e-9862-6c84fe234086@xhttp2.pcapps.ir:443?mode=auto&path=%2Fed%3D3072&security=tls&encryption=none&insecure=0&host=tv1.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#%40filembad\n\nvless://954968cf-1827-404e-9862-6c84fe234086@cd2.phoneshop98.ir:2053?path=%2Fws%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=app.phonepanel.ir&fp=chrome&type=ws&allowInsecure=0&sni=app.phonepanel.ir#%40filembad\n\nvless://954968cf-1827-404e-9862-6c84fe234086@down.netrandom.com:4040?security=none&encryption=none&host=www.tgju.org&headerType=http&type=tcp#%40filembad\n\nvless://954968cf-1827-404e-9862-6c84fe234086@cd2.phoneshop98.ir:2053?encryption=none&type=ws&host=app.phonepanel.ir&path=/ws?ed%3D2560&security=tls&fp=chrome&sni=app.phonepanel.ir&alpn=h3,h2,http/1.1#%40filembad\n\nvless://954968cf-1827-404e-9862-6c84fe234086@mv2.amydoodles.com:443?encryption=none&type=xhttp&mode=auto&host=tv1.global.ssl.fastly.net&path=/ed%3D3072&security=tls&sni=default.ssl.fastly.net#%40filembad\n\nدریافت کانفیگ رایگان اختصاصی",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 3,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 18,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 30,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 45,
+      "length": 232
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 279,
+      "length": 230
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 511,
+      "length": 248
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 761,
+      "length": 153
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 916,
+      "length": 211
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1129,
+      "length": 203
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 1334,
+      "length": 28,
+      "url": "https://t.me/v2rayy_config_bot"
+    }
+  ],
+  "views": 64,
+  "forwards": 1,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 217330,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 3665682785,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T15:43:46+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": "en"
+}

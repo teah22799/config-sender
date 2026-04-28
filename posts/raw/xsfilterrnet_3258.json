@@ -1,0 +1,106 @@
+{
+  "_": "Message",
+  "id": 3258,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3209702364
+  },
+  "date": "2026-04-19T21:03:51+00:00",
+  "message": "فروش در بات مجدد شروع شد رفقا\nاگر #کانفیگ میخواید میتونید از بات سفارش بدید...\nهر دونوع سرویس بات جدید و بدون قطعی هست❗️\n\n@DuckitVPNBot\n\nدر کنار بات خودم ۳ سرور دارم پرسرعت و بدون قطعی برای فروش میتونید به پیوی پیم بدید:\n\n@xsparvin2",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": {
+    "_": "MessageReplyHeader",
+    "reply_to_scheduled": false,
+    "forum_topic": false,
+    "quote": true,
+    "reply_to_msg_id": 3249,
+    "reply_to_peer_id": null,
+    "reply_from": null,
+    "reply_media": null,
+    "reply_to_top_id": null,
+    "quote_text": "Duckitsupport",
+    "quote_entities": [],
+    "quote_offset": 295,
+    "todo_item_id": null,
+    "poll_option": null
+  },
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 34,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 122,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 222,
+      "length": 10
+    }
+  ],
+  "views": 9196,
+  "forwards": 28,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 25,
+    "replies_pts": 102786,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 69615552
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 6822667495
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 2134881400
+      }
+    ],
+    "channel_id": 2200550029,
+    "max_id": 63553,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-19T21:04:47+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

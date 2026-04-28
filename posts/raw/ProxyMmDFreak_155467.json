@@ -1,0 +1,153 @@
+{
+  "_": "Message",
+  "id": 155467,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3111946920
+  },
+  "date": "2026-04-28T10:35:36+00:00",
+  "message": "NoizDNS+SSH\nslipnet-enc://Ac2BXYgepmB8lYdy/jgAji9d0xihGUGjccMAqaNlwCklRSH+wL0X8+pjvu0kLGioWzjDkavavswnlwtFWBUxM02p58qkLkYAFNf2vwnChc4MXdvDKrc82GegvmsTWARV21pcwOGZ2FJ1PHVYOzBOrCZ46hB0POtsLaQZDV4pNI7tG1M1HfNvWRJ4s0KVM5iyYhEvIUnqKsV/MbD4vxneOy6N4ptGkJ5RLcU7BvKg/UCZ3hJs1asUWXyXVztT3Cq7mgH32Qqrdg3s5pTHWQj5d+cBl3+j3Vt+8/MSrC+VcZmS9GsjsKRNu9E6mIm56fTvnVoooHzQaEC7oLYPBU40E7p9v3+66weliDfkWVvpe+tg/o+9PPMZBEG/elimjOc4incqwAxshB8T2RKficFEoJRZ8C0NDyWLzr9lNiP54dBPaTsPcIExS+1KSgtjqWxGVLtIx4gQmhg+DRdS4J62nPcKrJBk3XBqJ0etbnHa1Rizd0tTKo2pSwLYw3HiiwjbMpyQlt819KKMkYeoKlE+lz43ahRdbRXzNbuITAS80YOsm+/KUK7LRhOvx2ZGXOh1QqWj72JLP8/lII3nKN1syLHbdFRVhSwDfXZ5anfH8mQhZF2F1dn9g6l/FLPvx+MivVTFZbuRjgNSlTEwNf2YvBxVt4MuD76ZUAYBxrA3B5sTZXkNez+dUGQEbkJ6kg==\nDNSTT+SSH\nslipnet-enc://AdG1ixH9n7efl4M/6OmNR5T6qllRsAyCZb+iKKMQ/uFyeEywtmekftIodTKSxvRa6o3OMSwfevOFiMtI8WKH+yAnVFWVt4dAGkSdXkix8FOsgN59awmvrg3teK0Im55hvtSLJL8ZoifdypgQwKdziRUfvUEc5ju0U0mtIfIKZhm9qGX5ZgNDgc9dOIbXfBZgAQOtW7934370/dILlb4baomRuq2GWk+8e7wG+8iX8WpDCWTwgB0wxVH2hsMDQwhL3X7Oe+IMMj+snDLl28hMHC7UO7s6/4wH3HzCOPgHkq+kEOeM4CI/mgzW9C/qMXrrQ7yEQs7TNQuQfHDgh59KLDQtu67ImrFjd3CnxkaLjgT9eh+GYQNvRFD9VDFfwYwqiNmY82fpau0HNDkIiU3HiaSkhp5ItkrS5SbtoqPeDL2l9aMhZMFSwRkP5EwW3gzW+mV8Lu29Rxb1qaFc9F70kwTEJmXIuhaqPPjvM/HE+rDbOPhTUgihiLSi4QwFie7r15Fgbk+tYgfeb1S8WtPgdR7VZgHemRDJdCwRkunw2Tja2H3MILUpjtD/NTUWFrKP2ZLPYq3Lw8rO8O3cWbdil28g3shf5Wqh1TO4TzglhGTaEaRzqD8NJbRfsHLOqaTls4tatCG8KBF0EuQXXgqTuO0JlmbiOBAx2PJoUz4C6tBG6zuGSk0O9c5aAfQwV3lIwuraU1e29TCC/ZzhGeWm2knQTKVtr6tKgFVZnw==\nSlipstream+SSH\nslipnet-enc://ATkLlE3cTwluiG5XKnizZhzQEAejZRG0NLI4QR9dwUZmYLZTH+f85GgSKzl05wto09jo/am06zDfQH9ftzKR+4qgEuedSU/hh04ublGDg9XKextcXdyyEg17+ojBn8ZMKMEBt0qcKYJ7tBz/erL+kdwU0U1vZWZvD5cqMa9OcEKN6q6dlaNnFvagDvI48pR5zNEeNsPur0txnJjuNlpWGa4cNKJDgXutxrELW2RKTyeXptojXTc1xFaZ2c6DfxdzkbMAqoMtbUKoJhZGEDgHlf+wrPYBCjWwEfFFo6stV98/FUE6nt3rxmBlAhA+s23KN1bwMn6mmmZDQWv8RNlechz+229788vpeM3lu28pARWmgGdlMCT2V1ggkPE14/IJfzRVVPgQX5t8Bi85XpvjkQV8eWY9Yheu/7/ABHGkgvf0yLsjYhiLYOEdPrnBGoXVl8aXcvvLxedYwL7wnilEq1uw58O/OxZFT646bb4SVZaAIU6TqjGVp+CtqgyNsWHE/RT1MpdY+fn8iIQ0+H6s78ldIwriYn8tN3ZbvzhI14a4MazlGrk53ZDDtslvDzN8Z/OVBo4l48w+1HgtcjM4s9HGZbHm9/yLNgJYpjkQ5pOAyKK8/he8Gqa9Xt1nI5QDA49YpUtkWqaHJf8ehHRdP5cxgk0hhc0/JN/F1fy9xkyWa8tz4Gn8Eo9/4eBhcDWBEWIjulCiBeT9N0YjvcR3EosLsrAK9iUZyTaQriHzg5KjAkU=\nFreedom_Soldiers1",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": false,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": {
+    "_": "PeerUser",
+    "user_id": 1263383646
+  },
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 12,
+      "length": 718,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 12,
+      "length": 718
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 731,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 741,
+      "length": 758,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 741,
+      "length": 758
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 1500,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 1515,
+      "length": 766,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1515,
+      "length": 766
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 2282,
+      "length": 17
+    }
+  ],
+  "views": null,
+  "forwards": null,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 326560,
+    "comments": false,
+    "recent_repliers": [],
+    "channel_id": null,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T11:43:42+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👎"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": true,
+    "reactions_as_tags": false,
+    "recent_reactions": [
+      {
+        "_": "MessagePeerReaction",
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 8351347050
+        },
+        "date": "2026-04-28T11:43:42+00:00",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👎"
+        },
+        "big": false,
+        "unread": false,
+        "my": false
+      }
+    ],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

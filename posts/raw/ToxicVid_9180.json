@@ -1,0 +1,95 @@
+{
+  "_": "Message",
+  "id": 9180,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1552935543
+  },
+  "date": "2026-04-23T23:46:41+00:00",
+  "message": "📶سرور مناسب برای ترکیب با سایفون\n\nvmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoi8J+nmkBWTGluZXdzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCode",
+      "offset": 35,
+      "length": 296
+    }
+  ],
+  "views": 1273,
+  "forwards": 23,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 2,
+    "replies_pts": 708302,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 7110281357
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 287843770
+      }
+    ],
+    "channel_id": 2861807198,
+    "max_id": 450078,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-23T23:50:21+00:00",
+  "post_author": "Nima",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 3,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

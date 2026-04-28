@@ -1,0 +1,152 @@
+{
+  "_": "Message",
+  "id": 3248,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3209702364
+  },
+  "date": "2026-04-18T19:30:21+00:00",
+  "message": "⭕️ GitHub آزاد شد \nاز دقایقی پیش در برخی مناطق و اپراتور ها سایت های زیر باز شد :\n\nsciencedirect.com \ngithub.com\ne7.c.lencr.org \nnpmjs.com\n\n\n\n@xszapass",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 5833298511712161074,
+      "access_hash": -121518574047741549,
+      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xb0i\\xf0\\xd6I\\x94\\xa8\\x8c\\x8b\\xa1\\xef\\xd7\\x01\\x0f\\xec\\x97\\t\\xb3\\xdcI9'",
+      "date": "2026-02-24T10:57:17+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01((\\xd9\\xa2\\x91\\x99QK1\\x00\\x0e\\xa4\\xd5x\\xaf\\xad\\xa6\\x93\\xcb\\x8e`[\\xd3\\x04f\\x80,\\xd1E\\x14\\x00QE\\x14\\x01KQ\\xcf\\x95\\x10 \\x98\\xfc\\xd5\\xf3\\x07\\xb7\\xf9\\xc5W\\xbf[H\\xec\\xcb\\xc2\\x88\\xb2I\\x8f,\\xaa\\xe0\\x9eGJ\\xd4tWR\\xae\\x01S\\xd4\\x1a\\x8f\\xec\\xf1f2W&?\\xbb\\x93\\x9cP\\x05v7\\xbb\\x97h\\xc8;wt\\xc0\\xf5\\xa4\\r~\\xb8%\\x15\\xbeS\\xc7\\x03\\x9c\\x0cw\\xf5\\xcd^\\xa2\\x80 \\xb63\\x98\\xdb\\xed\\x00\\x06\\x07\\x00\\xf1\\xc8\\xa2\\xa7\\xa2\\x80\\n(\\xa2\\x80\\n(\\xa2\\x80\\n(\\xa2\\x80?'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 320,
+          "size": 6743
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 800,
+          "h": 800,
+          "size": 18360
+        },
+        {
+          "_": "PhotoSize",
+          "type": "y",
+          "w": 1280,
+          "h": 1280,
+          "size": 34659
+        },
+        {
+          "_": "PhotoSize",
+          "type": "w",
+          "w": 1920,
+          "h": 1920,
+          "size": 50549
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityUrl",
+      "offset": 83,
+      "length": 17
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 102,
+      "length": 10
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 113,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 129,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 142,
+      "length": 9
+    }
+  ],
+  "views": 9116,
+  "forwards": 69,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 8,
+    "replies_pts": 102786,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 1919551989
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 684947629
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 774282613
+      }
+    ],
+    "channel_id": 2200550029,
+    "max_id": 62910,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-18T19:30:37+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

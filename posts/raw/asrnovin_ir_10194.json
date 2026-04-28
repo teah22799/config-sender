@@ -1,0 +1,116 @@
+{
+  "_": "Message",
+  "id": 10194,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1139260001
+  },
+  "date": "2026-04-25T09:54:35+00:00",
+  "message": "🌐 بیانیه کانون وکلای سمنان در مخالفت با اینترنت طبقاتی؛ زنگ بیدارباش برای نهادهای صنفی اقتصاد دیجیتال\n\n▪️ در روزهایی که بحث «اینترنت طبقاتی» در قالب طرح‌هایی مانند «اینترنت پرو» به یکی از جنجالی‌ترین موضوعات فضای مجازی ایران تبدیل شده، کانون وکلای دادگستری سمنان با صدور بیانیه‌ای صریح، موضعی بی‌سابقه اتخاذ کرده است.\n▪️ این کانون نه تنها اعطای هرگونه دسترسی ویژه را مغایر با اصول بنیادین حقوقی دانسته، بلکه به طور مشخص اعلام کرده که خود از دریافت و بهره‌مندی از چنین امتیازهای متمایزی خودداری می‌کند. فارغ از جایگاه صنفی کانون وکلا، آنچه این بیانیه را به رویدادی قابل تأمل تبدیل می‌کند، تقدم «عدالت» بر «منفعت مقطعی» است؛ رویکردی که انتظار داشتیم در رفتار و گفتار نهادهای صنفی اقتصاد دیجیتال و فناوری اطلاعات ببینیم.\n@asrnovin_ir",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 104,
+      "length": 214,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 319,
+      "length": 400,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 719,
+      "length": 12
+    }
+  ],
+  "views": 20374,
+  "forwards": 41,
+  "replies": null,
+  "edit_date": "2026-04-25T09:54:45+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 221,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 47,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😁"
+        },
+        "count": 19,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🔥"
+        },
+        "count": 6,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

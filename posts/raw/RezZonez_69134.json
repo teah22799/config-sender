@@ -1,0 +1,71 @@
+{
+  "_": "Message",
+  "id": 69134,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2097572960
+  },
+  "date": "2026-04-27T20:55:17+00:00",
+  "message": "اسلیپ نت متصل:\nslipnet-enc://AQODHosyfH4qqZJKz6AOasf1hi6euptyCdQk4uZHEzGG6CxctVHoWKKCCLlobP0XwhE3BMGW6e+jF/0/QficMzmwVVKN8pzmecUFikAqPl+YQk2HVqyh3lZhiu7DwWN/329Q87ixevxfKZ4bIqUEzt6n2O5HEq54ID7R11Wrix+EW3gkAgabNT6CHCeExnPBxtpHkZfbH7PD/b6AlLud4qnMo/Pv7sQq+lkVj8qyh6q8DA+xm8aZgbS/MOEfHG8ZwKQBVIA9wptO3lfM94b+CkzZaaixSdyvv54bya8Ek/MRWS8BWbPEe2oCPXFfbJgalOobeYlzeVQjAoFGmGnwHRdPYZNvssae+Y/P9tmgDhgizOxubmSypPsdrmtxU49vD7/mp5W17Yhklfzz6A2aL1zhSdCe3NBnZ4aZbYo2jgpt/fCHu1Ba0Aq3rurHR0Y/KMx9HfaFlNtsTycInMTRpUqcBKbPq1IQOUSLYT64cAD2pyBL4mc3To/vi8+VOVaNkXUjGRUGAWccSq5GXDpoza3yVZ5zQzgEqH/33xgup1ojv6/uxtxtP3uOHA+TwZz+pX9qUm1pcEuKiPFOXSlCmcHSEpth+Yl+1pbTcuDxD6Fsy+ADbJaNmbsGEoTcAbqwgqdDd4WMzjeY6na1LyjEJ0ElxO5jc9/XFLxbwG7wlyRIDu35Pxu+6mnC3at+JmRIQ67usaKZ0m5m67qmk0TMdD1h+WZsoRntQPbQKUfLmZ/mmg==\n@RezZonez✉️",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 15,
+      "length": 766,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 782,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 791,
+      "length": 2,
+      "document_id": 5985592201822869703
+    }
+  ],
+  "views": 8113,
+  "forwards": 35,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

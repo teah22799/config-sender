@@ -1,0 +1,101 @@
+{
+  "_": "Message",
+  "id": 24575,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3744627358
+  },
+  "date": "2026-04-27T22:39:55+00:00",
+  "message": "📂 کانفیگ VLESS\n📍 لوکیشن: آمریکا 🇺🇸\n📶 پینگ: 2ms\n\n#VLESS #VPN\n\n🕒 انتشار: 02:00 - 1405/02/08\n💡 منبع: @chat_nakone\n\nvless://7d96ea7b-3ebd-4280-841c-51c3d6c210d6@nextjs.org:443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/xhttp&sni=nextjs.org&fp=chrome&mode=auto#@v2ray_confiiig",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": {
+    "_": "ReplyInlineMarkup",
+    "rows": [
+      {
+        "_": "KeyboardButtonRow",
+        "buttons": [
+          {
+            "_": "KeyboardButtonUrl",
+            "text": "⛶ کد QR کانفیگ",
+            "url": "https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&chs=200x200&chl=vless%3A%2F%2F7d96ea7b-3ebd-4280-841c-51c3d6c210d6%40nextjs.org%3A443%3Fsecurity%3Dtls%26allowInsecure%3D0%26encryption%3Dnone%26type%3Dxhttp%26path%3D%2Fxhttp%26sni%3Dnextjs.org%26fp%3Dchrome%26mode%3Dauto%23%40v2ray_confiiig",
+            "style": null
+          }
+        ]
+      },
+      {
+        "_": "KeyboardButtonRow",
+        "buttons": [
+          {
+            "_": "KeyboardButtonUrl",
+            "text": "🔍 دریافت کانفیگ‌های بیشتر",
+            "url": "https://t.me/persianvpnhub",
+            "style": null
+          }
+        ]
+      }
+    ]
+  },
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 53,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 60,
+      "length": 4
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 105,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityPre",
+      "offset": 119,
+      "length": 178,
+      "language": ""
+    }
+  ],
+  "views": 1459,
+  "forwards": 4,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

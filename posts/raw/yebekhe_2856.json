@@ -1,0 +1,130 @@
+{
+  "_": "Message",
+  "id": 2856,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2086200619
+  },
+  "date": "2026-04-20T08:36:40+00:00",
+  "message": "اسماعیل بگایی، سخنگوی وزارت امور خارجه ج‌ا: 🇮🇷🗣️\n\nما هیچ برنامه‌ای برای دور بعدی مذاکرات نداریم. 🚫📅\nدر حال حاضر، ما در مورد مشارکت خود در دور بعدی مذاکرات تصمیم نگرفته‌ایم. 🤔\n\nجمهوری اسلامی هیچ مهلت یا اخطاری را در تأمین منافع ملی خود به رسمیت نمی‌شناسد. 🚫⏳\n\nحفظ منافع ملی تا زمانی که لازم باشد ادامه خواهد یافت و در صورت هرگونه ماجراجویی جدید از سوی ایالات متحده یا اسرائیل، نیروهای مسلح با تمام توان به صورت قاطع پاسخ خواهند داد. 🛡️💥🇺🇸🇮🇱\n\nدر هیچ مرحله‌ای از مذاکرات جاری یا قبلی، موضوع انتقال ذخایر اورانیوم غنی‌شده ایران به ایالات متحده یا هر کشور دیگری مطرح نشده است و اساساً این گزینه در دستور کار جمهوری اسلامی قرار ندارد. ⚛️🚫🚀",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 53,
+      "length": 127,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 182,
+      "length": 270,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 454,
+      "length": 194,
+      "collapsed": false
+    }
+  ],
+  "views": 3049,
+  "forwards": 3,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 3,
+    "replies_pts": 70301,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 3212469
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 1035839739
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 68310838
+      }
+    ],
+    "channel_id": 3045905167,
+    "max_id": 35089,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-20T08:42:24+00:00",
+  "post_author": "ʏᴇʙᴇᴋʜᴇ",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🤣"
+        },
+        "count": 20,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👏"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

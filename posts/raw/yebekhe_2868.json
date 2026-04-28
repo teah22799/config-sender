@@ -1,0 +1,92 @@
+{
+  "_": "Message",
+  "id": 2868,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2086200619
+  },
+  "date": "2026-04-23T17:49:04+00:00",
+  "message": "داخل هر دو روش چه با cmd چه اپ بالا هردو روش \nباید داخل script.google.com اسکریپت رو اجرا کنید که فیلتر هستش\n\nداخل V2rayN با این میتونید دسترسی داشته باشید به سایتش \n\n{\"dns\":{\"hosts\":{\"cloudflare-dns.com\":[\"216.239.38.120\"],\"domain:com\":[\"216.239.38.120\"],\"domain:ir\":[\"216.239.38.120\"],\"domain:org\":[\"216.239.38.120\"]},\"servers\":[\"https://cloudflare-dns.com/dns-query\"],\"tag\":\"dns\"},\"inbounds\":[{\"domainOverride\":[\"http\",\"tls\"],\"listen\":\"127.0.0.1\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true,\"userLevel\":8},\"sniffing\":{\"destOverride\":[\"http\",\"tls\"],\"enabled\":true,\"metadataOnly\":true},\"tag\":\"socks-in\"},{\"listen\":\"127.0.0.1\",\"port\":10809,\"protocol\":\"http\",\"settings\":{\"userLevel\":8},\"sniffing\":{\"destOverride\":[\"http\",\"tls\"],\"enabled\":true,\"metadataOnly\":true},\"tag\":\"http-in\"}],\"log\":{\"access\":\"\",\"dnsLog\":false,\"error\":\"\",\"loglevel\":\"none\"},\"meta\":null,\"outbounds\":[{\"domainStrategy\":\"UseIP\",\"protocol\":\"freedom\",\"settings\":{\"fragment\":{\"interval\":\"10-20\",\"length\":\"10-20\",\"packets\":\"tlshello\"}},\"sniffing\":{\"destOverride\":[\"http\",\"tls\"],\"enabled\":true,\"metadataOnly\":true},\"streamSettings\":{\"sockopt\":{\"domainStrategy\":\"UseIP\",\"mark\":255,\"tcpKeepAliveIdle\":100,\"tcpNoDelay\":true}},\"tag\":\"fragment-out\"},{\"protocol\":\"dns\",\"tag\":\"dns-out\"},{\"domainStrategy\":\"\",\"mux\":{\"concurrency\":8,\"enabled\":false},\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"google.com\",\"port\":443,\"users\":[{\"encryption\":\"none\",\"flow\":\"\",\"id\":\"UUID\",\"level\":8,\"security\":\"auto\"}]}]},\"streamSettings\":{\"network\":\"ws\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":false,\"alpn\":[\"h2\",\"http/1.1\"],\"fingerprint\":\"randomized\",\"publicKey\":\"\",\"serverName\":\"google.com\",\"shortId\":\"\",\"show\":false,\"spiderX\":\"\"},\"wsSettings\":{\"headers\":{\"Host\":\"google.com\"},\"path\":\"/\"}},\"tag\":\"fakeproxy-out\"},{\"protocol\":\"freedom\",\"settings\":{\"domainStrategy\":\"UseIP\"},\"tag\":\"direct\"}],\"policy\":{\"levels\":{\"8\":{\"connIdle\":300,\"downlinkOnly\":1,\"handshake\":4,\"uplinkOnly\":1}},\"system\":{\"statsOutboundDownlink\":true,\"statsOutboundUplink\":true}},\"remarks\":\"216.239.38.120\",\"routing\":{\"domainStrategy\":\"UseIP\",\"rules\":[{\"ip\":[\"geoip:private\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:private\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:telegram\"],\"outboundTag\":\"fakeproxy-out\",\"type\":\"field\"},{\"ip\":[\"geoip:ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"domestic-dns\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"enabled\":true,\"inboundTag\":[\"socks-in\",\"http-in\"],\"outboundTag\":\"dns-out\",\"port\":\"53\",\"type\":\"field\"},{\"enabled\":true,\"inboundTag\":[\"socks-in\",\"http-in\"],\"network\":\"tcp\",\"outboundTag\":\"fragment-out\",\"type\":\"field\"}],\"strategy\":\"rules\"},\"stats\":{}}\nاینو با ایرانسل تست کردم اوکیه",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityUrl",
+      "offset": 56,
+      "length": 17
+    },
+    {
+      "_": "MessageEntityPre",
+      "offset": 167,
+      "length": 2517,
+      "language": "json"
+    }
+  ],
+  "views": 2141,
+  "forwards": 89,
+  "replies": null,
+  "edit_date": "2026-04-23T18:05:25+00:00",
+  "post_author": "ÐΛɌ₭ᑎΞ𐒡𐒡",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 13,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🤬"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

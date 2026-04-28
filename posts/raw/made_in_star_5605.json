@@ -1,0 +1,135 @@
+{
+  "_": "Message",
+  "id": 5605,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2547961935
+  },
+  "date": "2026-04-28T04:56:41+00:00",
+  "message": "برای برنامه AM Tunnel\n\n1. در قسمت superdns، از داخل لیست  all world connection 1 و all world connection 2 یکیشون رو انتخاب کنید فرکانس هم ترجیحا ۳ یا ۶ رو تست کنید و متصل بشید \n2. در قسمت PDoQ، از داخل لیست :\nIran 1\nIran 2\nall world connect 1\nall world connect 2 \nIraq earth link 1\nIraq earth link 2\nCuba \nانتخاب کنید چند ثانیه صبر کنید finalizing. please wait... که اومد بعدش connect میشه 《 این روش واسه یه سری ها کار میکنه و تلگرام بالا میاد 》\n\n3.در قسمت superdns  از لیست CustomDNS رو انتخاب کنید و dns های پایین رو تست کنید :\n\nudp://85.185.163.4\n\nفرکانس 3, 6\n\nudp://10.185.68.113\n\nفرکانس 5\n\nudp://5.106.19.95\n\nفرکانس 6\n\nudp://79.175.172.101\n\nفرکانس 3, 8",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": true,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 21
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 23,
+      "length": 153,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 177,
+      "length": 31,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 209,
+      "length": 96
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 306,
+      "length": 139,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 447,
+      "length": 82,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 531,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 564,
+      "length": 19
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 595,
+      "length": 17
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 624,
+      "length": 20
+    }
+  ],
+  "views": 1203,
+  "forwards": 42,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 0,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 777,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T10:56:45+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 5,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

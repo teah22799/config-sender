@@ -1,0 +1,151 @@
+{
+  "_": "Message",
+  "id": 10170,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1139260001
+  },
+  "date": "2026-04-21T16:36:00+00:00",
+  "message": "انتقال فایل از طریق تلگرام به روبیکا برای کاهش مصرف فیلترشکن\nپروژه عالی که دوست عزیزمون  caffeinexz ساخته و روی گیتهاب به صورت اپن سورس منتشر کرده و منم ویدیو کامل راه اندازیش رو براتون آماده کردم.\n\nلینک گیتهاب پروژه :\nhttps://github.com/caffeinexz/Tele2Rub\n\nمشاهده ویدیو آموزش راه اندازی در یوتیوب :\nhttps://youtu.be/Yzbv93xaHoE\n\nبه راحتی میتونید تا سقف 2 گیگ فایل از تلگرام به روبیکا بفرستید و با نت ملی فایل رو دانلود کنید",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCode",
+      "offset": 89,
+      "length": 10
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 199,
+      "length": 19
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 219,
+      "length": 38
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 259,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 301,
+      "length": 28
+    }
+  ],
+  "views": 27172,
+  "forwards": 1396,
+  "replies": null,
+  "edit_date": "2026-04-21T16:36:20+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 99,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😈"
+        },
+        "count": 18,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 9,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💔"
+        },
+        "count": 9,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😁"
+        },
+        "count": 5,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🤯"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🔥"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

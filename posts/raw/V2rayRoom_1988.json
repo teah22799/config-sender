@@ -1,0 +1,142 @@
+{
+  "_": "Message",
+  "id": 1988,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1964007005
+  },
+  "date": "2026-04-19T00:16:36+00:00",
+  "message": "✅ آخرین نسخه SlipNet اندروید\n\nنسخه 2.5.2\n\n● قابلیت Vless Over CDN به برنامه افزوده شده، که میشه کانفیگ های V2Ray داخلش اضافه کرد .\n\n● اتصالات در VayDNS و پروتکل های دیگر مبتنی بر DNS بهبود داشته.\n\n● تست پینگ هم درست شده و حالا میتونید بهتر و دقیق تر از گزینه های تست پینگ استفاده کنید.\n\nنکته : قابلیت تست پینگ در نسخه جدید عملکرد خوبی داره و درصد خطای کمتری هم داره، دقت کنید حتما باید با اینترنت عادی (خاموش بودن فیلترشکن) و با گزینه ی اول یعنی Test Server Reachability تست پینگ بگیرید. و صبور باشید تا تست تموم بشه، چون با بستن زودهنگام یا قطع کردن تست ممکنه برنامه باگ بخوره و باید فورس کلوز بزنید که مجدد بتونید تست پینگ سالم بگیرید.\n\nلینک دانلود داخلی:\n \nhttps://punkpaste.ir/f/SlipNet-v2-5-2-Full--3tqanc\n\n\n@v2rayRoom",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaDocument",
+    "nopremium": false,
+    "spoiler": false,
+    "video": false,
+    "round": false,
+    "voice": false,
+    "document": {
+      "_": "Document",
+      "id": 5990294336313499006,
+      "access_hash": 3925189429900520196,
+      "file_reference": "b'\\x02u\\x10^]\\x00\\x00\\x07\\xc4i\\xf0\\xdf\\xe8\\xa1\\x1e\\x9f\\x9e\\xed\\x9e{\\xaf\\x19Q6x\\xc19\\xa0-'",
+      "date": "2026-04-18T11:52:51+00:00",
+      "mime_type": "application/octet-stream",
+      "size": 57640282,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "SlipNet-v2.5.2-full-release-universal.apk"
+        }
+      ],
+      "thumbs": [],
+      "video_thumbs": []
+    },
+    "alt_documents": [],
+    "video_cover": null,
+    "video_timestamp": null,
+    "ttl_seconds": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 2,
+      "length": 26
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 30,
+      "length": 255
+    },
+    {
+      "_": "MessageEntityUnderline",
+      "offset": 30,
+      "length": 10
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 287,
+      "length": 351
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 639,
+      "length": 17
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 660,
+      "length": 50,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 660,
+      "length": 50
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 713,
+      "length": 10
+    }
+  ],
+  "views": 998,
+  "forwards": 24,
+  "replies": null,
+  "edit_date": "2026-04-19T00:19:48+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 4,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

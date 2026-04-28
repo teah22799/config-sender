@@ -1,0 +1,129 @@
+{
+  "_": "Message",
+  "id": 2797,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2232706026
+  },
+  "date": "2026-04-20T08:01:19+00:00",
+  "message": "🚀 لیست جدید کانفیگ‌های V2Ray\nتعداد: 3\n\nvless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@fsl.narton.ir:443?path=%2F--Telegram---MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=tls&encryption=none&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&sni=mitivpn-s1.global.ssl.fastly.net#%40v2rayconfigamir%203743\n\nvless://85df0ad4-8818-4aa5-9799-4bb7232de9e0@ip1-fast.tyryqyserver.ir:80?path=%2F%3Fed%3D2052&security=none&encryption=none&host=tamamde1.global.ssl.fastly.net&type=ws#%40v2rayconfigamir%205031\n\nvless://85df0ad4-8818-4aa5-9799-4bb7232de9e0@ip3-fast.tyryqyserver.ir:80?path=%2F%3Fed%3D2052&security=none&encryption=none&host=tamamde1.global.ssl.fastly.net&type=ws#%40v2rayconfigamir%207215\n──────────────\n📢 فوروارد کنید به هموطنامون ❤️🤍💚\n\n⏱ بعد از کانکت شدن ۴۰ ثانیه در تلگرام منتظر بمونید تا کانکت شه (پینگ نمیده)\n\n⚡️ عملکرد سرورها روی هر اپراتور متفاوت است در صورت قطعی از سرورهای دیگر کانال استفاده کنید.\n\n✅ ری اکشن فراموش نشه :)\n🆔 @V2rayconfigamir",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 3,
+      "length": 26
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 40,
+      "length": 287
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 329,
+      "length": 193
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 524,
+      "length": 193
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 736,
+      "length": 32
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 967,
+      "length": 16
+    }
+  ],
+  "views": 254,
+  "forwards": 3,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 7854,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 2428075715,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-20T08:01:22+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 7,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 4,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🥰"
+        },
+        "count": 3,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

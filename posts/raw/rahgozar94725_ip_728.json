@@ -1,0 +1,163 @@
+{
+  "_": "Message",
+  "id": 728,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1644374078
+  },
+  "date": "2026-04-20T11:22:01+00:00",
+  "message": "بدون شرح!!!\n\nدزدی با اعتماد سازی از طریق کانفیگ‌های بقیه\n\nعلیرضا قدری\n\nمرحله بعد گذاشتن شماره کارتت هست. متاسفانه دیگه نمیتونی مثل یوزرنیم تلگرام عوضش کنی",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": {
+    "_": "MessageReplyHeader",
+    "reply_to_scheduled": false,
+    "forum_topic": false,
+    "quote": false,
+    "reply_to_msg_id": 724,
+    "reply_to_peer_id": null,
+    "reply_from": null,
+    "reply_media": null,
+    "reply_to_top_id": null,
+    "quote_text": null,
+    "quote_entities": [],
+    "quote_offset": null,
+    "todo_item_id": null,
+    "poll_option": null
+  },
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 5994381539321515205,
+      "access_hash": 2118037405760024198,
+      "file_reference": "b'\\x02b\\x03(>\\x00\\x00\\x02\\xd8i\\xf0\\xe4\\x13\\xfa\\xa0\\xe44\\x12\\x11\\x88\\xba\\xfd#r\\x88J4jC'",
+      "date": "2026-04-20T11:22:01+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01\\x1b(\\xbcb\\x89b\\x0e\\xcaO\\x03\\xa5 0\\xf6V\\xa5\\xf3P\\xa0R\\xa7\\xa6*0*Y$\\xb8N\\xaa\\x0eh\\xa4\\x14\\xa3\\x93Y\\xb2\\x82\\x8aR\\x87\\x19\\xc8\\xa2\\x8b\\x05\\xc7\\x00\\x9bG\\xdc\\xe9\\xe9N\\xc2\\xfa\\xaf\\xe5Q\\x8a+K\\x81!\\xdb\\xea\\xbf\\x95C\\xf3u\\x00\\xd0i\\xc8N\\xd1I\\xea!\\x87\\x7f\\xa3QR1;O\\xd2\\x8aB?'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 214,
+          "size": 16209
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 800,
+          "h": 536,
+          "size": 75730
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 1280,
+          "h": 858,
+          "sizes": [
+            12626,
+            32644,
+            59414,
+            88887,
+            138987
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [],
+  "views": 14067,
+  "forwards": 36,
+  "replies": null,
+  "edit_date": "2026-04-20T11:22:37+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 65,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😁"
+        },
+        "count": 17,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👎"
+        },
+        "count": 6,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🔥"
+        },
+        "count": 2,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

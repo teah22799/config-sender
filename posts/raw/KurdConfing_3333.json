@@ -1,0 +1,117 @@
+{
+  "_": "Message",
+  "id": 3333,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1648657493
+  },
+  "date": "2026-04-26T22:51:59+00:00",
+  "message": "دانلود کلاینت SingBox با نت ملی:\n\n📥Download\n\nPassword:  \n@KurdConfing\n\nلینک کانفیگ سینگ باکس برای گوگل اسکریپت: Config\n\n🌐 کورد کانفیگ\n🔗 @KurdConfing",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": true,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 32
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 34,
+      "length": 10,
+      "url": "https://punkpaste.ir/f/SFA-1-13-10-universa-txk2td"
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 58,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 113,
+      "length": 6,
+      "url": "https://t.me/KurdConfing/3295"
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 139,
+      "length": 12
+    }
+  ],
+  "views": 7293,
+  "forwards": 58,
+  "replies": null,
+  "edit_date": "2026-04-26T23:00:38+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 7,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👌"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

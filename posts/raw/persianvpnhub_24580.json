@@ -1,0 +1,96 @@
+{
+  "_": "Message",
+  "id": 24580,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3744627358
+  },
+  "date": "2026-04-28T01:29:53+00:00",
+  "message": "📂 کانفیگ SLIPNET-ENC\n📍 لوکیشن: نامشخص 🏁\n📶 پینگ: N/A ms\n\n#SLIPNET #VPN\n\n🕒 انتشار: 04:55 - 1405/02/08\n💡 منبع: گروه MahsaNet\n\nslipnet-enc://AUeQcbFbPQHo0pVvEQ+Yg5vwUHzaLsCyqv33xziADS4mg0z+d0p6+sgABXP0lEakCsxJA0GO/ZfkFiQYCk1Dyd/Btd5wTlQaEDx1guloGI0vUHuxxoJ1/GKLduDEhTyt8wYELOuNxXPudX9e3B5PfWPsXYj20yoJGO46gTv8JR/Iqwklqdy/4rmbOUeV+iLTT6nY4aTE9SwpfiD4RIjeJY4uU0ovytYpubUGT0jU3pq+s3Xu9hkeYHdAicdDBXKTmCCv7+ouUqjrpNcg7hHRQCy++SHLYiiCpFng+RVyZmM90N1yeua3oCImNDzULSI6tn9lfC++rzZZmPblrRbtYoBHzT2nBHCOUinDqh18T+FCKpBS9DUxTfAbMIzKc6VfpZv+ZdLHdqIHqIpL0awtP21hB4nh2iOVbnX0lT4Xi1AEKvdAz5FO2gyuqkpkUCQi6/AYYJ7xCVrOjaWQE/W8BvmsKMzVN09it7PwjiHF+GmybALZqqD0jnxY4Bq9bh4wpCicGKtW35/BeJ1Mu3VHIb87end1opULCDymLUTF8xs46Vi0VQO3Xw/Ly+/8juTnP6qVr5snSvzx5V9YPBX6wfOtlvogIye/8Ulh6ymGtVBPVnqA/ytmwyEhUHNVQj1GNRpl6veGRpcqUGwObgWCQoN5EPX8MGbFs+5l5QfONQQvemeURHaQi/GtIH7YteGqka/XnTrlmQdmGPruilpZh/CWgXRNtWsBhbVLort8zx1q5i5r36OGXZqPO1QLfUtYjrR/lh552xyhlceeR/EVkgGyWs5+bCHdeBWJXncum7EZlDiiuQl/9g==",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": {
+    "_": "ReplyInlineMarkup",
+    "rows": [
+      {
+        "_": "KeyboardButtonRow",
+        "buttons": [
+          {
+            "_": "KeyboardButtonUrl",
+            "text": "⛶ کد QR کانفیگ",
+            "url": "https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&chs=200x200&chl=slipnet-enc%3A%2F%2FAUeQcbFbPQHo0pVvEQ%2BYg5vwUHzaLsCyqv33xziADS4mg0z%2Bd0p6%2BsgABXP0lEakCsxJA0GO%2FZfkFiQYCk1Dyd%2FBtd5wTlQaEDx1guloGI0vUHuxxoJ1%2FGKLduDEhTyt8wYELOuNxXPudX9e3B5PfWPsXYj20yoJGO46gTv8JR%2FIqwklqdy%2F4rmbOUeV%2BiLTT6nY4aTE9SwpfiD4RIjeJY4uU0ovytYpubUGT0jU3pq%2Bs3Xu9hkeYHdAicdDBXKTmCCv7%2BouUqjrpNcg7hHRQCy%2B%2BSHLYiiCpFng%2BRVyZmM90N1yeua3oCImNDzULSI6tn9lfC%2B%2BrzZZmPblrRbtYoBHzT2nBHCOUinDqh18T%2BFCKpBS9DUxTfAbMIzKc6VfpZv%2BZdLHdqIHqIpL0awtP21hB4nh2iOVbnX0lT4Xi1AEKvdAz5FO2gyuqkpkUCQi6%2FAYYJ7xCVrOjaWQE%2FW8BvmsKMzVN09it7PwjiHF%2BGmybALZqqD0jnxY4Bq9bh4wpCicGKtW35%2FBeJ1Mu3VHIb87end1opULCDymLUTF8xs46Vi0VQO3Xw%2FLy%2B%2F8juTnP6qVr5snSvzx5V9YPBX6wfOtlvogIye%2F8Ulh6ymGtVBPVnqA%2FytmwyEhUHNVQj1GNRpl6veGRpcqUGwObgWCQoN5EPX8MGbFs%2B5l5QfONQQvemeURHaQi%2FGtIH7YteGqka%2FXnTrlmQdmGPruilpZh%2FCWgXRNtWsBhbVLort8zx1q5i5r36OGXZqPO1QLfUtYjrR%2Flh552xyhlceeR%2FEVkgGyWs5%2BbCHdeBWJXncum7EZlDiiuQl%2F9g%3D%3D",
+            "style": null
+          }
+        ]
+      },
+      {
+        "_": "KeyboardButtonRow",
+        "buttons": [
+          {
+            "_": "KeyboardButtonUrl",
+            "text": "🔍 دریافت کانفیگ‌های بیشتر",
+            "url": "https://t.me/persianvpnhub",
+            "style": null
+          }
+        ]
+      }
+    ]
+  },
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 60,
+      "length": 8
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 69,
+      "length": 4
+    },
+    {
+      "_": "MessageEntityPre",
+      "offset": 129,
+      "length": 838,
+      "language": ""
+    }
+  ],
+  "views": 2284,
+  "forwards": 11,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

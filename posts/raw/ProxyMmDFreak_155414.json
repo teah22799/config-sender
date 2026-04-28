@@ -1,0 +1,96 @@
+{
+  "_": "Message",
+  "id": 155414,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3111946920
+  },
+  "date": "2026-04-28T09:32:26+00:00",
+  "message": "vless://63894468-52ae-4a91-9990-db97754fa11d@94.183.163.211:2096?encryption=none&type=xhttp&security=tls&path=%2Fx4TNy5V0HjfhbVDUaT0&host=vercel.ifilmino.com&sni=vercel.ifilmino.com&alpn=h2&fp=firefox&allowInsecure=0#@Vasl_b\n\n\nvless://041c9cd2-c0b2-498a-b291-ff8fbe7ab2cb@camp.nahidapp.com:443?encryption=none&type=ws&security=tls&path=%2FIF_VPN_Bot&host=camp.nahidapp.com&sni=camp.nahidapp.com&allowInsecure=0#@Vasl_b\n👑 Channel: Vasl_b",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": false,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": {
+    "_": "PeerUser",
+    "user_id": 8023541776
+  },
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 0,
+      "length": 418,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 217,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 411,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 419,
+      "length": 18,
+      "collapsed": false
+    }
+  ],
+  "views": null,
+  "forwards": null,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 326560,
+    "comments": false,
+    "recent_repliers": [],
+    "channel_id": null,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T09:32:49+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [],
+    "min": false,
+    "can_see_list": true,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

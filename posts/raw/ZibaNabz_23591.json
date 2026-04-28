@@ -1,0 +1,170 @@
+{
+  "_": "Message",
+  "id": 23591,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1319668965
+  },
+  "date": "2026-04-20T17:00:06+00:00",
+  "message": "یه خرید جالب داشتم\nیه دختر ایرانی بود که دوست انگلیسی داشت\nپسره سرویس این دخترو پرداخت زد و من به اون دختر خانوم سرویس دادم تا پسره بتونه با دختر مورد علاقش تو ایران ارتباط بگیره!!! \n\nعشق چیه واقعا یاد بگیرین تباها\nدختر ایرانی عالیه واقعا یارو از اون سر دنیا عاشقش شده ❤️😐\n\nدرخدمتم\n@v2rayngsaz",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 269,
+      "length": 2,
+      "document_id": 5388790256772331442
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 271,
+      "length": 2,
+      "document_id": 6032845964589403285
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 283,
+      "length": 11
+    }
+  ],
+  "views": 6675,
+  "forwards": 37,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 455655,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 1694825362,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-20T21:37:54+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🗿"
+        },
+        "count": 54,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 11,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🔥"
+        },
+        "count": 5,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😍"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😐"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😱"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😢"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🕊"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

@@ -1,0 +1,19 @@
+<html><head><style>
+body { background:#f2f3f5; font-family:sans-serif; margin:0; padding:0;}
+.navbar { background:#fff; border-bottom:1px solid #ddd; padding:10px; display:flex; gap:12px; overflow-x:auto;}
+.nav_item { display:flex; align-items:center; gap:6px; padding:8px 12px; background:#f8f9fa; border-radius:18px; text-decoration:none; border:1px solid #e2e2e2;}
+.nav_item img { width:28px;height:28px;border-radius:50%; }
+.card { background:#fff; margin:15px auto; width:92%; max-width:600px; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08);}
+.card img { width:100%; border-radius:12px 12px 0 0; }
+.card_text { padding:15px; white-space:pre-wrap; }
+.download_btn { padding:8px 14px; background:#0099ff; color:#fff; text-decoration:none; border-radius:6px; margin:8px; display:inline-block;}
+.source_link { margin:10px; display:block;}
+.section_title { font-size:22px; font-weight:bold; padding:20px;}
+</style>
+</head><body><div class="section_title">Post from @yebekhe</div><div class="card"><div class="card_text">داخل هر دو روش چه با cmd چه اپ بالا هردو روش 
+باید داخل script.google.com اسکریپت رو اجرا کنید که فیلتر هستش
+
+داخل V2rayN با این میتونید دسترسی داشته باشید به سایتش 
+
+{"dns":{"hosts":{"cloudflare-dns.com":["216.239.38.120"],"domain:com":["216.239.38.120"],"domain:ir":["216.239.38.120"],"domain:org":["216.239.38.120"]},"servers":["https://cloudflare-dns.com/dns-query"],"tag":"dns"},"inbounds":[{"domainOverride":["http","tls"],"listen":"127.0.0.1","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"destOverride":["http","tls"],"enabled":true,"metadataOnly":true},"tag":"socks-in"},{"listen":"127.0.0.1","port":10809,"protocol":"http","settings":{"userLevel":8},"sniffing":{"destOverride":["http","tls"],"enabled":true,"metadataOnly":true},"tag":"http-in"}],"log":{"access":"","dnsLog":false,"error":"","loglevel":"none"},"meta":null,"outbounds":[{"domainStrategy":"UseIP","protocol":"freedom","settings":{"fragment":{"interval":"10-20","length":"10-20","packets":"tlshello"}},"sniffing":{"destOverride":["http","tls"],"enabled":true,"metadataOnly":true},"streamSettings":{"sockopt":{"domainStrategy":"UseIP","mark":255,"tcpKeepAliveIdle":100,"tcpNoDelay":true}},"tag":"fragment-out"},{"protocol":"dns","tag":"dns-out"},{"domainStrategy":"","mux":{"concurrency":8,"enabled":false},"protocol":"vless","settings":{"vnext":[{"address":"google.com","port":443,"users":[{"encryption":"none","flow":"","id":"UUID","level":8,"security":"auto"}]}]},"streamSettings":{"network":"ws","security":"tls","tlsSettings":{"allowInsecure":false,"alpn":["h2","http/1.1"],"fingerprint":"randomized","publicKey":"","serverName":"google.com","shortId":"","show":false,"spiderX":""},"wsSettings":{"headers":{"Host":"google.com"},"path":"/"}},"tag":"fakeproxy-out"},{"protocol":"freedom","settings":{"domainStrategy":"UseIP"},"tag":"direct"}],"policy":{"levels":{"8":{"connIdle":300,"downlinkOnly":1,"handshake":4,"uplinkOnly":1}},"system":{"statsOutboundDownlink":true,"statsOutboundUplink":true}},"remarks":"216.239.38.120","routing":{"domainStrategy":"UseIP","rules":[{"ip":["geoip:private"],"outboundTag":"direct","type":"field"},{"domain":["geosite:private"],"outboundTag":"direct","type":"field"},{"domain":["geosite:telegram"],"outboundTag":"fakeproxy-out","type":"field"},{"ip":["geoip:ir"],"outboundTag":"direct","type":"field"},{"inboundTag":["domestic-dns"],"outboundTag":"direct","type":"field"},{"enabled":true,"inboundTag":["socks-in","http-in"],"outboundTag":"dns-out","port":"53","type":"field"},{"enabled":true,"inboundTag":["socks-in","http-in"],"network":"tcp","outboundTag":"fragment-out","type":"field"}],"strategy":"rules"},"stats":{}}
+اینو با ایرانسل تست کردم اوکیه</div></div></body></html>

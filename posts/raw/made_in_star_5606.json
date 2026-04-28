@@ -1,0 +1,173 @@
+{
+  "_": "Message",
+  "id": 5606,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2547961935
+  },
+  "date": "2026-04-28T05:34:59+00:00",
+  "message": "تو تلگرام لااقل رو دست پینگ سرویس هامون ندیدم ❤️\nتست کنید😂❤️",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": true,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 6016886845830007769,
+      "access_hash": -5517632881942230117,
+      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\x97\\xde\\xd0O\\x00\\x00\\x15\\xe6i\\xf0\\xdf&\\x98u\\x14e\\x91\\xc5\"8\\x97\\xa6\\x14n\\x9fJ\\x8cV'",
+      "date": "2026-04-28T05:34:52+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b\"\\x01\\x12(\\x85\\x07\\xce[\\x07\\x07\\x8e\\x95?\\xd6\\xa2rS\\xee\\xd3\\xb7q\\xcfZ\\x81\\x8a\\xde\\xf5\\x199\\xa03\\x13\\x82:w4\\x1eG\\x14\\x98\\xc6\\x9c\\x93\\xda\\x8a\\\\`\\xf1\\x93\\xc7\\xa5\\x14\\xc0\\x91\\xbb\\xd2\\x7f\\x12\\xfdh\\xa2\\x81\\x12\\x101\\xd0T'\\xad\\x14R`4}\\xe1E\\x14P3\""
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 144,
+          "size": 17086
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 800,
+          "h": 360,
+          "size": 83518
+        },
+        {
+          "_": "PhotoSize",
+          "type": "y",
+          "w": 1280,
+          "h": 576,
+          "size": 183506
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "w",
+          "w": 2560,
+          "h": 1152,
+          "sizes": [
+            45071,
+            139684,
+            201006,
+            306337,
+            506792
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [],
+  "views": 1237,
+  "forwards": 0,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 0,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 777,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T11:35:03+00:00",
+  "post_author": null,
+  "grouped_id": 14218835994081740,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 4,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤‍🔥"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😍"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💋"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

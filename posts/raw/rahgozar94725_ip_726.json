@@ -1,0 +1,155 @@
+{
+  "_": "Message",
+  "id": 726,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1644374078
+  },
+  "date": "2026-04-20T10:34:27+00:00",
+  "message": "با کانفیگ‌های کانال‌های بقیه، که براشون شبانه‌روز زحمت کشیده شده و هزینه شده، ممبر جذب می‌کنن و بعد خیلی راحت می‌فروشن!\n\n\nاگر احساس می‌کنید نباید کاری کرد، من هم سرورها رو خاموش می‌کنم.\n\nچون این‌جوری دارم طعمه درست می‌کنم برای بقیه.",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": {
+    "_": "MessageFwdHeader",
+    "date": "2026-04-20T10:30:02+00:00",
+    "imported": false,
+    "saved_out": false,
+    "from_id": {
+      "_": "PeerChannel",
+      "channel_id": 1758540473
+    },
+    "from_name": null,
+    "channel_post": 1292,
+    "post_author": null,
+    "saved_from_peer": null,
+    "saved_from_msg_id": null,
+    "saved_from_id": null,
+    "saved_from_name": null,
+    "saved_date": null,
+    "psa_type": null
+  },
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 5994757151391419410,
+      "access_hash": 8943909428977711857,
+      "file_reference": "b'\\x02b\\x03(>\\x00\\x00\\x02\\xd6i\\xf0\\xe4\\x13k:\\xbe\\xb9)V\\x9a+e\\xd4pd\\xb9w0\\x07'",
+      "date": "2026-04-20T10:30:02+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b\"\\x01(\\x1a\\xa7,\\xcd\\xe6\\xc9\\xcb}\\xe3\\xde\\xa33I\\x9e\\x1d\\x87\\xe2j\\xff\\x00\\xf6k\\xc9\\xf3\\x99@\\xdd\\xf3s\\xefK\\xfd\\x90O\\xfc\\xb6\\x1f\\x95\\x01\\xa8\\xcby\\t0q\\x92s\\x93\\xbb\\xaf\\x06\\xad\\xf9\\xa9\\xfe\\xcf\\xe6*\\xabi\\xa6\\x142y\\x99\\xc7lT^[\\xd5%r\\x1bh\\x92K\\xfb\\x88\\xa4tB0\\xa7\\x1fw\\xd2\\x98u[\\xa3\\xfcK\\xff\\x00|\\xd5\\xff\\x00\\xec\\xc8\\x1b\\x05\\xc3\\x96#'\\x07\\xbd'\\xf6e\\xaf\\xa3~t\\x8a*\\xdb\\xdfI4\\x9e\\\\\\xd8\\xda{\\x81S\\xef\\x8f\\xfb\\xa6\\x9et\\xf8#\\xf9\\x906\\xe1\\xd3&\\x93\\xc9\\xaaD\\xca\\xf7.\\xa4\\x8b\\xb0\\r\\xe0\\x1cw4\\xd2\\xcb\\xdd\\xc7\\xe0\\xd4QPZ#\\x99\\xc0\\x8c\\xfc\\xeb\\xd4\\x0co\\xf7\\xaa\\xcds\\xb5\\x8a\\xe1x8\\xfb\\xe2\\x8a)\\xa1I\\x9f\""
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 206,
+          "h": 320,
+          "size": 22135
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 514,
+          "h": 800,
+          "size": 78410
+        },
+        {
+          "_": "PhotoSize",
+          "type": "y",
+          "w": 822,
+          "h": 1280,
+          "size": 147723
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "w",
+          "w": 1080,
+          "h": 1681,
+          "sizes": [
+            20375,
+            52608,
+            95837,
+            129413,
+            201293
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [],
+  "views": 5144,
+  "forwards": 21,
+  "replies": null,
+  "edit_date": "2026-04-20T10:35:21+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 129,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👎"
+        },
+        "count": 2,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

@@ -1,0 +1,96 @@
+{
+  "_": "Message",
+  "id": 1082,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2073938983
+  },
+  "date": "2026-04-23T15:30:35+00:00",
+  "message": "تاپیک اسکم گروه\nمیتونید گزارش کلاه‌برداری رو ثبت کنید.",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 0,
+      "length": 15,
+      "url": "https://t.me/asanfillter_group"
+    }
+  ],
+  "views": 4516,
+  "forwards": 4,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 8,
+    "replies_pts": 53044,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 810849373
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 7707573191
+      }
+    ],
+    "channel_id": 3015263639,
+    "max_id": 37208,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-23T15:33:56+00:00",
+  "post_author": "Hamed",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🤣"
+        },
+        "count": 36,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

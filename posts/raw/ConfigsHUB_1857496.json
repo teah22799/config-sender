@@ -1,0 +1,133 @@
+{
+  "_": "Message",
+  "id": 1857496,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1235816045
+  },
+  "date": "2026-04-21T13:58:12+00:00",
+  "message": "",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaDocument",
+    "nopremium": false,
+    "spoiler": false,
+    "video": false,
+    "round": false,
+    "voice": false,
+    "document": {
+      "_": "Document",
+      "id": 5996744836026208262,
+      "access_hash": -2396055985417908233,
+      "file_reference": "b'\\x02I\\xa9\\x0em\\x00\\x1cW\\xd8i\\xf0\\xe4+$\\xbc\\xc7\\xd7\\x01\\xaeng\\xe5\\x9bl\\x01&\\xc5\\x82\\xfc'",
+      "date": "2023-05-19T13:20:29+00:00",
+      "mime_type": "video/mp4",
+      "size": 831174,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeVideo",
+          "duration": 8.0,
+          "w": 480,
+          "h": 304,
+          "round_message": false,
+          "supports_streaming": true,
+          "nosound": true,
+          "preload_prefix_size": null,
+          "video_start_ts": null,
+          "video_codec": "h264"
+        },
+        {
+          "_": "DocumentAttributeAnimated"
+        }
+      ],
+      "thumbs": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01\\x19(\\x81\\xd9J\\x1c08\\xf4\\xa5\\xb7\\xe4\\x9f\\xa5W\\x11\\xc8G\\xdc#=j\\xdd\\xba\\xfc\\xc4{T\\x1a\\t9\\\\\\x0c\\x92\\xb8\\xf4\\xa8\\x03+0S$\\x99\\xf75a\\xff\\x00\\x8b \\x9f|U\\txn\\x98\\xa1\\x03-\\xf9g\\x04y\\x8f\\x83\\xdb4Ua3\\xf5\\x04\\xe2\\x8ab\\xba-3o\\x1e\\x959;c\\x18\\x18o\\\\Ua\\xd1\\xaa\\xe2}\\xd5\\xfaVrv5Z\\x95e\\x92Ds\\x9c\\x1czU9w\\x1eH\\xebW#\\xfb\\xcf\\xf5\\xa8\\xee?\\xd5?\\xfb\\xd5h\\xcd\\x95\\xc2\\xb1\\x88\\x93\\xc2\\x0e~\\xb4T\\x92\\xff\\x00\\xc7\\xb0\\xfa\\n*\\x89g'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 203,
+          "size": 10211
+        }
+      ],
+      "video_thumbs": []
+    },
+    "alt_documents": [],
+    "video_cover": null,
+    "video_timestamp": null,
+    "ttl_seconds": null
+  },
+  "reply_markup": null,
+  "entities": [],
+  "views": 8124,
+  "forwards": 11,
+  "replies": null,
+  "edit_date": "2026-04-21T13:59:30+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😭"
+        },
+        "count": 9,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

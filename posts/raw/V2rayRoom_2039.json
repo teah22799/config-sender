@@ -1,0 +1,104 @@
+{
+  "_": "Message",
+  "id": 2039,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1964007005
+  },
+  "date": "2026-04-25T11:35:31+00:00",
+  "message": "V2rayng + psiphon\n\nvless://-0d7a-496f-8e97-0bbc33bff55d@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=in.8lack.ir&fp=firefox&type=ws&sni=in.8lack.ir#Telegram+%3A+%40v2rayRoom\n\nترکیبی\n\n\n@v2rayRoom",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 17
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 19,
+      "length": 206,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 19,
+      "length": 206
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 227,
+      "length": 6,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 227,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 236,
+      "length": 10
+    }
+  ],
+  "views": 1027,
+  "forwards": 8,
+  "replies": null,
+  "edit_date": "2026-04-25T11:57:21+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 2,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

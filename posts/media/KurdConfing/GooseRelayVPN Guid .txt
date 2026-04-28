@@ -1,0 +1,38 @@
+آدرس ویدیو:
+https://youtu.be/tzjVg4O6dVs
+
+======================================
+
+خارج کردن از حالت فشرده:
+tar -xzvf PKG NAME
+======================================
+ساخت کلید:
+openssl rand -hex 32
+======================================
+ایجاد سرویس:
+sudo nano /etc/systemd/system/goose-relay.service
+
+[Unit]
+Description=GooseRelayVPN exit server
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/root
+ExecStart=/root/GooseRelayVPN-server-v1.2.0-linux-amd64/goose-server -config /root/GooseRelayVPN-server-v1.2.0-linux-amd64/server_config.json
+Restart=always
+RestartSec=3
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
+
+
+sudo systemctl daemon-reload
+sudo systemctl enable goose-relay
+sudo systemctl start goose-relay
+sudo systemctl status goose-relay --no-pager
+
+======================================
+دقت کنید در مسیر بالا اسم پوشه اینه GooseRelayVPN-server-v1.2.0-linux-amd64 حالا اگه نویسنده مثلا اسم یا ورژن رو تغییر داد این اسم هم تغییر میکنه پس به این نکته مهم توجه کنید.

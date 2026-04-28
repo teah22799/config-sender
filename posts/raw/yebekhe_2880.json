@@ -1,0 +1,131 @@
+{
+  "_": "Message",
+  "id": 2880,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2086200619
+  },
+  "date": "2026-04-25T17:18:22+00:00",
+  "message": "چنتا اپلیکیشن فیلم و سریال اندروید مود شده \n\nبدون نیاز به اشتراک ماهیانه\n● بدون نیاز به لاگین و ثبت‌نام\n● بدون سانسور\n● روی اینترنت ملی پرسرعت عالی کار میکنه\n● آرشیو خوبی داره،\n● قابلیت دانلود مستقیم فیلم و سریال با کیفیت بالا\n● دوبله فارسی و زیرنویس حرفه‌ای\n﻿لینک دانلود با نت داخلی\n🎥 Next Movie  \n             \n🎥 Delfan                \n         \n🎥 FilmKio\n\nکار ایشونه 😁 Nnn\n@InternetFreedom1",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 45,
+      "length": 213,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 284,
+      "length": 76,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 287,
+      "length": 10,
+      "url": "https://c224731.parspack.net/c224731/Next-Movie_Mod_v4.2.apk"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 317,
+      "length": 6,
+      "url": "https://my.files.ir/drive/s/t6BwfyI4yaLmLLMzWC1J15ubTKU9Up"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 353,
+      "length": 7,
+      "url": "https://c224731.parspack.net/c224731/FilmKio_universal_v3.8.1.apk"
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 380,
+      "length": 17,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 380,
+      "length": 17
+    }
+  ],
+  "views": 2093,
+  "forwards": 180,
+  "replies": null,
+  "edit_date": "2026-04-25T17:22:34+00:00",
+  "post_author": "ÐΛɌ₭ᑎΞ𐒡𐒡",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤‍🔥"
+        },
+        "count": 9,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🙏"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

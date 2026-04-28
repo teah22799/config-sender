@@ -1,0 +1,178 @@
+{
+  "_": "Message",
+  "id": 1073,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2073938983
+  },
+  "date": "2026-04-20T16:38:10+00:00",
+  "message": "بعد از دونیشن گل $1500 دلاری برای پنل پاسارگارد جهت اضافه شدن هسته وایرگارد،\n\nنوبت رسیده به دونیشن گل $3500 دلاری [معادل ۵۳۱,۰۰۰,۰۰۰ میلیون تومان]\nکه امکان تعیین محدودیت ترافیک و انقضا رو برای ادمین‌های ساخته‌شده فراهم میکنه 🦦",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 5997003943273237901,
+      "access_hash": -6275325637901488919,
+      "file_reference": "b\"\\x02{\\x9d\\xcc'\\x00\\x00\\x041i\\xf0\\xdf\\xd7\\xaf<@\\x99\\xbb\\xac\\xea\\xb3wU^F\\x08?\\x1b\\x0b\"",
+      "date": "2026-04-20T16:38:10+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b\"\\x01(\\x1a\\xcaR\\xa1y@O\\xaeM\\x05\\xd3\\xb4c\\xf34\\x8a\\xb9\\x19\\xa3m0\\x02\\xc0\\x8f\\xb8\\x07\\xd34\\xdaR1\\xd8\\xd3i\\x00\\xf5\\xc6\\xdeq\\xf9\\xd2\\xe0{~t\\x8a\\x01\\x1c\\xb6)1L\\x01\\x86?\\xfdt\\xdawJm '\\x88G\\xb7\\xe6\\x94\\xa9\\xf4\\xdb\\x9a\\nC\\xff\\x00=\\xbf\\xf1\\xda(\\xa7r@\\xac8\\xff\\x00\\\\s\\xfe\\xedCE\\x14\\xd8\\xcf\""
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 208,
+          "h": 320,
+          "size": 13309
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 519,
+          "h": 800,
+          "size": 52801
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 831,
+          "h": 1280,
+          "sizes": [
+            7372,
+            17332,
+            29843,
+            42435,
+            68654
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCode",
+      "offset": 17,
+      "length": 5
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 102,
+      "length": 5
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 225,
+      "length": 2,
+      "document_id": 6026240790219460632
+    }
+  ],
+  "views": 6074,
+  "forwards": 33,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 27,
+    "replies_pts": 53044,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 8521821743
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 6970894815
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 7168936144
+      }
+    ],
+    "channel_id": 3015263639,
+    "max_id": 35936,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-20T16:38:40+00:00",
+  "post_author": "Hamed",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🤣"
+        },
+        "count": 85,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤‍🔥"
+        },
+        "count": 4,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😁"
+        },
+        "count": 3,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

@@ -1,0 +1,160 @@
+{
+  "_": "Message",
+  "id": 23639,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1319668965
+  },
+  "date": "2026-04-26T06:43:13+00:00",
+  "message": "🟢Dns Resolver \n\n🟡از این آی‌پی‌ها به عنوان Resolver برای روش DNS-Tunneling میتونید استفاده کنید\n\n\n\n2.189.44.98\n2.188.21.138\n2.189.44.85\n2.189.44.86\n2.188.21.70\n2.189.44.82\n2.188.21.62\n2.189.44.84\n2.189.44.83\n108.162.192.0\n172.64.32.0\n2.188.21.46\n2.188.21.58\n2.189.44.93\n2.189.44.92\n2.189.44.94\n2.189.44.90\n162.159.38.0\n2.189.44.91\n2803:f800:53::\n162.159.44.0\n2a06:98c1:53::\n2606:4700:5a::\n2.189.44.14\n2606:4700:52::\n172.253.13.157\n2.188.21.78\n172.253.12.221\n172.253.228.158\n172.253.12.209\n172.253.12.222\n172.253.13.145\n172.253.13.151\n2.189.44.66\n172.253.12.219\n172.253.13.155\n172.253.228.157\n172.253.13.148\n2.188.21.146\n172.253.12.212\n172.253.13.152\n172.253.13.156\n172.253.12.148\n172.253.12.154\n172.253.228.149\n172.253.12.216\n172.253.13.153\n172.253.12.211\n172.253.228.151\n172.253.13.154\n172.253.228.155\n172.253.228.153\n172.253.12.146\n172.253.12.210\n172.253.13.158\n172.253.12.145\n172.253.228.145\n172.253.228.147\n172.253.12.158\n172.253.12.208\n172.253.12.151\n172.253.13.144\n172.253.12.155\n172.253.228.144\n172.253.12.156\n172.253.12.157\n172.253.12.217\n172.253.12.147\n172.253.13.146\n185.53.141.230\n172.253.228.148\n172.253.228.154\n172.253.228.146\n172.253.12.144\n2605:59c0:8c97:2210:e60d:36ff:fef8:5c6e\n172.253.12.220\n172.253.228.150\n172.253.228.152\n172.253.12.218\n172.253.12.213\n172.253.12.214\n172.253.13.150\n172.253.13.149\n172.253.12.215\n172.253.12.152\n172.253.12.149\n172.253.13.147\n172.253.12.150\n172.253.228.156\n172.253.12.153\n66.132.148.32\n66.132.148.6\n162.142.125.2\n66.132.198.17\n66.132.148.21\n66.132.148.3\n66.132.198.40\n66.132.148.40\n66.132.198.31\n\n🔻برای خرید سرویس با کیفیت میتونید پیام بدین🔺\n💠@v2rayngsaz \n\n#SlipNet \n#VayDNS \n🆔@ZibaNabz",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 0,
+      "length": 2,
+      "document_id": 4990298741463319592
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 17,
+      "length": 2,
+      "document_id": 4990075566372685240
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 99,
+      "length": 1448
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 1549,
+      "length": 2,
+      "document_id": 5972223227055836399
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 1593,
+      "length": 2,
+      "document_id": 5971789963639917544
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 1596,
+      "length": 2,
+      "document_id": 5972185809300753162
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 1598,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 1612,
+      "length": 8
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 1622,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 1631,
+      "length": 2,
+      "document_id": 6035239240625820254
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 1633,
+      "length": 9
+    }
+  ],
+  "views": 3504,
+  "forwards": 27,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 455655,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 1694825362,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-26T06:43:56+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🕊"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

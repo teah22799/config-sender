@@ -1,0 +1,169 @@
+{
+  "_": "Message",
+  "id": 2846,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2232706026
+  },
+  "date": "2026-04-24T20:01:13+00:00",
+  "message": "🇸🇪 #پروکسی_پرسرعت_اختصاصی_چنل\nتعداد: 10\n\n🔗 https://t.me/proxy?server=www.internet.ir_bing.com_www.mail.yahoo.com_and.filterchi.laghet.arvancloud.rodeo.&port=443&secret=7tvikxn_uKfIq7OAYerm81NzdGRuLmlhdS5hYy5pcg==\n🔗 https://t.me/proxy?server=www.ipify.icu.&port=443&secret=dd00000000000000000000000000000000\n🔗 https://t.me/proxy?server=www.internet.ir_bing.com_www.mail.yahoo.com_and.filterchi.laghet.arvancloud.rodeo.&port=443&secret=7tvikxn_uKfIq7OAYerm81NzdGRuLmlhdS5hYy5pcg==\n🔗 https://t.me/proxy?server=www.internet.ir_bing.com_www.mail.yahoo.com_and.filterchi.laghet.arvancloud.rodeo.&port=443&secret=7tvikxn_uKfIq7OAYerm81NzdGRuLmlhdS5hYy5pcg==\n🔗 https://t.me/proxy?server=www.ipify.icu.&port=443&secret=dd00000000000000000000000000000000\n🔗 https://t.me/proxy?server=www.ipify.icu.&port=443&secret=dd00000000000000000000000000000000\n🔗 https://t.me/proxy?server=144.124.248.122&port=443&secret=93987494e34612b0676a8ca2a9638622&\n🔗 https://t.me/proxy?server=94.130.190.170&port=443&secret=dd104462821249bd7ac519130220c25d09&\n🔗 https://t.me/proxy?server=91.107.182.200&port=8443&secret=dd104462821249bd7ac519130220c25d09&\n🔗 https://t.me/proxy?server=gproxy-sosavpn.duckdns.org&port=8443&secret=bfb77f1c4bf8a5c89eb5a3c83954ce69&\n──────────────\n📢 لطفا در چنل ما جوین بشین و به بقیه هم ارسال کنین\n🆔 @V2rayconfigamir",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 5,
+      "length": 26
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 5,
+      "length": 26
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 46,
+      "length": 169
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 219,
+      "length": 91
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 314,
+      "length": 169
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 487,
+      "length": 169
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 660,
+      "length": 91
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 755,
+      "length": 91
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 850,
+      "length": 91
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 945,
+      "length": 92
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1041,
+      "length": 93
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1138,
+      "length": 103
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 1260,
+      "length": 48
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 1312,
+      "length": 16
+    }
+  ],
+  "views": 156,
+  "forwards": 2,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 7854,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 2428075715,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-24T20:01:16+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🥰"
+        },
+        "count": 7,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 4,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 3,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

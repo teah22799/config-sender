@@ -1,0 +1,106 @@
+{
+  "_": "Message",
+  "id": 5534,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2547961935
+  },
+  "date": "2026-04-26T07:04:33+00:00",
+  "message": "ترکیب کن با سایفون 📱\n\nvless://b738ce99-ddaa-4eea-a3f6-2266e1cc961c@95.38.197.219:41379?security=none&encryption=none&headerType=none&type=tcp#%40made_in_star",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": true,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 19,
+      "length": 2,
+      "document_id": 5866202874182112334
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 23,
+      "length": 135,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 23,
+      "length": 135
+    }
+  ],
+  "views": 1395,
+  "forwards": 16,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 11,
+    "replies_pts": 15362,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerChannel",
+        "channel_id": 3893920141
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 7936419813
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 1132658482
+      }
+    ],
+    "channel_id": 3893920141,
+    "max_id": 5673,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-26T08:34:00+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

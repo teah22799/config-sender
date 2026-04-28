@@ -1,0 +1,136 @@
+{
+  "_": "Message",
+  "id": 20635,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1891582980
+  },
+  "date": "2026-04-25T17:23:43+00:00",
+  "message": "کانفیگ مخصوص اپلیکیشن Netmod \n\nکانال ما در پیام رسان های داخلی 👇\n\nhttps://rubika.ir/V2rayng751👈 روبیکا\n\nhttps://splus.ir/ghalagyann  👈سروش\n\nChannel 🤍 @ghalagyann\n\n🛡️هرسوالی در مورد اشتراک ها یا قصد خرید اشتراک اختصاصی داشتین  پشتیبانی آنلاینم پیام بدین 👇\nPV⚡️@V2rayng751\nPV⚡️@V2rayng751",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaDocument",
+    "nopremium": false,
+    "spoiler": false,
+    "video": false,
+    "round": false,
+    "voice": false,
+    "document": {
+      "_": "Document",
+      "id": 6010119162322492642,
+      "access_hash": 2359476106617162176,
+      "file_reference": "b'\\x02p\\xbfD\\x04\\x00\\x00P\\x9bi\\xf0\\xdeA\\x84\\xc3\\x8f~k\\xf6/u\\xef\\xb2sti\\x90\\xb8`'",
+      "date": "2026-04-25T17:23:24+00:00",
+      "mime_type": "application/octet-stream",
+      "size": 640,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "@ghalagyann نت مود🇩🇪.nm"
+        }
+      ],
+      "thumbs": [],
+      "video_thumbs": []
+    },
+    "alt_documents": [],
+    "video_cover": null,
+    "video_timestamp": null,
+    "ttl_seconds": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 62
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 67,
+      "length": 30
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 98,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 106,
+      "length": 27
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 137,
+      "length": 4
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 154,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 167,
+      "length": 93
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 265,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 281,
+      "length": 11
+    }
+  ],
+  "views": 1761,
+  "forwards": 28,
+  "replies": null,
+  "edit_date": "2026-04-25T18:17:57+00:00",
+  "post_author": "ramin",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

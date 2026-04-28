@@ -1,0 +1,81 @@
+{
+  "_": "Message",
+  "id": 16276,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3336135529
+  },
+  "date": "2026-04-27T15:37:52+00:00",
+  "message": "پروکسی پروکسی پروکسی",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 0,
+      "length": 6,
+      "url": "tg://proxy?server=94.237.47.158&port=443&secret=dd8dd8cc4e02625114d308dac05094c3c0"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 7,
+      "length": 6,
+      "url": "tg://proxy?server=95.217.29.187&port=8080&secret=dd104462821249bd7ac519130220c25d09"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 14,
+      "length": 6,
+      "url": "https://t.me/proxy?server=212.227.40.113&port=443&secret=eea1b2c3d4e5f60123456789abcdef012373332e616d617a6f6e6177732e636f6d"
+    }
+  ],
+  "views": 3598,
+  "forwards": 12,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 1274039,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 3392070575,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-27T15:37:55+00:00",
+  "post_author": "StonerBoi",
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

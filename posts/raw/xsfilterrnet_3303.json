@@ -1,0 +1,170 @@
+{
+  "_": "Message",
+  "id": 3303,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3209702364
+  },
+  "date": "2026-04-25T18:38:32+00:00",
+  "message": "⭐️متدهایی که الان فعال هستن:\n\n1- متد MHR✏️:\n⚪️رایگان و بدون پیش‌نیاز\n⚪️۲۰۰۰ ریکوئست محدودیت روزانه\n⚪️سختی راه‌اندازی: متوسط\n ⚪️ بدون تغییر آیپی(آیپی شما ایرانه)\n\n2- متد FlowDrive💡:\n⚪️نیازمند یک عدد سرور خارج\n⚪️۱۰۰۰۰ ریکوئست محدودیت روزانه\n⚪️سختی راه‌اندازی: بالا\n⚪️ با تغییر آیپی(به آیپی سرور خارج)\n\n\n@MatinSenPaii 💎\n@xsfilterrnet 👑",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 0,
+      "length": 2,
+      "document_id": 5438496463044752972
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 33,
+      "length": 10,
+      "url": "https://t.me/MatinSenPaii/2800"
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 44,
+      "length": 2,
+      "document_id": 4987767712940819293
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 69,
+      "length": 2,
+      "document_id": 4987767712940819293
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 99,
+      "length": 2,
+      "document_id": 4987767712940819293
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 125,
+      "length": 2,
+      "document_id": 4987767712940819293
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 165,
+      "length": 16,
+      "url": "https://t.me/MatinSenPaii/2837"
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 182,
+      "length": 2,
+      "document_id": 4987767712940819293
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 184,
+      "length": 24,
+      "url": "https://t.me/MatinSenPaii/2839"
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 209,
+      "length": 2,
+      "document_id": 4987767712940819293
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 240,
+      "length": 2,
+      "document_id": 4987767712940819293
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 264,
+      "length": 2,
+      "document_id": 4987767712940819293
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 302,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 316,
+      "length": 2,
+      "document_id": 5309958691854754293
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 319,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 333,
+      "length": 2,
+      "document_id": 5053169761232356354
+    }
+  ],
+  "views": 8636,
+  "forwards": 115,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 20,
+    "replies_pts": 102786,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 7227451345
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 8535628859
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 6663950417
+      }
+    ],
+    "channel_id": 2200550029,
+    "max_id": 64301,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-25T18:40:04+00:00",
+  "post_author": "امیرپارسا",
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

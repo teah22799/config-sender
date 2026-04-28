@@ -1,0 +1,111 @@
+{
+  "_": "Message",
+  "id": 1987,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1964007005
+  },
+  "date": "2026-04-19T00:06:15+00:00",
+  "message": "فایل 10 هزار DNS تست شده برای MasterDNS و...\n\nبرای استفاده کافی است این فایل را در برنامه مورد نظر SlipNet یا MasterDNS وارد کرده و اسکن رو انجام بدید.\n\n@v2rayRoom",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaDocument",
+    "nopremium": false,
+    "spoiler": false,
+    "video": false,
+    "round": false,
+    "voice": false,
+    "document": {
+      "_": "Document",
+      "id": 5990240129531256291,
+      "access_hash": 4343619939335421726,
+      "file_reference": "b'\\x02u\\x10^]\\x00\\x00\\x07\\xc3i\\xf0\\xdf\\xe8\\xe4\\xe2\\xcam\\xdb@s\\xc5\\xba\\xa2\\xde&/qY\\xfa'",
+      "date": "2026-04-18T22:02:33+00:00",
+      "mime_type": "text/plain",
+      "size": 177665,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "DNS_Resolvers_10000 (2).txt"
+        }
+      ],
+      "thumbs": [],
+      "video_thumbs": []
+    },
+    "alt_documents": [],
+    "video_cover": null,
+    "video_timestamp": null,
+    "ttl_seconds": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 151
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 153,
+      "length": 10
+    }
+  ],
+  "views": 866,
+  "forwards": 32,
+  "replies": null,
+  "edit_date": "2026-04-19T00:12:38+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 3,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

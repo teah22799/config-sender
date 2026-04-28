@@ -1,0 +1,389 @@
+{
+  "_": "Message",
+  "id": 23609,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1319668965
+  },
+  "date": "2026-04-22T04:52:51+00:00",
+  "message": "🟢 تعدادی DNS جدید برای AM TUNNEL \n\nهمراه اول 🗿\nudp://2.189.1.1\nudp://2.189.1.2\nudp://2.189.1.10\nudp://2.189.1.11\nudp://2.189.1.13\nudp://2.189.1.19\nudp://2.189.1.40\nudp://2.182.201.3\nudp://2.185.144.66\nudp://78.38.140.50\nudp://85.185.75.75\nudp://85.185.75.76\nudp://85.185.75.73\nudp://81.12.99.100\nudp://81.12.72.234\n\nایرانسل🗿  \nudp://78.38.251.250\nudp://78.38.110.82\nudp://78.39.98.28\nudp://79.127.66.90\nudp://79.127.7.200\nudp://80.191.110.161\nudp://80.191.88.90\nudp://80.191.202.15\nudp://80.191.47.2\nudp://85.185.1.10\nudp://85.133.189.11\nudp://94.182.54.7\nudp://94.182.54.200\nudp://94.182.49.134\nudp://95.38.102.86\n\n← فایل برنامه: Hamara Tunnel | AmTunnel Pro | AmTunnel Lite\n\nدر برنامه گزینه SuperDNS رو انتخاب کنید. سرور رو بذارید روی Custom DNS و در بخش DNS یکی از کدهای بالا رو برای اتصال قرار بدید و تست کنید.\n🔻برای خرید سرویس با کیفیت میتونید پیام بدین🔺\n💠@v2rayngsaz \n\n🥳☹️😣🙁☹️🙁☹️☹️\n\n#HamraTunnel\n#AmTunnel\n#AmTunnelLite\n🆔@ZibaNabz",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 0,
+      "length": 2,
+      "document_id": 4990298741463319592
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 3,
+      "length": 32
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 46,
+      "length": 2,
+      "document_id": 5926844015650541189
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 49,
+      "length": 15
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 65,
+      "length": 15
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 81,
+      "length": 16
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 98,
+      "length": 16
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 115,
+      "length": 16
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 132,
+      "length": 16
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 149,
+      "length": 16
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 166,
+      "length": 17
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 184,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 203,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 222,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 241,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 260,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 279,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 298,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 325,
+      "length": 2,
+      "document_id": 5926878710396358693
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 330,
+      "length": 19
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 350,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 369,
+      "length": 17
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 406,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 425,
+      "length": 20
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 465,
+      "length": 19
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 485,
+      "length": 17
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 503,
+      "length": 17
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 521,
+      "length": 19
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 541,
+      "length": 17
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 559,
+      "length": 19
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 579,
+      "length": 19
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 599,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 619,
+      "length": 59,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 634,
+      "length": 14,
+      "url": "https://t.me/ZibaNabz/23607"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 650,
+      "length": 13,
+      "url": "https://t.me/ZibaNabz/23606"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 665,
+      "length": 13,
+      "url": "https://t.me/ZibaNabz/23608"
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 680,
+      "length": 138,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 818,
+      "length": 2,
+      "document_id": 5972223227055836399
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 862,
+      "length": 2,
+      "document_id": 5971789963639917544
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 865,
+      "length": 2,
+      "document_id": 5972185809300753162
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 867,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 881,
+      "length": 2,
+      "document_id": 6325520979057445692
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 883,
+      "length": 2,
+      "document_id": 6323586379758439424
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 885,
+      "length": 2,
+      "document_id": 6325543716614309944
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 887,
+      "length": 2,
+      "document_id": 6325843866108824014
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 889,
+      "length": 2,
+      "document_id": 6325834524554956586
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 891,
+      "length": 2,
+      "document_id": 6325418415238417148
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 893,
+      "length": 2,
+      "document_id": 6325631398371658761
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 895,
+      "length": 2,
+      "document_id": 6325400711383223418
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 899,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 912,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 922,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 936,
+      "length": 2,
+      "document_id": 6035239240625820254
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 938,
+      "length": 9
+    }
+  ],
+  "views": 5646,
+  "forwards": 63,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 455655,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 1694825362,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-22T05:08:28+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 7,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🕊"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

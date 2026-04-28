@@ -1,0 +1,169 @@
+{
+  "_": "Message",
+  "id": 23656,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1319668965
+  },
+  "date": "2026-04-28T05:01:28+00:00",
+  "message": "کانفیگ V2ray:\n🟢درود عزیزان\n\nفروش سرویس \n🖥v2ray \n🗿openvpn \n🗿wireguard \n\n\n⭕️روی تمامی اوپراتور ها کار میکنه و حتی برای ترید هم مناسبه⭕️\n\n✅پایداری سرویسا خوبه و راحت میتونید استفاده کنید . جزو محدود تیم هایی بودیم که از اول جنگ فعالیم❤️\n🟢برای مشاهده حجم بهتون لینک ساب داده میشه که مدیریتش کنید.\nاعتماد سازی\n\nیه تغییر قیمتی رو سرویسا صورت گرفته میتونید استعلام بگیرین\nدر خدمتم \n@v2rayngsaz",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 14,
+      "length": 2,
+      "document_id": 4987857563656651705
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 41,
+      "length": 2,
+      "document_id": 5778635556237873102
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 50,
+      "length": 2,
+      "document_id": 6023955459596094659
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 61,
+      "length": 2,
+      "document_id": 5926837044918619441
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 76,
+      "length": 2,
+      "document_id": 5951677112829088371
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 135,
+      "length": 2,
+      "document_id": 5949775417274536507
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 139,
+      "length": 1,
+      "document_id": 5963149863829903357
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 235,
+      "length": 2,
+      "document_id": 5388790256772331442
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 238,
+      "length": 2,
+      "document_id": 4990298741463319592
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 298,
+      "length": 11,
+      "url": "https://t.me/+VH18cCjFIMI1ZWVk"
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 311,
+      "length": 58
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 380,
+      "length": 11
+    }
+  ],
+  "views": 3118,
+  "forwards": 3,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 455655,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 1694825362,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T05:59:52+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 6,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🕊"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

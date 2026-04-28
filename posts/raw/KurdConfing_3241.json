@@ -1,0 +1,152 @@
+{
+  "_": "Message",
+  "id": 3241,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1648657493
+  },
+  "date": "2026-04-18T15:43:32+00:00",
+  "message": "کانفیگ SlipNet\nمتود Vaydns+SSh\n\nslipnet-enc://AX8EO9U3/RNbZ+2YGUoyaJgeBb4qlN5ojf5tGYmnWhmfZauC7715MttRMmhzDxT+wZuraa9C5d8DRhHG/aXqWic0YsDnQShT81TuRtAqpq0XKX1sB+glR/6A6wvLzS4xMitQbdPVYgCFRWP/8oZXCsmB4o4CJNI2SCpAKvScL0+/lDgw39le0yxargNHKkj3oTet8cwZK5drnzeQ67pYwLw7Ay0Aaxx/tNDzxOp8Pn0RnT5G95hfjkMF8UPElO6Yddy3trZvh+/yqlp0CDlQTd1C8l5COPUo9GrRjeWnFDaIS3SMgT1IzN7kTfm4BeSr7uHG9eAjZBNUxPNvUqAGY79+P2g/IOw8NeMBFZQc5intGkhU4rpw66u+dp6In953HgO8f1+QY4+CgT41qr4xqfnDU0QmSxa9OOsPJfoTns1gNUFvdSulC5PKglgvsMaOuMS7OLPdEYebDUHupZE3W/6UtMQj+QOp783DXO5crMPlvmIxjjaTWn6d4eJx7yLbBABaaX7udwwbDIZ60Vj+JpoKdAzoLQB6dwU2FbRSSzDBt9O5jKg3TE68yoH+yQHPNNZFcwIgQLjP8FiJap6URmCCIkxILhPYXntUWomUrsRSmImvQ1lQN41f8Yk2K2AtWYYJPZb7+DoKwcFOMKdb++sKhP2g8ZZJFk5ayMHLC2Pf0iuieOOACvmVh2KzvW83J9mct9pqKjb++qnWn6j/99Wvehw=\n\n🤔چطور وارد کنم؟\n\n🌐کورد کانفیگ\n🔗 @KurdConfing",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": true,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 32,
+      "length": 746,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 32,
+      "length": 746
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 782,
+      "length": 14,
+      "url": "https://t.me/KurdConfing/2997"
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 815,
+      "length": 12
+    }
+  ],
+  "views": 11931,
+  "forwards": 87,
+  "replies": null,
+  "edit_date": "2026-04-18T23:00:54+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionPaid"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 10,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 5,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🔥"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🥰"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": [
+      {
+        "_": "MessageReactor",
+        "count": 1,
+        "top": true,
+        "my": false,
+        "anonymous": false,
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 292726440
+        }
+      },
+      {
+        "_": "MessageReactor",
+        "count": 1,
+        "top": true,
+        "my": false,
+        "anonymous": false,
+        "peer_id": {
+          "_": "PeerChannel",
+          "channel_id": 3786760867
+        }
+      }
+    ]
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

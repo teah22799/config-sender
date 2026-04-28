@@ -1,0 +1,136 @@
+{
+  "_": "Message",
+  "id": 5590,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2547961935
+  },
+  "date": "2026-04-27T16:56:18+00:00",
+  "message": "خب بچه ها سرور خام خام ساخته شد\n\nاز الان ثبت سفارش داریم سریع فقط 😂❤️\n\n@TELORNET",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": true,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 6016886845830007704,
+      "access_hash": 6143006253924391216,
+      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\x97\\xde\\xd0O\\x00\\x00\\x15\\xd6i\\xf0\\xdf&]\\x89s\\xf7\\xa5\\x8a`]\\x9d\\xed\\x90\\x08\\\\\\xccBu'",
+      "date": "2026-04-27T16:56:17+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01(\\x12\\xafms\\x0c1\\x95xC\\x1c\\xf5\\xebQ\\\\<.A\\x8a2\\x87\\xb8\\xedQ)9\\xc08\\xcd!$\\xf59\\xa4\\xa0\\x93\\xb8]\\x89E\\x1c\\xd1U`\\xb8n \\xf0qI\\xbc\\xfa\\xd0z\\xd2S\\x10\\xb94RQ@\\nz\\xd2QE\\x00\\x14QE\\x00\\x7f'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 144,
+          "h": 320,
+          "size": 6924
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 360,
+          "h": 800,
+          "size": 23154
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 576,
+          "h": 1280,
+          "sizes": [
+            5363,
+            10590,
+            18820,
+            29336,
+            40537
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityMention",
+      "offset": 72,
+      "length": 9
+    }
+  ],
+  "views": 1375,
+  "forwards": 0,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 0,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 777,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T05:06:59+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💋"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

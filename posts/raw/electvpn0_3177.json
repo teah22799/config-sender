@@ -1,0 +1,138 @@
+{
+  "_": "Message",
+  "id": 3177,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2719826088
+  },
+  "date": "2026-04-27T08:58:39+00:00",
+  "message": "ری اکشن یادتون نره💪\n\nslipnet-enc://ASpFWGNY852vETmZ0rdGzZHja/cP/Bf4QX/GiGq7wYagzuLvNPUPzInNRRU/hAB5Z8KvtKLWm058C9m+lvKn9vyBwBGhBExXwDey6f6VD/x6el1SZUnKSGZQAU0P/h70cERVMoVIy4QIbEhrg1IXFDz9d2bSEVgdmEVkPHQ+yMfkTYHVQb92G425SaeUL1B7cmQBdOJL7eKtouyxXdFOl34KPMaMfPfGN3K6N0fQ5jdUqce6jxdbXGhDuoay6oijxreBX1jgS1/Z8KyVkceoSKjxERCpoPGAxYsffl0PA5CNBYNwLXXMQ7fE3g2H7cr0IWN2QJdsc0e7ngoN08zaUr4uWkLyIiOQBqvYbBm1Z3j3qgaAwmDQJ1WDnC+7yxssFqcE2IRNKoQrP60BRddb/Hf/sZUSTw9bY2OeCKS3mr9SI51GT5hgj0y7\n\n\n🚀 کانفیگ وصل مخصوص اسلیپ نت \n\n\n🆔 @electvpn0",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 18,
+      "length": 2,
+      "document_id": 5940804519083383006
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 22,
+      "length": 454,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 22,
+      "length": 454
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 479,
+      "length": 2,
+      "document_id": 5780773956030043338
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 511,
+      "length": 2,
+      "document_id": 5334890573281114250
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 514,
+      "length": 10
+    }
+  ],
+  "views": 895,
+  "forwards": 13,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 1,
+    "replies_pts": 3251,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 1093177042
+      }
+    ],
+    "channel_id": 3842002892,
+    "max_id": 1160,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-27T09:00:54+00:00",
+  "post_author": "ᴀʀᴄᴏ",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 5,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 4,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👌"
+        },
+        "count": 3,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

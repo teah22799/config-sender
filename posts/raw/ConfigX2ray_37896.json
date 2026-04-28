@@ -1,0 +1,160 @@
+{
+  "_": "Message",
+  "id": 37896,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1821916077
+  },
+  "date": "2026-04-26T17:12:38+00:00",
+  "message": "vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=vercel.com#https://t.me/ConfigX2ray\n\nترکیبی با سایفون وصله ✅\n\nآموزش استفادع : 👇\nhttps://t.me/ConfigX2ray0/1665\n\nChannel :  https://t.me/ConfigX2ray",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCode",
+      "offset": 0,
+      "length": 198
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 198,
+      "length": 1
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 200,
+      "length": 22
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 222,
+      "length": 1
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 222,
+      "length": 1,
+      "document_id": 5866341893683549429
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 223,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 241,
+      "length": 2
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 241,
+      "length": 2,
+      "document_id": 5800754418768942233
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 244,
+      "length": 30
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 287,
+      "length": 24
+    }
+  ],
+  "views": 28199,
+  "forwards": 153,
+  "replies": null,
+  "edit_date": "2026-04-27T09:13:43+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 14,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👏"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤‍🔥"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🔥"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

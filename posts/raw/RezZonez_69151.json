@@ -1,0 +1,96 @@
+{
+  "_": "Message",
+  "id": 69151,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2097572960
+  },
+  "date": "2026-04-28T10:14:04+00:00",
+  "message": "PROXY  Psiphon :\nIP : 78.38.180.27\n Port : 8080\n@RezZonez✉️",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 16
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 17,
+      "length": 30,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 17,
+      "length": 5
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 22,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 36,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 43,
+      "length": 4
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 48,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 57,
+      "length": 2,
+      "document_id": 5985592201822869703
+    }
+  ],
+  "views": 5113,
+  "forwards": 66,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

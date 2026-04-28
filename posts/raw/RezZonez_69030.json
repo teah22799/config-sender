@@ -1,0 +1,76 @@
+{
+  "_": "Message",
+  "id": 69030,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2097572960
+  },
+  "date": "2026-04-26T18:00:30+00:00",
+  "message": "سرور V2BOX متصل :\nvless://a4172989-923b-46de-a317-18e407e4ae27@out1.tehranionliine.ir:80?encryption=none&type=ws&path=/#@RezZonez\n@RezZonez✉️",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 18,
+      "length": 111,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 120,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 130,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 139,
+      "length": 2,
+      "document_id": 5985592201822869703
+    }
+  ],
+  "views": 6588,
+  "forwards": 47,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

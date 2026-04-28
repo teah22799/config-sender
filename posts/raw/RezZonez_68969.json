@@ -1,0 +1,101 @@
+{
+  "_": "Message",
+  "id": 68969,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2097572960
+  },
+  "date": "2026-04-25T16:31:01+00:00",
+  "message": "چند سرور ترکیبی برای سایفون :\nvless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#@RezZonez\n\nvless://596b9630-6d8e-436e-bced-6d2a00a4e714@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bn.8lack.ir&fp=firefox&type=ws&sni=bn.8lack.ir#@RezZonez\n\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#@RezZonez\n\nvless://6beee13a-f356-4a51-8e65-75f776508e8f@78.159.131.5:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=8051d89749e0d400#@RezZonez\n\nss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#@RezZonez\n\ntrojan://1234567890@152.53.236.205:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#@RezZonez\n@RezZonez✉️",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 30,
+      "length": 1032,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 208,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 408,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 514,
+      "length": 31
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 787,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 860,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 1053,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 1063,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 1072,
+      "length": 2,
+      "document_id": 5985592201822869703
+    }
+  ],
+  "views": 9658,
+  "forwards": 39,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

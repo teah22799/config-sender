@@ -1,0 +1,115 @@
+{
+  "_": "Message",
+  "id": 3153,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2719826088
+  },
+  "date": "2026-04-26T18:17:46+00:00",
+  "message": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:8443?encryption=none&type=ws&security=tls&path=%2F&host=sni.111000.dynv6.net&sni=sni.111000.dynv6.net&allowInsecure=1#@electvpn0\n\nvless://4d53b169-1265-4f48-8188-fabbee85e8b6@104.20.6.134:443?encryption=none&type=xhttp&security=tls&path=%2Fde&host=de.lezzatzone.ir&mode=stream-one&sni=de.lezzatzone.ir&fp=chrome&allowInsecure=0#@electvpn0",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 0,
+      "length": 396,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 0,
+      "length": 186
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 186,
+      "length": 210
+    }
+  ],
+  "views": 581,
+  "forwards": 7,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 3251,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 3842002892,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-26T18:26:40+00:00",
+  "post_author": "ᴀʀᴄᴏ",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👌"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

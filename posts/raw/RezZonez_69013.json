@@ -1,0 +1,96 @@
+{
+  "_": "Message",
+  "id": 69013,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2097572960
+  },
+  "date": "2026-04-26T11:59:19+00:00",
+  "message": "مخصوص سایفون :\nHostname : 5.62.177.54\nPort : 10808\n@RezZonez✉️",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 15,
+      "length": 35,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 15,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 26,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 38,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 45,
+      "length": 5
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 51,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 51,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 60,
+      "length": 2,
+      "document_id": 5985592201822869703
+    }
+  ],
+  "views": 8924,
+  "forwards": 65,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

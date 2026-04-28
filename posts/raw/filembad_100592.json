@@ -1,0 +1,151 @@
+{
+  "_": "Message",
+  "id": 100592,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2025442005
+  },
+  "date": "2026-04-28T12:44:01+00:00",
+  "message": "🔹🔹خودم وصلم سرعتی  از ربات زیر بگیر اکانت نامحدود 7روزه میده رایگان\n\n@v2rayy_config_bot",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": {
+    "_": "MessageFwdHeader",
+    "date": "2026-04-13T05:14:26+00:00",
+    "imported": false,
+    "saved_out": false,
+    "from_id": {
+      "_": "PeerChannel",
+      "channel_id": 2025442005
+    },
+    "from_name": null,
+    "channel_post": 88348,
+    "post_author": null,
+    "saved_from_peer": null,
+    "saved_from_msg_id": null,
+    "saved_from_id": null,
+    "saved_from_name": null,
+    "saved_date": null,
+    "psa_type": null
+  },
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaDocument",
+    "nopremium": false,
+    "spoiler": false,
+    "video": false,
+    "round": false,
+    "voice": false,
+    "document": {
+      "_": "Document",
+      "id": 5961013577161644823,
+      "access_hash": 1955518389030781098,
+      "file_reference": "b'\\x02x\\xb9\\xca\\xd5\\x00\\x01\\x88\\xf0i\\xf0\\xd5\\xd7\\x1d)^ZC\\x0b\\x95\\xdd\\xf9v\\xbbF\\xdc\\xc9\\x84\\xfe'",
+      "date": "2026-04-09T00:28:47+00:00",
+      "mime_type": "video/mp4",
+      "size": 4570888,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeVideo",
+          "duration": 32.411,
+          "w": 382,
+          "h": 854,
+          "round_message": false,
+          "supports_streaming": true,
+          "nosound": true,
+          "preload_prefix_size": null,
+          "video_start_ts": null,
+          "video_codec": "h264"
+        },
+        {
+          "_": "DocumentAttributeAnimated"
+        }
+      ],
+      "thumbs": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b\"\\x01(\\x12\\xa1\\x91\\xe5\\x8f\\x93\\xfe\\x05\\xcd'E\\xce\\x00\\x1e\\xb4(\\xf9G\\x148\\x1b\\x0f\\x1d\\xa9\\x80\\xc3 \\xcfZ*\\x1a(\\xb8\\x16W\\xa0\\xa4r\\n\\x1e;R\\xaa\\xe4\\n\\x19N\\xd3\\xe9@\\x15\\xa8\\xa7dzQH\\x07\\x89\\x06?\\xfa\\xd4\\xbb\\xc794QL\\x06\\x9d\\x998'\\x1fO\\xfe\\xbd\\x14Q@\\x8f\""
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 143,
+          "h": 320,
+          "size": 12593
+        }
+      ],
+      "video_thumbs": []
+    },
+    "alt_documents": [],
+    "video_cover": null,
+    "video_timestamp": null,
+    "ttl_seconds": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 0,
+      "length": 2,
+      "document_id": 6051105013026000628
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 2,
+      "length": 2,
+      "document_id": 6051105013026000628
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 71,
+      "length": 18
+    }
+  ],
+  "views": 314,
+  "forwards": 1,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 217330,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 3665682785,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T12:44:04+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

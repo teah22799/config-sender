@@ -1,0 +1,182 @@
+{
+  "_": "Message",
+  "id": 5597,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2547961935
+  },
+  "date": "2026-04-27T21:31:24+00:00",
+  "message": "اونا میان این پینگه رو میگیرن برا اونا میشه دو رقمی برا ما شد 1 رقمی پس خواهش میکنم \nبه احترام سرویس هامون هم که شده با بقیه مقایسمون نکنید مخصوصا کسایی که فقط فروشنده هستن نه سازنده 😂👍\n\n\nTcping × Real ping \n\nاین دو تا یکی نیستن",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": true,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": {
+    "_": "MessageReplyHeader",
+    "reply_to_scheduled": false,
+    "forum_topic": false,
+    "quote": false,
+    "reply_to_msg_id": 5596,
+    "reply_to_peer_id": null,
+    "reply_from": null,
+    "reply_media": null,
+    "reply_to_top_id": null,
+    "quote_text": null,
+    "quote_entities": [],
+    "quote_offset": null,
+    "todo_item_id": null,
+    "poll_option": null
+  },
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 6016886845830007725,
+      "access_hash": 5440766905687579923,
+      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\x97\\xde\\xd0O\\x00\\x00\\x15\\xddi\\xf0\\xdf&\\xc5:\\xaf[9F\\x11\\x86r\\x94T\\xdfB(@\\xfc'",
+      "date": "2026-04-27T21:31:24+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01(\\x1e\\xcd\\xe3\\xa6{zR\\x10\\x01\\xe0\\xe4z\\xd3\\xb9\\xe0\\x8c\\x1cz\\xe2\\x91\\xc98\\xc8\\x03\\xe9L\\x04\\x07\\x00\\xff\\x00\\x85\\r\\x83\\xf4\\xfaP1\\xeb\\x8a\\x08\\x18\\xe0\\xe7\\x9a\\x00\\x0fA\\xebIN `s\\x8ai\\xfa\\xd2\\x01F;\\x9a\\x0e1\\xc1=h\\x18\\xefA\\xc6:\\x1e\\xb4\\xc0S\\xb7\\x03\\xb7\\xd2\\x9a}\\xa8\\xa2\\x90\\n\\x08\\xee3A9\\x1c/9\\xf5\\xa2\\x8a\\x00'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 238,
+          "h": 320,
+          "size": 12199
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 595,
+          "h": 800,
+          "size": 50448
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 852,
+          "h": 1146,
+          "sizes": [
+            8443,
+            16685,
+            31794,
+            54804,
+            77762
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 0,
+      "length": 84,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 85,
+      "length": 102
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 190,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 199,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 211,
+      "length": 19,
+      "collapsed": false
+    }
+  ],
+  "views": 1343,
+  "forwards": 0,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 0,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 777,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T03:31:29+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 4,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💋"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

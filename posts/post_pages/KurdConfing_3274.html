@@ -1,0 +1,134 @@
+<html><head><style>
+body { background:#f2f3f5; font-family:sans-serif; margin:0; padding:0;}
+.navbar { background:#fff; border-bottom:1px solid #ddd; padding:10px; display:flex; gap:12px; overflow-x:auto;}
+.nav_item { display:flex; align-items:center; gap:6px; padding:8px 12px; background:#f8f9fa; border-radius:18px; text-decoration:none; border:1px solid #e2e2e2;}
+.nav_item img { width:28px;height:28px;border-radius:50%; }
+.card { background:#fff; margin:15px auto; width:92%; max-width:600px; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08);}
+.card img { width:100%; border-radius:12px 12px 0 0; }
+.card_text { padding:15px; white-space:pre-wrap; }
+.download_btn { padding:8px 14px; background:#0099ff; color:#fff; text-decoration:none; border-radius:6px; margin:8px; display:inline-block;}
+.source_link { margin:10px; display:block;}
+.section_title { font-size:22px; font-weight:bold; padding:20px;}
+</style>
+</head><body><div class="section_title">Post from @KurdConfing</div><div class="card"><div class="card_text">آموزش خیلی ساده MasterHttpRelayVPN
+
+این روش بدون نیاز به VPS  وفقط با اکانت گوگل انجام میشه.
+
+این ابزار ترافیک اینترنتتو کامل پشت گوگل قایم می‌کنه. فیلتر فقط google.com رو می‌بینه، ولی تو داری راحت همه سایت‌ها رو باز می‌کنی.  
+هیچ سرور یا VPS لازم نداره، فقط یه اکانت گوگل کافیه!
+
+مرحله 1⃣: پروژه رو بگیر (۳۰ ثانیه)
+
+۱. برو این لینک:  
+https://github.com/masterking32/MasterHttpRelayVPN/tree/python_testing
+
+۲. روی Code کلیک کن → Download ZIP (اگه نمیتونین از اونجا دانلود کنین براتون میفرستم همینجا)
+
+۳. فایل زیپ رو استخراج کن.
+
+۴. داخل پوشه پروژه، این دستور رو بزن:
+
+pip install -r requirements.txt
+(اگه ارور داد:)
+pip install -r requirements.txt -i https://mirror-pypi.runflare.com/simple/ --trusted-host mirror-pypi.runflare.com
+---
+
+مرحله 2⃣: رله گوگل رو بساز (مهم‌ترین قسمت)
+
+۱. برو سایت: https://script.google.com
+
+۲. New project بزن.
+
+۳. تمام کد پیش‌فرض رو پاک کن.
+
+۴. فایل Code.gs رو از پوشه پروژه باز کن، همه محتواش رو کپی کن و اینجا بچسبون.
+
+۵. این خط رو پیدا کن و یه رمز قوی بذار:
+const AUTH_KEY = "رمز_دلخواه_تو_اینجا";
+۶. بالا سمت راست Deploy → New deployment بزن.
+
+۷. نوعش رو Web app بذار.
+
+۸. تنظیمات:
+- Execute as: Me
+- Who has access: Anyone
+
+۹. Deploy بزن و Deployment ID رو کپی کن (بعداً لازم داریم).
+
+
+مرحله 3⃣: فایل config.json رو تنظیم کن
+
+۱. داخل پوشه پروژه، فایل config.example.json رو کپی کن و اسمش رو بذار config.json
+
+۲. فایل رو باز کن و این مقادیر رو دقیق بذار:
+
+{
+  "mode": "apps_script",
+  "google_ip": "216.239.38.120",
+  "front_domain": "www.google.com",
+  "script_id": "DEPLOYMENT_ID_که_کپی_کردی_اینجا",
+  "auth_key": "همون_رمزی_که_بالا_گذاشتی",
+  "listen_host": "127.0.0.1",
+  "listen_port": 8085,
+  "log_level": "INFO",
+  "verify_ssl": true
+}
+---
+
+مرحله 4⃣: برنامه رو اجرا کن
+
+ترمینال رو باز کن، داخل پوشه پروژه برو و بزن:
+
+python main.py
+اگه درست باشه می‌نویسه:
+Proxy listening on 127.0.0.1:8085
+
+(برنامه رو نبند، باز نگه دار!)
+
+---
+
+مرحله 5⃣: مرورگر رو به پراکسی وصل کن
+
+پراکسی محلی:
+آدرس: 127.0.0.1  
+پورت: 8085  
+نوع: HTTP
+
+- فایرفاکس: Settings → Network Settings → Manual proxy
+- کروم/اج: از تنظیمات ویندوز یا FoxyProxy
+- موبایل: با اپ HTTP Proxy به پراکسی کامپیوتر وصل شو
+
+---
+
+مرحله 6⃣: گواهی امنیتی رو نصب کن (حتماً انجام بده!)
+
+بعد از اولین اجرا، فایل ca/ca.crt ساخته می‌شه.
+
+ویندوز:
+۱. روی فایل دوبار کلیک کن
+۲. Install Certificate → Current User
+۳. تیک Place all certificates in the following store رو بزن
+۴. Trusted Root Certification Authorities → OK
+
+فایرفاکس:
+Settings → Privacy & Security → Certificates → Import → فایل ca.crt → تیک Trust this CA
+
+
+تموم شد! ☑️  
+حالا تست کن، سایت‌های فیلترشده باید باز بشن.
+
+نکات مهم:
+- برنامه رو همیشه باز نگه دار
+- اگه ارور دادی، اول auth_key و script_id رو چک کن
+- می‌تونی چند تا Deployment ID بسازی برای سرعت بیشتر
+- عوض کردن پورت: python main.py -p 9090
+
+لینک پروژه در گیت‌هاب:  
+https://github.com/masterking32/MasterHttpRelayVPN
+
+(این آموزش برای برنچ python_testing هست)
+
+ویدیوی آموزشی رو هم میزارم براتون❤️
+
+🌐 کورد کانفیگ
+🔗 @KurdConfing</div></div></body></html>

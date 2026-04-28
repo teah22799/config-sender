@@ -1,0 +1,244 @@
+{
+  "_": "Message",
+  "id": 3292,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3209702364
+  },
+  "date": "2026-04-23T15:16:20+00:00",
+  "message": "📣رفقا درود به شما طبق نظر سنجی شما من این کار رو کردم...\n#اقتصادی\n#اختصاصی \nوایرگارد اوردم\nقیمت سرویس ها رو شرایط رو میگم بنا بر استفاده خودتون میتونید بخرید...\nسرویس اقتصادی:\n\nساب داره میتونید حجم و زمان رو ببینید🔥\n\nکانفیگ سرعت خوبی داره نسبت به قیمت🔝\n\nمحدودیت زمان و کاربر نداره❗️\n\nپشتیبانی داره تا حد ممکن‼️\n﻿\nقیمت:💵\n۳۵۰ تومان به درد تریدار ها نمیخوره وفقط کسایی که روزمره استفاده دارن...\n\nسرویس اختصاصی:\n\n۵ تا کانفیگ داخل ساب وجود داره🚀\n\n\nسرویس کاملا پایدار و پرسرعت🍷\n\n\n گروه vip واسه اطلاع رسانی 💎\n\n\nپشتیبانی سرویس خودمم 👑\n﻿\nقیمت:💵\n۵۵۰ تومان به درد تریدار ها وکسایی که پایداری واسشون مهمه...\n\n\nسرویس بات:\n\nساب داره و میتونید همچی شفاف☺️\n\nپشتیبانی خود ادمین بات ✅️\n\nتحویل آسان و فوری 🔥\n\nکیفیت خوب و مناسب برای همه 🫵\n﻿\nادرس بات:🦆\n@DuckitVPNBot\n\nقیمت بات:💵\n۴۹۰ تومان مناسب کسایی که وبگردی میکنن و پایداری مهمه واسشون\n\nسرویس اوپن و وایرگارد:\n\nاین سرویس شخصی از خودم فروش میره و شما میتونید همراه سرویس اقتصادی و اختصاصی از خودم این سرویس وایرگارد هم بگیرید 🍑\n\nایدی خودم جهت خرید اقتصادی و اختصاصی:\n\n👑 @parvinxs 👑\n\n\n@xszapass",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": {
+    "_": "MessageReplyHeader",
+    "reply_to_scheduled": false,
+    "forum_topic": false,
+    "quote": false,
+    "reply_to_msg_id": 3284,
+    "reply_to_peer_id": null,
+    "reply_from": null,
+    "reply_media": null,
+    "reply_to_top_id": 3283,
+    "quote_text": null,
+    "quote_entities": [],
+    "quote_offset": null,
+    "todo_item_id": null,
+    "poll_option": null
+  },
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 0,
+      "length": 2,
+      "document_id": 5309984423003823246
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 58,
+      "length": 8
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 67,
+      "length": 8
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 162,
+      "length": 152,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 215,
+      "length": 2,
+      "document_id": 5312241539987020022
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 253,
+      "length": 2,
+      "document_id": 5418085807791545980
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 283,
+      "length": 2,
+      "document_id": 5379748062124056162
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 311,
+      "length": 2,
+      "document_id": 5377498341074542641
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 321,
+      "length": 2,
+      "document_id": 5409048419211682843
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 397,
+      "length": 139,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 443,
+      "length": 2,
+      "document_id": 5445284980978621387
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 475,
+      "length": 2,
+      "document_id": 5812037770301938686
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 507,
+      "length": 2,
+      "document_id": 5309958691854754293
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 533,
+      "length": 2,
+      "document_id": 5053169761232356354
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 543,
+      "length": 2,
+      "document_id": 5409048419211682843
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 608,
+      "length": 123,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 648,
+      "length": 2,
+      "document_id": 5924712049719384252
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 697,
+      "length": 2,
+      "document_id": 5312241539987020022
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 728,
+      "length": 2,
+      "document_id": 5357423427709838027
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 742,
+      "length": 2,
+      "document_id": 5368684320858843385
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 745,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 769,
+      "length": 2,
+      "document_id": 5409048419211682843
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 971,
+      "length": 2,
+      "document_id": 5951743139361330826
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 1014,
+      "length": 2,
+      "document_id": 5053169761232356354
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 1017,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 1027,
+      "length": 2,
+      "document_id": 5053169761232356354
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 1032,
+      "length": 9
+    }
+  ],
+  "views": 8627,
+  "forwards": 94,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 2,
+    "replies_pts": 102786,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 233159459
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 6663950417
+      }
+    ],
+    "channel_id": 2200550029,
+    "max_id": 63827,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-23T15:16:23+00:00",
+  "post_author": "امیرپارسا",
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

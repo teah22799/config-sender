@@ -1,0 +1,118 @@
+{
+  "_": "Message",
+  "id": 11694,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1309975338
+  },
+  "date": "2026-04-23T19:58:45+00:00",
+  "message": "",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": {
+    "_": "MessageReplyHeader",
+    "reply_to_scheduled": false,
+    "forum_topic": false,
+    "quote": false,
+    "reply_to_msg_id": 11692,
+    "reply_to_peer_id": null,
+    "reply_from": null,
+    "reply_media": null,
+    "reply_to_top_id": 11580,
+    "quote_text": null,
+    "quote_entities": [],
+    "quote_offset": null,
+    "todo_item_id": null,
+    "poll_option": null
+  },
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 6005919719854116239,
+      "access_hash": -2013047562365073672,
+      "file_reference": "b'\\x02N\\x14\\xa3*\\x00\\x00-\\xaei\\xf0\\xdf\\xe5x\\xa6\\xf1\\xc8\\xe5\\xb7\\x0b\\x16\\xdfw\\xa3!\\xca\\xdfu\\xe0'",
+      "date": "2026-04-23T19:58:45+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01(\\x13e\\xb5\\x88\\x91RU\\\\\\xa1^\\xccs\\x9a\\x9d\\xecI\\x1c/>\\xa4\\x9ad\\x0b{\\x04!\\x12D\\x089\\x1c\\x1f\\xf0\\xab+~\\x8c8|\\x9cs\\xc1\\xff\\x00\\nz\\xf4\\x032\\xe2\\xd8\\x89\\x98l\\xf4\\xef\\xedEX\\x96\\xee7\\x90\\xb6\\xfe\\xbe\\xc7\\xfc(\\xa5f\\x06\\x8a<~R\\x86e\\xfb\\xa3\\x82EgM,J\\xec\\xd1\\xf4=1\\xc6*\\xea&\\x07\\x19\\xa7`\\xff\\x00\\x9cU\\xc5\\xa44\\xec`\\x992I\\xe2\\x8a\\xd8h\\x10\\x9c\\xe0\\xfe\\x94Q\\xce\\xc2\\xe4\\x82Q\\xdc\\x1a_5}\\r\\x14T\\x88O4z\\x1a(\\xa2\\x80?'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 148,
+          "h": 320,
+          "size": 19575
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 369,
+          "h": 800,
+          "size": 77496
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 591,
+          "h": 1280,
+          "sizes": [
+            10194,
+            25390,
+            42486,
+            60806,
+            98496
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [],
+  "views": 1773,
+  "forwards": 0,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": 14215794603229284,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

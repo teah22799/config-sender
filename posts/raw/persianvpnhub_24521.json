@@ -1,0 +1,101 @@
+{
+  "_": "Message",
+  "id": 24521,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3744627358
+  },
+  "date": "2026-04-26T21:28:27+00:00",
+  "message": "📂 کانفیگ VLESS\n📍 لوکیشن: آمریکا 🇺🇸\n📶 پینگ: 8ms\n\n#VLESS #VPN\n\n🕒 انتشار: 00:17 - 1405/02/07\n💡 منبع: @prrofile_purple\n\nvless://telegram-dickiriptorbot@vercel.com:443?mode=auto&path=%2F%40dickiriptorbot&security=tls&encryption=none&insecure=0&host=samandbams.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=vercel.com#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": {
+    "_": "ReplyInlineMarkup",
+    "rows": [
+      {
+        "_": "KeyboardButtonRow",
+        "buttons": [
+          {
+            "_": "KeyboardButtonUrl",
+            "text": "⛶ کد QR کانفیگ",
+            "url": "https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&chs=200x200&chl=vless%3A%2F%2Ftelegram-dickiriptorbot%40vercel.com%3A443%3Fmode%3Dauto%26path%3D%252F%2540dickiriptorbot%26security%3Dtls%26encryption%3Dnone%26insecure%3D0%26host%3Dsamandbams.vercel.app%26fp%3Dchrome%26type%3Dxhttp%26allowInsecure%3D0%26sni%3Dvercel.com%23%25D8%25A8%25D8%25B1%25D8%25A7%25DB%258C%2520%25D8%25A7%25D8%25AA%25D8%25B5%25D8%25A7%25D9%2584%2520%25D8%25AF%25D8%25A7%25D8%25A6%25D9%2585%25DB%258C%2520%25D8%25AC%25D9%2588%25DB%258C%25D9%2586%2520%25D8%25B4%25D9%2588%25F0%259F%2597%25BE%2520prrofile_purple%2540",
+            "style": null
+          }
+        ]
+      },
+      {
+        "_": "KeyboardButtonRow",
+        "buttons": [
+          {
+            "_": "KeyboardButtonUrl",
+            "text": "🔍 دریافت کانفیگ‌های بیشتر",
+            "url": "https://t.me/persianvpnhub",
+            "style": null
+          }
+        ]
+      }
+    ]
+  },
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 53,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 60,
+      "length": 4
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 105,
+      "length": 16
+    },
+    {
+      "_": "MessageEntityPre",
+      "offset": 123,
+      "length": 367,
+      "language": ""
+    }
+  ],
+  "views": 2201,
+  "forwards": 6,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

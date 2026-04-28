@@ -1,0 +1,113 @@
+{
+  "_": "Message",
+  "id": 100598,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2025442005
+  },
+  "date": "2026-04-28T12:58:11+00:00",
+  "message": "📂 NapsternetV Config\n✅ پایدار و متصل @filembad\n🔹 زین عراق متصل\n\nدریافت کانفیگ رایگان اختصاصی",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaDocument",
+    "nopremium": false,
+    "spoiler": false,
+    "video": false,
+    "round": false,
+    "voice": false,
+    "document": {
+      "_": "Document",
+      "id": 6019117848952053690,
+      "access_hash": 6886705081320111620,
+      "file_reference": "b'\\x02x\\xb9\\xca\\xd5\\x00\\x01\\x88\\xf6i\\xf0\\xd5\\xd7v\"\\x90\\xc93\\x07\\xee\\xbc\\xa8\\xa6.\\xed\\x04\\x9d\\xa9I'",
+      "date": "2026-04-28T12:58:11+00:00",
+      "mime_type": "application/octet-stream",
+      "size": 2172,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "پاکدامن @filembad.npvt"
+        }
+      ],
+      "thumbs": [],
+      "video_thumbs": []
+    },
+    "alt_documents": [],
+    "video_cover": null,
+    "video_timestamp": null,
+    "ttl_seconds": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 3,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 24,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 38,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 66,
+      "length": 28,
+      "url": "https://t.me/v2rayy_config_bot"
+    }
+  ],
+  "views": 589,
+  "forwards": 5,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 217330,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 3665682785,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T12:58:17+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

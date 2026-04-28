@@ -1,0 +1,124 @@
+{
+  "_": "Message",
+  "id": 2042,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1964007005
+  },
+  "date": "2026-04-25T13:03:22+00:00",
+  "message": "3 کانفیگ v2ray+ psiphon\n\nvless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=none&encryption=none&headerType=none&type=tcp#%40v2rayRoom\n\nvless://-0d7a-496f-8e97-0bbc33bff55d@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=in.8lack.ir&fp=firefox&type=ws&sni=in.8lack.ir#%40v2rayRoom\n\nvmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImVjaENvbmZpZ0xpc3QiOiIiLCJlY2hGb3JjZVF1ZXJ5IjoiIiwiZWNoU2VydmVyS2V5cyI6IiIsImZha2Vob3N0X2RvbWFpbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW50ZXJ2YWwiOiIiLCJsZW5ndGgiOiIiLCJtdXgiOiIiLCJtdXhDb25jdXJyZW5jeSI6IiIsIm5ldCI6InRjcCIsInBhY2tldHMiOiIiLCJwYXRoIjoiIiwicG9ydCI6IjEyODA5IiwicHMiOiJAdjJyYXlSb29tIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==\n#ترکیبی \n\n@v2rayRoom",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 8
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 9,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 25,
+      "length": 817,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 25,
+      "length": 131
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 158,
+      "length": 193
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 353,
+      "length": 488
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 842,
+      "length": 8,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 842,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 842,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 852,
+      "length": 10
+    }
+  ],
+  "views": 1007,
+  "forwards": 8,
+  "replies": null,
+  "edit_date": "2026-04-25T13:21:14+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 3,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

@@ -1,0 +1,497 @@
+{
+  "_": "Message",
+  "id": 3304,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3209702364
+  },
+  "date": "2026-04-25T20:23:30+00:00",
+  "message": "✈️انقدر درگیر وصل شدن بودیم که از آپدیت های مهم تلگرام جا موندیم:))\n\n ربات‌های تلگرام یه قابلیت قدرتمند جدید برای طراحی، استقرار و مقیاس‌پذیری دریافت کردن. این تغییر گویا به هر شخص اجازه می‌ده تا از پتانسیل هوش مصنوعی بهره‌برداری کنه و بدون کدنویسی، ربات بسازه. هرچند فعلا، ربات های ساده\n\n\n@MatinSenPaii 💎\n@xsfilterrnet 👑",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaDocument",
+    "nopremium": false,
+    "spoiler": false,
+    "video": true,
+    "round": false,
+    "voice": false,
+    "document": {
+      "_": "Document",
+      "id": 5085018507100292817,
+      "access_hash": 5851857855197077009,
+      "file_reference": "b\"\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe8i\\xf0\\xd6I]\\\\\\xd3\\x04\\xcau\\xa2\\\\bX\\x12\\xe18\\x0e'\\x93\"",
+      "date": "2026-04-04T17:49:19+00:00",
+      "mime_type": "video/mp4",
+      "size": 2746185,
+      "dc_id": 1,
+      "attributes": [
+        {
+          "_": "DocumentAttributeVideo",
+          "duration": 12.0,
+          "w": 1920,
+          "h": 1920,
+          "round_message": false,
+          "supports_streaming": true,
+          "nosound": false,
+          "preload_prefix_size": null,
+          "video_start_ts": null,
+          "video_codec": "h264"
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "Managed Bots_1.mp4"
+        }
+      ],
+      "thumbs": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01((\\x85\\x9bj\\x93\\xe8*\\xb1\\x9eLg8\\xf6\\xc5J\\xe7\\xf7m\\xf4\\xaa\\xb9\\'\\x8c\\x9a\\xe8\\xab\\xa31\\x84U\\x87\\xfd\\xa2o_\\xd0S\\xc4\\xf2c;\\x89\\xf6\\xdbQm4\\x99\"\\xb14\\xe5]\\x8d\\x05m\\xc8\\x1b\\xd4QL\\x88\\xfe\\xe9~\\x94V\\xea:\\x1c\\xcfr\\x12r\\x8d\\xf45^\\xa4\\xdd\\xc1\\xfaS\\x07Z\\x8a\\xae\\xec\\xe8\\x8a\\xb2\\x17q\\nGcIK\\xb8\\xfa\\x8aC\\xd7\\xaek1\\xdc\\xb7\\x19\\xfd\\xd2\\xfd(\\xa6+b5\\xfaQ]\\x91\\xb5\\x91\\x83Z\\x95\\x94\\xff\\x00*\\x96\\x19V0wF\\x1b>\\xb4Q\\\\\\x8d\\xean\\xd2\\xb1/\\xda\\xa3\\xff\\x00\\x9fu\\xa8\\xa6\\x95d\\x03laq\\xe9E\\x146\\xc4\\xa2\\x93\\x1a\\xcf\\x85\\x03\\xda\\x8a(\\xab\\xe6c\\xb1'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 320,
+          "size": 12105
+        }
+      ],
+      "video_thumbs": []
+    },
+    "alt_documents": [
+      {
+        "_": "Document",
+        "id": 5096251203788998454,
+        "access_hash": -8011408379984891788,
+        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe8i\\xf0\\xd6I\\x8b\\xc0Fv&\\xf6H/\\xc6<N\\x94\\xf6Djz'",
+        "date": "2026-04-09T07:02:34+00:00",
+        "mime_type": "video/mp4",
+        "size": 1453509,
+        "dc_id": 1,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 12.0,
+            "w": 720,
+            "h": 720,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": "av01"
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "Managed Bots_1.mp4"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": "b'\\x01((\\x85\\x9bj\\x93\\xe8*\\xb1\\x9eLg8\\xf6\\xc5J\\xe7\\xf7m\\xf4\\xaa\\xb9\\'\\x8c\\x9a\\xe8\\xab\\xa31\\x84U\\x87\\xfd\\xa2o_\\xd0S\\xc4\\xf2c;\\x89\\xf6\\xdbQm4\\x99\"\\xb14\\xe5]\\x8d\\x05m\\xc8\\x1b\\xd4QL\\x88\\xfe\\xe9~\\x94V\\xea:\\x1c\\xcfr\\x12r\\x8d\\xf45^\\xa4\\xdd\\xc1\\xfaS\\x07Z\\x8a\\xae\\xec\\xe8\\x8a\\xb2\\x17q\\nGcIK\\xb8\\xfa\\x8aC\\xd7\\xaek1\\xdc\\xb7\\x19\\xfd\\xd2\\xfd(\\xa6+b5\\xfaQ]\\x91\\xb5\\x91\\x83Z\\x95\\x94\\xff\\x00*\\x96\\x19V0wF\\x1b>\\xb4Q\\\\\\x8d\\x9b\\xb4\\xacK\\xf6\\xa8\\xff\\x00\\xe7\\xddj)\\xa5Y\\x00\\xdb\\x18\\\\zQE\\x17bQI\\x8dg\\xc2\\x81\\xedE\\x14U\\xf30\\xb1'"
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 320,
+            "h": 320,
+            "size": 11991
+          }
+        ],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5096356881459316972,
+        "access_hash": 2165762070145876689,
+        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe8i\\xf0\\xd6I\\x10\\xcd\\xb0\\xf8f\\xeb\\xf5\\x97N\\xf0\\xbe\\xcb\\xa3daW'",
+        "date": "2026-04-09T07:02:34+00:00",
+        "mime_type": "application/x-mpegurl",
+        "size": 387,
+        "dc_id": 1,
+        "attributes": [
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "mtproto:5096251203788998454"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5096085980692088539,
+        "access_hash": -6775240692377275645,
+        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe8i\\xf0\\xd6I/\\x96\\x08\\x16\\x8a\\x0e\\xea\\xcaT\\x7f*f\\xa4\\xd61X'",
+        "date": "2026-04-09T07:02:34+00:00",
+        "mime_type": "video/mp4",
+        "size": 1803712,
+        "dc_id": 1,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 12.0,
+            "w": 720,
+            "h": 720,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": "h264"
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "Managed Bots_1.mp4"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": "b'\\x01((\\x85\\x9bj\\x93\\xe8*\\xb1\\x9eLg8\\xf6\\xc5J\\xe7\\xf7m\\xf4\\xaa\\xb9\\'\\x8c\\xd7E]\\x19\\x8c\"\\xac?\\xed3z\\xfe\\x82\\x9e\\'\\x93\\xae\\xe2}\\xb6\\xd4[M&H\\xefX\\x9ar\\xae\\xc6\\x82\\xb6\\xe4\\r\\xea(\\xa6D\\x7ft\\xbfJ+u\\x1d\\x0eg\\xb9\\x0b\\x1c\\xa3}*\\xbdI\\xbb\\x83\\xf4\\xa6\\x0e\\xbdj*\\xbb\\xb3\\xa2*\\xc8]\\xc4)\\x1d\\x8d%.\\xe3\\xea)\\x0f^\\xb9\\xac\\xc7r\\xdcg\\xf7K\\xf4\\xa2\\x98\\xad\\x88\\xd7\\xe9EvF\\xd6F\\rjVS\\xfc\\xaaXeX\\xc1\\xdd\\x18l\\xfa\\xd1Er6n\\xd2\\xb1/\\xda\\xa3\\xff\\x00\\x9fu\\xa8\\xe6\\x95d\\x03laq\\xe9E\\x14s2TRc\\x0b\\xe1@\\xf6\\xa2\\x8a*\\xf9\\x98\\xec\\x7f'"
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 320,
+            "h": 320,
+            "size": 12392
+          }
+        ],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5096096799714707155,
+        "access_hash": -4557815788097885465,
+        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe8i\\xf0\\xd6I*\\x88x\\xa6\\x83\\xcdXR1\\xadE\\x8c\\xc1\\xc5!3'",
+        "date": "2026-04-09T07:02:34+00:00",
+        "mime_type": "application/x-mpegurl",
+        "size": 387,
+        "dc_id": 1,
+        "attributes": [
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "mtproto:5096085980692088539"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5098324199819183354,
+        "access_hash": -3669314853115148616,
+        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe8i\\xf0\\xd6I\\x13\\xe2C8\\x05\\x89\\xb9\\xc6iN4[\\xd5\\x97\\xf4&'",
+        "date": "2026-04-09T07:02:34+00:00",
+        "mime_type": "video/mp4",
+        "size": 811280,
+        "dc_id": 1,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 12.0,
+            "w": 480,
+            "h": 480,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": "av01"
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "Managed Bots_1.mp4"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": "b'\\x01((\\x85\\x9bj\\x93\\xe8*\\xb1\\x9eLg8\\xf6\\xc5J\\xe7\\xf7m\\xf4\\xaa\\xb9\\'\\x8c\\x9a\\xe8\\xab\\xa31\\x84U\\x87\\xfd\\xa2o_\\xd0S\\xc4\\xf2c;\\x89\\xf6\\xdbQm4\\x99\"\\xb14\\xe5]\\x8d\\x05m\\xc8\\x1b\\xd4QL\\x88\\xfe\\xe9~\\x94V\\xea:\\x1c\\xcfr\\x12r\\x8d\\xf45^\\xa4\\xdd\\xc1\\xfaS\\x07Z\\x8a\\xae\\xec\\xe8\\x8a\\xb2\\x17q\\nGcIK\\xb8\\xfa\\x8aC\\xd7\\xaek1\\xdc\\xb7\\x19\\xfd\\xd2\\xfd(\\xa6+b5\\xfaQ]\\x91\\xb5\\x91\\x83Z\\x95\\x94\\xff\\x00*\\x96\\x19V0wF\\x1b>\\xb4Q\\\\\\x8d\\x9b\\xb4\\xacK\\xf6\\xa8\\xff\\x00\\xe7\\xddj)\\xa5Y\\x00\\xdb\\x18\\\\zQE\\x17bQI\\x8dg\\xc2\\x81\\xedE\\x14U\\xf30\\xb1'"
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 320,
+            "h": 320,
+            "size": 11991
+          }
+        ],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5096321984850036411,
+        "access_hash": 277845984365903762,
+        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe8i\\xf0\\xd6I\\x15!\\x8c\\x18\\xc4\\xfe{\\x87P\\xb7\\xe5\\xd1m\\xfa\\xa0D'",
+        "date": "2026-04-09T07:02:34+00:00",
+        "mime_type": "application/x-mpegurl",
+        "size": 386,
+        "dc_id": 1,
+        "attributes": [
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "mtproto:5098324199819183354"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5098375872570722257,
+        "access_hash": -2047274335150698251,
+        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe8i\\xf0\\xd6I\\x91n\\x01\\xfb<\\xdf\\r\\xe2\\xa4\\x0eC\\xcc\\xc9)\\x92a'",
+        "date": "2026-04-09T07:02:34+00:00",
+        "mime_type": "video/mp4",
+        "size": 994974,
+        "dc_id": 1,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 12.0,
+            "w": 480,
+            "h": 480,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": "h264"
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "Managed Bots_1.mp4"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": "b\"\\x01((\\x85\\x9bj\\x93\\xe8*\\xb1\\x9eLg8\\xf6\\xc5J\\xe7\\xf7m\\xf45W$\\xf1\\x93\\x8a\\xe8\\xab\\xa31\\x84U\\x87\\xfd\\xa6o_\\xd2\\x9e'\\x93\\x19\\xdcO\\xb6\\xda\\x8bi\\xa4\\xc9\\x15\\x89\\xa7*\\xech+n@\\xde\\xa2\\x8adG\\xf7K\\xf4\\xa2\\xb7Q\\xd0\\xe6kR\\x12r\\x8d\\xf45^\\xa4\\r\\xc1\\xfa\\x1a`\\xebQU\\xdd\\x9b\\xc5Y\\x0b\\xb8\\x85#\\xb1\\xa4\\xa7n>\\xa2\\x9az\\xf5\\xcdfU\\xcbq\\x9f\\xdd/\\xd2\\x8ab\\xb6#_\\xa5\\x15\\xd9\\x1bY\\x185\\xa9YO?\\x81\\xa9a\\x95c\\x07ta\\xb3\\xebE\\x15\\xc8\\xd9\\xbbH\\x97\\xedQ\\xff\\x00\\xcf\\xba\\xd4SJ\\xb2\\x01\\xb60\\xb8\\xf4\\xa2\\x8a9\\x99*)1\\xac\\xf8P=\\xa8\\xa2\\x8a\\xbef;\\x1f\""
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 320,
+            "h": 320,
+            "size": 12606
+          }
+        ],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5096055615273305693,
+        "access_hash": -3477066645552905498,
+        "file_reference": "b\"\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe8i\\xf0\\xd6I\\xfd\\x9e{\\xde\\xb0]o\\xef]2\\xb7:'\\x04\\x95\\x14\"",
+        "date": "2026-04-09T07:02:34+00:00",
+        "mime_type": "application/x-mpegurl",
+        "size": 386,
+        "dc_id": 1,
+        "attributes": [
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "mtproto:5098375872570722257"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5096011982700545505,
+        "access_hash": -6074777084156864379,
+        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe8i\\xf0\\xd6I\\xd655cb\\xb30(\\xbe\\xa6\\xb8L\\xfa1%@'",
+        "date": "2026-04-09T07:02:34+00:00",
+        "mime_type": "video/mp4",
+        "size": 2738250,
+        "dc_id": 1,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 12.0,
+            "w": 1920,
+            "h": 1920,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": "h264"
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "Managed Bots_1.mp4"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": "b'\\x01((\\x85\\x9bj\\x93\\xe8*\\xb1\\x9eLg8\\xf6\\xc5J\\xe7\\xf7m\\xf4\\xaa\\xb9\\'\\x8c\\x9a\\xe8\\xab\\xa31\\x84U\\x87\\xfd\\xa2o_\\xd0S\\xc4\\xf2c;\\x89\\xf6\\xdbQm4\\x99\"\\xb14\\xe5]\\x8d\\x05m\\xc8\\x1b\\xd4QL\\x88\\xfe\\xe9~\\x94V\\xea:\\x1c\\xcfr\\x12r\\x8d\\xf45^\\xa4\\xdd\\xc1\\xfaS\\x07Z\\x8a\\xae\\xec\\xe8\\x8a\\xb2\\x17q\\nGcIK\\xb8\\xfa\\x8aC\\xd7\\xaek1\\xdc\\xb7\\x19\\xfd\\xd2\\xfd(\\xa6+b5\\xfaQ]\\x91\\xb5\\x91\\x83Z\\x95\\x94\\xff\\x00*\\x96\\x19V0wF\\x1b>\\xb4Q\\\\\\x8d\\xean\\xd2\\xb1/\\xda\\xa3\\xff\\x00\\x9fu\\xa8\\xa6\\x95d\\x03laq\\xe9E\\x146\\xc4\\xa2\\x93\\x1a\\xcf\\x85\\x03\\xda\\x8a(\\xab\\xe6c\\xb1'"
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 320,
+            "h": 320,
+            "size": 12105
+          }
+        ],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5096244009718776997,
+        "access_hash": -5619383744050177702,
+        "file_reference": "b\"\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe8i\\xf0\\xd6I\\x7f'5\\xf3\\x89\\xf0I*\\xa2\\x8a;9\\x92h@e\"",
+        "date": "2026-04-09T07:02:34+00:00",
+        "mime_type": "application/x-mpegurl",
+        "size": 401,
+        "dc_id": 1,
+        "attributes": [
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "mtproto:5096011982700545505"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5096214657912276287,
+        "access_hash": -700578251955774808,
+        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe8i\\xf0\\xd6I\\xe4\\x9d\\x98,\\xf9\\x91\\xc1\\x8a4!\\xbd]\\xe2\\x19\\xc7\\x07'",
+        "date": "2026-04-09T07:02:34+00:00",
+        "mime_type": "application/x-tgstoryboard",
+        "size": 18716,
+        "dc_id": 1,
+        "attributes": [
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "Managed Bots_1.mp4.sb.jpg"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5098279317410940637,
+        "access_hash": -338426209703773333,
+        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe8i\\xf0\\xd6I\\xd0\\x96v\\xb9\\xf5\\xf6\\x92\\x9f\\x84!\\x87\\xdf\\xdc[\\xa3\\x04'",
+        "date": "2026-04-09T07:02:34+00:00",
+        "mime_type": "application/x-tgstoryboardmap",
+        "size": 113,
+        "dc_id": 1,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 144,
+            "h": 144
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "mtproto:5096214657912276287"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      }
+    ],
+    "video_cover": null,
+    "video_timestamp": null,
+    "ttl_seconds": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 0,
+      "length": 2,
+      "document_id": 5978907600622720213
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 290,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 304,
+      "length": 2,
+      "document_id": 5309958691854754293
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 307,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 321,
+      "length": 2,
+      "document_id": 5053169761232356354
+    }
+  ],
+  "views": 7964,
+  "forwards": 54,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 1,
+    "replies_pts": 102786,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 1586686776
+      }
+    ],
+    "channel_id": 2200550029,
+    "max_id": 64336,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-25T20:24:27+00:00",
+  "post_author": "امیرپارسا",
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

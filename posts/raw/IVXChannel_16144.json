@@ -1,0 +1,110 @@
+{
+  "_": "Message",
+  "id": 16144,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3336135529
+  },
+  "date": "2026-04-26T18:09:24+00:00",
+  "message": "سرور V2BOX متصل :\ntrojan://humanity@104.20.6.134:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#@idasaturnm %20%7C%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D8%B4%D9%88\n@idasaturnm",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": {
+    "_": "MessageFwdHeader",
+    "date": "2026-04-26T18:04:40+00:00",
+    "imported": false,
+    "saved_out": false,
+    "from_id": {
+      "_": "PeerChannel",
+      "channel_id": 1920322626
+    },
+    "from_name": null,
+    "channel_post": 157705,
+    "post_author": null,
+    "saved_from_peer": null,
+    "saved_from_msg_id": null,
+    "saved_from_id": null,
+    "saved_from_name": null,
+    "saved_date": null,
+    "psa_type": null
+  },
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 18,
+      "length": 206,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityBotCommand",
+      "offset": 88,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 158,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 225,
+      "length": 11
+    }
+  ],
+  "views": 3676,
+  "forwards": 45,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 1274039,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 3392070575,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-27T12:28:44+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

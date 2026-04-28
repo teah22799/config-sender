@@ -1,0 +1,149 @@
+{
+  "_": "Message",
+  "id": 5616,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2547961935
+  },
+  "date": "2026-04-28T15:09:50+00:00",
+  "message": "https://t.me/FlashUsdT_Vip",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": true,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": {
+    "_": "MessageFwdHeader",
+    "date": "2026-04-28T14:41:30+00:00",
+    "imported": false,
+    "saved_out": false,
+    "from_id": null,
+    "from_name": "D 🐾📦 Bums😳",
+    "channel_post": null,
+    "post_author": null,
+    "saved_from_peer": null,
+    "saved_from_msg_id": null,
+    "saved_from_id": null,
+    "saved_from_name": null,
+    "saved_date": null,
+    "psa_type": null
+  },
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaWebPage",
+    "webpage": {
+      "_": "WebPage",
+      "id": 5319932246496962915,
+      "url": "https://t.me/FlashUsdT_Vip",
+      "display_url": "t.me/FlashUsdT_Vip",
+      "hash": 0,
+      "has_large_media": false,
+      "video_cover_photo": false,
+      "type": "telegram_channel",
+      "site_name": "Telegram",
+      "title": "حباب بانکی تتر فلش",
+      "description": "💸 فلش تتر واقعی – سریع • امن • بدون محدودیت\n\n⚡ انتقال تتر در چند ثانیه – بدون کارمزد\n\n✅ ۱۰۰٪ تأیید‌شده روی بلاکچین – قابل نقد در صرافی‌های ایرانی\n\n🔒 امن، خصوصی و با ضمانت تحویل\n\nجهت رزرو با ایدی پشتیبانی در ارتباط باشید 📞 :\n🆔️ @FlashVip_Support 🫆",
+      "photo": {
+        "_": "Photo",
+        "id": 5870702192183331975,
+        "access_hash": 1322302902047264086,
+        "file_reference": "b'\\x00i\\xf0\\xdf&[J\\xad~\\xeb<oC9\\xe6\\x06\\x13^\\xe3~\\x95'",
+        "date": "2025-08-27T23:52:17+00:00",
+        "sizes": [
+          {
+            "_": "PhotoSize",
+            "type": "a",
+            "w": 160,
+            "h": 160,
+            "size": 12022
+          },
+          {
+            "_": "PhotoSize",
+            "type": "b",
+            "w": 320,
+            "h": 320,
+            "size": 39173
+          },
+          {
+            "_": "PhotoSize",
+            "type": "c",
+            "w": 640,
+            "h": 640,
+            "size": 125554
+          },
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": "b'\\x01((\\xa9e\\x12\\xfd\\xa9A\\xf9\\x80\\xe6\\x92\\xe73JN95\\x15\\xbb\\xb0\\x99H8\\xc1\\xebZ\\x122\\x9c\\x92\\xa01\\x1c\\xe2\\xb0\\x95\\xd4\\xaeR\\xd5X\\xa4\\x96\\xca~\\xf3S\\xbc\\x80\\x80\\xe0n\\xc5N\\xaf\\x1e\\xd1\\xb9I\\xfch\\xe0\\xb0*03\\xc05\\xa6\\xe8\\xcaZ\\x14\\xa3A\\xbf\\'\\xa0\\xa2\\xac\\xc8\\x81\\x18\\xab\\x0e\\x05\\x15\\r\\xdc\\xc9\\xbb\\x95\\x94\\x85n\\x99\\xabo&r\\x7f\\x1a\\xa0\\xbc\\x9c\\x9e\\x82\\xad\\xac2:+\\x00\\x02\\x9e\\x99\\xeb\\xdf\\xfc\\rS\\x8e\\xa6\\xcbA\\x10\\x86$\\x9e\\x82\\xa4\\x12\\x00F\\xda\\x80\\x02\\xdd\\xcf\\xe5R\\x15\\xdb\\x16{\\xe34\\x9b\\xe8D\\xe4\\x9e\\x85\\x86\\t \\xe5\\xb2M\\x15\\x9f\\xbc\\x83\\xc1\\xa2\\xa7\\x91\\xf73\\xf6r[2,\\xd4\\xc6\\xeaR0\\x1b\\x0b\\x80\\xb8\\x1e\\x80c\\xfch\\xa2\\xb6:\\x03\\xed\\r\\x9c\\x9e\\xbe\\xdcR4\\xc4\\x8cs\\x8f\\xad\\x14Qd+\"2\\xd9\\xa2\\x8a(\\x1d\\x8f'"
+          }
+        ],
+        "dc_id": 4,
+        "has_stickers": false,
+        "video_sizes": []
+      },
+      "embed_url": null,
+      "embed_type": null,
+      "embed_width": null,
+      "embed_height": null,
+      "duration": null,
+      "author": null,
+      "document": null,
+      "cached_page": null,
+      "attributes": []
+    },
+    "force_large_media": false,
+    "force_small_media": true,
+    "manual": true,
+    "safe": true
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityUrl",
+      "offset": 0,
+      "length": 26
+    }
+  ],
+  "views": 361,
+  "forwards": 0,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 15362,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 3893920141,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T15:09:53+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

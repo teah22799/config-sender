@@ -1,0 +1,165 @@
+{
+  "_": "Message",
+  "id": 20660,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1891582980
+  },
+  "date": "2026-04-26T15:57:00+00:00",
+  "message": "🔐 Password: @Configir98\n\nکانال ما در پیام رسان های داخلی 👇\n\nhttps://rubika.ir/V2rayng751👈 روبیکا\n\nhttps://splus.ir/ghalagyann  👈سروش\n\nChannel 🤍 @ghalagyann\n\n🛡️هرسوالی در مورد اشتراک ها یا قصد خرید اشتراک اختصاصی داشتین  پشتیبانی آنلاینم پیام بدین 👇\nPV⚡️@V2rayng751\nPV⚡️@V2rayng751",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaDocument",
+    "nopremium": false,
+    "spoiler": false,
+    "video": false,
+    "round": false,
+    "voice": false,
+    "document": {
+      "_": "Document",
+      "id": 6012370962136177251,
+      "access_hash": 8225720871983820794,
+      "file_reference": "b'\\x02p\\xbfD\\x04\\x00\\x00P\\xb4i\\xf0\\xdeA\\xfe\\xfd*{\\x15\\x1a\\xb8\\xf5\\xaf\\x988\\xf5\\x94S\\x7f\\xcd'",
+      "date": "2026-04-26T15:56:43+00:00",
+      "mime_type": "application/octet-stream",
+      "size": 12240,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "👉@ghalagyann👈 تلگرام 20 ترابایت.npvt"
+        }
+      ],
+      "thumbs": [],
+      "video_thumbs": []
+    },
+    "alt_documents": [],
+    "video_cover": null,
+    "video_timestamp": null,
+    "ttl_seconds": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 3,
+      "length": 8
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 13,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 26,
+      "length": 31
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 62,
+      "length": 30
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 93,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 101,
+      "length": 27
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 132,
+      "length": 4
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 149,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 162,
+      "length": 93
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 260,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 276,
+      "length": 11
+    }
+  ],
+  "views": 1305,
+  "forwards": 16,
+  "replies": null,
+  "edit_date": "2026-04-26T15:57:04+00:00",
+  "post_author": "ramin",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

@@ -1,0 +1,142 @@
+{
+  "_": "Message",
+  "id": 2874,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2086200619
+  },
+  "date": "2026-04-24T13:10:48+00:00",
+  "message": "◾️در صورتی که نمیتونید وارد سایت script.google.com بشید. میتونید از نسخه گرافیکی MITM Domain Fronting استفاده کنید\nhttps://github.com/KNG7-P/MITMConnect\n\nلینک دانلود داخلی\nhttps://punkpaste.ir/f/mitm-connect-setup-c57nn9",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaDocument",
+    "nopremium": false,
+    "spoiler": false,
+    "video": false,
+    "round": false,
+    "voice": false,
+    "document": {
+      "_": "Document",
+      "id": 6003581083931646888,
+      "access_hash": -1827173152314638408,
+      "file_reference": "b'\\x02|X\\xe5+\\x00\\x00\\x0b:i\\xf0\\xd2?/\\x82\\xa5\\x03\\xc8\\xc5k5\\x01_@\\x0e\\xd9\\xa3\\x10\\xaf'",
+      "date": "2026-04-22T19:43:23+00:00",
+      "mime_type": "application/octet-stream",
+      "size": 61510688,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "mitm-connect-setup.exe"
+        }
+      ],
+      "thumbs": [],
+      "video_thumbs": []
+    },
+    "alt_documents": [],
+    "video_cover": null,
+    "video_timestamp": null,
+    "ttl_seconds": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityUrl",
+      "offset": 33,
+      "length": 17
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 115,
+      "length": 37,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 115,
+      "length": 37
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 172,
+      "length": 48,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 172,
+      "length": 48
+    }
+  ],
+  "views": 2526,
+  "forwards": 80,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 1,
+    "replies_pts": 70301,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 102980477
+      }
+    ],
+    "channel_id": 3045905167,
+    "max_id": 35752,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-24T13:40:23+00:00",
+  "post_author": "ÐΛɌ₭ᑎΞ𐒡𐒡",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤‍🔥"
+        },
+        "count": 2,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

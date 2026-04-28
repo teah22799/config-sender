@@ -1,0 +1,131 @@
+{
+  "_": "Message",
+  "id": 24563,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3744627358
+  },
+  "date": "2026-04-27T19:02:36+00:00",
+  "message": "📂 فایل کانفیگ NapsternetV\n📍 لوکیشن: نامشخص\n\n#NapsternetV #Config #File\n\n🕒 انتشار: 22:31 - 1405/02/07\n💡 منبع: گروه MahsaNet",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaDocument",
+    "nopremium": false,
+    "spoiler": false,
+    "video": false,
+    "round": false,
+    "voice": false,
+    "document": {
+      "_": "Document",
+      "id": 5440504901421538999,
+      "access_hash": 2477032757192852335,
+      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xdf2z\\x9e\\x00\\x00_\\xf3i\\xf0\\xdf\\xc6\\xd4\\xf6\\x04e\\x8e\\x8c\\xac\\x1f\\x8dV\\x10\\xe6=3_='",
+      "date": "2026-04-27T19:02:36+00:00",
+      "mime_type": "application/octet-stream",
+      "size": 4612,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "@Canfingmelishkn  پختو پز اسی.npvt"
+        }
+      ],
+      "thumbs": [],
+      "video_thumbs": []
+    },
+    "alt_documents": [],
+    "video_cover": null,
+    "video_timestamp": null,
+    "ttl_seconds": null
+  },
+  "reply_markup": {
+    "_": "ReplyInlineMarkup",
+    "rows": [
+      {
+        "_": "KeyboardButtonRow",
+        "buttons": [
+          {
+            "_": "KeyboardButtonUrl",
+            "text": "🔍 دریافت کانفیگ‌های بیشتر",
+            "url": "https://t.me/persianvpnhub",
+            "style": null
+          }
+        ]
+      }
+    ]
+  },
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 46,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 59,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 67,
+      "length": 5
+    }
+  ],
+  "views": 1575,
+  "forwards": 15,
+  "replies": null,
+  "edit_date": "2026-04-27T19:04:42+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👎"
+        },
+        "count": 6,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

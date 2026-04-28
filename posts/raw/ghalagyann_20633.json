@@ -1,0 +1,284 @@
+{
+  "_": "Message",
+  "id": 20633,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1891582980
+  },
+  "date": "2026-04-25T17:11:07+00:00",
+  "message": "🟢 تعدادی DNS جدید برای AM TUNNEL \n\nهمراه اول \nudp://5.106.19.95\nudp://10.160.155.9\nudp://37.255.240.4\nudp://78.39.136.13\nudp://109.201.8.84\nudp://109.201.8.85\nudp://185.131.30.7\nudp://109.201.8.86\nudp://10.185.68.113\nudp://109.230.88.54\nudp://109.201.15.57\nudp://217.218.79.234\nudp://217.219.113.186\nudp://149.112.112.112\nudp://185.129.213.152\nایرانسل  \n\nudp://2.189.1.1\nudp://2.189.1.40\nudp://2.189.44.44\nudp://2.188.21.130\nudp://5.202.53.21\nudp://10.104.25.154\nudp://37.32.121.76\nudp://46.209.92.54\nudp://78.39.62.35\nudp://79.127.66.90\nudp://81.12.111.124\nudp://91.92.208.205\nudp://94.184.10.132\nudp://185.131.28.253\nudp://37.255.202.124\n\nکانال ما در پیام رسان های داخلی 👇\n\nhttps://rubika.ir/V2rayng751👈 روبیکا\n\nhttps://splus.ir/ghalagyann  👈سروش\n\nChannel 🤍 @ghalagyann\n\n🛡️هرسوالی در مورد اشتراک ها یا قصد خرید اشتراک اختصاصی داشتین  پشتیبانی آنلاینم پیام بدین 👇\nPV⚡️@V2rayng751\nPV⚡️@V2rayng751",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 3,
+      "length": 32
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 47,
+      "length": 297,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 47,
+      "length": 17
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 65,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 84,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 103,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 122,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 141,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 160,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 179,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 198,
+      "length": 19
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 218,
+      "length": 19
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 238,
+      "length": 19
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 258,
+      "length": 20
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 279,
+      "length": 21
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 301,
+      "length": 21
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 323,
+      "length": 21
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 356,
+      "length": 285,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 356,
+      "length": 15
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 372,
+      "length": 16
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 389,
+      "length": 17
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 407,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 426,
+      "length": 17
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 444,
+      "length": 19
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 464,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 483,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 502,
+      "length": 17
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 520,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 539,
+      "length": 19
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 559,
+      "length": 19
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 579,
+      "length": 19
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 599,
+      "length": 20
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 620,
+      "length": 21
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 642,
+      "length": 31
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 678,
+      "length": 30
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 709,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 717,
+      "length": 27
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 748,
+      "length": 4
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 765,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 778,
+      "length": 93
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 876,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 892,
+      "length": 11
+    }
+  ],
+  "views": 2097,
+  "forwards": 33,
+  "replies": null,
+  "edit_date": "2026-04-25T17:21:24+00:00",
+  "post_author": "ramin",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

@@ -1,0 +1,162 @@
+{
+  "_": "Message",
+  "id": 5586,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2547961935
+  },
+  "date": "2026-04-27T14:16:35+00:00",
+  "message": "تفاوت ما با بقیه اینه \nبقیه پنل رو آماده ا دیتاسنتر ها میخرن برا همینم قطع شدن وصل شدنشون با خداس\n \nمن از ب بسم الله... تا م صدق الله... رو خودم میرم \n\nبرا همینم هر لحظه قطع شدن در لحظه رسیدگی میشه 😉",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": true,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 6014635046016322736,
+      "access_hash": 5584665665568812968,
+      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\x97\\xde\\xd0O\\x00\\x00\\x15\\xd2i\\xf0\\xdf&%AS\\x8cf\\x12\\xdb2\\xa9R\\xcc\\x19\\x80\\xb5\\x91E'",
+      "date": "2026-04-27T14:16:35+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01(\\x12\\xcd`\\xb9\\xf9y\\x1e\\xb8\\xc578\\xa7\\x8ak\\nb\\x134QE0\\x1d\\x9ai4\\x1aJ\\x00Z(\\xa2\\x80\\x1cP\\xa9\\xc7\\xf24\\x9b\\x1b\\xd2\\x8a(\\x01|\\xb7\\xf4\\xa2\\x8a(\\x03'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 144,
+          "h": 320,
+          "size": 10444
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 360,
+          "h": 800,
+          "size": 59389
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 576,
+          "h": 1280,
+          "sizes": [
+            7568,
+            21788,
+            44266,
+            89866,
+            132497
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 0,
+      "length": 97,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 100,
+      "length": 50
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 152,
+      "length": 46
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 198,
+      "length": 2,
+      "document_id": 5440422734402173876
+    }
+  ],
+  "views": 1297,
+  "forwards": 0,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 0,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 777,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-27T20:16:39+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💋"
+        },
+        "count": 4,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

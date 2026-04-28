@@ -1,0 +1,39 @@
+{
+  "_": "MessageService",
+  "id": 16318,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3336135529
+  },
+  "date": "2026-04-27T20:08:31+00:00",
+  "action": {
+    "_": "MessageActionPinMessage"
+  },
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "reactions_are_possible": true,
+  "silent": true,
+  "post": true,
+  "legacy": false,
+  "from_id": null,
+  "saved_peer_id": null,
+  "reply_to": {
+    "_": "MessageReplyHeader",
+    "reply_to_scheduled": false,
+    "forum_topic": false,
+    "quote": false,
+    "reply_to_msg_id": 16317,
+    "reply_to_peer_id": null,
+    "reply_from": null,
+    "reply_media": null,
+    "reply_to_top_id": null,
+    "quote_text": null,
+    "quote_entities": [],
+    "quote_offset": null,
+    "todo_item_id": null,
+    "poll_option": null
+  },
+  "reactions": null,
+  "ttl_period": null
+}

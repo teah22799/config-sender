@@ -1,0 +1,110 @@
+{
+  "_": "Message",
+  "id": 3335,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1648657493
+  },
+  "date": "2026-04-26T22:56:32+00:00",
+  "message": "دانلود SlipNet و SlipNet lite \n(هر دو در یک فایل فشرده) با نت ملی:\n\n📥Download\n\nPassword:\n@KurdConfing\n\n📑 آموزش ترفند اتصال بهتر با سلیپ‌نت + پروکسی\n\n🌐 کورد کانفیگ\n🔗 @KurdConfing",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": true,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaDocument",
+    "nopremium": false,
+    "spoiler": false,
+    "video": false,
+    "round": false,
+    "voice": false,
+    "document": {
+      "_": "Document",
+      "id": 6012683180488794303,
+      "access_hash": -8207564053448510250,
+      "file_reference": "b'\\x02bD\\x84U\\x00\\x00\\r\\x07i\\xf0\\xd8\\x9c\\xaa\\xf7N\\xff\"\\x92\\xe1\\xe3>\\xe1#\\x1d\\xd9\\x95\\xef\\xf9'",
+      "date": "2026-04-26T17:45:59+00:00",
+      "mime_type": "application/octet-stream",
+      "size": 23625876,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "SlipNet-v2.5.3-lite-release-universal.apk"
+        }
+      ],
+      "thumbs": [],
+      "video_thumbs": []
+    },
+    "alt_documents": [],
+    "video_cover": null,
+    "video_timestamp": null,
+    "ttl_seconds": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 66
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 68,
+      "length": 10,
+      "url": "https://punkpaste.ir/f/SlipNet-universal-3cs2d0"
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 90,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 104,
+      "length": 45,
+      "url": "https://t.me/KurdConfing/3136"
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 169,
+      "length": 12
+    }
+  ],
+  "views": 8726,
+  "forwards": 153,
+  "replies": null,
+  "edit_date": "2026-04-26T23:12:50+00:00",
+  "post_author": null,
+  "grouped_id": 14217953531991476,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

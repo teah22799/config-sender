@@ -1,0 +1,142 @@
+{
+  "_": "Message",
+  "id": 2045,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1964007005
+  },
+  "date": "2026-04-25T20:44:09+00:00",
+  "message": "✅ لیست ربات‌های کاربردی تلگرام‌:\n\nبا توجه به محدودیت‌های فعلی، این ربات‌ها حکم یک دستیار را ممکنه داشته باشند:\n\n🔹 @GPT4Telegrambot\nدسترسی به ChatGPT، جمنای و تولید تصویر.\n\n🔸 @WebSearchAiBot\nجستجو در گوگل و خواندن محتوای سایت‌های فیلتر شده.\n\n🔹 @apkdl_bot\nدانلود مستقیم برنامه‌های گوگل‌پلی (جایگزین استور).\n\n🔸 @SaveAsBot\nدانلود ویدیو و عکس از یوتیوب، اینستاگرام و توییتر.\n\n🔹 @UrlUploadBot\nتبدیل لینک دانلود سایت‌ها به فایل مستقیم تلگرامی.\n\n🔸 @ReadabBot\nتبدیل مقالات وب به حالت مطالعه سریع در خود تلگرام.\n\n🔹 @vtovbot\nتبدیل فایل‌های صوتی پرحجم به ویس باکیفیت و کم‌حجم.\n\n🔸 @voicybot\nتبدیل ویس به متن با پشتیبانی از زبان فارسی.\n\n🔹 @fakemailbot\nساخت ایمیل موقت برای زمان‌هایی که جیمیل در دسترس نیست.\n\n🔸 @newfileconverterbot\nتغییر فرمت انواع فایل‌ها مثل عکس، ویدیو و داکیومنت.\n\n @v2rayRoom",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 2,
+      "length": 4
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 7,
+      "length": 25
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 34,
+      "length": 76
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 115,
+      "length": 16
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 176,
+      "length": 15
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 246,
+      "length": 10
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 312,
+      "length": 10
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 378,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 446,
+      "length": 10
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 512,
+      "length": 8
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 576,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 634,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 706,
+      "length": 20
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 781,
+      "length": 10
+    }
+  ],
+  "views": 998,
+  "forwards": 91,
+  "replies": null,
+  "edit_date": "2026-04-25T20:44:27+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 3,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

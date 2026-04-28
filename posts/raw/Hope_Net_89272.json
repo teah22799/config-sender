@@ -1,0 +1,142 @@
+{
+  "_": "Message",
+  "id": 89272,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1629460620
+  },
+  "date": "2026-04-27T04:33:04+00:00",
+  "message": "دوستان چند تا اشتراک vpn تهیه کردیم\nتعداد محدود\n\n💰 هر گیگ: 250 هزار تومان (بالای ۳ گیگ 240 تومان حساب میشه)\n\n❌ بدون تست\n📱 مناسب: وبگردی، تلگرام، واتساپ و...\n📊 چک کردن باقیمونده اشتراک \n💰 پرداخت ارزی (تتر-ترون و ..)\n\n⚠️ پرداخت فقط ارزی هست و کارت به کارت نیست به هیچ عنوان\n━━━━━━━━━━━━━━━\n\n📩 برای خرید و اطلاعات بیشتر پیام بدید\n\n@mohamad_mcb",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": true,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 6007932363003857998,
+      "access_hash": -273579537052748552,
+      "file_reference": "b'\\x02a\\x1f\\x98\\x8c\\x00\\x01\\\\\\xb8i\\xf0\\xe3\\xfa\\xfc\\x18\\x92%\\xeej\\x95\\x9d\\x98\\xdfl\\x06)8\\xef*'",
+      "date": "2026-04-24T13:41:48+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01\\x17(\\xd6\\xe7q\\xe5\\xbfN(\\xf9\\xbf\\xda\\xfd($\\x82y\\x1f\\x95\\x1b\\x8ez\\x8f\\xc8\\xd0\\x03\\xb2}\\r\\x07<b\\x80A\\xa0\\xe7\\x8c\\x0f\\xad\\x004\\xa9\\xc8?.s\\xe9\\xda\\x8a>n>Q\\xd7\\xd7\\xa0\\xa2\\x80\\x1f\\xde\\x8a(\\xa0\\x02\\x8a(\\xa0\\x03\\x14QE\\x00\\x7f'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 180,
+          "size": 10358
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 800,
+          "h": 450,
+          "size": 33480
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 1080,
+          "h": 608,
+          "sizes": [
+            5100,
+            11536,
+            21293,
+            29464,
+            41768
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 219
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 223,
+      "length": 61
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 333,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 333,
+      "length": 12
+    }
+  ],
+  "views": 778,
+  "forwards": 5,
+  "replies": null,
+  "edit_date": "2026-04-27T12:51:12+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤‍🔥"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

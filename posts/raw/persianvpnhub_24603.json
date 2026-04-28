@@ -1,0 +1,101 @@
+{
+  "_": "Message",
+  "id": 24603,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3744627358
+  },
+  "date": "2026-04-28T08:04:43+00:00",
+  "message": "📂 کانفیگ SLIPNET-ENC\n📍 لوکیشن: نامشخص 🏁\n📶 پینگ: N/A ms\n\n#SLIPNET #VPN\n\n🕒 انتشار: 11:01 - 1405/02/08\n💡 منبع: @TirexNet\n\nslipnet-enc://AR//ynp9mpeWBfdAaAawHe7Su0xgSPi9lnBVwjrgt3eW93MAs2RZxw9gFShs1I6ffeZul/dD2WC7e4WNEGSG9XKaBT1C1KvAW39t/mNx1jtDZNm7+C9S2vU/19wFDSrmdnK8LREkMgt4EWAlS+EMcD5wLIj645ctXA58ROunmVGIHBrOSz43K6BvSjAM3g4VV6XkDJSK6IV+JLC1KmF1ZZitAWSf9KoNdKxzepdu3r99y4Wi+r4M/gMqiXQ/P9SkAzcnpZds6HslN6E4PTjli1ZN0DlQrAu3soDT0oddnspOz7rd7Az6nPuJnKVrcdDCNakGRuVMmRH5/hELpem48lbp0my3zc3MoQUkPU+g2T+zY6qrC45t6BSoyMCNExZ7eALyMI+C8hZUPQ5AdiacXzWq3jzo4vvzjdoSRspCfFAyosYTvgey87+Qq6u3021dHCW+vV80JD6lCVXvcyZRcSDUdlK/PTp3rxI9vadOkAlWgKXB2RnZk6kcYDM6iwLIJHDCPLeEADUgFjbMeBrCnL82ZKFulo0tBozqAHm+sJqUWnybuCkCOZ0JaFyafgnpZ6rJ89amBISbnp9zhvs1togB+Z1c0ojVGQ==",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": {
+    "_": "ReplyInlineMarkup",
+    "rows": [
+      {
+        "_": "KeyboardButtonRow",
+        "buttons": [
+          {
+            "_": "KeyboardButtonUrl",
+            "text": "⛶ کد QR کانفیگ",
+            "url": "https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&chs=200x200&chl=slipnet-enc%3A%2F%2FAR%2F%2Fynp9mpeWBfdAaAawHe7Su0xgSPi9lnBVwjrgt3eW93MAs2RZxw9gFShs1I6ffeZul%2FdD2WC7e4WNEGSG9XKaBT1C1KvAW39t%2FmNx1jtDZNm7%2BC9S2vU%2F19wFDSrmdnK8LREkMgt4EWAlS%2BEMcD5wLIj645ctXA58ROunmVGIHBrOSz43K6BvSjAM3g4VV6XkDJSK6IV%2BJLC1KmF1ZZitAWSf9KoNdKxzepdu3r99y4Wi%2Br4M%2FgMqiXQ%2FP9SkAzcnpZds6HslN6E4PTjli1ZN0DlQrAu3soDT0oddnspOz7rd7Az6nPuJnKVrcdDCNakGRuVMmRH5%2FhELpem48lbp0my3zc3MoQUkPU%2Bg2T%2BzY6qrC45t6BSoyMCNExZ7eALyMI%2BC8hZUPQ5AdiacXzWq3jzo4vvzjdoSRspCfFAyosYTvgey87%2BQq6u3021dHCW%2BvV80JD6lCVXvcyZRcSDUdlK%2FPTp3rxI9vadOkAlWgKXB2RnZk6kcYDM6iwLIJHDCPLeEADUgFjbMeBrCnL82ZKFulo0tBozqAHm%2BsJqUWnybuCkCOZ0JaFyafgnpZ6rJ89amBISbnp9zhvs1togB%2BZ1c0ojVGQ%3D%3D",
+            "style": null
+          }
+        ]
+      },
+      {
+        "_": "KeyboardButtonRow",
+        "buttons": [
+          {
+            "_": "KeyboardButtonUrl",
+            "text": "🔍 دریافت کانفیگ‌های بیشتر",
+            "url": "https://t.me/persianvpnhub",
+            "style": null
+          }
+        ]
+      }
+    ]
+  },
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 60,
+      "length": 8
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 69,
+      "length": 4
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 114,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityPre",
+      "offset": 125,
+      "length": 626,
+      "language": ""
+    }
+  ],
+  "views": 473,
+  "forwards": 4,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

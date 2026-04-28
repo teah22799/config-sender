@@ -1,0 +1,164 @@
+{
+  "_": "Message",
+  "id": 2808,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2232706026
+  },
+  "date": "2026-04-21T12:01:07+00:00",
+  "message": "🚀 لیست جدید کانفیگ‌های V2Ray\nتعداد: 10\n\nvless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.129.231.66:2096?encryption=none&security=tls&sni=sni.111000.v6.army&insecure=1&allowInsecure=1&type=ws&host=sni.111000.v6.army&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%40v2rayconfigamir%201456\n\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%40v2rayconfigamir%202953\n\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%40v2rayconfigamir%202670\n\ntrojan://1234567890@64.188.97.153:443?security=tls&sni=kfm-bn0.pages.dev&insecure=1&allowInsecure=1&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%40v2rayconfigamir%206275\n\nvless://fc835978-8121-414f-b3dd-2dc2ec56b8f7@192.142.37.191:4356?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#%40v2rayconfigamir%208616\n\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Qlo3VFplbVRmaUg=@ss.us.sshmax.net:8139/?plugin=obfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#%40v2rayconfigamir%203363\n\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOelF4Wg==#%40v2rayconfigamir%208744\n\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU01vQlZpV21DOHo=@ss.sg.sshmax.net:8139/?plugin=obfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#%40v2rayconfigamir%209714\n\nss://YWVzLTI1Ni1nY206QjBMUGo@sg-ss-1.sshstores.vip:1443#%40v2rayconfigamir%206568\n\nss://YWVzLTI1Ni1nY206bXZ4TjE@sg-ss-2.sshstores.vip:1443#%40v2rayconfigamir%202568\n──────────────\n📢 فوروارد کنید به هموطنامون ❤️🤍💚\n\n⏱ بعد از کانکت شدن ۴۰ ثانیه در تلگرام منتظر بمونید تا کانکت شه (پینگ نمیده)\n\n⚡️ عملکرد سرورها روی هر اپراتور متفاوت است در صورت قطعی از سرورهای دیگر کانال استفاده کنید.\n\n✅ ری اکشن فراموش نشه :)\n🆔 @V2rayconfigamir",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 3,
+      "length": 26
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 41,
+      "length": 276
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 319,
+      "length": 113
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 434,
+      "length": 109
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 545,
+      "length": 233
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 780,
+      "length": 222
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1004,
+      "length": 165
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1171,
+      "length": 71
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1244,
+      "length": 165
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1411,
+      "length": 81
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1494,
+      "length": 81
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 1594,
+      "length": 32
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 1825,
+      "length": 16
+    }
+  ],
+  "views": 189,
+  "forwards": 2,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 7854,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 2428075715,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-21T12:01:10+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 4,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 4,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🥰"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

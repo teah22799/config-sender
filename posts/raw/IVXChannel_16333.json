@@ -1,0 +1,165 @@
+{
+  "_": "Message",
+  "id": 16333,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3336135529
+  },
+  "date": "2026-04-27T22:11:42+00:00",
+  "message": "🥇 #ETEHAD",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": {
+    "_": "MessageFwdHeader",
+    "date": "2026-04-27T21:06:26+00:00",
+    "imported": false,
+    "saved_out": false,
+    "from_id": {
+      "_": "PeerChannel",
+      "channel_id": 2027668908
+    },
+    "from_name": null,
+    "channel_post": 47085,
+    "post_author": null,
+    "saved_from_peer": null,
+    "saved_from_msg_id": null,
+    "saved_from_id": null,
+    "saved_from_name": null,
+    "saved_date": null,
+    "psa_type": null
+  },
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 6017043367323176298,
+      "access_hash": -4840758490071283927,
+      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xc6\\xd9ci\\x00\\x00?\\xcdi\\xf0\\xd5\\xc8\\x7ft-\\xbb\\xda\\x06OY\\r\\xaf\\x82 \\xe4;\\x8a^'",
+      "date": "2026-04-27T21:06:25+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b\"\\x01((\\xc5\\xa2\\x8aZ\\x00J)i(\\x00\\xa2\\x8a(\\x01j\\xcc\\x01\\x0e\\xd0\\xed\\xb5y\\xe7\\x19\\xaa\\xd4ReE\\xd8\\xd0\\xdblN|\\xc0\\x01\\x1c\\x0c\\x1ct\\xa8\\xeeD@\\x0f'\\x04m\\xf9\\xb1\\x9e\\xb9\\xf7\\xfc*\\x9d\\x14X|\\xc2QE\\x14\\xc8\\x16\\x92\\x8a(\\x00\\xa2\\x8a(\\x00\\xa2\\x8a(\\x03\""
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 320,
+          "size": 5359
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 800,
+          "h": 800,
+          "size": 17006
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 1024,
+          "h": 1024,
+          "sizes": [
+            4929,
+            7535,
+            9191,
+            10871,
+            17441
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 0,
+      "length": 2,
+      "document_id": 5280735858926822987
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 3,
+      "length": 7
+    }
+  ],
+  "views": 4013,
+  "forwards": 0,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 2,
+    "replies_pts": 1274039,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 1259314787
+      }
+    ],
+    "channel_id": 3392070575,
+    "max_id": 746076,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-27T22:11:50+00:00",
+  "post_author": "Mhsenivx",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 3,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

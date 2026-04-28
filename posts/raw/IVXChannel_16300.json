@@ -1,0 +1,299 @@
+{
+  "_": "Message",
+  "id": 16300,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3336135529
+  },
+  "date": "2026-04-27T18:12:58+00:00",
+  "message": "به درخواست شما عزیزان مجددا اکانت های اختصاصی شارژ شد\n\nتضمین کیفیت و سرعت کار هر تیمی نیست؛ اما ما با اطمینان این تضمین را ارائه می‌دهیم 🐸\nGonfig :\n\n1GB = 550➡️399  toman\n2GB = 1,100➡️799 toman\n3GB = 1,650➡️1,199 toman\n4GB = 2,200➡️1,499 toman\n5GB = 2,700➡️1,999 toman⚡️\n10GB = 5,500➡️3,999 toman⚡️\n\n Proxy :\n \n5GB = 550 😜\n3GB = 350 😜\n\nتمام سرویس ها با ساب ارائه می‌شن 😊\nکیفیت بالا برازنده شماست ⭐️\n\nبــرای خرید اینجا میتونید پیــام بـدید : \n@orEsico",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": {
+    "_": "MessageFwdHeader",
+    "date": "2026-04-27T07:56:35+00:00",
+    "imported": false,
+    "saved_out": false,
+    "from_id": {
+      "_": "PeerChannel",
+      "channel_id": 2158177187
+    },
+    "from_name": null,
+    "channel_post": 3958,
+    "post_author": "⁪SUPPORT",
+    "saved_from_peer": null,
+    "saved_from_msg_id": null,
+    "saved_from_id": null,
+    "saved_from_name": null,
+    "saved_date": null,
+    "psa_type": null
+  },
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 53
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 55,
+      "length": 84,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 137,
+      "length": 2,
+      "document_id": 5935762433636307985
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 140,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 150,
+      "length": 3
+    },
+    {
+      "_": "MessageEntityStrike",
+      "offset": 156,
+      "length": 3
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 159,
+      "length": 2,
+      "document_id": 4990124155337704539
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 172,
+      "length": 3
+    },
+    {
+      "_": "MessageEntityStrike",
+      "offset": 178,
+      "length": 5
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 183,
+      "length": 2,
+      "document_id": 4990124155337704539
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 195,
+      "length": 3
+    },
+    {
+      "_": "MessageEntityStrike",
+      "offset": 201,
+      "length": 5
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 206,
+      "length": 2,
+      "document_id": 4990124155337704539
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 220,
+      "length": 3
+    },
+    {
+      "_": "MessageEntityStrike",
+      "offset": 226,
+      "length": 5
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 231,
+      "length": 2,
+      "document_id": 4990124155337704539
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 245,
+      "length": 3
+    },
+    {
+      "_": "MessageEntityStrike",
+      "offset": 251,
+      "length": 5
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 256,
+      "length": 2,
+      "document_id": 4990124155337704539
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 269,
+      "length": 2,
+      "document_id": 5915951441716973724
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 272,
+      "length": 4
+    },
+    {
+      "_": "MessageEntityStrike",
+      "offset": 279,
+      "length": 5
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 284,
+      "length": 2,
+      "document_id": 4990124155337704539
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 297,
+      "length": 2,
+      "document_id": 5915951441716973724
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 302,
+      "length": 5
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 312,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 322,
+      "length": 2,
+      "document_id": 5242687246162731515
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 325,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 335,
+      "length": 2,
+      "document_id": 5242687246162731515
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 339,
+      "length": 35,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 372,
+      "length": 2,
+      "document_id": 5003535379698025444
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 375,
+      "length": 27,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 400,
+      "length": 2,
+      "document_id": 5438496463044752972
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 404,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 446,
+      "length": 8
+    }
+  ],
+  "views": 3756,
+  "forwards": 22,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 32,
+    "replies_pts": 1274039,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 8149063944
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 5592841033
+      }
+    ],
+    "channel_id": 3392070575,
+    "max_id": 750667,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-27T18:19:28+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 5,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

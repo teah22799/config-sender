@@ -1,0 +1,138 @@
+{
+  "_": "Message",
+  "id": 3320,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1648657493
+  },
+  "date": "2026-04-25T19:52:48+00:00",
+  "message": "📶 دی‌ان‌اس جدید برای ایرانسل:\n\n81.28.38.179\n81.90.145.121\n82.99.202.209\n82.99.204.93\n82.99.230.170\n84.241.28.209\n85.133.173.142\n85.133.179.189\n85.133.189.11\n85.185.163.4\n85.9.107.226\n87.107.103.250\n87.107.110.110\n87.107.152.35\n87.107.166.226\n87.107.19.14\n87.107.29.158\n87.107.87.67\n89.34.176.138\n89.38.24.35\n89.42.208.209\n91.106.80.65\n91.106.83.26\n91.212.252.48\n91.243.160.62\n91.243.161.124\n91.243.172.247\n91.92.207.127\n91.92.208.205\n92.242.216.150\n92.246.147.75\n92.246.147.81\n93.115.144.167\n93.115.146.234\n93.115.147.113\n93.115.147.126\n93.115.151.185\n93.115.151.187\n93.115.151.189\n93.118.109.213\n93.118.153.246\n93.118.161.233\n93.126.18.95\n94.182.154.105\n94.182.54.200\n94.182.56.254\n94.182.56.43\n94.183.0.30\n94.184.10.131\n94.184.10.132\n94.184.10.133\n94.184.10.134\n94.184.10.135\n95.130.59.34\n95.215.161.125\n95.38.102.94\n95.38.134.22\n95.38.142.34\n95.38.15.205\n95.38.15.247\n95.38.169.186\n95.80.173.244\n\n📶دی‌ان‌اس جدید همراه اول:\n\n10.160.155.9\n109.201.8.85\n109.201.8.84\n109.201.8.86\n109.230.88.54\n109.201.15.57\n149.112.112.112\n185.109.61.27\n185.131.30.7\n185.129.213.152\n185.136.180.221\n185.155.15.236\n185.191.77.50\n185.66.229.140\n2.188.21.130\n2.188.215.67\n212.23.216.123\n217.218.79.234\n217.219.113.186\n217.219.163.152\n217.219.173.237\n217.26.222.235\n37.156.10.40\n37.255.216.22\n37.255.240.4\n37.255.238.219\n5.106.17.163\n5.106.19.116\n5.106.19.95\n77.104.103.130\n77.238.123.237\n78.39.82.6\n78.39.136.13\n79.127.69.126\n79.175.172.98\n79.175.151.2:\n79.175.149.194\n81.12.90.74\n81.28.50.2\n87.107.166.226\n89.34.200.117\n89.34.176.58\n91.92.214.66\n93.118.140.51\n93.126.18.95\n93.126.11.129\n94.183.95.208\n94.184.10.132\n94.184.10.134\n\nآموزش تست دی‌ان‌س در سلیپ نت\n\n🌐 کورد کانفیگ\n🔗 @KurdConfing",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": true,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 29
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 32,
+      "length": 867,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 32,
+      "length": 867
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 903,
+      "length": 24
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 928,
+      "length": 1
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 929,
+      "length": 682,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 929,
+      "length": 682
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 1613,
+      "length": 28,
+      "url": "https://t.me/KurdConfing/2906"
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 1661,
+      "length": 12
+    }
+  ],
+  "views": 8799,
+  "forwards": 152,
+  "replies": null,
+  "edit_date": "2026-04-25T20:05:52+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 11,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🔥"
+        },
+        "count": 2,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

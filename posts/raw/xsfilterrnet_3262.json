@@ -1,0 +1,86 @@
+{
+  "_": "Message",
+  "id": 3262,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3209702364
+  },
+  "date": "2026-04-19T23:11:58+00:00",
+  "message": "85.185.163.4:53\n\nSlipnet🚀\n\nاپراتور همراه اول✅️\n\n\n@xszapass",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCode",
+      "offset": 0,
+      "length": 15
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 50,
+      "length": 9
+    }
+  ],
+  "views": 9016,
+  "forwards": 142,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 16,
+    "replies_pts": 102786,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 1891382409
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 86261072
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 188994830
+      }
+    ],
+    "channel_id": 2200550029,
+    "max_id": 63162,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-19T23:12:56+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

@@ -1,0 +1,169 @@
+{
+  "_": "Message",
+  "id": 23593,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1319668965
+  },
+  "date": "2026-04-20T21:36:32+00:00",
+  "message": "پروکسی تلگرام \nمنطقه‌ای وصله تست کنید.\n\nhttps://t.me/proxy?server=vavan.online&port=443&secret=dd104462821249bd7ac519130220c25d09&@zibanabz\n\nhttps://t.me/proxy?server=openway.forum&port=443&secret=7taDYEWK9jBzusE5Tox6SNpvcGVud2F5LmZvcnVt&@zibanabz\n\nhttps://t.me/proxy?server=178.105.12.9&port=1080&secret=dd104462821249bd7ac519130220c25d09&@zibanabz\n\nhttps://t.me/proxy?server=49.12.79.244&port=443&secret=dd104462821249bd7ac519130220c25d09&@zibanabz\n\nhttps://t.me/proxy?server=92.118.234.215&port=443&secret=dddb9b51b5ce9a2820ff62d348cb23f1b9&@zibanabz\n\nhttps://t.me/proxy?server=94.130.191.164&port=443&secret=dd104462821249bd7ac519130220c25d09&@zibanabz\n\nhttps://t.me/proxy?server=116.203.0.182&port=8443&secret=dd104462821249bd7ac519130220c25d09&@zibanabz\n\nhttps://t.me/proxy?server=65.109.30.209&port=4455&secret=dd104462821249bd7ac519130220c25d09&@zibanabz\n\nhttps://t.me/proxy?server=172.232.152.197&port=443&secret=ee7b9a9f5f0b6969271510b2e13ba5e7757777772e676f6f676c652e636f6d&@zibanabz\n\nhttps://t.me/proxy?server=31.220.72.60&port=443&secret=ee399a6e8dbe6399816eba10c0fa78609d636c6f7564666c6172652e636f6d&@zibanabz\n\n🆔@ZibaNabz",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityUrl",
+      "offset": 40,
+      "length": 99
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 141,
+      "length": 106
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 249,
+      "length": 100
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 351,
+      "length": 99
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 452,
+      "length": 101
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 555,
+      "length": 101
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 658,
+      "length": 101
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 761,
+      "length": 101
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 864,
+      "length": 130
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 996,
+      "length": 127
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 1125,
+      "length": 2,
+      "document_id": 6035239240625820254
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 1127,
+      "length": 9
+    }
+  ],
+  "views": 6756,
+  "forwards": 138,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 455655,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 1694825362,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-20T21:36:55+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 7,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😐"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🕊"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

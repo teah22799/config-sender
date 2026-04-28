@@ -1,0 +1,477 @@
+{
+  "_": "Message",
+  "id": 3301,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3209702364
+  },
+  "date": "2026-04-25T09:06:27+00:00",
+  "message": "🥰آموزش نصب تانل به Google\nموارد نیاز:\nسرور خارج+ سیستم ویندوزی\n\nلینک داخلی:⚡️\nhttps://guardnet.ir/f/1c1e94d2925b\nپروژه:\nhttps://github.com/NullLatency/FlowDriver\n\nداستان پروژه\n\n@pingplas_channel 💎\n@xsfilterrnet 👑",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaDocument",
+    "nopremium": false,
+    "spoiler": false,
+    "video": true,
+    "round": false,
+    "voice": false,
+    "document": {
+      "_": "Document",
+      "id": 6008082630564650213,
+      "access_hash": 1878339776247845364,
+      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe5i\\xf0\\xd6I\\x94\\xbe\\xd0\\xa3M*\\x191]d3Sn\\xa0\\x11\\xb7'",
+      "date": "2026-04-25T03:23:25+00:00",
+      "mime_type": "video/mp4",
+      "size": 69000509,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeVideo",
+          "duration": 360.0,
+          "w": 1280,
+          "h": 720,
+          "round_message": false,
+          "supports_streaming": true,
+          "nosound": false,
+          "preload_prefix_size": null,
+          "video_start_ts": null,
+          "video_codec": null
+        }
+      ],
+      "thumbs": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01\\x16(\\xd58>\\x95\\x19E\\xcfj\\xaf\\xe79\\xe8\\xa4\\x8f\\\\\\x8ao\\xda\\x1b8<\\x1fqXs\\x16N\\xc0s\\xd7\\xf0\\xa8\\x1e!\\x9c\\xe0g\\xdf5\\x1b\\xcc\\xdb\\xf8rF:\\x01H\\xd3\\x102X\\x81\\xee)\\xa9>\\xe3\\xd0k\\xa1\\xf4\\x1f\\x95\\x14\\xcf\\xb4\\xe7\\x80X\\x9fe\\xa2\\xaa\\xe2\\xba!I\\xf03\\xb7\\x8f\\xadI\\xf6\\xc9\\x18\\x8c\\x1c~\\x02\\x8a*\\\\P\\n\\xf7\\x12\\x0c\\xe4\\xe4\\x8f~)\\xa6\\xe1\\xcf\\xde\\n~\\xa34QK\\x95\\x08\\x16\\xf2PO\\x0b\\x8f@1E\\x14Q\\xca\\x86\\x7f'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 180,
+          "size": 16837
+        }
+      ],
+      "video_thumbs": []
+    },
+    "alt_documents": [
+      {
+        "_": "Document",
+        "id": 6010279510631521776,
+        "access_hash": 6327822067062487360,
+        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe5i\\xf0\\xd6I\\x86\\xd0oh\\xa4\\x8f\\x15\\xf5+@\\xcd\\xa0(8\\xa2\\xee'",
+        "date": "2026-04-25T08:39:59+00:00",
+        "mime_type": "video/mp4",
+        "size": 30036024,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 360.467,
+            "w": 1280,
+            "h": 720,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": "av01"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": "b\"\\x01\\x16(\\xd585\\x19E\\xcfj\\xaf\\xe79\\xe8\\xa4\\x8f\\\\\\x8ao\\xda\\x1b8<\\x1fqXs\\x16N\\xc0{\\xfe\\x15\\x03\\xc43\\x9c\\x0c\\xfb\\xe6\\xa3y\\x9b\\x7f\\x0eH\\xc7@)\\x1ab\\x06K\\x10=\\xc55'\\xdcz\\rt>\\x83\\xf2\\xa2\\x99\\xf6\\xac\\xf0\\x0b\\x13\\xec\\xb4U\\\\WD)>\\x06v\\xfe\\xb5'\\xdb$b0q\\xf8\\n(\\xa9q@+\\xdc8\\xceNH\\xf7\\xe2\\x9an\\x1c\\xfd\\xe0\\xa7\\xea3E\\x14\\xb9P\\x81o%\\x04\\xf0\\xb8\\xf4\\x03\\x14QE\\x1c\\xa8g\""
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 320,
+            "h": 180,
+            "size": 16723
+          }
+        ],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 6010277534946565842,
+        "access_hash": -6490167048838651123,
+        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe5i\\xf0\\xd6I#\\xad\\xcf(^!7\\xcb\\xb4f4\\x01v\\xef\\xa6\\xa8'",
+        "date": "2026-04-25T08:39:59+00:00",
+        "mime_type": "application/x-mpegurl",
+        "size": 5342,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "mtproto:6010279510631521776"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 6010147049545145273,
+        "access_hash": 5647585939790160366,
+        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe5i\\xf0\\xd6I%\\xc3f\\xde\\xea\\xee=\\xa2x\\xcd.\\x0e;\\xd1\\xf0\\xc2'",
+        "date": "2026-04-25T08:40:00+00:00",
+        "mime_type": "video/mp4",
+        "size": 39211924,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 360.467,
+            "w": 1280,
+            "h": 720,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": "h264"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": "b\"\\x01\\x16(\\xd58>\\x95\\x19E\\xcfj\\xaf\\xe6\\xb9\\xfb\\xaaH\\xf5\\xc8\\xa6\\x9b\\x86\\xce\\x08\\xc1\\xf7\\x15\\x871d\\xec\\xa3\\xdf\\xf0\\xaa\\xef\\x18\\xcep3\\xef\\x9a\\x8d\\xe6m\\xfc9#\\x1d\\x00\\xa1\\xa6 d\\xb1Q\\xee)\\xf3>\\xe3\\xba\\x18\\xe8}\\x07\\xe5E7\\xed9\\xe0\\x16'\\xd9h\\xaa\\xb8\\xaeB\\x97\\x18\\\\\\xed\\xfdjAy#\\x11\\x83\\x8f\\xc0QEK\\x8a\\x01\\xcfq \\xceNH\\xf7\\xe2\\x98n\\\\\\xfd\\xe0\\xa7\\xea3E\\x14r\\xa1\\x02\\xde\\xca\\x0fE\\xc7\\xa0\\x18\\xa2\\x8a)r\\xa1\\x9f\""
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 320,
+            "h": 180,
+            "size": 16443
+          }
+        ],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 6010292176490077483,
+        "access_hash": 5363144995213749574,
+        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe5i\\xf0\\xd6I\\x81\\xb6\\xdb\\xdf\\xc8fz\\xa9\\x85\\xca\\x01\\xea\\xa71\\x12\\xcf'",
+        "date": "2026-04-25T08:40:00+00:00",
+        "mime_type": "application/x-mpegurl",
+        "size": 5348,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "mtproto:6010147049545145273"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 6010219647377349846,
+        "access_hash": -1751543628709606037,
+        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe5i\\xf0\\xd6I`d\\xa74\\xe9\\xf5Y\\xcb\\x9a\\xa3\\x1b\\xa2\\xddg\\x83d'",
+        "date": "2026-04-25T08:40:00+00:00",
+        "mime_type": "video/mp4",
+        "size": 13242582,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 360.467,
+            "w": 852,
+            "h": 480,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": "av01"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": "b\"\\x01\\x16(\\xd585\\x19E\\xcfj\\xaf\\xe79\\xe8\\xa4\\x8f\\\\\\x8ao\\xda\\x1b8<\\x1fqXs\\x16N\\xc0{\\xfe\\x15\\x03\\xc43\\x9c\\x0c\\xfb\\xe6\\xa3y\\x9b\\x7f\\x0eH\\xc7@)\\x1ab\\x06K\\x10=\\xc55'\\xdcz\\rt>\\x83\\xf2\\xa2\\x99\\xf6\\xac\\xf0\\x0b\\x13\\xec\\xb4U\\\\WD)>\\x06v\\xfe\\xb5'\\xdb$b0q\\xf8\\n(\\xa9q@+\\xdc8\\xceNH\\xf7\\xe2\\x9an\\x1c\\xfd\\xe0\\xa7\\xea3E\\x14\\xb9P\\x81o%\\x04\\xf0\\xb8\\xf4\\x03\\x14QE\\x1c\\xa8g\""
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 320,
+            "h": 180,
+            "size": 16723
+          }
+        ],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 6010301084252249060,
+        "access_hash": -2318078857710593115,
+        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe5i\\xf0\\xd6I\\xb84\\x908\\x04\\xb2\\xad\\xa9\\x04\\xe9\\xc8\\x08\\x95\\xbd\\x06\\xa0'",
+        "date": "2026-04-25T08:40:00+00:00",
+        "mime_type": "application/x-mpegurl",
+        "size": 5308,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "mtproto:6010219647377349846"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 6010586149821618699,
+        "access_hash": 3691324840115840713,
+        "file_reference": "b\"\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe5i\\xf0\\xd6I\\xae\\x16\\x08J\\x95\\x98\\x98P\\x14:\\t\\xb9'\\xddf<\"",
+        "date": "2026-04-25T08:40:00+00:00",
+        "mime_type": "video/mp4",
+        "size": 17170587,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 360.467,
+            "w": 852,
+            "h": 480,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": "h264"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": "b\"\\x01\\x16(\\xd58>\\x95\\x19E\\xcfj\\xaf\\xe6\\xb9\\xe8\\xa4\\x8f\\\\\\x8ao\\xda\\x1b8#\\x07\\xdcV\\x1c\\xc5\\x93\\xb2\\x8f\\x7f\\xc2\\xab\\xbcc9\\xc0\\xcf\\xbej7\\x99\\xb7\\xf0\\xe4\\x8ct\\x02\\x91\\xa6 d\\xb1Q\\xee)\\xf3>\\xe3\\xba\\x1a\\xe8}\\x07\\xe5E7\\xedY\\xe0\\x16'\\xd9h\\xaa\\xb8\\xaeB\\x97\\x18\\x19\\xdb\\xfa\\xd4\\x82\\xf2Fa\\x83\\x83\\xf4\\x14QR\\xe2\\x80s\\xdcH3\\x93\\x92=\\xf8\\xa8\\xcd\\xcb\\x9f\\xbc\\xaa~\\xa34QK\\x95\\x08U\\xbd\\x94\\x13\\xc2\\xe3\\xd0\\x0cQE\\x14r\\xa1\\x9f\""
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 320,
+            "h": 180,
+            "size": 16273
+          }
+        ],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 6007943031242629064,
+        "access_hash": 2443724269658575206,
+        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe5i\\xf0\\xd6I5Sx}\\x00r\\xfca\\x07\\x02\\xa9\\\\\\xae7\\x8a\\xb7'",
+        "date": "2026-04-25T08:40:00+00:00",
+        "mime_type": "application/x-mpegurl",
+        "size": 5322,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "mtproto:6010586149821618699"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 6007897663503081577,
+        "access_hash": 7830049826268039505,
+        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe5i\\xf0\\xd6I\\x85\\xe3P\\xa9\\xb4FO\\x1e;\\xb3\\xa2=\\xea\\xbfA\\x14'",
+        "date": "2026-04-25T08:40:00+00:00",
+        "mime_type": "application/x-tgstoryboard",
+        "size": 136214,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": ".sb.jpg"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 6010230689738268725,
+        "access_hash": -3447517922572500212,
+        "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe5i\\xf0\\xd6I\\x02\\x1b\\xdfB-\\xf7k\\xa4\\xaf\\xc5\\xaa\\xf91\\xe5\\xf7m'",
+        "date": "2026-04-25T08:40:00+00:00",
+        "mime_type": "application/x-tgstoryboardmap",
+        "size": 1444,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 144,
+            "h": 80
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "mtproto:6007897663503081577"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      }
+    ],
+    "video_cover": null,
+    "video_timestamp": null,
+    "ttl_seconds": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 0,
+      "length": 2,
+      "document_id": 5244559903443412409
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 2,
+      "length": 17
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 20,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 27,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 65,
+      "length": 10
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 76,
+      "length": 2,
+      "document_id": 5312016608254762256
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 79,
+      "length": 34
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 114,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 121,
+      "length": 41,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 121,
+      "length": 41
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 164,
+      "length": 12,
+      "url": "https://t.me/xsfilterrnet/3299"
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 178,
+      "length": 17
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 196,
+      "length": 2,
+      "document_id": 5309958691854754293
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 199,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 213,
+      "length": 2,
+      "document_id": 5053169761232356354
+    }
+  ],
+  "views": 9164,
+  "forwards": 341,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 28,
+    "replies_pts": 102786,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 134014122
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 261491842
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 5298549243
+      }
+    ],
+    "channel_id": 2200550029,
+    "max_id": 64511,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-25T09:15:10+00:00",
+  "post_author": "امیرپارسا",
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

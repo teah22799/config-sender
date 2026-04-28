@@ -1,0 +1,158 @@
+{
+  "_": "Message",
+  "id": 155518,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3111946920
+  },
+  "date": "2026-04-28T13:02:45+00:00",
+  "message": "Slipnet\nslipnet-enc://AZRfIZTW0yaQdUUjpv+cC/PgaThnnmyeBjA5m8cagNaRHFA8btZaQRiq6GgHFtbvi/XI7VIemoD2WwBubj/+Zz7jpSeom9y+qwt6gco2GRw71UGEh49pohlu2t5TgFr4V9jU3Vnr0igQvTUTfgSE6d10rW80JKi0U+E7NIWXVdSnNQix6NW+6t8aMpRGTeNEOQuV7XAzbbCV0z7DWLfQcln/g9VbBFFxHjI5ECO9MmN3pNelS+/WNO3MgJvj6G7Bao378CTRGOrpzDrlFxB+brkoKp1sP2BKoNtY5OhidREG1ymmE21b9mJ8UQ3yVvR2jHlGHNvErSe/iQcWm2i/dhnJQfw1VGx6K2bZAeR8JXLjK3MZgZtskd2y/lGPe5b6dxpODIXrgxbRCW7GJXGpQW8/1jPJ2aAT4m1tqu9Sm8htZ+DWP8ZmU/3KS8Ajy/9LDIA+aTjaO0OqcKesqjYZdgXUAgFhCuaG/TjSRpbKPJT4qaDP2s5m8R7gT398GlBEt8Mot7k8Sg7T7AD/9zr5yp4=\n@llFreak",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": false,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": {
+    "_": "PeerUser",
+    "user_id": 7234128601
+  },
+  "from_boosts_applied": null,
+  "from_rank": "ADMIN",
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 0,
+      "length": 7,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 8,
+      "length": 550,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityBotCommand",
+      "offset": 264,
+      "length": 33
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 559,
+      "length": 8,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 559,
+      "length": 8
+    }
+  ],
+  "views": null,
+  "forwards": null,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 326560,
+    "comments": false,
+    "recent_repliers": [],
+    "channel_id": null,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T13:08:02+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 5,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": true,
+    "reactions_as_tags": false,
+    "recent_reactions": [
+      {
+        "_": "MessagePeerReaction",
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 7368410464
+        },
+        "date": "2026-04-28T15:21:09+00:00",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "big": false,
+        "unread": false,
+        "my": false
+      },
+      {
+        "_": "MessagePeerReaction",
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 5931606428
+        },
+        "date": "2026-04-28T15:11:52+00:00",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "big": false,
+        "unread": false,
+        "my": false
+      },
+      {
+        "_": "MessagePeerReaction",
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 7355531433
+        },
+        "date": "2026-04-28T14:51:11+00:00",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "big": false,
+        "unread": false,
+        "my": false
+      }
+    ],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

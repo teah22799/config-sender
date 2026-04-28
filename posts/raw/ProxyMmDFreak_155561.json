@@ -1,0 +1,170 @@
+{
+  "_": "Message",
+  "id": 155561,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3111946920
+  },
+  "date": "2026-04-28T14:48:01+00:00",
+  "message": "تنها چنل فروش Vpn که زیرمجموعه چنل Serotonin یا گپ ممدفریکه↗️\n@l5MmD\n\nتبلیغ نیست و مال خودمونه کیفیت،سرعت و اعتبارش با خود منه✅\nچون اگه ممبر قدیمی من باشین من تا به حال یک دونه چنل Vpn رو هم تبلیغ نکردم‌فقط چون مطمن نبودم ازشون و نمیخواستم پولتونو حروم کنین.",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": false,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 35
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 45,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 59,
+      "length": 2,
+      "document_id": 5343743999821768467
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 62,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 70,
+      "length": 56
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 126,
+      "length": 1
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 126,
+      "length": 1,
+      "document_id": 5843597357496669923
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 128,
+      "length": 130,
+      "collapsed": false
+    }
+  ],
+  "views": null,
+  "forwards": null,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 326560,
+    "comments": false,
+    "recent_repliers": [],
+    "channel_id": null,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T14:51:47+00:00",
+  "post_author": "MmDFreak",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 3,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": true,
+    "reactions_as_tags": false,
+    "recent_reactions": [
+      {
+        "_": "MessagePeerReaction",
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 7876640509
+        },
+        "date": "2026-04-28T15:02:38+00:00",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "big": false,
+        "unread": false,
+        "my": false
+      },
+      {
+        "_": "MessagePeerReaction",
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 8197096030
+        },
+        "date": "2026-04-28T14:55:04+00:00",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "big": false,
+        "unread": false,
+        "my": false
+      },
+      {
+        "_": "MessagePeerReaction",
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 8441589960
+        },
+        "date": "2026-04-28T14:51:47+00:00",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "big": false,
+        "unread": false,
+        "my": false
+      }
+    ],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

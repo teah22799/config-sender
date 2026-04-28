@@ -1,0 +1,154 @@
+{
+  "_": "Message",
+  "id": 2785,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2232706026
+  },
+  "date": "2026-04-19T04:00:37+00:00",
+  "message": "🚀 لیست جدید کانفیگ‌های V2Ray\nتعداد: 8\n\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@185.255.123.110:990#%40v2rayconfigamir%208985\n\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.255.123.110:990#%40v2rayconfigamir%207170\n\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.255.123.110:990?#%40v2rayconfigamir%201215\n\nvmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA1OTA1IiwiYWRkIjoic3RyZWFtLmF6YWRyYWgyMi5jb20iLCJwb3J0IjoiODAiLCJpZCI6Ijc2ZTE1MWE3LTk5ODAtNDA3Ny1iZDUyLTA3ZWY0ZTljYjQ5NiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii91c2VyIiwidGxzIjoiIiwic25pIjoiIn0=\n\nvmess://eyJhZGQiOiJzZy52bWVzczUueHNlcnZzLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiTmFtYXZhLmlyIiwiaWQiOiJlNmU2NGY3YS1lZmM2LTRiNzEtYjM3Ny0xODVhZmZhYzRmYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IkB2MnJheWNvbmZpZ2FtaXIgMzY2MSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==\n\nvless://56183da7-4dea-8d90-1b48-d5298b36349d@gcmovies.site:443?path=%2Ftetris.js&security=tls&encryption=none&headerType=none&type=ws&quicSecurity=none&sni=gcmovies.site#%40v2rayconfigamir%201894\n\nvmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA2MTExIiwiYWRkIjoiYXJ2YW5jbG91ZC5jb20iLCJwb3J0IjoiODAiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoia29vY2hlaHBhcy5jb20iLCJwYXRoIjoiL2dyYXBocWwiLCJ0bHMiOiIiLCJzbmkiOiIifQ==\n\nvmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA1MDgwIiwiYWRkIjoiYXJ2YW5jbG91ZC5jb20iLCJwb3J0IjoiODAiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoibWFoc2Fwcm94eS5jb20iLCJwYXRoIjoiL2dyYXBocWwiLCJ0bHMiOiIiLCJzbmkiOiIifQ==\n──────────────\n📢 فوروارد کنید به هموطنامون ❤️🤍💚\n\n⏱ بعد از کانکت شدن ۴۰ ثانیه در تلگرام منتظر بمونید تا کانکت شه (پینگ نمیده)\n\n⚡️ عملکرد سرورها روی هر اپراتور متفاوت است در صورت قطعی از سرورهای دیگر کانال استفاده کنید.\n\n✅ ری اکشن فراموش نشه :)\n🆔 @V2rayconfigamir",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 3,
+      "length": 26
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 40,
+      "length": 147
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 189,
+      "length": 141
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 332,
+      "length": 142
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 476,
+      "length": 272
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 750,
+      "length": 304
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1056,
+      "length": 195
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1253,
+      "length": 288
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1543,
+      "length": 288
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 1850,
+      "length": 32
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 2081,
+      "length": 16
+    }
+  ],
+  "views": 233,
+  "forwards": 1,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 7854,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 2428075715,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-19T04:00:40+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🥰"
+        },
+        "count": 4,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": "pl"
+}

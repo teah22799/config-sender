@@ -1,0 +1,164 @@
+{
+  "_": "Message",
+  "id": 1103,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2073938983
+  },
+  "date": "2026-04-28T07:34:56+00:00",
+  "message": "طبق گزارش نت‌بلاکس،\nدقیقا دوماه (بیشتر از ۱۴۰۰ ساعت) از قطعی اینترنت سراسری میگذره.",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 6017169970074160225,
+      "access_hash": 5030497866281744515,
+      "file_reference": "b\"\\x02{\\x9d\\xcc'\\x00\\x00\\x04Oi\\xf0\\xdf\\xd7\\x16\\xe0\\xa5\\x1a\\xbbu\\xe7\\xff\\xda\\xee\\xe6cqy_\\xe0\"",
+      "date": "2026-04-28T07:34:56+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01\\x17(\\xcb\\x0b\\x9e\\xfd\\xb3F~\\x9f\\x959y\\xce=)6\\x1fo\\xce\\x80\\x10\\x13\\xe8?*3\\xf4\\xfc\\xa8\\xa2\\x80\\x12\\x8a(\\xa0\\x05\\xe8:\\xd2\\xe4\\xfa\\xd1E\\x00&}\\xe8\\xcf\\xbd\\x14P\\x02\\xf6\\xebE\\x14P\\x07'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 180,
+          "size": 9942
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 800,
+          "h": 450,
+          "size": 35883
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 1280,
+          "h": 720,
+          "sizes": [
+            7034,
+            17295,
+            32050,
+            44619,
+            57147
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 4,
+      "length": 14,
+      "url": "https://t.me/netblocks/1470"
+    }
+  ],
+  "views": 2418,
+  "forwards": 9,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 7,
+    "replies_pts": 53044,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 7707573191
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 1640185075
+      }
+    ],
+    "channel_id": 3015263639,
+    "max_id": 39213,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T07:35:48+00:00",
+  "post_author": "Hamed",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 15,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🔥"
+        },
+        "count": 5,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😁"
+        },
+        "count": 2,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

@@ -1,0 +1,113 @@
+{
+  "_": "Message",
+  "id": 2040,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1964007005
+  },
+  "date": "2026-04-25T11:40:59+00:00",
+  "message": "سایفون پروکسی جدید\nبه ارور پروکسی توجه نکنید در همون حالت بمونید تا وصل شه \nایرانسل تست شده\n\nHost: 2.144.20.159\nport: 10808\n\n@v2rayRoom",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 75
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 76,
+      "length": 15
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 93,
+      "length": 30,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 93,
+      "length": 5
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 99,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 112,
+      "length": 5
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 118,
+      "length": 5
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 125,
+      "length": 10
+    }
+  ],
+  "views": 1010,
+  "forwards": 21,
+  "replies": null,
+  "edit_date": "2026-04-25T11:57:21+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 2,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

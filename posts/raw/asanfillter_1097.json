@@ -1,0 +1,111 @@
+{
+  "_": "Message",
+  "id": 1097,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2073938983
+  },
+  "date": "2026-04-26T18:05:44+00:00",
+  "message": "",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": {
+    "_": "MessageReplyHeader",
+    "reply_to_scheduled": false,
+    "forum_topic": false,
+    "quote": false,
+    "reply_to_msg_id": 1094,
+    "reply_to_peer_id": null,
+    "reply_from": null,
+    "reply_media": null,
+    "reply_to_top_id": null,
+    "quote_text": null,
+    "quote_entities": [],
+    "quote_offset": null,
+    "todo_item_id": null,
+    "poll_option": null
+  },
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 6012395688722893986,
+      "access_hash": 7484934622796726951,
+      "file_reference": "b\"\\x02{\\x9d\\xcc'\\x00\\x00\\x04Ii\\xf0\\xdf\\xd7\\xe7g\\x16\\x8b\\xccI\\xd4\\x97\\x03n.\\x9d\\x88>\\x1a\\xf7\"",
+      "date": "2026-04-26T18:05:43+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01\\x0f(\\xca\\x1djA\\xb4\\x8ex\\xa6d`p3K\\xb9\\x7f\\xba)\\x88\\x18\\x00:\\xd3*M\\xeb\\xfd\\xd1F\\xe5\\xfe\\xe8\\xa0dtR\\xb1\\x04\\xf1E\\x00\\x7f'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 119,
+          "size": 5996
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "x",
+          "w": 491,
+          "h": 182,
+          "sizes": [
+            1037,
+            2378,
+            5020,
+            6914,
+            10665
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [],
+  "views": 3641,
+  "forwards": 7,
+  "replies": null,
+  "edit_date": "2026-04-26T18:05:47+00:00",
+  "post_author": "Hamed",
+  "grouped_id": 14217813953644388,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

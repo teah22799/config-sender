@@ -1,0 +1,86 @@
+{
+  "_": "Message",
+  "id": 2586,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1977501131
+  },
+  "date": "2026-04-26T18:18:54+00:00",
+  "message": "vless://f255d82b-9f4c-4f46-8a02-a90cdb4816d6@104.20.6.134:2087?encryption=none&type=ws&host=francecloudd.sonamii.com&path=/?ed%3D2440&security=tls&fp=chrome&sni=francecloudd.sonamii.com&alpn=h2,http/1.1#V2shop\n\nمتصل✅",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCode",
+      "offset": 0,
+      "length": 209
+    }
+  ],
+  "views": 254,
+  "forwards": 7,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 17933,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 1950473683,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-26T18:20:37+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

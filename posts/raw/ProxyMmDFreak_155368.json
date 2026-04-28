@@ -1,0 +1,98 @@
+{
+  "_": "Message",
+  "id": 155368,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3111946920
+  },
+  "date": "2026-04-28T07:26:58+00:00",
+  "message": "VayDns+Socks\nslipnet-enc://AXQ46zK2bdtSpL6X27WK0TbqY/zgubHcr2uxvuZ4QMNkkYdTFoIcfGEPlQ7/Bylzt0LrWgJYpg9B/DAJXuSvhT0LZy/GIBbn2QB4jY55VSJvNtnDVBtnfWtbaY3FNCgMKbCFobjoa6IGpaJYn34kRRwEKjA0SNCMT1WRHWUprEu8VjC9seoDxNBTQRXKX4KAQC22x62WshxFjJmG8cqq2zLB1pl/8AjUXYY/AKOfs5YT7j8pE6zU+3CfShPnL/zjftrwJ12+Fz+I6SnkI1XL/PZwfRCXWprpK9dhH6Ws9TLcqY6r8eFFAc40Wv41Y3dEGQJOsXi84aiOeENM2BeX6nT/OiSzCyNS2/qpo9Aag0DkPU10oT5t5oSLh/59hPLhv3U/PwJ+T3q7GRFtcgQOkRfM/Dnh3f8o3Edi+HlpfPJF2kMV+lvu7SRZl7veLsNhvc9mzLzbynR3zVd7Ei3+v1/tNC5KruVDa3Dr1pM7+KI21ttaznOMI3xir/dBVyQE+DMximjx0zaGmuMc4hP4FeQZkf5N+UXQZ12RaVM8tdjgwWA5R4+JYBt7W5G/N7LcdS2/rN+KmqwVsi1/HwbuRuQTOFHyW1xQKWg8Nzt4D6iJsh545As2QNAnSNMM8zgsvDVgGo3lfOZy45px9lPQ24VIoLXEIxf9ZAzZgaow\nVayDns+SSH\nslipnet-enc://AWhfqKT4QxSn4bUBY1gUVR92EgtfAe3Qw89g7n64L5WSslbI8kzZVHavxwl3crFlrvLe8iHgf07Vn3xtStM3IwX+QAXs3zNmpbMsmr2iMvTddQEHwLuPo1FOjiK/A1xHe1OGv1re9w/dY+JzvFZ95hDaNCUOHSaQ/9bjYThCfqa6QUag2pYqugHC8T36eeIYntwEMXOKEEMhYqnrhVUtoNanbSKv7Qa3lI0rN/zlKZgARgc3wKplvz2zm8moLv2FJLXnP9xIR1oeyzB+Y/RsTHIU73hBjhEKoK59pJxEQVd39M4IYBwTKP1wdFIgr4qNpZRhwvhL2RSAczn9FSbEVt2vwXjszpOvATYJoQbnoaT4i7maptDNhe9joObez0nkABH2Q1WTQS10cqnXC4mQLJD+h4qSV0XpvuNkBWudVStWvXVIxGwhnN2u4A5r21reHm94xDtsmVJJ86ItWHxbT+8Ck4GKHuqaOUaHzvnjkhb+kxUm0U/lcrPZ0a00zew1yx1XvN58U4kFMd2itloueTrEWXGVlVAtxSkXp6cEiL+czbsKqFa4T079E1iNnD2imZtT6YwiyixEasD++apcQb430lxieVAJMRBxjMdCHcqXVdmXLg8t4H8Y9EoRNrn5ccir6MyAbyHWS8UiToFhdONgcbQZovRVkBcC9QuXfkVswjAfipaejoENrvja4kDq6EtyYZ2t2DE1DsrsXCgqETYu3Zpi97+/ItepckGHHcDOE/+pjKepZRcJely4cYgEw0VVq/AFP6bfVR8FaF4FIwYA4vLNVdQiVL+t/IAla5C6ftyj/6nvwGBno8U=\nFreedom_Soldiers1",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": false,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": {
+    "_": "PeerUser",
+    "user_id": 1263383646
+  },
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 13,
+      "length": 694,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 13,
+      "length": 694
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 708,
+      "length": 10
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 719,
+      "length": 842,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 719,
+      "length": 842
+    }
+  ],
+  "views": null,
+  "forwards": null,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 326560,
+    "comments": false,
+    "recent_repliers": [],
+    "channel_id": null,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

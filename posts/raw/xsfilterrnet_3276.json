@@ -1,0 +1,119 @@
+{
+  "_": "Message",
+  "id": 3276,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3209702364
+  },
+  "date": "2026-04-21T21:01:34+00:00",
+  "message": "🤝MahsaNg 15\nلینک دانلود داخلی:⚡️\n\nhttps://ferchetoilet.ir/download/download.php?id=16-file_69e7cef2b7171bdc9d8bc9b66   تا ۱۱ اردیبهشت\n\nhttps://storage.iran.liara.space/zarin/v1/2026-04-21/dec8a3e1d8717538d8c84fdc64f0f2d8.apk   تا ۸ اردیبهشت\n\nhttps://erfanzadeh.ir/files/MahsaNG_15_arm64-v8a.apk\n\n\n@xszapass 👑",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 0,
+      "length": 2,
+      "document_id": 5924886068909315572
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 31,
+      "length": 2,
+      "document_id": 5312016608254762256
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 35,
+      "length": 99,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 35,
+      "length": 82
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 136,
+      "length": 105,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 136,
+      "length": 89
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 243,
+      "length": 52,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 243,
+      "length": 52
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 298,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 308,
+      "length": 2,
+      "document_id": 5053169761232356354
+    }
+  ],
+  "views": 8656,
+  "forwards": 88,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 102786,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 2200550029,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-21T21:05:40+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

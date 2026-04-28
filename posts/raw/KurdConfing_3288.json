@@ -1,0 +1,138 @@
+{
+  "_": "Message",
+  "id": 3288,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1648657493
+  },
+  "date": "2026-04-21T21:45:44+00:00",
+  "message": "کانفیگ نپسترنت (NPV)\n\nبا روش پروکسی تست کنید.\n\nآموزش روش:\nhttps://t.me/KurdConfing/3254\n\n🌐 کورد کانفیگ\n🔗 @KurdConfing",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": true,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaDocument",
+    "nopremium": false,
+    "spoiler": false,
+    "video": false,
+    "round": false,
+    "voice": false,
+    "document": {
+      "_": "Document",
+      "id": 5999028598986513927,
+      "access_hash": 5496906949787244217,
+      "file_reference": "b'\\x02bD\\x84U\\x00\\x00\\x0c\\xd8i\\xf0\\xd8\\x9cR\\xe8\\x9eh\\xec$_Pg\\xd1a\\xc5\\x00\\x07\\x1a:'",
+      "date": "2026-04-21T21:45:44+00:00",
+      "mime_type": "application/octet-stream",
+      "size": 8360,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "npv+proxy.npvt"
+        }
+      ],
+      "thumbs": [],
+      "video_thumbs": []
+    },
+    "alt_documents": [],
+    "video_cover": null,
+    "video_timestamp": null,
+    "ttl_seconds": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityUrl",
+      "offset": 58,
+      "length": 29
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 107,
+      "length": 12
+    }
+  ],
+  "views": 10334,
+  "forwards": 186,
+  "replies": null,
+  "edit_date": "2026-04-21T21:46:00+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 16,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🔥"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👌"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

@@ -1,0 +1,164 @@
+{
+  "_": "Message",
+  "id": 2841,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2232706026
+  },
+  "date": "2026-04-24T12:01:01+00:00",
+  "message": "🚀 لیست جدید کانفیگ‌های V2Ray\nتعداد: 10\n\nvless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?security=none&encryption=none&type=ws&path=/vless/#%40v2rayconfigamir%206195\n\nvless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@45.15.170.237:80?type=ws&encryption=none&path=/vless/#%40v2rayconfigamir%201451\n\nvmess://eyJhZGQiOiI0NS4xNS4xNzAuMjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgyMGQ0YjRmLTMzNTctNGRjNy05MzgxLTZlNWZkNTJiNWYzOSIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6IkB2MnJheWNvbmZpZ2FtaXIgODMwOSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==\n\nvless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&security=reality&sid=a120&sni=cdn.cdnjst.org&type=tcp#%40v2rayconfigamir%206865\n\nvless://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&sid=a120&sni=cdn.cdnjst.org&spx=/#%40v2rayconfigamir%206249\n\nvless://73bb561e-97b7-494e-bf37-2342017a1cf7@channel2.vpnprosec.shop:2053?type=grpc&serviceName=&security=reality&pbk=Rm5hcNp_wfhX8Vha2ZdcDd_m3go_Q872vGo70YjVTyE&fp=firefox&sni=telewebion.com&sid=&spx=%2F#%40v2rayconfigamir%201116\n\nvless://90c9c25c-df6c-4438-83d3-ef97166a9184@89.19.208.200:443?security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%40v2rayconfigamir%207834\n\nvless://d428091c-e6eb-48f9-9a07-b44eb886ac90@94.241.138.98:443?security=reality&sni=ru3.csbeta60.com&fp=qq&pbk=2x7TX3xvkAEk96cNP-i9TAsfeTaNF5dcaOHvbjH-cSs&sid=89c9996b63633977&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%40v2rayconfigamir%202386\n\nvless://e060f013-53e5-4d88-bf5e-f93baa562ac5@138.124.180.46:443?security=reality&sni=www.google.com&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%40v2rayconfigamir%203699\n\nvless://95c3f5a4-2587-4fed-9f6e-2b34953aa8dc@fi1.fastvp.net:443?security=reality&sni=max.ru&pbk=LflsroMmsB4diuib7RmSdSj3-Zz3Wa6V-vwXD7Te3lg&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%40v2rayconfigamir%205905\n──────────────\n📢 فوروارد کنید به هموطنامون ❤️🤍💚\n\n⏱ بعد از کانکت شدن ۴۰ ثانیه در تلگرام منتظر بمونید تا کانکت شه (پینگ نمیده)\n\n⚡️ عملکرد سرورها روی هر اپراتور متفاوت است در صورت قطعی از سرورهای دیگر کانال استفاده کنید.\n\n✅ ری اکشن فراموش نشه :)\n🆔 @V2rayconfigamir",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 3,
+      "length": 26
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 41,
+      "length": 138
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 181,
+      "length": 124
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 307,
+      "length": 332
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 641,
+      "length": 238
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 881,
+      "length": 229
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1112,
+      "length": 230
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1344,
+      "length": 247
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1593,
+      "length": 268
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1863,
+      "length": 250
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 2115,
+      "length": 232
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 2366,
+      "length": 32
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 2597,
+      "length": 16
+    }
+  ],
+  "views": 177,
+  "forwards": 1,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 7854,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 2428075715,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-24T12:01:04+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🥰"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 2,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": "pl"
+}

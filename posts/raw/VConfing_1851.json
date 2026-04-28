@@ -1,0 +1,158 @@
+{
+  "_": "Message",
+  "id": 1851,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2631910832
+  },
+  "date": "2026-04-24T00:40:28+00:00",
+  "message": "https://t.me/EranEazy/13",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaWebPage",
+    "webpage": {
+      "_": "WebPage",
+      "id": 6532332408094772481,
+      "url": "https://t.me/EranEazy/13",
+      "display_url": "t.me/EranEazy/13",
+      "hash": 0,
+      "has_large_media": true,
+      "video_cover_photo": false,
+      "type": "photo",
+      "site_name": "Telegram",
+      "title": "𝐸𝐴𝑅𝑁 𝐸𝐴𝑍𝑌",
+      "description": "✅ #کسب_درآمد 🔥🔥\n\n✅ #همیان_گلد 🔥🔥\n\n  ✅ سامانه خرید و فروش طلای دیجیتال🔥✨ \n\n✅با ثبت نام و انجام یک خرید در همیان گلد 10 سوت طلا دریافت خواهید کرد ✨🔥\n\n✅ احراز ساده : کدملی،تاریخ تولد و شماره کارت ✨\n  \n✅ حداقل خرید مورد نیاز برای دریافت هدیه 11 سوت ✨\n\n✅ هدیه ثبت نام: 10 سوت (170 هزارتومان) 🔥✨\n\n✅ هدیه دعوت: 10 سوت (170 هزار تومان) 🔥✨\n\n✅ثبت کد معرف به صورت دستی الزامی است\n\n✅ لینک سایت : 👇👇\n\nhttps://pwa.hamyan.gold/login\n\n✅ لینک دانلود برنامه از بازار 👇👇\n\nhttp://cafebazaar.ir/app/?id=com.hamyan.app&ref=share\n\n\n✅ کد معرف: 0D415BOT\n\n\n✅ برای دریافت هدیه ثبت کد معرف الزامیه☝️☝️",
+      "photo": {
+        "_": "Photo",
+        "id": 6001076968134216802,
+        "access_hash": -7255280486543357953,
+        "file_reference": "b'\\x00i\\xf0\\xdee\\xfb\\xf0*\\xaa\\xab#V\\xa4N\\x18\\xaft\\x82\\t\\xb4\\x98'",
+        "date": "2026-04-22T14:53:17+00:00",
+        "sizes": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": "b'\\x01\\x1c(\\xcc\\xa5PX\\xe1A$\\xf6\\x14\\xb1\\x80\\xf2*\\x93\\x80H\\x15m \\x8eF\"\"a\\x9d\\x7f\\xe5\\x99?\\xc8\\xd1rR)`\\xe7\\x189\\xf4\\xa1\\x81S\\x86\\x04\\x1fCVA\\x9b\\xed{\\xbc\\xb3\\xe7c\\x18\\xc7|c?\\xd6\\x9d,\\x0b\\x1c\\x80H\\xc6Y\\x8f\\xf0\\x03\\xfc\\xcd\\x17\\x0b\\x15(\\xa5\\x90m\\x91\\x809\\x00\\xe2\\x8ab\\x1bS\\xa5\\xe4\\xa8\\x00\\xf9[\\x1d\\x0b($Uz(\\xb0\\\\\\x9b\\xedS\\xff\\x00\\xcfV\\xf5\\xebNk\\xb9YJ\\xfc\\xab\\x9e\\xa5T\\x02j\\xbd\\x14\\xb4\\x1e\\xa1E\\x14S\\x03'"
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 320,
+            "h": 222,
+            "size": 8047
+          },
+          {
+            "_": "PhotoSize",
+            "type": "x",
+            "w": 800,
+            "h": 555,
+            "size": 22836
+          },
+          {
+            "_": "PhotoSizeProgressive",
+            "type": "y",
+            "w": 1080,
+            "h": 749,
+            "sizes": [
+              6085,
+              10187,
+              14313,
+              20654,
+              29788
+            ]
+          }
+        ],
+        "dc_id": 4,
+        "has_stickers": false,
+        "video_sizes": []
+      },
+      "embed_url": null,
+      "embed_type": null,
+      "embed_width": null,
+      "embed_height": null,
+      "duration": null,
+      "author": null,
+      "document": null,
+      "cached_page": null,
+      "attributes": []
+    },
+    "force_large_media": false,
+    "force_small_media": false,
+    "manual": false,
+    "safe": true
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityUrl",
+      "offset": 0,
+      "length": 24
+    }
+  ],
+  "views": 1749,
+  "forwards": 1,
+  "replies": null,
+  "edit_date": "2026-04-24T00:41:11+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 4,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🍓"
+        },
+        "count": 3,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

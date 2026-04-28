@@ -1,0 +1,169 @@
+{
+  "_": "Message",
+  "id": 2844,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2232706026
+  },
+  "date": "2026-04-24T16:01:07+00:00",
+  "message": "🇰🇷 #پروکسی_پرسرعت_اختصاصی_چنل\nتعداد: 10\n\n🔗 https://t.me/proxy?server=bedebezanimcom.nokia.com.co.uk.do_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special.sadatnews.lflinkup.org&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7370656564746573742e6e657\n🔗 https://t.me/proxy?server=45.65.113.211&port=9443&secret=ee4416004416004400441604416000441664646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D160301020001000100000000000000000000000000000000\n🔗 https://t.me/proxy?server=bedebezanimcom.nokia.com.co.uk.do_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special.sadatnews.lflinkup.org&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7370656564746573742e6e657\n🔗 https://t.me/proxy?server=bedebezanimcom.nokia.com.co.uk.do_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special.sadatnews.lflinkup.org&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7370656564746573742e6e657\n🔗 https://t.me/proxy?server=45.65.113.211&port=9443&secret=ee4416004416004400441604416000441664646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D160301020001000100000000000000000000000000000000\n🔗 https://t.me/proxy?server=45.65.113.211&port=9443&secret=ee4416004416004400441604416000441664646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D160301020001000100000000000000000000000000000000\n🔗 https://t.me/proxy?server=full-vasl.minepiiiroksi.pics&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgIA\n🔗 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_likeeeee.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.spec_w.soft91--ir.mylftv.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAAgICAgICAgIA==\n🔗 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_likeeeee.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.spec_w.soft37--ir.mylftv.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAAgICAgICAgIA==\n🔗 https://t.me/proxy?server=senator.bullshet.immo.&port=443&secret=7tvikxn_uKfIq7OAYerm81Nicm93c2VyLnlhbmRleC5ydQ==\n──────────────\n📢 لطفا در چنل ما جوین بشین و به بقیه هم ارسال کنین\n🆔 @V2rayconfigamir",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 5,
+      "length": 26
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 5,
+      "length": 26
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 46,
+      "length": 363
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 413,
+      "length": 219
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 636,
+      "length": 363
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1003,
+      "length": 363
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1370,
+      "length": 219
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1593,
+      "length": 219
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1816,
+      "length": 101
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1921,
+      "length": 329
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2254,
+      "length": 329
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2587,
+      "length": 113
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 2719,
+      "length": 48
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 2771,
+      "length": 16
+    }
+  ],
+  "views": 163,
+  "forwards": 1,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 7854,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 2428075715,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-24T16:01:10+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 5,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🥰"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

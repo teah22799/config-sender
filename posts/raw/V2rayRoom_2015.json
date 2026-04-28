@@ -1,0 +1,298 @@
+{
+  "_": "Message",
+  "id": 2015,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1964007005
+  },
+  "date": "2026-04-21T10:38:47+00:00",
+  "message": "پروکسی های متصل \nتست کنید\n\ntg://proxy?server=185.122.202.179&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=185.122.202.180&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=185.122.202.181&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=185.122.202.182&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=185.122.202.183&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=185.122.202.184&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=185.122.202.185&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=185.122.202.186&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=185.122.202.187&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=185.122.202.188&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=109.162.128.210&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=109.162.128.211&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=109.162.128.212&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=109.162.128.213&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=109.162.128.214&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=109.162.128.215&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=109.162.128.216&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=109.162.128.217&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=109.162.128.218&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=109.162.128.219&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=46.209.91.227&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=46.209.91.228&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=46.209.91.229&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=46.209.91.230&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=46.209.91.231&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=46.209.91.232&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=46.209.91.233&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=46.209.91.234&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=46.209.91.235&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=46.209.91.236&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=185.143.232.29&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=185.143.232.30&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=185.143.232.31&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=185.143.232.32&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=185.143.232.33&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=185.143.232.34&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=185.143.232.35&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=185.143.232.36&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=185.143.232.37&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=185.143.232.38&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=89.37.66.101&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65\ntg://proxy?server=89.37.66.102&port=443&secret=ee68747470733a2f2f74656c656772616d2e6d65",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 0,
+      "length": 3812,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 25
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 27,
+      "length": 90
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 117,
+      "length": 1
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 118,
+      "length": 90
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 209,
+      "length": 90
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 300,
+      "length": 90
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 391,
+      "length": 90
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 482,
+      "length": 90
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 573,
+      "length": 90
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 664,
+      "length": 90
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 755,
+      "length": 90
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 846,
+      "length": 90
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 937,
+      "length": 90
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1028,
+      "length": 90
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1119,
+      "length": 90
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1210,
+      "length": 90
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1301,
+      "length": 90
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1392,
+      "length": 90
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1483,
+      "length": 90
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1574,
+      "length": 90
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1665,
+      "length": 90
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1756,
+      "length": 90
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1847,
+      "length": 88
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1936,
+      "length": 88
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2025,
+      "length": 88
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2114,
+      "length": 88
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2203,
+      "length": 88
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2292,
+      "length": 88
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2381,
+      "length": 88
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2470,
+      "length": 88
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2559,
+      "length": 88
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2648,
+      "length": 88
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2737,
+      "length": 89
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2827,
+      "length": 89
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 2917,
+      "length": 89
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3007,
+      "length": 89
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3097,
+      "length": 89
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3187,
+      "length": 89
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3277,
+      "length": 89
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3367,
+      "length": 89
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3457,
+      "length": 89
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3547,
+      "length": 89
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3637,
+      "length": 87
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 3725,
+      "length": 87
+    }
+  ],
+  "views": 1485,
+  "forwards": 3,
+  "replies": null,
+  "edit_date": "2026-04-22T18:35:04+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": "en"
+}

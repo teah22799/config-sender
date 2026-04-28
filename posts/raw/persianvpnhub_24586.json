@@ -1,0 +1,101 @@
+{
+  "_": "Message",
+  "id": 24586,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3744627358
+  },
+  "date": "2026-04-28T08:03:23+00:00",
+  "message": "📂 کانفیگ VLESS\n📍 لوکیشن: روسیه 🇷🇺\n📶 پینگ: 153ms\n\n#VLESS #VPN\n\n🕒 انتشار: 03:30 - 1405/02/08\n💡 منبع: @V2rayconfigAmir\n\nvless://951c7521-7158-4978-b82c-2736d4f21044@whitemeow.nethcloud.top:443?security=reality&sni=wikihow.com&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%40v2rayconfigamir%205415",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": {
+    "_": "ReplyInlineMarkup",
+    "rows": [
+      {
+        "_": "KeyboardButtonRow",
+        "buttons": [
+          {
+            "_": "KeyboardButtonUrl",
+            "text": "⛶ کد QR کانفیگ",
+            "url": "https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&chs=200x200&chl=vless%3A%2F%2F951c7521-7158-4978-b82c-2736d4f21044%40whitemeow.nethcloud.top%3A443%3Fsecurity%3Dreality%26sni%3Dwikihow.com%26fp%3Dchrome%26pbk%3D1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ%26sid%3D8bd29483ded126b4%26type%3Dtcp%26flow%3Dxtls-rprx-vision%26packetEncoding%3Dxudp%26encryption%3Dnone%23%2540v2rayconfigamir%25205415",
+            "style": null
+          }
+        ]
+      },
+      {
+        "_": "KeyboardButtonRow",
+        "buttons": [
+          {
+            "_": "KeyboardButtonUrl",
+            "text": "🔍 دریافت کانفیگ‌های بیشتر",
+            "url": "https://t.me/persianvpnhub",
+            "style": null
+          }
+        ]
+      }
+    ]
+  },
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 54,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 61,
+      "length": 4
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 106,
+      "length": 16
+    },
+    {
+      "_": "MessageEntityPre",
+      "offset": 124,
+      "length": 277,
+      "language": ""
+    }
+  ],
+  "views": 380,
+  "forwards": 2,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

@@ -1,0 +1,106 @@
+{
+  "_": "Message",
+  "id": 3259,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1648657493
+  },
+  "date": "2026-04-19T21:01:07+00:00",
+  "message": "کانفیگ SlipNet\nمتود Vaydns+SSh\n\nslipnet-enc://AcNwRcjUVfk6AImT3wE3crV34pMK6g6fNv5QF7KftnghQThDS/YX9OfrZ3pNF4OAz5eYpaL9GMSM2z8vFZSb7FAabbjKRHkw+omD9S4gYnPP343kC5XgoJGBHlPEwdDj3Xb6c2id/7pYRK/E9n/vzM5msARcMV9xRK2kLHEK8exsQZSRgItqc8mO4NsBxEl7CjUTkxg1e8cFX20y9kVsk/qN2nFBx6OCN1sWnp6QpOx0Zv6bv5GERVhPu3a1zWJeDo0Ga6nMKQU5b5/MgVUlwcqklvOZx06fIGPNpRuDhv5I3UvO8sx/943MJDlm1xJYmI28+Vrz2R2SmCsctkryxz/u27879W4JTujB/DBiCzGVVQA+pOx0BCGy75N3v7/pnMyjuNn7PG39w/+Nl0Bz0uAKrf0VJUQaMCfIVXak1RlneVjjbMCAb6c13wv4bqOKo2sSQVEX2/uUSSE782i6EkXcyrZYjaP2yX+2Yb+LD18SxwQN1KLaXC6I155us5VscGy+15r52JBmk44WD4E/FinPJPxdcNQm4Y8CJzGG0VCOUwZLJgiY4PrGXHLzTkcY7LJ/hwBZ4n9jXLfxX9gkRtRhn1MxF/6i3DIZtea4trsC1GP9alY7cRdLoLa5xTFQChl8AbWxRnNZyjbVJcHv002z567piCKH+OBMRqMZZNk8M9lZ4f93q4BI4m5pcw==\n\n🌐کورد کانفیگ\n🔗 @KurdConfing",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": true,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 32,
+      "length": 718,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 32,
+      "length": 718
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 769,
+      "length": 12
+    }
+  ],
+  "views": 10394,
+  "forwards": 62,
+  "replies": null,
+  "edit_date": "2026-04-19T21:01:10+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 7,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🔥"
+        },
+        "count": 2,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

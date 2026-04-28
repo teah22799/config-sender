@@ -1,0 +1,133 @@
+{
+  "_": "Message",
+  "id": 2882,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2086200619
+  },
+  "date": "2026-04-26T16:34:16+00:00",
+  "message": "پرزیدنت ترامپ: 🇺🇸\n\nجنگ ایران خیلی زود به پایان خواهد رسید و ما پیروز خواهیم شد. 🏁\n\nما برای فیلد مارشال پاکستان 🇵🇰 و نخست وزیر پاکستان احترام زیادی قائلیم. آنها افراد بزرگی هستند. 👏\n\nایران حدود ۳ روز فرصت دارد تا زیرساخت‌های نفتی اش منفجر شود. ⚠️🛢️\n\nپ‌ن: البته اگه باز عقب نندازه! که من حس میکنم این سری عقب نمیندازه. 🤔🚫🔙\nپ‌ن۲: منظور اسکلش این بود خودش پر میشه میترکه نه این که اون میزنه! 😂",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": {
+    "_": "MessageReplyHeader",
+    "reply_to_scheduled": false,
+    "forum_topic": false,
+    "quote": false,
+    "reply_to_msg_id": 2881,
+    "reply_to_peer_id": null,
+    "reply_from": null,
+    "reply_media": null,
+    "reply_to_top_id": null,
+    "quote_text": null,
+    "quote_entities": [],
+    "quote_offset": null,
+    "todo_item_id": null,
+    "poll_option": null
+  },
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 188,
+      "length": 66,
+      "collapsed": false
+    }
+  ],
+  "views": 1883,
+  "forwards": 10,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 7,
+    "replies_pts": 70301,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 276402280
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 7923357605
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 681587266
+      }
+    ],
+    "channel_id": 3045905167,
+    "max_id": 35912,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-26T19:03:23+00:00",
+  "post_author": "ʏᴇʙᴇᴋʜᴇ",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 17,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🤣"
+        },
+        "count": 6,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😡"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

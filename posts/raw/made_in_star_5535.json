@@ -1,0 +1,155 @@
+{
+  "_": "Message",
+  "id": 5535,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2547961935
+  },
+  "date": "2026-04-26T07:42:05+00:00",
+  "message": "یا سرویس SIP ما علاوه بر پینگ 20 تا 40 تو گیم شانس اکانتت هم چند برابر میشه با آیپی اتصالمون RGB اکانتتو بالا ببر😁❤️\n\nعلاوه بر گیمینگ نهایت سرعت و کیفیت در تمامی پلتفرم ها رو تجربه کنه \n\n\nکیفیت اصلی رو اینجا بچش❤️",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": true,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 6012646334424353732,
+      "access_hash": -433571818502398719,
+      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\x97\\xde\\xd0O\\x00\\x00\\x15\\x9fi\\xf0\\xdf&\\x07\\x8a\\x0c\\x88\\xc0\\xa5|H\\x9b.\\x888\\xb5\\xc0G\\x88'",
+      "date": "2026-04-26T07:42:05+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b\"\\x01\\x12(\\xc9\\x1c\\xd4\\x91\\xed\\xde7\\xf4\\xa6\\x01\\xc7=*X\\x93\\xcc\\x93\\x19\\xfci\\x00\\xff\\x00\\xb3\\x9f0t\\xd8{\\xd4rl-\\x84\\x1cU\\x97bf\\xd8\\x15\\xb8\\x1d@\\xaa\\xae<\\xb7#\\xbd!\\x89\\xd0QM'\\x8a)\\x88W\\xebH\\x84\\x86\\xc884Q@\\xc9\\x0c\\x92n\\xce\\xf6\\xce\\xdfZ\\x8d\\xc9,I94Q@\\r\\xa2\\x8a)\\x88\""
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 144,
+          "size": 10815
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 800,
+          "h": 360,
+          "size": 40141
+        },
+        {
+          "_": "PhotoSize",
+          "type": "y",
+          "w": 1280,
+          "h": 576,
+          "size": 77370
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "w",
+          "w": 2560,
+          "h": 1152,
+          "sizes": [
+            30835,
+            61406,
+            79403,
+            112341,
+            200234
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 0,
+      "length": 117,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 119,
+      "length": 67,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 189,
+      "length": 25
+    }
+  ],
+  "views": 1535,
+  "forwards": 0,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 15362,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 3893920141,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-26T07:42:57+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤‍🔥"
+        },
+        "count": 2,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

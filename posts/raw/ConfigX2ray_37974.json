@@ -1,0 +1,171 @@
+{
+  "_": "Message",
+  "id": 37974,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1821916077
+  },
+  "date": "2026-04-27T20:51:17+00:00",
+  "message": "vless://954968cf-1827-404e-9862-6c84fe234086@cd2.phoneshop98.ir:2053?encryption=none&type=ws&host=app.phonepanel.ir&path=/ws?ed%3D2560&security=tls&fp=chrome&sni=app.phonepanel.ir&alpn=h3,h2,http/1.1#3https://t.me/ConfigX2ray\n\nvless://954968cf-1827-404e-9862-6c84fe234086@xhttp.pcapps.ir:443?encryption=none&type=xhttp&mode=auto&host=tv1.global.ssl.fastly.net&path=/ed%3D3072&security=tls&sni=default.ssl.fastly.net#6https://t.me/ConfigX2ray\n\nvless://954968cf-1827-404e-9862-6c84fe234086@xhttp2.pcapps.ir:443?encryption=none&type=xhttp&mode=auto&host=tv1.global.ssl.fastly.net&path=/ed%3D3072&security=tls&sni=default.ssl.fastly.net#7https://t.me/ConfigX2ray\n\nvless://954968cf-1827-404e-9862-6c84fe234086@mv2.amydoodles.com:443?encryption=none&type=xhttp&mode=auto&host=tv1.global.ssl.fastly.net&path=/ed%3D3072&security=tls&sni=default.ssl.fastly.net#8https://t.me/ConfigX2ray\n\nvless://954968cf-1827-404e-9862-6c84fe234086@down.netrandom.com:4040?encryption=none&type=tcp&headerType=http&host=www.tgju.org&path=/&security=none#10https://t.me/ConfigX2ray\n\n\nترکیبی با سایفون وصله ✅\n\nآموزش استفادع : 👇\nhttps://t.me/ConfigX2ray0/1665\n\nChannel :  https://t.me/ConfigX2ray",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 0,
+      "length": 1054,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 0,
+      "length": 1054
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1054,
+      "length": 1
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1055,
+      "length": 1
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 1057,
+      "length": 22
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 1079,
+      "length": 1
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 1079,
+      "length": 1,
+      "document_id": 5866341893683549429
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 1080,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 1098,
+      "length": 2
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 1098,
+      "length": 2,
+      "document_id": 5800754418768942233
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1101,
+      "length": 30
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1144,
+      "length": 24
+    }
+  ],
+  "views": 32101,
+  "forwards": 293,
+  "replies": null,
+  "edit_date": "2026-04-28T15:17:19+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 27,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💅"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💋"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🔥"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

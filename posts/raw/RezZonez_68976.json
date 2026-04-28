@@ -1,0 +1,76 @@
+{
+  "_": "Message",
+  "id": 68976,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2097572960
+  },
+  "date": "2026-04-25T18:34:39+00:00",
+  "message": "اسلیپ نت تست شده روی همراه :\nslipnet-enc://Af1HiJMePQbDVqxQgx3H9CJhB+uhi6an3IBJMbwisYGl0BzthjRPVrAqsVPbLJ8f0P6EUeabJJHBToNH5G8U0WAFNgP7hjeO6EIlhBzLGqEUna1MleZI95zVF5v+qR5myBkPydVfW7bL4MeFm9XaG1yW6l425YgYO8Pi3rIM7eYmXKrgpaJe5go93gemohUgrI5nk7vBKMa10jlKPDhDt9+pHPPklPZbxPHh6q6sIfs/NEC3iD5hegm15Boslr9oHIxjwXCagCz7h9Mi+7GFULmw59rz7oI34aYJGjM1udJxoQFhsQRbramwtCczBRL7if9oUkc5hCo9A1tMziOLm53DbUzqFYG/7brXZDuCD2T0193iy7StcVbYsTdf2ku/jqvFS0oFfjx+h11z/AZbfoYi0H1dRVCyDHomHYMeV4Ixyk6xKTAl0keZhBuI4kPtPVpst/KTFxkX/I7Lq5KOnUCh5NcmsyftOT66J8sFPgvgrKcyH0DMVc6OIG3pL9GszzEdMyTaeuPibzBP10QqUdW9KDoebsMO/o44eVtHUpQjk3Oy1z/9484ThVDni8IA2e/WQlzBDOH9TaKc9pfCAVyqz2MxnKNgwO9cYaNOZhBwFA0NhoHUFHmdXOYUw3fOHeFUIjBsxNtUeG8+9tzO44LisIXEsvKQNqJCLhSYAUZS9QMLx5SJDmx/M3DrNB8bjLc9I9xvDHI+/xcbO5ezPdlNBf28B7piI9s8ekI+bRy+yBTfD3lvygPFyQyDbjRy/UGmItNNArI/stmEnI9yb4wXmhV54YJqcNIYX6NFGQ==\n@RezZonez✉️",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 29,
+      "length": 826,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityBotCommand",
+      "offset": 759,
+      "length": 27
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 856,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 865,
+      "length": 2,
+      "document_id": 5985592201822869703
+    }
+  ],
+  "views": 9667,
+  "forwards": 39,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

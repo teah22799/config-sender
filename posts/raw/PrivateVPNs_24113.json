@@ -1,0 +1,70 @@
+{
+  "_": "Message",
+  "id": 24113,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1789702327
+  },
+  "date": "2026-04-21T06:33:02+00:00",
+  "message": "TROJAN 🇩🇪 (S101) TCP\ntrojan://telegram-id-privatevpns@18.194.103.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs\n📚آموزش استفاده از سرورها\n🌐 @PrivateVPNs",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCode",
+      "offset": 23,
+      "length": 159
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 182,
+      "length": 25,
+      "url": "https://t.me/PrivateVPNs/18"
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 211,
+      "length": 12
+    }
+  ],
+  "views": 5058,
+  "forwards": 21,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

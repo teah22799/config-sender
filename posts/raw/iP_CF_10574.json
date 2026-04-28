@@ -1,0 +1,146 @@
+{
+  "_": "Message",
+  "id": 10574,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1451312282
+  },
+  "date": "2026-04-28T13:50:07+00:00",
+  "message": "سایت TradingView \nدر لیست سفید قرار گرفت \nروی اکثر اپراتور ها باز شده\n\ntradingview.com\n\n🤍  More : @IP_CF_Configs\n🤍  Group : @IP_CF_Configs_Gap",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 6014615967771593886,
+      "access_hash": 5950467204311799547,
+      "file_reference": "b\"\\x02V\\x81D\\x9a\\x00\\x00)Ni\\xf0\\xd6'\\xe6:\\xe3A\\x8en\\x92\\r\\xbd\\xcf\\x9e\\xaf\\x19\\xb3\\xfer\"",
+      "date": "2026-04-27T18:32:51+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01\\x15(\\xcaXdu\\xdc\\x88Xt\\xe3\\x9a_\\xb3\\xcd\\xb4\\x1f)\\xf0}\\xa9b\\x97b\\x8f\\xde8\\xc1\\xce\\x00\\x06\\x9f\\xf6\\x8e@2\\xc8Ts\\xc8\\x1f\\xca\\x80#\\xfb<\\xc0\\xe0\\xc6\\xd9\\xf4\\xc5\\x1eI\\xdd\\x82@>\\xfd\\xaaO=\\xb2Yf\\x93s\\x1eF1\\xdf\\xebLb\\xcf .\\xe4\\x93\\xd4\\xe6\\x9a\\x01\\x0c\\x04F[r\\xf1\\xd4QC\\xf0\\xa4g\\x92y\\xc5\\x140!\\xa2\\x8a)\\x00\\xe5\\x14\\xea(\\xa0\\x00\\xf2\\xa7\\xda\\x8a(\\xa6\\x07'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 168,
+          "size": 9457
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 800,
+          "h": 420,
+          "size": 32712
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 1200,
+          "h": 630,
+          "sizes": [
+            7687,
+            14459,
+            23034,
+            31733,
+            43156
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityUrl",
+      "offset": 71,
+      "length": 15
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 99,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 126,
+      "length": 18
+    }
+  ],
+  "views": 1047,
+  "forwards": 13,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 512334,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 1916600896,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T13:58:36+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 7,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

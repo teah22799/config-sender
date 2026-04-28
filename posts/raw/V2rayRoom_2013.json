@@ -1,0 +1,338 @@
+{
+  "_": "Message",
+  "id": 2013,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1964007005
+  },
+  "date": "2026-04-20T21:48:45+00:00",
+  "message": "DNS سالم\n\n185.137.25.210\n85.185.1.10\n178.252.129.108\n2.144.6.75\n31.7.78.205\n185.121.129.66\n80.75.14.102\n193.186.32.141\n87.107.9.173\n185.224.179.176\n2.189.101.0\n185.14.161.36\n87.107.9.170\n185.208.183.29\n78.111.11.11\n46.100.132.34\n217.218.249.240\n81.16.124.73\n109.230.223.75\n10.104.33.246\n217.219.66.8\n93.118.123.9\n82.99.247.45\n2.186.117.93\n10.104.209.247\n185.117.139.84\n2.186.118.255\n10.104.209.71\n5.202.37.55\n78.38.26.132\n93.118.148.214\n93.118.125.5\n82.99.230.170\n5.190.8.113\n80.191.60.36\n93.118.128.38\n2.180.31.174\n5.22.203.102\n78.38.0.82\n10.104.204.183\n188.75.65.221\n185.42.225.197\n91.92.187.10\n37.255.206.180\n2.187.33.174\n80.210.58.59\n78.39.80.9\n81.16.121.93\n5.160.1.42\n\n\n@v2rayRoom",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 3
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 4,
+      "length": 4
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 10,
+      "length": 662,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 10,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 25,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 37,
+      "length": 15
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 53,
+      "length": 10
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 64,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 76,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 91,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 104,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 119,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 132,
+      "length": 15
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 148,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 160,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 174,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 187,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 202,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 215,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 229,
+      "length": 15
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 245,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 258,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 273,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 287,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 300,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 313,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 326,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 339,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 354,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 369,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 383,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 397,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 409,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 422,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 437,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 450,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 464,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 476,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 489,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 503,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 516,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 529,
+      "length": 10
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 540,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 555,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 569,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 584,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 597,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 612,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 625,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 638,
+      "length": 10
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 649,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 662,
+      "length": 10
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 675,
+      "length": 10
+    }
+  ],
+  "views": 1859,
+  "forwards": 42,
+  "replies": null,
+  "edit_date": "2026-04-20T21:53:12+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 5,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

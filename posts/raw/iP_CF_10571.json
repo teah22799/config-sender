@@ -1,0 +1,147 @@
+{
+  "_": "Message",
+  "id": 10571,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1451312282
+  },
+  "date": "2026-04-28T10:50:10+00:00",
+  "message": "نسخه ویندوز\nMasterHttpRelayRust v1.8.0\n\n\n🌐 لینک گیت‌هاب :\nhttps://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.8.0/mhrv-rs-windows-amd64.zip\n📥 لینک دانلود با نت داخلی\nhttps://abhm.ir/u7FGMY\n\n\n🤍  More : @IP_CF_Configs\n🤍  Group : @IP_CF_Configs_Gap",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaDocument",
+    "nopremium": false,
+    "spoiler": false,
+    "video": false,
+    "round": false,
+    "voice": false,
+    "document": {
+      "_": "Document",
+      "id": 5442612974449628444,
+      "access_hash": -1228858076227179490,
+      "file_reference": "b\"\\x02V\\x81D\\x9a\\x00\\x00)Ki\\xf0\\xd6'yb\\xba\\xf5\\xec|\\n\\xe7q\\x9a\\x83\\xe5\\xb2|'\\xba\"",
+      "date": "2026-04-28T03:51:17+00:00",
+      "mime_type": "application/zip",
+      "size": 7218981,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "mhrv-rs-windows-amd64.zip"
+        }
+      ],
+      "thumbs": [],
+      "video_thumbs": []
+    },
+    "alt_documents": [],
+    "video_cover": null,
+    "video_timestamp": null,
+    "ttl_seconds": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 38
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 41,
+      "length": 17,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 59,
+      "length": 106
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 166,
+      "length": 26,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 193,
+      "length": 22
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 229,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 256,
+      "length": 18
+    }
+  ],
+  "views": 1599,
+  "forwards": 35,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 512334,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 1916600896,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T10:53:52+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤‍🔥"
+        },
+        "count": 5,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

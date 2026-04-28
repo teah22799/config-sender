@@ -1,0 +1,146 @@
+{
+  "_": "Message",
+  "id": 20664,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1891582980
+  },
+  "date": "2026-04-26T17:15:47+00:00",
+  "message": "vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?mode=packet-up&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=grand-short-auto-shahriar.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=vercel.com#@ghalagyann\n\nvless://ce63db4c-b3c4-4da8-90bf-b9cbb76861a0@vercel.com:443?type=xhttp&security=tls&sni=vercel.com&alpn=h2&fp=chrome&host=grand-short-auto-shahriar.vercel.app&path=/&mode=packet-up#@ghalagyann\nترکیبی با سایفون وصله ✅\n\nکانال ما در پیام رسان های داخلی 👇\n\nhttps://rubika.ir/V2rayng751👈 روبیکا\n\nhttps://splus.ir/ghalagyann  👈سروش\n\nChannel 🤍 @ghalagyann\n\n🛡️هرسوالی در مورد اشتراک ها یا قصد خرید اشتراک اختصاصی داشتین  پشتیبانی آنلاینم پیام بدین 👇\nPV⚡️@V2rayng751\nPV⚡️@V2rayng751",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 0,
+      "length": 431,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 0,
+      "length": 431
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 457,
+      "length": 31
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 493,
+      "length": 30
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 524,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 532,
+      "length": 27
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 563,
+      "length": 4
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 580,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 593,
+      "length": 93
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 691,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 707,
+      "length": 11
+    }
+  ],
+  "views": 1307,
+  "forwards": 6,
+  "replies": null,
+  "edit_date": "2026-04-26T17:15:50+00:00",
+  "post_author": "ramin",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤‍🔥"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🙏"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

@@ -1,0 +1,81 @@
+{
+  "_": "Message",
+  "id": 69162,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2097572960
+  },
+  "date": "2026-04-28T12:18:45+00:00",
+  "message": "پروکسی متصل :\nhttps://t.me/socks?server=178.131.19.17&port=10808\n\nhttps://t.me/socks?server=2.144.22.216&port=10808\n@RezZonez✉️",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 14,
+      "length": 101,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 14,
+      "length": 50
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 66,
+      "length": 49
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 116,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 125,
+      "length": 2,
+      "document_id": 5985592201822869703
+    }
+  ],
+  "views": 3997,
+  "forwards": 28,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

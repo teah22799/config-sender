@@ -1,0 +1,119 @@
+{
+  "_": "Message",
+  "id": 3223,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2719826088
+  },
+  "date": "2026-04-28T13:24:26+00:00",
+  "message": "vless://760e8ce4-bd90-450f-9a77-be6d7c5fbe6d@185.143.233.43:2052?encryption=none&type=ws&path=%2F&host=motabarim2.service-panelbaz.ir#@electvpn0",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 0,
+      "length": 144,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 0,
+      "length": 144
+    }
+  ],
+  "views": 310,
+  "forwards": 1,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 2,
+    "replies_pts": 3251,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerChannel",
+        "channel_id": 3842002892
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 7233227548
+      }
+    ],
+    "channel_id": 3842002892,
+    "max_id": 1340,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T13:29:57+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👌"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

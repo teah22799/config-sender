@@ -1,0 +1,41 @@
+<html><head><style>
+body { background:#f2f3f5; font-family:sans-serif; margin:0; padding:0;}
+.navbar { background:#fff; border-bottom:1px solid #ddd; padding:10px; display:flex; gap:12px; overflow-x:auto;}
+.nav_item { display:flex; align-items:center; gap:6px; padding:8px 12px; background:#f8f9fa; border-radius:18px; text-decoration:none; border:1px solid #e2e2e2;}
+.nav_item img { width:28px;height:28px;border-radius:50%; }
+.card { background:#fff; margin:15px auto; width:92%; max-width:600px; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08);}
+.card img { width:100%; border-radius:12px 12px 0 0; }
+.card_text { padding:15px; white-space:pre-wrap; }
+.download_btn { padding:8px 14px; background:#0099ff; color:#fff; text-decoration:none; border-radius:6px; margin:8px; display:inline-block;}
+.source_link { margin:10px; display:block;}
+.section_title { font-size:22px; font-weight:bold; padding:20px;}
+</style>
+</head><body><div class="section_title">Post from @V2rayRoom</div><div class="card"><div class="card_text">مراحل تبدیل NPV TUNNEL به پروکسی
+
+وارد برنامه بشید 
+پایین صفحه More (سه نقطه) و  Settings
+
+۱ـ  گزینه:
+Local Proxy Port → 10808
+
+۲ـ دوباره برید More → Per-app proxy
+گزینه Enable Per App Proxy روشن
+ـ Mode: Disallow
+و تیک Show System  Apps روشن کنید  تا دسترسی کل گوشی رو خاموش کنید
+وارد Disallowed Apps بشید و همه برنامه‌ها رو تیک بزنید (حتی تلگرام) 
+
+ ۳ـ VPN رو روشن کنید
+و به پروکسی زیر متصل بشید
+
+https://t.me/socks?server=127.0.0.1&port=10808
+
+
+
+نکته: این روش تو هر فیلترشکنی قابل اجرا هستش(اگر آپشن per app داشته باشه)، فقط باید برای فیلترشکن پورت لوکال بسازید(قطعا داخل تنظیمات همون برنامه) و دسترسی همه برنامه ها رو ببندید حتی تلگرام.
+
+
+نکته برای آیفون: آپشن per app توی NPV TUNNEL نسخه آیفون نیستش، از هر برنامه دیگه ای که استفاده میکنید تنظیماتش چک کنید این روش اجرا کنید.
+
+این کار باعث میشه وقتی فیلترشکن روشن می‌کنید، ترافیک توی گوشی پخش نشه. و تلگرام فقط از طریق پروکسی متصل بشه؛ پخش نشدن ترافیک کمتر و پایداری بهتر
+
+@v2rayRoom</div></div></body></html>

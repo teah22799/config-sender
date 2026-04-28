@@ -1,0 +1,176 @@
+{
+  "_": "Message",
+  "id": 2870,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2086200619
+  },
+  "date": "2026-04-24T09:19:40+00:00",
+  "message": "نسخه جدید thefeed\nV 0.11.2.rc1\n\n✅ thefeed-android-arm64.apk\n\n📊 Size: 7.7 MB\n🔐SHA256:\n0d361c9917b482b7bd59185be89bfac2261445c52a8144e5ff063993e290dc23\nDeveloped by https://t.me/CluvexStudio\n\nلینک دانلود داخلی\n\nhttps://ferchetoilet.ir/download/download.php?id=52-file_69eb253e7996164244e8dd08b\n\nhttps://punkpaste.ir/f/thefeed-android-arm6-cimm7j\n\nبا برنامه TheFeed میتونید آخرین پیام های یک سری کانال تلگرام و تویتر رو با چند کوئری DNS بگیرید 📡📱\n\nمیتونید خودتون سرور راه اندازی کنید تا کانال هارو خودتون مشخص کنید، تغیر کانال ها از دور رو فعال کنید، و حتی با لاگین به تلگرام قابلیت ارسال پیام رو فعال کنید 🔐✨\n\nاینم کانفیگاش\n@thefeedconfig",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaDocument",
+    "nopremium": false,
+    "spoiler": false,
+    "video": false,
+    "round": false,
+    "voice": false,
+    "document": {
+      "_": "Document",
+      "id": 6006087313312979331,
+      "access_hash": -2846049432776533765,
+      "file_reference": "b'\\x02|X\\xe5+\\x00\\x00\\x0b6i\\xf0\\xd2?\\x98\\x9d\\xc7k\\xbd\\x89\\xf2\\xd6Lx\\xf9J\\x1evD\\x1c'",
+      "date": "2026-04-24T08:30:38+00:00",
+      "mime_type": "application/octet-stream",
+      "size": 8090761,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "thefeed-android-arm64.apk"
+        }
+      ],
+      "thumbs": [],
+      "video_thumbs": []
+    },
+    "alt_documents": [],
+    "video_cover": null,
+    "video_timestamp": null,
+    "ttl_seconds": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 0,
+      "length": 30,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 30
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 87,
+      "length": 64
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 165,
+      "length": 25
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 211,
+      "length": 82,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 211,
+      "length": 82
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 295,
+      "length": 50,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 295,
+      "length": 50
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 627,
+      "length": 14
+    }
+  ],
+  "views": 2204,
+  "forwards": 68,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 70301,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 3045905167,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-24T09:22:26+00:00",
+  "post_author": "ÐΛɌ₭ᑎΞ𐒡𐒡",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤‍🔥"
+        },
+        "count": 16,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 4,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🙏"
+        },
+        "count": 4,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

@@ -1,0 +1,101 @@
+{
+  "_": "Message",
+  "id": 24574,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3744627358
+  },
+  "date": "2026-04-27T22:39:51+00:00",
+  "message": "📂 کانفیگ VMess\n📍 لوکیشن: کلودفلر ☁️\n📶 پینگ: 115ms\n\n#VMess #VPN\n\n🕒 انتشار: 02:00 - 1405/02/08\n💡 منبع: @chat_nakone\n\nvmess://eyJhdXRob3JpdHkiOiIiLCJ2IjoiMiIsImhlYWRlclR5cGUiOiIiLCJzZXJ2aWNlTmFtZSI6Im5vbmUiLCJleHRyYSI6IiIsIm1vZGUiOiIiLCJob3N0IjoicnhzLmJyYXZvLXNpeC5pciIsInNlZWQiOiIiLCJkZXZpY2VJRCI6IiIsImZwIjoiIiwidGxzIjoibm9uZSIsInBzIjoiQHYycmF5X2NvbmZpaWlnIiwiZnJhZ21lbnQiOiIiLCJ0eXBlIjoibm9uZSIsImlkIjoiZGQ4NDIxNDctOTFhOC00ZTE4LWEzYmMtNWNhNTg3ZjA1NDM4IiwiYWRkIjoic25hcHAuaXIiLCJzbmkiOiIiLCJhbHBuIjoiIiwicG9ydCI6IjgwODAiLCJwYXRoIjoiXC8iLCJuZXQiOiJ3cyIsImFpZCI6IjAifQ==",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": {
+    "_": "ReplyInlineMarkup",
+    "rows": [
+      {
+        "_": "KeyboardButtonRow",
+        "buttons": [
+          {
+            "_": "KeyboardButtonUrl",
+            "text": "⛶ کد QR کانفیگ",
+            "url": "https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&chs=200x200&chl=vmess%3A%2F%2FeyJhdXRob3JpdHkiOiIiLCJ2IjoiMiIsImhlYWRlclR5cGUiOiIiLCJzZXJ2aWNlTmFtZSI6Im5vbmUiLCJleHRyYSI6IiIsIm1vZGUiOiIiLCJob3N0IjoicnhzLmJyYXZvLXNpeC5pciIsInNlZWQiOiIiLCJkZXZpY2VJRCI6IiIsImZwIjoiIiwidGxzIjoibm9uZSIsInBzIjoiQHYycmF5X2NvbmZpaWlnIiwiZnJhZ21lbnQiOiIiLCJ0eXBlIjoibm9uZSIsImlkIjoiZGQ4NDIxNDctOTFhOC00ZTE4LWEzYmMtNWNhNTg3ZjA1NDM4IiwiYWRkIjoic25hcHAuaXIiLCJzbmkiOiIiLCJhbHBuIjoiIiwicG9ydCI6IjgwODAiLCJwYXRoIjoiXC8iLCJuZXQiOiJ3cyIsImFpZCI6IjAifQ%3D%3D",
+            "style": null
+          }
+        ]
+      },
+      {
+        "_": "KeyboardButtonRow",
+        "buttons": [
+          {
+            "_": "KeyboardButtonUrl",
+            "text": "🔍 دریافت کانفیگ‌های بیشتر",
+            "url": "https://t.me/persianvpnhub",
+            "style": null
+          }
+        ]
+      }
+    ]
+  },
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 54,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 61,
+      "length": 4
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 106,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityPre",
+      "offset": 120,
+      "length": 452,
+      "language": ""
+    }
+  ],
+  "views": 1610,
+  "forwards": 4,
+  "replies": null,
+  "edit_date": null,
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

@@ -1,0 +1,132 @@
+{
+  "_": "Message",
+  "id": 3189,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2719826088
+  },
+  "date": "2026-04-27T17:14:08+00:00",
+  "message": "https://t.me/socks?server=62.60.206.234&port=10808\n\n\n#ارسالی\n\n🛜🛜 برای مخابرات و شاتل وصله\n\n\n🆔 @electvpn0",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityUrl",
+      "offset": 0,
+      "length": 50
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 53,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 62,
+      "length": 2,
+      "document_id": 5764997497474782928
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 64,
+      "length": 2,
+      "document_id": 5765101753510926684
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 94,
+      "length": 2,
+      "document_id": 5334890573281114250
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 97,
+      "length": 10
+    }
+  ],
+  "views": 774,
+  "forwards": 11,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 3251,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 3842002892,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-27T17:14:40+00:00",
+  "post_author": "ᴀʀᴄᴏ",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👌"
+        },
+        "count": 3,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

@@ -1,0 +1,164 @@
+{
+  "_": "Message",
+  "id": 2863,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2232706026
+  },
+  "date": "2026-04-26T12:01:01+00:00",
+  "message": "🚀 لیست جدید کانفیگ‌های V2Ray\nتعداد: 10\n\nvless://5b77fb18-cece-4759-9a81-571f1be53e0c@gbr1.frostbot.ru:6443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=x-VSf_bBIC1iELDvaoM4SKMTK2YAAnUlVkhAWBbvpSc&sid=b9605803fb4b&sni=gbr1.frostbot.ru&path=&host=#%40v2rayconfigamir%204073\n\nvmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA3NTQ2IiwiYWRkIjoiZnNkbnMxLmVjdHVubmVsdnBuLm1lIiwicG9ydCI6IjgwIiwiaWQiOiI2YjJkODZlNS1kZjA1LTQ1MTEtYTc5Zi04MmQ1M2NlOTliMzYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZnNkbnMxLmVjdHVubmVsdnBuLm1lIiwicGF0aCI6Ii92bWVzcyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCJ9\n\nvless://6202b230-417c-4d8e-b624-0f71afa9c75d@134.209.23.227:2096?encryption=none&security=tls&sni=sni.111000.v6.rocks&insecure=1&allowInsecure=1&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%40v2rayconfigamir%209483\n\nvless://6202b230-417c-4d8e-b624-0f71afa9c75d@134.209.28.89:2083?encryption=none&security=tls&sni=sni.111000.v6.rocks&insecure=1&allowInsecure=1&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%40v2rayconfigamir%205764\n\nvless://00000000-0000-4000-8000-000000000000@128.121.7.59:43072?type=ws&encryption=none&host=kt58ndxywnrrgg.majusti.dpdns.org&path=%2F%40Marisa_kristi&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=&fp=chrome&insecure=1&sni=kt58ndxywnrrgg.majusti.dpdns.org#%40v2rayconfigamir%201001\n\nvmess://eyJhZGQiOiJhcnZhbmNsb3VkLmNvbSIsImFpZCI6IjAiLCJob3N0IjoibWFoc2Fwcm94eS5jb20iLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ncmFwaHFsIiwicG9ydCI6IjgwIiwicHMiOiJAdjJyYXljb25maWdhbWlyIDY2NTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=\n\nvmess://eyJhZGQiOiJhcnZhbmNsb3VkLmNvbSIsImFpZCI6IjAiLCJob3N0IjoibWFoc2Fwcm94eS5jb20iLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ncmFwaHFsIiwicG9ydCI6IjgwIiwicHMiOiJAdjJyYXljb25maWdhbWlyIDMyMDUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=\n\nvless://cbc2cda0-36b7-4de7-a11d-e73762366e45@de1-ws.xvless.xyz:80?path=%2Fwebsocket&security=none&encryption=none&host=de1-ws.xvless.xyz&type=ws#%40v2rayconfigamir%201266\n\nvmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciAyODMwIiwiYWRkIjoiYXJ2YW5jbG91ZC5jb20iLCJwb3J0IjoiODAiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoic2FuYW5kYWouaXIiLCJwYXRoIjoiL2dyYXBocWwiLCJ0bHMiOiIiLCJzbmkiOiIifQ==\n\nvless://8389483a-5064-4b9a-d577-59add9ee927c@5.61.24.228:58864?path=%2Frocketnet&security=none&encryption=none&headerType=none&type=ws&quicSecurity=none#%40v2rayconfigamir%202085\n──────────────\n📢 فوروارد کنید به هموطنامون ❤️🤍💚\n\n⏱ بعد از کانکت شدن ۴۰ ثانیه در تلگرام منتظر بمونید تا کانکت شه (پینگ نمیده)\n\n⚡️ عملکرد سرورها روی هر اپراتور متفاوت است در صورت قطعی از سرورهای دیگر کانال استفاده کنید.\n\n✅ ری اکشن فراموش نشه :)\n🆔 @V2rayconfigamir",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 3,
+      "length": 26
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 41,
+      "length": 248
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 291,
+      "length": 368
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 661,
+      "length": 280
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 943,
+      "length": 279
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1224,
+      "length": 300
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1526,
+      "length": 304
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1832,
+      "length": 304
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 2138,
+      "length": 170
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 2310,
+      "length": 284
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 2596,
+      "length": 178
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 2793,
+      "length": 32
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 3024,
+      "length": 16
+    }
+  ],
+  "views": 147,
+  "forwards": 1,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 7854,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 2428075715,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-26T12:01:04+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 7,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 4,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🥰"
+        },
+        "count": 2,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

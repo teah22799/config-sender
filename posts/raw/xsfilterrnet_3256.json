@@ -1,0 +1,86 @@
+{
+  "_": "Message",
+  "id": 3256,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3209702364
+  },
+  "date": "2026-04-19T17:32:10+00:00",
+  "message": "اگر اختلال قطعی دارید در کانفیگی که از هر جا خریدید\nبه خاطر مشکلی که کلی از ظهر روی تمام ip ها انداختن و بیشتر ip بسته شده\nو عمده اختلال هم روی پرتوکل tcp هست...\nپس اگر سرور از ما یا هر جا گرفتید تقصیر فیلترشکن فروش نیست تقصیر نظام فیلترینگ که مشکل به وجود اومده هست❗️\n\nالبته که فیلترشکن فروش باید پاسخگو باشه ولی فقط در این مواقع هم رو درک کنید رفقا و لعنت بفرستید بر هر کسی که دسترسی #اینترنت رو از ما گرفته!\n\n@xszapass",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 386,
+      "length": 8
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 412,
+      "length": 9
+    }
+  ],
+  "views": 7337,
+  "forwards": 21,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 3,
+    "replies_pts": 102786,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 5040698470
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 573606439
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 7351265891
+      }
+    ],
+    "channel_id": 2200550029,
+    "max_id": 63086,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-19T17:36:20+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

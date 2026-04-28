@@ -1,0 +1,98 @@
+{
+  "_": "Message",
+  "id": 2896,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2086200619
+  },
+  "date": "2026-04-28T15:07:58+00:00",
+  "message": "کانفیگ رایگان که از کانال کانفیگمون یعنی VPN HUB می‌تونید بردارید. 😎📲\n\nآموزش‌های جدید هم که از همینجا می‌تونید چک کنید، خودم و بقیه ادمینا چیزی باشه قرار میدیم. 📚👀\n\nاگه هم قصد خرید داشتید نظر خود من علائدینه، کیفیت و سرعت و قیمتش نسبت به بقیه بهتره. 🚀💎",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 41,
+      "length": 7,
+      "url": "https://t.me/persianvpnhub"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 203,
+      "length": 9,
+      "url": "https://t.me/AlaedinRobot?start=ref-1035839739"
+    }
+  ],
+  "views": 315,
+  "forwards": 4,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 1,
+    "replies_pts": 70301,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 8377231659
+      }
+    ],
+    "channel_id": 3045905167,
+    "max_id": 36008,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T15:14:36+00:00",
+  "post_author": "ʏᴇʙᴇᴋʜᴇ",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

@@ -1,0 +1,109 @@
+{
+  "_": "Message",
+  "id": 10218,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1139260001
+  },
+  "date": "2026-04-27T09:46:04+00:00",
+  "message": "پروژه عجیب در گیتهاب \n\nابزاری در گیت‌هاب به نام GhostTrack وجود دارد. فقط کافی است شماره تلفن مورد نظر را وارد کنید تا فوراً پلتفرم‌هایی را که آن شخص در آنها حساب کاربری ثبت کرده است، اسکن کند و همچنین می‌تواند آدرس IP و اطلاعات اپراتور را بررسی کند.\n\nکد را کپی کنید و اسکریپت را اجرا کنید - این کار در عرض ۵ دقیقه انجام می‌شود، به طرز مسخره‌ای آسان. فکر می‌کنید در فضای آنلاین نامرئی هستید؟\n\nشما قبلاً کاملاً در معرض خطر قرار گرفته‌اید. امنیت اطلاعات چیزی است که واقعاً باید جدی بگیریم.\n\nhttps://github.com/HunxByts/GhostTrack",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 20
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 489,
+      "length": 38
+    }
+  ],
+  "views": 17123,
+  "forwards": 1565,
+  "replies": null,
+  "edit_date": "2026-04-27T09:46:30+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🤯"
+        },
+        "count": 107,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 24,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😁"
+        },
+        "count": 8,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👀"
+        },
+        "count": 2,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

@@ -1,0 +1,188 @@
+{
+  "_": "Message",
+  "id": 23619,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1319668965
+  },
+  "date": "2026-04-23T06:13:24+00:00",
+  "message": "ادعایی نیست ولی سرویسی که بشه باهاش گیم زد چیه؟🙂",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": {
+    "_": "MessageReplyHeader",
+    "reply_to_scheduled": false,
+    "forum_topic": false,
+    "quote": false,
+    "reply_to_msg_id": 23618,
+    "reply_to_peer_id": null,
+    "reply_from": null,
+    "reply_media": null,
+    "reply_to_top_id": null,
+    "quote_text": null,
+    "quote_entities": [],
+    "quote_offset": null,
+    "todo_item_id": null,
+    "poll_option": null
+  },
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 6001280618303523963,
+      "access_hash": 9213009156796924170,
+      "file_reference": "b'\\x02N\\xa8\\x8c\\xe5\\x00\\x00\\\\Ci\\xf0\\xdb\\x1a\\x92\\xf9\\x84\\t[\\xbf3\\xb6\\t\\x01\\xec\\x94\\x8bu\\x97s'",
+      "date": "2026-04-23T06:13:24+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01\\x13(\\xae\\x8e\\x0cA1\\xce?:\\x04`\\x9e@\\xa4\\x80\\xa1`\\t\\xc5\\x12\\x06Eg+\\xceG8\\xc5^\\x88\\x1bor^N@5\\x060\\xf8#\\x15,@\\x98\\xd9\\xb2A\\xa8\\xe4%\\x88\\xf6\\xf6\\xa7qX|\\x91\\xa8\\x8f4TrM\\xbd6\\x81\\x8a*\\x12}M&\\xe3}\\x03q\\x16\\xca\\xc3\\xae\\x075\\x13H\\xed\\xc31#\\xde\\x8a*\\x8c\\x81d|}\\xe3\\xfeMMlIs\\x9e\\xd4QB\\x07\\xb1bN!b:\\xed\\xa2\\x8a*\\x99('"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 148,
+          "size": 17404
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 800,
+          "h": 369,
+          "size": 76635
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 1170,
+          "h": 540,
+          "sizes": [
+            11320,
+            30544,
+            52691,
+            93973,
+            131856
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 47,
+      "length": 2,
+      "document_id": 6032632289966427910
+    }
+  ],
+  "views": 6227,
+  "forwards": 2,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 455655,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 1694825362,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-23T06:13:50+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🗿"
+        },
+        "count": 14,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😱"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🤨"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

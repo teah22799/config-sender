@@ -1,0 +1,146 @@
+{
+  "_": "Message",
+  "id": 20701,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1891582980
+  },
+  "date": "2026-04-27T22:34:47+00:00",
+  "message": "چند عدد ترکیب ویتوری + سایفون ✔️\n\nvless://ffca22d4-e1dc-406a-8346-f20c4f09b78e@185.143.233.43:80?path=%2F&security=none&encryption=none&host=motabarim.service-panelbaz.ir&type=ws#@ghalagyann\n\nvless://d3a03a6e-0b68-43c0-af15-2ffc42ed7d55@94.101.177.20:17345?encryption=none&type=tcp&headerType=none#@ghalagyann\n\nvless://dfd6a265-d0ad-44ab-a066-27c049f10b95@37.152.185.161:14914?encryption=none&type=tcp&headerType=none#@ghalagyann\n\nvless://9060c990-497a-4e4e-8f9b-58f2b39c19be@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=fn.8lack.ir&sni=fn.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=1#@ghalagyann\n\nvless://7d96ea7b-3ebd-4280-841c-51c3d6c210d6@nextjs.org:443?mode=auto&path=%2Fxhttp&security=tls&encryption=none&insecure=0&host=vercel-xhttp-omega-eight.vercel.app&type=xhttp&allowInsecure=0&sni=nextjs.org#@ghalagyann\n\nvless://de94f61f-6337-4807-be1c-56e62b2a1249@arvancloud.ir:80?path=%2Fws&security=&encryption=none&host=app.s7r.ir&type=ws#@ghalagyann\n\nکانال ما در پیام رسان های داخلی 👇\n\nhttps://rubika.ir/V2rayng751👈 روبیکا\n\nhttps://splus.ir/ghalagyann  👈سروش\n\nChannel 🤍 @ghalagyann\n\n🛡️هرسوالی در مورد اشتراک ها یا قصد خرید اشتراک اختصاصی داشتین  پشتیبانی آنلاینم پیام بدین 👇\nPV⚡️@V2rayng751\nPV⚡️@V2rayng751",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 34,
+      "length": 969,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 34,
+      "length": 969
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 1005,
+      "length": 31
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1041,
+      "length": 30
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 1072,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1080,
+      "length": 27
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 1111,
+      "length": 4
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 1128,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 1141,
+      "length": 93
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 1239,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 1255,
+      "length": 11
+    }
+  ],
+  "views": 2158,
+  "forwards": 40,
+  "replies": null,
+  "edit_date": "2026-04-27T22:35:17+00:00",
+  "post_author": "ramin",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 6,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👏"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😍"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": "en"
+}

@@ -1,0 +1,183 @@
+{
+  "_": "Message",
+  "id": 2849,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2086200619
+  },
+  "date": "2026-04-19T05:08:09+00:00",
+  "message": "ویدئوی پست جدید پرزیدنت ترامپ در تروث سوشیال\n\nمن با شما هستم، برای شما می‌جنگم",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaDocument",
+    "nopremium": false,
+    "spoiler": false,
+    "video": true,
+    "round": false,
+    "voice": false,
+    "document": {
+      "_": "Document",
+      "id": 5990062614237945489,
+      "access_hash": -3496393041358062546,
+      "file_reference": "b'\\x02|X\\xe5+\\x00\\x00\\x0b!i\\xf0\\xd2?C\\x1d\\nu!BC\\x90P8\\x8f\\xc4\\xdc\\x92.g'",
+      "date": "2026-04-19T03:41:33+00:00",
+      "mime_type": "video/mp4",
+      "size": 8297734,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeVideo",
+          "duration": 40.194,
+          "w": 1206,
+          "h": 1762,
+          "round_message": false,
+          "supports_streaming": true,
+          "nosound": false,
+          "preload_prefix_size": null,
+          "video_start_ts": null,
+          "video_codec": "h264"
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "exp_iπ_دقایقی_پیش،_دونالد_ترامپ،_بهترین_پرزیدنت_آمریکا،_تصاویری.mp4"
+        }
+      ],
+      "thumbs": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01(\\x1b\\xd1\\xddn\\x8c\\xe0\\xcc\\xa0\\x93\\x92\\x0b\\x8e(2[7Y\\xe3\\xff\\x00\\xbe\\xc5s\\xd7(^\\xfe\\xe0\\x00O\\xef\\x1b\\xa7\\xd6\\x90Z\\xb63\\x86\\xcf\\xa6)]\\x0e\\xc7I\\xf6\\xa8?\\xe7\\xac\\x7f\\xf7\\xd8\\xa9\\x15\\x95\\xd42\\xb0 \\xf7\\x06\\xb9V\\x81\\xd0n\\xdaF9\\xe9]\\x06\\x95\\xce\\x9d\\x11>\\xff\\x00\\xcc\\xd3\\x15\\x8c\\xb4\\xff\\x00\\x90\\x85\\xd7\\xfb\\xe7\\xf9\\xd4\\xe1\\x88\\xeaG\\xd6\\xaa\\x9c\\xff\\x00h\\\\\\xe3\\xfb\\xe7\\xf9\\xd4\\xc07\\xf95\\x8c\\xe3vi\\x17\\xa0\\x92\\xc8^\\xdeoA\\x90+KI\\xff\\x00\\x90l?\\x8f\\xf35\\x97,a-\\xe4\\xc0\\xc0\\xc6z\\xd6\\xa6\\x93\\xff\\x00 \\xd8\\x7f\\x1f\\xe6j\\xe0\\xac)\\x18\\xb3\\xcaa\\xbf\\xb8;s\\x97?\\xce\\x81|\\xc3\\xfeY\\xfe\\xb4QWd\\xc9LG\\xbci\\x10\\xa7\\x97\\xf7\\x86:\\xd6\\xde\\x94\\x08\\xd3\\xa2\\x07\\x83\\xcf\\xf34QE\\xac\\x1b\\x9f'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 219,
+          "h": 320,
+          "size": 10663
+        }
+      ],
+      "video_thumbs": []
+    },
+    "alt_documents": [],
+    "video_cover": null,
+    "video_timestamp": null,
+    "ttl_seconds": null
+  },
+  "reply_markup": null,
+  "entities": [],
+  "views": 2628,
+  "forwards": 30,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 14,
+    "replies_pts": 70301,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 80404362
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 3212469
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 8112307778
+      }
+    ],
+    "channel_id": 3045905167,
+    "max_id": 35021,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-19T05:09:13+00:00",
+  "post_author": "ʏᴇʙᴇᴋʜᴇ",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 34,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤‍🔥"
+        },
+        "count": 12,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🤣"
+        },
+        "count": 7,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😍"
+        },
+        "count": 3,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

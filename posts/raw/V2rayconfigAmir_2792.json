@@ -1,0 +1,169 @@
+{
+  "_": "Message",
+  "id": 2792,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2232706026
+  },
+  "date": "2026-04-19T16:01:05+00:00",
+  "message": "🇫🇮 #پروکسی_پرسرعت_اختصاصی_چنل\nتعداد: 10\n\n🔗 172.64.149.54:443\n🔗 104.18.16.56:443\n🔗 https://t.me/proxy?server=91.107.174.85&port=8443&secret=dd104462821249bd7ac519130220c25d09\n🔗 https://t.me/proxy?server=207.180.203.24&port=443&secret=7uBwJkgHh8uyF8nq_Te86VtzMy5hbWF6b25hd3MuY29t\n🔗 tg://proxy?server=158.160.254.8&port=443&secret=a665a45920422f9d417e4867efdc4fb8\n🔗 https://t.me/proxy?server=prx.today&port=443&secret=eeb3f0c7f6af7dc2dc2e9c80d0d80e81627a65726f2e6c6f63616c\n🔗 https://t.me/proxy?server=pugoholic.ydns.eu&port=9443&secret=6a08a96f53b99a7e517a2c5cb46468be\n🔗 https://t.me/proxy?server=prx.today&port=443&secret=eeb3f0c7f6af7dc2dc2e9c80d0d80e81627a65726f2e6c6f63616c\n🔗 tg://proxy?server=free-niderl.kimt.space&port=443&secret=ee7d025179c3b272e9631a5e2eb313b6b36164732e78352e7275\n🔗 https://t.me/proxy?server=proxy3-sosavpn.duckdns.org&port=8443&secret=bfb77f1c4bf8a5c16eb5a3c83954ce69\n──────────────\n📢 لطفا در چنل ما جوین بشین و به بقیه هم ارسال کنین\n🆔 @V2rayconfigamir",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 5,
+      "length": 26
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 5,
+      "length": 26
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 46,
+      "length": 17
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 67,
+      "length": 16
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 87,
+      "length": 91
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 182,
+      "length": 101
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 287,
+      "length": 80
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 371,
+      "length": 106
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 481,
+      "length": 93
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 578,
+      "length": 106
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 688,
+      "length": 109
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 801,
+      "length": 102
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 922,
+      "length": 48
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 974,
+      "length": 16
+    }
+  ],
+  "views": 236,
+  "forwards": 0,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 7854,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 2428075715,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-19T16:01:08+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 6,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 4,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🥰"
+        },
+        "count": 2,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

@@ -1,0 +1,105 @@
+{
+  "_": "Message",
+  "id": 3309,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3209702364
+  },
+  "date": "2026-04-26T09:40:09+00:00",
+  "message": "🔐نسخه جدید اپلیکیشن V2rayng منتشر شده در گیتهاب\nلینک #داخلی واسه تمام نسخه های اندروید:\n\nhttps://storage.iran.liara.space/irs/v1/2026-04-26/b49952e28b447bcec3e42efc66bb9cb6.apk\n\nتغیبرات اپلیکیشن: بهینه شده در هسته xray و یه سری باگ های نسخه قبلی برطرف شده💎\n\n@xsfilterrnet 👑",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 0,
+      "length": 2,
+      "document_id": 5924585348184152623
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 54,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 90,
+      "length": 87
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 256,
+      "length": 2,
+      "document_id": 5309958691854754293
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 260,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 274,
+      "length": 2,
+      "document_id": 5053169761232356354
+    }
+  ],
+  "views": 8231,
+  "forwards": 114,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 15,
+    "replies_pts": 102786,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 114968264
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 1181956881
+      }
+    ],
+    "channel_id": 2200550029,
+    "max_id": 64668,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-26T09:40:59+00:00",
+  "post_author": "امیرپارسا",
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

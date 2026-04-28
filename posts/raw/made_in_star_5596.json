@@ -1,0 +1,162 @@
+{
+  "_": "Message",
+  "id": 5596,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2547961935
+  },
+  "date": "2026-04-27T21:21:47+00:00",
+  "message": "تفاوت ما با بقیه اینه که 5 تا سرور مختلف تو پلن مقرون به صرفه در اختیارتون قرار میدیم که تو هر شرایطی اتصال پایداره رو داشته باشین بقیه هم یه دونه سرور میدن خدمتتون اونم وصل بشه یا نشه اش با خدا هست\n \n\n\n راجع به شات هم این Real ping  هست اگر Tcping بگیرم تک رقمی میشه شات بعدی اونم میزارم\n\n⭕️شات مربوط به پلن مقرون به صرفه می باشد",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": true,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 6016886845830007723,
+      "access_hash": -473010134045498238,
+      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\x97\\xde\\xd0O\\x00\\x00\\x15\\xdci\\xf0\\xdf&cUv\\xec]\\x14\\x8d\\x0b\\xde\\xc4\\xdbc\\\\$\"\\xf9'",
+      "date": "2026-04-27T21:21:47+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b\"\\x01(\\x19\\xcc\\x00\\x1e\\xb9\\xfc\\x056\\x9d\\x9e\\x9f\\xe1M=i\\x80\\xbb\\xb8\\xff\\x00\\xeb\\nJPG\\x1f/\\xebI@\\x0e'\\x81\\x90)\\xb4\\xeep)\\xa7\\xad \\x1c7q\\xc7\\xa68\\xa6\\xd2\\x8e\\xdc\\x8aJ`)\\x03\\x03\\x9aJ(\\xa4\\x02\\x8d\\xbcu\\xf7\\xe6\\x92\\x8a)\\x81\""
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 202,
+          "h": 320,
+          "size": 11394
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 504,
+          "h": 800,
+          "size": 44295
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 806,
+          "h": 1280,
+          "sizes": [
+            8918,
+            17712,
+            32969,
+            54623,
+            76118
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 0,
+      "length": 199,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 204,
+      "length": 84
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 290,
+      "length": 2,
+      "document_id": 5902421242467587911
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 292,
+      "length": 38
+    }
+  ],
+  "views": 1283,
+  "forwards": 0,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 0,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 777,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T03:21:51+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤‍🔥"
+        },
+        "count": 4,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💋"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

@@ -1,0 +1,139 @@
+{
+  "_": "Message",
+  "id": 741,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1644374078
+  },
+  "date": "2026-04-21T12:51:09+00:00",
+  "message": "بدون شرح!!!",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 5998874285566528717,
+      "access_hash": 7576818861795715064,
+      "file_reference": "b'\\x02b\\x03(>\\x00\\x00\\x02\\xe5i\\xf0\\xe4\\x13\\x8dA\\x00\\xf2xJS\\xe1%\\xe5\\xaf\\xa3YH\\xf5\\xb1'",
+      "date": "2026-04-21T12:50:37+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01\\x11(\\xd1t\\x1b2\\xbdqL\\xf2\\x1b\\xd5\\x7f:_\\xb4`\\x01\\x8e\\x9e\\xf4\\xd6\\x9c\\x91\\x801S\\xa1:\\x07\\x90\\xddr?:@)\\x04\\x8f\\xebJ\\xbc\\x90*X\\xc7QN\\t\\xc6s\\xfaQSf2\\xb9\\xa2\\x8a*\\x88\\x14S\\xd7\\xad\\x14R\\x1a&=(\\xa2\\x8ac?'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 140,
+          "size": 10973
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 800,
+          "h": 349,
+          "size": 49372
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 1280,
+          "h": 558,
+          "sizes": [
+            8570,
+            21837,
+            38814,
+            58067,
+            90377
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [],
+  "views": 9539,
+  "forwards": 11,
+  "replies": null,
+  "edit_date": "2026-04-21T12:51:32+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😁"
+        },
+        "count": 51,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 8,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🔥"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

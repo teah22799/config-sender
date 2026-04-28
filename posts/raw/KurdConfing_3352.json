@@ -1,0 +1,313 @@
+{
+  "_": "Message",
+  "id": 3352,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1648657493
+  },
+  "date": "2026-04-28T00:51:47+00:00",
+  "message": "آموزش MHR یا همون MasterHttpRelayVPN برای ویندوز و اندروید (خیلی راحت از قبل)\n\nلینک دانلود فیلم با نت ملی:\n📥Download Vedio\n\nلینک دانلود برنامه MHRV برای اندروید:\n📥 Download App\n\nپروژه داخل ویدیو در گیت‌هاب:\nhttps://github.com/therealaleph/MasterHttpRelayVPN-RUST\n\nپروژه اصلی در گیت‌هاب:\nhttps://github.com/masterking32/MasterHttpRelayVPN\n\nدانلود برنامه ها برای سیستم‌عامل‌های دیگه از گیت‌هاب:\nhttps://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases\n\nسایت گوگل اسکریپت:\nhttps://script.google.com/home?pli=1\n\nمن مث تمامی روش‌های دیگه، امنیت این روش رو هم تضمین نمیکنم. \n\n🌐 کورد کانفیگ\n🔗 @KurdConfing",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": true,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaDocument",
+    "nopremium": false,
+    "spoiler": false,
+    "video": true,
+    "round": false,
+    "voice": false,
+    "document": {
+      "_": "Document",
+      "id": 5434136396929474734,
+      "access_hash": -6887427553792993433,
+      "file_reference": "b'\\x02bD\\x84U\\x00\\x00\\r\\x18i\\xf0\\xd8\\x9ck\\xbb\\x9bGF#\\x03\\x04?\\xa3*\\xc9\\xf3n\\xf2\\xbb'",
+      "date": "2026-04-26T04:21:38+00:00",
+      "mime_type": "video/mp4",
+      "size": 52030646,
+      "dc_id": 2,
+      "attributes": [
+        {
+          "_": "DocumentAttributeVideo",
+          "duration": 1268.0,
+          "w": 854,
+          "h": 480,
+          "round_message": false,
+          "supports_streaming": true,
+          "nosound": false,
+          "preload_prefix_size": null,
+          "video_start_ts": null,
+          "video_codec": null
+        },
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "wnSj82BsP0Lgbm4iISdI+uqz3lej6iLU.mp4"
+        }
+      ],
+      "thumbs": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01\\x1e(_\\xec\\x15\\xff\\x00\\x9f\\x83\\xff\\x00|\\xd0t$\\xff\\x00\\x9f\\x86\\xff\\x00\\xbej{\\xbb\\x8b\\x98\\xdc\\xa0+\\xcf \\xaf\\xa5Emw#N\"\\x90\\xb3)lu\\xe4S\\xb0\\x15\\xa6\\xd2\\xe3\\x8f\\x1b\\'\\xde}1P\\xfd\\x80c\\xfda\\xfc\\xabR\\xf0\\xa9\\x97\\x07v\\x14\\x01\\xf2\\xd5b@<\\t\\x00\\xf7Z\\xa8\\xf2\\xf5\\x02\\xa7\\xd8\\x07\\xfc\\xf4\\xfd(\\xab\\x99\\x1dT>=\\xc0\\xa2\\x9d\\xe0\\x05\\xdb\\xdbV\\x9b\\x0f\\x1e7\\x01\\x8c\\x1e\\xf5Il\\xa7\\x8fsyGst \\x8f\\x94\\xd5O\\xed{\\xcf\\xf9\\xe8?\\xef\\x91Huk\\xc2\\x082\\x0e\\x7f\\xd9\\x15\\x17\\xd2\\xc0]b\\x19\\x8b>K\\x1e\\xb88\\xa4!s\\xc2\\x1cv\\xcb\\x7f\\xf5\\xab7\\xeds\\x7fx~T}\\xb2o\\xef\\x0f\\xca\\xae\\xf1\\x03D\\x80q\\x859\\xff\\x00{4Vr\\xde\\xce\\xbd\\x18~TQx\\x81'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 240,
+          "size": 16234
+        }
+      ],
+      "video_thumbs": []
+    },
+    "alt_documents": [
+      {
+        "_": "Document",
+        "id": 5440395860791829865,
+        "access_hash": -7786860765068483878,
+        "file_reference": "b'\\x02bD\\x84U\\x00\\x00\\r\\x18i\\xf0\\xd8\\x9c\\xe8\\xe5\\x1e\\x19\\xf2\\xf5\\xde1HA\\xded\\xc4\\xf5\\xbf\\xa9'",
+        "date": "2026-04-28T00:51:42+00:00",
+        "mime_type": "video/mp4",
+        "size": 51478716,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 1268.402,
+            "w": 854,
+            "h": 480,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": "h264"
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "wnSj82BsP0Lgbm4iISdI+uqz3lej6iLU.mp4"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": "b\"\\x01\\x16(\\xd8\\x0bG\\x14\\xb4P\\x02ph\\xc5-\\x14\\x00\\xc2\\xbc\\xf1\\xd2\\x8aIU\\x99\\x08F\\xda\\xc7\\xa1\\xc6qE\\x00'\\x9e?\\xbb\\xfa\\xd2y\\xe3\\x19\\xdb\\xfa\\xd1E\\x004\\xdd\\xa8\\xc7\\xcay\\xa5\\x17@\\xff\\x00\\t\\xa2\\x8a\\x00\\r\\xc0\\xfe\\xef\\xebE\\x14P\\x07\""
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 320,
+            "h": 180,
+            "size": 7477
+          }
+        ],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5440401070587156957,
+        "access_hash": 1932613997898180156,
+        "file_reference": "b'\\x02bD\\x84U\\x00\\x00\\r\\x18i\\xf0\\xd8\\x9c\\n\\x86\\xd8a\\xc60\\xbfJ\\xf5\\xe4t\\xf4\\x8c\\xcd\\xbb\\x93'",
+        "date": "2026-04-28T00:51:42+00:00",
+        "mime_type": "application/x-mpegurl",
+        "size": 19582,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "mtproto:5440395860791829865"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5440682700182688522,
+        "access_hash": -7209431994638338663,
+        "file_reference": "b'\\x02bD\\x84U\\x00\\x00\\r\\x18i\\xf0\\xd8\\x9c\\xebO\\xf2qoTd\\x17\\xe2\\xb1&\\xc2\\x89\\x94{\\xf2'",
+        "date": "2026-04-28T00:51:42+00:00",
+        "mime_type": "application/x-tgstoryboard",
+        "size": 119330,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "wnSj82BsP0Lgbm4iISdI+uqz3lej6iLU.mp4.sb.jpg"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5440909388556572968,
+        "access_hash": -7544165046867626321,
+        "file_reference": "b'\\x02bD\\x84U\\x00\\x00\\r\\x18i\\xf0\\xd8\\x9cP?Q\\xf2t\\xf2\\xf3AU\\x1fyZ\\x9b\\t\\x8ao'",
+        "date": "2026-04-28T00:51:42+00:00",
+        "mime_type": "application/x-tgstoryboardmap",
+        "size": 1312,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 144,
+            "h": 80
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "mtproto:5440682700182688522"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      }
+    ],
+    "video_cover": null,
+    "video_timestamp": null,
+    "ttl_seconds": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 58
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 79,
+      "length": 437,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 107,
+      "length": 16,
+      "url": "https://uplod.ir/xsqe23pcyy1l/__.zip.htm"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 163,
+      "length": 15,
+      "url": "https://uplod.ir/ssridu4c48aa/mhrv-rs-android-universal-v1.6.4.zip.htm"
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 209,
+      "length": 55
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 289,
+      "length": 50
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 395,
+      "length": 64
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 480,
+      "length": 36
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 598,
+      "length": 12
+    }
+  ],
+  "views": 5260,
+  "forwards": 360,
+  "replies": null,
+  "edit_date": "2026-04-28T00:55:41+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 20,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 11,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "⚡"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🔥"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🥰"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

@@ -1,0 +1,135 @@
+{
+  "_": "Message",
+  "id": 155593,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3111946920
+  },
+  "date": "2026-04-28T15:22:18+00:00",
+  "message": "slipnet-enc://AeD+k9N9XWOkfjuCzRNTdDFmR514xVl+HfS3C8JnKZTHwTeQgiS1pMirl7oZFO5MeaYAuNCOZ9QGaTpfqZXCQ5L5+EET/JXAJFK+gAeAY/uSaHTLvlBPM/4u0LYgmstN4QA3LghSfv5LHXB0xy/sHm3/43GGZiodcEkE90r5LfgXRFciXGH/qqNj/remFT3qFilzxXY6dJD/7gFpFkZaxbgB49kttv7XuuI4lEb2Pu9RMtFHL4VUMmjSJqIaS9VuwtFhVV7Q7o2fo/PBQnNw4WsctQPBMvAZINz1xLQKRYM8hWlzq9i2O11Mf7g14LtWwrrhYaePIyv+vT6vDvRUUVcrZnt9XxTB/zs++YsF/+PuFFYXggNXm8rAOK/kOlZ5IEcwjD9ebl/x7cP9rJVASVdZ/gR9AiURPV2tnfOClE6l3BR7n2SkIHGn5/t0zJXFHiIeTP2nAGqau1AcpVQJ0cKjO5CrnbsvvizAeQtb+z0qBWpyoA0z0/XUiF/96NUMaRQfNo54ouPp9CQ2E22TMi4H+SJPs9JwhsHIry9vyv5k0Dz/lsG8yTUk7134NITU6125dk6YID4hOesGPU1TrWE=\n\nDNSTT Soratesh kheyli khobe (Ro Mokhaberat test shode)",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": false,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": {
+    "_": "PeerUser",
+    "user_id": 7676423162
+  },
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCode",
+      "offset": 0,
+      "length": 614
+    }
+  ],
+  "views": null,
+  "forwards": null,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 326560,
+    "comments": false,
+    "recent_repliers": [],
+    "channel_id": null,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T15:25:58+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 3,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": true,
+    "reactions_as_tags": false,
+    "recent_reactions": [
+      {
+        "_": "MessagePeerReaction",
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 8539339197
+        },
+        "date": "2026-04-28T15:23:00+00:00",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "big": false,
+        "unread": false,
+        "my": false
+      },
+      {
+        "_": "MessagePeerReaction",
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 1398556359
+        },
+        "date": "2026-04-28T15:22:54+00:00",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "big": false,
+        "unread": false,
+        "my": false
+      },
+      {
+        "_": "MessagePeerReaction",
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 7876640509
+        },
+        "date": "2026-04-28T15:22:32+00:00",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "big": false,
+        "unread": false,
+        "my": false
+      }
+    ],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

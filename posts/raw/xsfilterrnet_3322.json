@@ -1,0 +1,175 @@
+{
+  "_": "Message",
+  "id": 3322,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3209702364
+  },
+  "date": "2026-04-27T18:51:50+00:00",
+  "message": "💡یه ‎پروژه جالب دیگه برای استفاده از اینترنت #داخلی به صورت امن به جای استفاده از اپ های دولتی شما با این پروژه میتونید بدون سانسور و محدودیت از اخبار به روز جهان و کانفیگ پروکسی دسترسی داشته باشید⚡️\n(ساخته حسین پیرا)\n\nنام معرف میتونید من رو بزنید:\n@xsparvin\n\nلینک پروژه:🍷\nchat.zaringo.sbs‎\nhttps://client.zaringo.sbs\n\n\n@xsfilterrnet 👑",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 6014615967771593889,
+      "access_hash": -9138557697801105049,
+      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xfai\\xf0\\xd6I\\xf1=\\xe1Ul\\xa7\\xe1\\xd5\\xb6%\\xd7\\xaa%\\xb9Xk'",
+      "date": "2026-04-27T18:51:50+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01(\\x16\\xcb\\xe6\\x94\\xb1>\\x9f\\x95%\\x03\\xaf\\xff\\x00Z\\x98\\x078\\xe3\\xf9QS,jc\\xdc[\\x078\\xfb\\x99\\xa2\\x80!\\xa5\\x03<\\xff\\x00JJPFz\\n\\x00\\x95cV\\x88\\xee`\\xa7wph\\xa7!O \\xe4\\xa6wt.GoJ(\\xd0.\\xca\\xd4\\xa3\\x83E\\x14\\x00\\xfe\\nd\\x82y\\xfe\\xf6(\\xa2\\x8a@\\x7f'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 175,
+          "h": 320,
+          "size": 13269
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 437,
+          "h": 800,
+          "size": 51903
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 576,
+          "h": 1055,
+          "sizes": [
+            6099,
+            14905,
+            29787,
+            50506,
+            69575
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 0,
+      "length": 2,
+      "document_id": 5312536423851630001
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 46,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 198,
+      "length": 2,
+      "document_id": 5312016608254762256
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 250,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 272,
+      "length": 2,
+      "document_id": 5812037770301938686
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 275,
+      "length": 16
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 293,
+      "length": 26
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 322,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 336,
+      "length": 2,
+      "document_id": 5053169761232356354
+    }
+  ],
+  "views": 7951,
+  "forwards": 392,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 5,
+    "replies_pts": 102786,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 1854058312
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 463977462
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 7220400412
+      }
+    ],
+    "channel_id": 2200550029,
+    "max_id": 64781,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-27T19:00:37+00:00",
+  "post_author": "سال گودمن",
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

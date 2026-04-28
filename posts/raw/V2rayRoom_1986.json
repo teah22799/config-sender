@@ -1,0 +1,87 @@
+{
+  "_": "Message",
+  "id": 1986,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1964007005
+  },
+  "date": "2026-04-19T00:03:23+00:00",
+  "message": "hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-016.fastervpn.world:443?security=tls&insecure=1&sni=vpn-jp-016.fastervpn.world#%40v2rayRoom\n\n\nhysteria2://f8815861-9fa8-48a9-83b1-086823aff16e@46.38.157.183:10002?security=tls&insecure=1&sni=46.38.157.183#%40v2rayRoom\n\nhysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-018.fastervpn.world:443?security=tls&insecure=1&sni=vpn-us-018.fastervpn.world#%40v2rayRoom\n\n\nhysteria2://ca6a629c-7c7e-4ee4-84b5-ab8984fd9579@46.38.157.183:10001?security=tls&insecure=1&sni=46.38.157.183#%40v2rayRoom\n\n\nhysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-016.fastervpn.world:443?security=tls&insecure=1&sni=vpn-jp-016.fastervpn.world#%40v2rayRoom\n\n@v2rayRoom",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCode",
+      "offset": 0,
+      "length": 135
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 135,
+      "length": 528
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 664,
+      "length": 10
+    }
+  ],
+  "views": 1130,
+  "forwards": 9,
+  "replies": null,
+  "edit_date": "2026-04-19T00:12:36+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 4,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

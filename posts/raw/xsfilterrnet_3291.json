@@ -1,0 +1,124 @@
+{
+  "_": "Message",
+  "id": 3291,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3209702364
+  },
+  "date": "2026-04-23T11:36:53+00:00",
+  "message": "من خواب بودم حسین ناراحته🤪 دوستان\nمن داشتم یه #پروژه رایگان واسه شما کار میکردم بر پایه(dnstt،vless)\nیه اپلکیشن مشابه Mahsang اما با قابلیت های بیشتر و برای مواقع #اضطراری مثل این زمان تا بشه به صورت عمومی منتشر شه و حمایت شه تا حداقل مردم اتصال پایدار و در حد تلگرام رو به کمک شما دوستان داشته باشه...\nپروژه ای مثل حسین proxycloud که با کانفیگ های دونیت خیلی ها رو متصل کرد...\nبه زودی این ایده رو اجرایی میکنم به کمک شما دوستان\nو اپ جدید رو بالا میاریم...🍷\n\n\n\n@xszapass 👑",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": {
+    "_": "MessageReplyHeader",
+    "reply_to_scheduled": false,
+    "forum_topic": false,
+    "quote": false,
+    "reply_to_msg_id": 3290,
+    "reply_to_peer_id": null,
+    "reply_from": null,
+    "reply_media": null,
+    "reply_to_top_id": null,
+    "quote_text": null,
+    "quote_entities": [],
+    "quote_offset": null,
+    "todo_item_id": null,
+    "poll_option": null
+  },
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 25,
+      "length": 2,
+      "document_id": 5920109287887082343
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 47,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 164,
+      "length": 8
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 457,
+      "length": 2,
+      "document_id": 5812037770301938686
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 463,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 473,
+      "length": 2,
+      "document_id": 5053169761232356354
+    }
+  ],
+  "views": 8355,
+  "forwards": 12,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 8,
+    "replies_pts": 102786,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 421059638
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 235120881
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 6663950417
+      }
+    ],
+    "channel_id": 2200550029,
+    "max_id": 63819,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-23T11:50:19+00:00",
+  "post_author": "امیرپارسا",
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

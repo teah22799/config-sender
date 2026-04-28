@@ -1,0 +1,134 @@
+{
+  "_": "Message",
+  "id": 16356,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3336135529
+  },
+  "date": "2026-04-27T23:45:11+00:00",
+  "message": "https://t.me/Stonerboiam\nسلام من ادمین و رفیق محسنم این چنلمه قبلا توش براتون کانفیگ رایگان میزاشتم الان خودم میفروشم، هرچقدر حمایت کنید چنلمو منم بیشتر سعی میکنم براتون کانفیگ و پروکسی وصل بزارم اینجا پس جوین بدید انرژی بگیرم❤️‍🩹",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaWebPage",
+    "webpage": {
+      "_": "WebPage",
+      "id": 4080568426988097558,
+      "url": "https://t.me/Stonerboiam",
+      "display_url": "t.me/Stonerboiam",
+      "hash": 0,
+      "has_large_media": false,
+      "video_cover_photo": false,
+      "type": "telegram_channel",
+      "site_name": "Telegram",
+      "title": "Stonerbo!",
+      "description": "18/19/50000?/11780/1500/98/401/404\n\nDM For Any Collaboration : @StonerB0i\n\n🎼Listen to FMP :\nhttps://on.soundcloud.com/tFYearwS1LQA2f6hQe",
+      "photo": {
+        "_": "Photo",
+        "id": 6001176293547904008,
+        "access_hash": 8903295468264738678,
+        "file_reference": "b'\\x00i\\xf0\\xd5\\xc8\\xf0\\x82\\xd6\\xb1\\xf6\\xaf\\xd3\\xe4\\xb1d\\xfd\\xb0P\\xc7\\x8d\\xaa'",
+        "date": "2026-04-22T22:08:14+00:00",
+        "sizes": [
+          {
+            "_": "PhotoSize",
+            "type": "a",
+            "w": 160,
+            "h": 160,
+            "size": 5117
+          },
+          {
+            "_": "PhotoSize",
+            "type": "b",
+            "w": 320,
+            "h": 320,
+            "size": 14710
+          },
+          {
+            "_": "PhotoSize",
+            "type": "c",
+            "w": 640,
+            "h": 640,
+            "size": 42666
+          },
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": "b'\\x01((\\xc6\\x14\\xb8\\xa4\\x14\\xea\\x006q\\x9aLU\\x8f/\\n\\xacO\\xcaj\\x16\\x1bX\\x8fC@\\x0c4Ph\\xa0\\x00S\\xd7\\x05\\xb0{\\xf7\\xf4\\xa6\\nZ\\x00\\xb5\\xe5\\xb2\\xdb9.\\x0e?\\x87\\x15V\\xa72\\xeeB\\xa7\\xa9\\x1c\\x9fZ\\x85\\xbb}(\\x01\\xa6\\x8a\\r\\x14\\x00\\n3E\\x14\\x00\\xb9\\x14\\x13\\x9cQE\\x00!\\xa2\\x8a(\\x03'"
+          }
+        ],
+        "dc_id": 4,
+        "has_stickers": false,
+        "video_sizes": []
+      },
+      "embed_url": null,
+      "embed_type": null,
+      "embed_width": null,
+      "embed_height": null,
+      "duration": null,
+      "author": null,
+      "document": null,
+      "cached_page": null,
+      "attributes": []
+    },
+    "force_large_media": false,
+    "force_small_media": true,
+    "manual": true,
+    "safe": true
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityUrl",
+      "offset": 0,
+      "length": 24
+    }
+  ],
+  "views": 3206,
+  "forwards": 0,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 1274039,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 3392070575,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-27T23:45:14+00:00",
+  "post_author": "StonerBoi",
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

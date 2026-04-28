@@ -1,0 +1,336 @@
+{
+  "_": "Message",
+  "id": 3306,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3209702364
+  },
+  "date": "2026-04-25T22:32:05+00:00",
+  "message": "📰تمامی متدهای DNS Tunneling این کانال با بهره بردن از دو سرور و مناسب کلاینت SlipNet، به‌صورت «کاملاً رایگان» در اختیار شماست.\n\n🚨 مهم:\n\nبرای اتصال به کانفیگ‌ها، نیاز به وارد کردن Username و Password دارید، که به‌صورت روزانه داخل کانال قرار خواهند گرفت.\nعضویت در کانال، شما رو در اولویت اتصال قرار می‌ده.\n\nنصب اپلیکیشن اندروید کلاینت SlipNet و نحوه‌ی تنظیم پارامترها \n\n🚨 مهم:\n\nبرای استفاده از کانفیگ‌ها، نیاز به DNS Resolver دارید، که با استفاده از آموزش‌های کانال، می‌تونید با توجه به نوع ارائه‌دهنده اینترنت و منطقه خود، اسکن کنید و بهترین ریزالورها رو برای استفاده در کانفیگ‌ها، به دست بیارید. \n\nآموزش نحوه‌ی اسکن DNS Resolver \n\nبرای مشاهده و برداشتن کانفیگ‌ها، لینک‌های زیر را لمس کنید. \n\n💡 نکته:\n\nلزومی به وارد کردن تمامی کانفیگ‌ها(۴٢ کانفیگ) داخل اپلیکیشن ندارید؛ می‌تونید هر رکورد رو وارد کنید، با ریزالورهایی که به دست آوردید تست کنید و اگر برای شما جواب داد، از همون استفاده کنید. \n\n\n🗂 کانفیگ‌های DNSTT Socks + SSH\n\n🗂 کانفیگ‌های NoizDNS Socks + SSH\n\n🗂 کانفیگ‌های Slipstream Socks + SSH\n\n🗂 کانفیگ‌های VayDNS Socks + SSH به ترتیب نوع رکورد:\n\n▪️ VayDNS - TXT - Socks + SSH\n\n▪️ VayDNS - CNAME - Socks + SSH\n\n▪️ VayDNS - A - Socks + SSH\n\n▪️ VayDNS - AAAA - Socks + SSH\n\n▪️ VayDNS - MX - Socks + SSH\n\n▪️ VayDNS - NS - Socks + SSH\n\n▪️ VayDNS - SRV - Socks + SSH\n\n▪️ VayDNS - NULL - Socks + SSH\n\n▪️ VayDNS - CAA - Socks + SSH\n\n\n#DNSTT\n#NoizDNS \n#slipstream\n#VayDNS\n\n@break_the_barriers 💎\n@xsfilterrnet 👑",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 0,
+      "length": 2,
+      "document_id": 5434144690511290129
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 15,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 78,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 95,
+      "length": 15
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 129,
+      "length": 2,
+      "document_id": 5395695537687123235
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 132,
+      "length": 4
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 181,
+      "length": 8
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 192,
+      "length": 8
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 219,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 255,
+      "length": 50
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 307,
+      "length": 61,
+      "url": "https://t.me/Break_The_Barriers/968"
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 370,
+      "length": 2,
+      "document_id": 5395695537687123235
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 414,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 601,
+      "length": 31,
+      "url": "https://t.me/Break_The_Barriers/1245"
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 695,
+      "length": 2,
+      "document_id": 5312536423851630001
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 698,
+      "length": 5
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 896,
+      "length": 2,
+      "document_id": 5332586662629227075
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 899,
+      "length": 29,
+      "url": "https://t.me/Break_The_Barriers/1226"
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 929,
+      "length": 2,
+      "document_id": 5332586662629227075
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 932,
+      "length": 31,
+      "url": "https://t.me/Break_The_Barriers/1227"
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 964,
+      "length": 2,
+      "document_id": 5332586662629227075
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 967,
+      "length": 34,
+      "url": "https://t.me/Break_The_Barriers/1229"
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 1002,
+      "length": 2,
+      "document_id": 5332586662629227075
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 1016,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 1059,
+      "length": 26,
+      "url": "https://t.me/Break_The_Barriers/1230"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 1090,
+      "length": 28,
+      "url": "https://t.me/Break_The_Barriers/1231"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 1123,
+      "length": 24,
+      "url": "https://t.me/Break_The_Barriers/1232"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 1152,
+      "length": 27,
+      "url": "https://t.me/Break_The_Barriers/1233"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 1184,
+      "length": 25,
+      "url": "https://t.me/Break_The_Barriers/1234"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 1214,
+      "length": 25,
+      "url": "https://t.me/Break_The_Barriers/1235"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 1244,
+      "length": 26,
+      "url": "https://t.me/Break_The_Barriers/1236"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 1275,
+      "length": 27,
+      "url": "https://t.me/Break_The_Barriers/1237"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 1307,
+      "length": 26,
+      "url": "https://t.me/Break_The_Barriers/1238"
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 1336,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 1336,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 1342,
+      "length": 1
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 1343,
+      "length": 8
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 1343,
+      "length": 8
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 1351,
+      "length": 2
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 1353,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 1353,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 1364,
+      "length": 1
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 1365,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 1365,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 1374,
+      "length": 19
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 1394,
+      "length": 2,
+      "document_id": 5309958691854754293
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 1397,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 1411,
+      "length": 2,
+      "document_id": 5053169761232356354
+    }
+  ],
+  "views": 9196,
+  "forwards": 229,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 21,
+    "replies_pts": 102786,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 8535628859
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 7972595721
+      }
+    ],
+    "channel_id": 2200550029,
+    "max_id": 64501,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-25T22:33:38+00:00",
+  "post_author": "امیرپارسا",
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

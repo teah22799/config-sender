@@ -1,0 +1,40 @@
+<html><head><style>
+body { background:#f2f3f5; font-family:sans-serif; margin:0; padding:0;}
+.navbar { background:#fff; border-bottom:1px solid #ddd; padding:10px; display:flex; gap:12px; overflow-x:auto;}
+.nav_item { display:flex; align-items:center; gap:6px; padding:8px 12px; background:#f8f9fa; border-radius:18px; text-decoration:none; border:1px solid #e2e2e2;}
+.nav_item img { width:28px;height:28px;border-radius:50%; }
+.card { background:#fff; margin:15px auto; width:92%; max-width:600px; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08);}
+.card img { width:100%; border-radius:12px 12px 0 0; }
+.card_text { padding:15px; white-space:pre-wrap; }
+.download_btn { padding:8px 14px; background:#0099ff; color:#fff; text-decoration:none; border-radius:6px; margin:8px; display:inline-block;}
+.source_link { margin:10px; display:block;}
+.section_title { font-size:22px; font-weight:bold; padding:20px;}
+</style>
+</head><body><div class="section_title">Post from @yebekhe</div><div class="card"><div class="card_text">SlipNet v2.5.3 — Key Changes
+
+DNS Scanner Updates: Added TCP and "Both" modes to test and auto-recommend the best transport (UDP, TCP, or Mixed) to bypass ISP blocking. UI Improvements.
+
+Faster Android Connections: TCP/DoT resolvers are now pre-tested (8s timeout) before connecting, dropping dead ones to prevent connection stalls.
+
+Tunnel Chaining: SnowflakeBridge and DohBridge now support upstream SOCKS5, allowing you to stack layers (e.g., DoH-over-Tor).
+
+Encrypted Exports: Added "Export All (Encrypted)" to the main menu.
+
+Optimizations & Docs: Reduced the Tor binary size (up to 29% smaller on armv7) and added official English and Persian user guides to the repository.
+_______
+
+SlipNet v2.5.3 — تغییرات مهم
+
+بروزرسانی‌های اسکنر DNS: اضافه شدن حالت‌های TCP و "Both" (هر دو) برای تست و پیشنهاد خودکار بهترین پروتکل انتقال (UDP، TCP یا ترکیبی) جهت دور زدن محدودیت‌های ارائه‌دهندگان اینترنت.
+
+اتصال سریع‌تر در اندروید: بررسی پیش‌نیاز resolverهای TCP/DoT (با مهلت ۸ ثانیه) قبل از اتصال، تا با حذف موارد غیرفعال از توقف در روند اتصال جلوگیری شود.
+
+زنجیره‌سازی تونل‌ها (Tunnel Chaining): پشتیبانی پل‌های SnowflakeBridge و DohBridge از SOCKS5 بالادستی، که اجازه می‌دهد لایه‌ها را روی هم قرار دهید (مانند DoH-over-Tor).
+
+خروجی رمزنگاری‌شده: اضافه شدن گزینه "Export All (Encrypted)" به منوی اصلی.
+
+بهینه‌سازی و مستندات: کاهش حجم فایل باینری Tor (تا ۲۹٪ در armv7) و اضافه شدن راهنمای رسمی کاربران به زبان‌های انگلیسی و فارسی در مخزن برنامه.
+
+GitHub: https://github.com/anonvector/SlipNet/
+
+نسخه جدید CLI در GitHub</div></div></body></html>

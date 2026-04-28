@@ -1,0 +1,141 @@
+{
+  "_": "Message",
+  "id": 1095,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2073938983
+  },
+  "date": "2026-04-26T18:05:44+00:00",
+  "message": "هرکس بسته به سودی که براش داشت، گزینه‌ای رو انتخاب کرد.\nخیلی‌ها هم رک و مستقیم بودن که جای تعجب نداره!",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": {
+    "_": "MessageReplyHeader",
+    "reply_to_scheduled": false,
+    "forum_topic": false,
+    "quote": false,
+    "reply_to_msg_id": 1094,
+    "reply_to_peer_id": null,
+    "reply_from": null,
+    "reply_media": null,
+    "reply_to_top_id": null,
+    "quote_text": null,
+    "quote_entities": [],
+    "quote_offset": null,
+    "todo_item_id": null,
+    "poll_option": null
+  },
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 6012395688722893984,
+      "access_hash": -44999993609774014,
+      "file_reference": "b\"\\x02{\\x9d\\xcc'\\x00\\x00\\x04Gi\\xf0\\xdf\\xd7\\xd3\\x81L\\x8e\\xa6\\x8d\\xdb\\xced\\xfc\\xb7\\xc4\\x9e\\x13\\xa6F\"",
+      "date": "2026-04-26T18:05:43+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01\\x10(\\xcc\\x8f\\x19\\xe6\\x9eB\\xe7\\xff\\x00\\xafLR\\xa0\\xf3\\x9cQ\\xbf\\xe9\\xf9P\\x02\\x95\\xf4\"\\x93\\x1fO\\xce\\x8d\\xff\\x00O\\xca\\x8d\\xff\\x00O\\xca\\x98\\x81\\x86\\x07o\\xce\\x8a\\x0bdv\\xfc\\xa8\\xa0g'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 127,
+          "size": 7682
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "x",
+          "w": 766,
+          "h": 304,
+          "sizes": [
+            2554,
+            5693,
+            12382,
+            16859,
+            25701
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [],
+  "views": 3460,
+  "forwards": 7,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 37,
+    "replies_pts": 53044,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 6038082504
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 407928085
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 184886680
+      }
+    ],
+    "channel_id": 3015263639,
+    "max_id": 38575,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-26T18:18:20+00:00",
+  "post_author": "Hamed",
+  "grouped_id": 14217813953644388,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

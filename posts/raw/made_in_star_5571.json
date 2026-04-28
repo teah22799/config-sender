@@ -1,0 +1,115 @@
+{
+  "_": "Message",
+  "id": 5571,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2547961935
+  },
+  "date": "2026-04-27T08:23:06+00:00",
+  "message": "کاربر های ردیت دارن راجع به بدبختی ما مینویسن📱\n\nخیلی دوست داشتم تو جهان ازمون یاد شه😁\n\nولی نه به عنوان بدبخت 😐",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": true,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 0,
+      "length": 47,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 45,
+      "length": 2,
+      "document_id": 5935898090178351062
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 49,
+      "length": 36
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 85,
+      "length": 2,
+      "document_id": 5834937638276044779
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 89,
+      "length": 22
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 111,
+      "length": 2,
+      "document_id": 5837032701848194488
+    }
+  ],
+  "views": 1094,
+  "forwards": 0,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 0,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 777,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-27T14:23:10+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

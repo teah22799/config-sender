@@ -1,0 +1,138 @@
+{
+  "_": "Message",
+  "id": 10573,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1451312282
+  },
+  "date": "2026-04-28T13:03:06+00:00",
+  "message": "پروکسی #سایفون \n\nHost : 5.62.177.54\nPort : 10808\n\nHost : 65.109.93.236\nPort : 8080\n\n🤍  More : @IP_CF_Configs\n🤍  Group : @IP_CF_Configs_Gap",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 7,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 17,
+      "length": 31,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 17,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 24,
+      "length": 11
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 36,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 50,
+      "length": 32,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 50,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 57,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 71,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 95,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 122,
+      "length": 18
+    }
+  ],
+  "views": 1159,
+  "forwards": 24,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 512334,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 1916600896,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-28T13:21:00+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 2,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

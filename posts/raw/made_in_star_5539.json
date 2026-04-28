@@ -1,0 +1,149 @@
+{
+  "_": "Message",
+  "id": 5539,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2547961935
+  },
+  "date": "2026-04-26T08:43:04+00:00",
+  "message": "اینترنت ایران در پنجاه و هشتمین روز متوالی قطعی سراسری  خود قرار دارد و نهمین هفته قطعی را ادامه میده \n\nاین اقدام همچنان به قوت خود باقی است و مانع از گزارش‌دهی و مستندسازی مستقل در سراسر کشور می‌شود.",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": true,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 6012646334424353745,
+      "access_hash": -7864029626325240905,
+      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\x97\\xde\\xd0O\\x00\\x00\\x15\\xa3i\\xf0\\xdf&\\xb8\\xe3gXg\\x11\\xb6&\\x1bU\\x9a\\xd5\\xbf(H$'",
+      "date": "2026-04-26T08:43:04+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b\"\\x01\\x17(\\xcb\\x0b\\x9e\\xfd\\xb3F~\\x9f\\x959y\\xce=)6\\x1fo\\xce\\x80\\x13'\\xd0~Tg\\xe9\\xf9QI@\\x05\\x14Q@\\x0b\\xd0u\\xa3'\\xd6\\x8a(\\x01y\\xf5\\xa4\\xcf\\xbd\\x14P\\x02\\xf6\\xebE\\x14P\\x07\""
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 180,
+          "size": 10213
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 800,
+          "h": 450,
+          "size": 35094
+        },
+        {
+          "_": "PhotoSize",
+          "type": "y",
+          "w": 1280,
+          "h": 720,
+          "size": 70293
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "w",
+          "w": 1920,
+          "h": 1080,
+          "sizes": [
+            13539,
+            32008,
+            53689,
+            72082,
+            106938
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 102
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 104,
+      "length": 96,
+      "collapsed": false
+    }
+  ],
+  "views": 1726,
+  "forwards": 2,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 15362,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 3893920141,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-26T09:04:09+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💔"
+        },
+        "count": 3,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

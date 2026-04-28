@@ -1,0 +1,314 @@
+{
+  "_": "Message",
+  "id": 10166,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1139260001
+  },
+  "date": "2026-04-21T12:42:20+00:00",
+  "message": "🎥 پاسخ رئیس شورای اطلاع رسانی دولت  درباره قطعی اینترنت \n@asrnovin_ir",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaDocument",
+    "nopremium": false,
+    "spoiler": false,
+    "video": true,
+    "round": false,
+    "voice": false,
+    "document": {
+      "_": "Document",
+      "id": 5998931906387778456,
+      "access_hash": -5200842317465547956,
+      "file_reference": "b\"\\x02C\\xe7\\xbaa\\x00\\x00'\\xb6i\\xf0\\xdb\\n~\\xab*\\xb1.\\xcb\\xb2\\xb2\\x03#\\xe0\\x99\\xf0\\x9ba\\xf8\"",
+      "date": "2026-04-21T12:33:31+00:00",
+      "mime_type": "video/mp4",
+      "size": 5951987,
+      "dc_id": 4,
+      "attributes": [
+        {
+          "_": "DocumentAttributeVideo",
+          "duration": 46.976,
+          "w": 478,
+          "h": 270,
+          "round_message": false,
+          "supports_streaming": true,
+          "nosound": false,
+          "preload_prefix_size": null,
+          "video_start_ts": null,
+          "video_codec": "h264"
+        }
+      ],
+      "thumbs": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01\\x17(\\xb5\\xbb\\x9cv\\x154C\\x04\\x9c\\xd6|w\\x04\\x0c\\x1f\\x99}{\\x8a\\x8e]A\\xd2B\"\\xc6=O4E\\x15&[\\x90\\x8d\\xd9uS\\xdf\\x93\\x83S\\xab\\xfc\\x83\\xaf\\xe3T7\\x99cWe\\x04\\x91\\x9c\\xd4Q\\xea\\x18\\xc0d\\xe0w\\x06\\x9aB\\x93F\\xa1j*\\xba\\xcc$@\\xcax4UX\\x93=\\x97\\xca\\xc9&\\xabu\\xe6\\x8a) f\\xacX\\x16Y\\xf4O\\xe9Y\\x19\\xc1\\x19\\xa2\\x8a\\xa9\\t\\x17md\\xca\\x15\\x03\\x18\\xa2\\x8a(@\\x7f'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 181,
+          "size": 11675
+        }
+      ],
+      "video_thumbs": []
+    },
+    "alt_documents": [
+      {
+        "_": "Document",
+        "id": 5996873079454702848,
+        "access_hash": 1770161129789220445,
+        "file_reference": "b\"\\x02C\\xe7\\xbaa\\x00\\x00'\\xb6i\\xf0\\xdb\\n\\xbb_\\x92z\\x0b\\xbe\\x0f\\x81\\xaa\\x90\\xef\\xa9\\x91,@\\xa6\"",
+        "date": "2026-04-21T12:33:33+00:00",
+        "mime_type": "video/mp4",
+        "size": 5945723,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 46.95,
+            "w": 478,
+            "h": 270,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": "h264"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": "b'\\x01\\x17(\\xb5\\xbb\\x9cv\\x154C\\x04\\x9c\\xd6|w\\x04\\x0c\\x1f\\x99}{\\x8a\\x8e]A\\xd2B\"\\xc6=O4E\\x15&[\\x90\\x8d\\xd9uS\\xdf\\x93\\x83S\\xab\\xfc\\x83\\xaf\\xe3T7\\x99cWe\\x04\\x91\\x9c\\xd4Q\\xea\\x18\\xc0d\\xe0w\\x06\\x9aB\\x93F\\xa1j*\\xba\\xcc$@\\xcax4UX\\x93=\\x97\\xca\\xc9&\\xabu\\xe6\\x8a) f\\xacX\\x16Y\\xf4O\\xe9Y\\x19\\xc1\\x19\\xa2\\x8a\\xa9\\t\\x17md\\xca\\x15\\x03\\x18\\xa2\\x8a(@\\x7f'"
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 320,
+            "h": 181,
+            "size": 11675
+          }
+        ],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5999091889624587491,
+        "access_hash": -618219151620244364,
+        "file_reference": "b\"\\x02C\\xe7\\xbaa\\x00\\x00'\\xb6i\\xf0\\xdb\\n`\\x89\\xec\\xd6e\\x83\\x1a\\xa2\\xd4\\xf9\\x01\\xe9\\x99\\xd3\\xd4t\"",
+        "date": "2026-04-21T12:33:33+00:00",
+        "mime_type": "application/x-mpegurl",
+        "size": 938,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "mtproto:5996873079454702848"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5996568879806029394,
+        "access_hash": 4006206707355586210,
+        "file_reference": "b\"\\x02C\\xe7\\xbaa\\x00\\x00'\\xb6i\\xf0\\xdb\\n?U\\r8\\x9fYN \\xaeG\\x12\\x1c\\x83\\x97\\xfe\\xc6\"",
+        "date": "2026-04-21T12:33:33+00:00",
+        "mime_type": "application/x-tgstoryboard",
+        "size": 39671,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": ".sb.jpg"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      {
+        "_": "Document",
+        "id": 5996782442759855357,
+        "access_hash": 7819532189997112058,
+        "file_reference": "b'\\x02C\\xe7\\xbaa\\x00\\x00\\'\\xb6i\\xf0\\xdb\\nx+\\xbf\\xd5>\\xbb\\x9bcD\"\\x85\\xbfXe\\xd7G'",
+        "date": "2026-04-21T12:33:33+00:00",
+        "mime_type": "application/x-tgstoryboardmap",
+        "size": 285,
+        "dc_id": 4,
+        "attributes": [
+          {
+            "_": "DocumentAttributeImageSize",
+            "w": 144,
+            "h": 80
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "mtproto:5996568879806029394"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      }
+    ],
+    "video_cover": null,
+    "video_timestamp": null,
+    "ttl_seconds": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 2
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 0,
+      "length": 2,
+      "document_id": 5994793378980565292
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 2,
+      "length": 55
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 58,
+      "length": 12
+    }
+  ],
+  "views": 23119,
+  "forwards": 146,
+  "replies": null,
+  "edit_date": "2026-04-21T12:43:31+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🤣"
+        },
+        "count": 431,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💔"
+        },
+        "count": 9,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 7,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😁"
+        },
+        "count": 4,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🤯"
+        },
+        "count": 4,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😈"
+        },
+        "count": 4,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😢"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👀"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

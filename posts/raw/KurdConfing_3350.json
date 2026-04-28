@@ -1,0 +1,172 @@
+{
+  "_": "Message",
+  "id": 3350,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1648657493
+  },
+  "date": "2026-04-28T00:33:16+00:00",
+  "message": "روش وصل کردن every proxy \n\nبرای اشتراک فیلترشکن از اندروید به آیفون\nاین روش برای ویندوز هم جوابه ولی شاید برا ویندوز pdanet بهتر باشه\n\nلینک دانلود با نت ملی EveryProxy برای اندروید: \n📥Download\n\n\n🌐 کورد کانفیگ\n🔗 @KurdConfing",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": true,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 6015009515624926237,
+      "access_hash": -5995431079964127022,
+      "file_reference": "b'\\x02bD\\x84U\\x00\\x00\\r\\x16i\\xf0\\xd8\\x9c2\\x8b\\xc4\\xb6\\x9b\\xfb\\xc4\\x93I\\xbf~5\\x9f0\\xe1\\x0e'",
+      "date": "2026-04-27T17:36:07+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01\\'(\\xb7k\\x1a}\\x95\\x18\\xa0?.i\\xd2F\\x0bE\\x900[\\x1c}\\rGk<\"\\xd9\\x11\\xe5\\x03\\x03\\xa6jC4\\x06D\\x08\\xe8N\\xef_c@Y\\x12\\xac\\x11\\x83\\x9ct\\xf7\\xac\\xdb\\xb7\\x8e;\\xa6\\r\\n\\xc8H\\x18\\xcfAZ[\\xc0\\xfe5\\xcf\\xd7\\xff\\x00\\xafY\\x1a\\x93/\\xdb\\t\\x0c1\\x81\\xde\\x98\\xada\\xd3\\x87\\x83k\\xa4q#g\\x82\\x17\\x04QU\\x9ac \\xc19\\xfch\\xa7\\xa0$\\xc6?\\xdc5\\x06\\xd3\\xedS\\xb0\\xca\\x90(\\x96\\xdeX\\xc1gB\\x00\\xeeMH\\xc5\\xdc\\xad#\\x14M\\x8aq\\x81\\x9c\\xe2\\xacAa\\xf6\\x842\\x17\\xda:\\x0e3Uc\\x18\\xcf \\xfd\\rX\\x8a\\xf1\\xed\\xd4\\xaa\\xa8#\\xaf$\\xd0\\x03g\\x84@\\xe2 \\x99\\xc1\\xc9\\x93\\xf0\\xa2\\xa3\\x96S<\\xc2B0~\\xa6\\x8a\\x00P\\xfeY\\x0f\\x8c\\xed!\\xb1\\xebR\\\\\\xeaB\\xe2\\xdd\\xa2\\xf2\\x8a\\xee\\xc7;\\xb3\\xde\\x8a(\\x02\\xb4\\x1ft\\xd2\\xc9\\xb7<\\xe3>\\xf4Q@\\xd0\\xd4\\xdb\\xb8p3E\\x14R\\x03'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 314,
+          "size": 27223
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 800,
+          "h": 785,
+          "size": 102889
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 1280,
+          "h": 1256,
+          "sizes": [
+            16950,
+            44059,
+            85707,
+            128223,
+            171445
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 25
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 51,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 62,
+      "length": 5
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 117,
+      "length": 6,
+      "url": "https://t.me/KurdConfing/3311"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 183,
+      "length": 10,
+      "url": "https://uplod.ir/j6rf3h0tsc8h/Every_Proxy_12.7.zip.htm"
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 214,
+      "length": 12
+    }
+  ],
+  "views": 4985,
+  "forwards": 95,
+  "replies": null,
+  "edit_date": "2026-04-28T00:38:24+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 7,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 2,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "⚡"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

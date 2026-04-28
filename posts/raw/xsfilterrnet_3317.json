@@ -1,0 +1,96 @@
+{
+  "_": "Message",
+  "id": 3317,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3209702364
+  },
+  "date": "2026-04-26T20:16:51+00:00",
+  "message": "",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 6012561822352870610,
+      "access_hash": 7700772185773147469,
+      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xf5i\\xf0\\xd6Id\\xcf\\x9cHV\\x05:3`\\x133Z#\\xf8s\\x11'",
+      "date": "2026-04-26T20:16:50+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b\"\\x01((\\xd9\\xa2\\x8a\\xce\\x92\\xeaT\\x9eE\\r\\xc6p2:Qa7cF\\x8a\\xce[\\x89\\x18\\xfd\\xe2M[\\x8aRN\\xd7\\x18j\\tSM\\xd8\\x9a\\x8a(\\xa0\\xb0\\xac\\x93\\xe5\\x8dFE\\x9b\\xee\\x93Z\\xd5B\\xfa\\xc8\\xcc|\\xd8\\xbe\\xff\\x00q\\xebM\\t\\xa2a\\x14V\\xdb\\xa4'\\x8e\\xde\\xd5\\x14s\\x19nT\\xf4\\xe7\\xa7\\xb5T\\xf2n\\xdb\\x08\\xc8\\xe7\\x1d3\\xd0U\\xebKc\\x18\\xdf'\\xde\\xec=)\\xb2\\x1a\\xb9n\\x8a(\\xa94\\n(\\xa2\\x80\\n(\\xa2\\x80\\n(\\xa2\\x80?\""
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 320,
+          "size": 6866
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "x",
+          "w": 554,
+          "h": 554,
+          "sizes": [
+            2958,
+            4506,
+            6162,
+            8208,
+            11990
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [],
+  "views": 9247,
+  "forwards": 597,
+  "replies": null,
+  "edit_date": "2026-04-26T20:16:54+00:00",
+  "post_author": "امیرپارسا",
+  "grouped_id": 14217876890178564,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

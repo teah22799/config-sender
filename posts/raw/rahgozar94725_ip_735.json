@@ -1,0 +1,150 @@
+{
+  "_": "Message",
+  "id": 735,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1644374078
+  },
+  "date": "2026-04-20T13:34:49+00:00",
+  "message": "متاسفم. نه برای علیرضا قدری و امثالهم. متاسفم برای کسانی که همچین آدمایی رو دنبال میکنن.\nهمونطور که حمایت از قاتل یعنی شریک قتل بودن، حمایت از دزد هم یعنی شریک دزد بودن",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 5994381539321515251,
+      "access_hash": 1100091575205193580,
+      "file_reference": "b'\\x02b\\x03(>\\x00\\x00\\x02\\xdfi\\xf0\\xe4\\x13\\x82n\\xcd\\xc6*\\x12\\xc1\\xd8j!/\\xaaq8\\xb1\\xfa'",
+      "date": "2026-04-20T13:34:49+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01((\\xd6R\\xc4\\x03\\x8e\\xa2\\x9d\\x93\\xe9U\\xe3\\x93\\xe5\\x03\\xbd+\\x97l\\x05\\xfa\\xd2\\xb8\\xaeJX\\x8c\\xff\\x00\\x853\\xce?\\xdd\\xa6\\x11\\x8e\\xa4\\xe7\\xd2\\x99\\x9a\\x86\\xd8\\xc9L\\xe7\\xfb\\xbf\\xad\\x15\\x014Qv+\\x8b\\x18^0N})d\\x9c\\xc2Ad\\xdd\\x9e\\xc3\\x9a\\x14l\\x00\\xb7\\x02\\x89\\x13\\xcd \\xee+\\x8abCV\\xe0LO\\xcaT\\x81\\xd0\\xd2\\x93@\\xb6(Y\\xf7\\x13\\xf5\\xa6\\x9a\\x18\\xd8\\x84\\xd1IE\"I\\xd5T\\xf5\\x1c\\xd0\\xea\\x0e>L\\x9f_J(\\xa6P\\xa4\\x92\\x00\\\\\\xfb\\xe4u\\xa8\\xc8>\\x94Q@\\x86`\\xfaQE\\x14\\x08'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 315,
+          "h": 320,
+          "size": 26020
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 787,
+          "h": 800,
+          "size": 122953
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 1260,
+          "h": 1280,
+          "sizes": [
+            20691,
+            55991,
+            99807,
+            149304,
+            229628
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [],
+  "views": 17160,
+  "forwards": 35,
+  "replies": null,
+  "edit_date": "2026-04-20T13:36:43+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionPaid"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 77,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👎"
+        },
+        "count": 5,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": [
+      {
+        "_": "MessageReactor",
+        "count": 1,
+        "top": true,
+        "my": false,
+        "anonymous": false,
+        "peer_id": {
+          "_": "PeerUser",
+          "user_id": 5724681644
+        }
+      }
+    ]
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

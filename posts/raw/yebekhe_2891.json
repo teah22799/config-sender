@@ -1,0 +1,104 @@
+{
+  "_": "Message",
+  "id": 2891,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2086200619
+  },
+  "date": "2026-04-27T07:02:02+00:00",
+  "message": "SlipNet v2.5.3 — Key Changes\n\nDNS Scanner Updates: Added TCP and \"Both\" modes to test and auto-recommend the best transport (UDP, TCP, or Mixed) to bypass ISP blocking. UI Improvements.\n\nFaster Android Connections: TCP/DoT resolvers are now pre-tested (8s timeout) before connecting, dropping dead ones to prevent connection stalls.\n\nTunnel Chaining: SnowflakeBridge and DohBridge now support upstream SOCKS5, allowing you to stack layers (e.g., DoH-over-Tor).\n\nEncrypted Exports: Added \"Export All (Encrypted)\" to the main menu.\n\nOptimizations & Docs: Reduced the Tor binary size (up to 29% smaller on armv7) and added official English and Persian user guides to the repository.\n_______\n\nSlipNet v2.5.3 — تغییرات مهم\n\nبروزرسانی‌های اسکنر DNS: اضافه شدن حالت‌های TCP و \"Both\" (هر دو) برای تست و پیشنهاد خودکار بهترین پروتکل انتقال (UDP، TCP یا ترکیبی) جهت دور زدن محدودیت‌های ارائه‌دهندگان اینترنت.\n\nاتصال سریع‌تر در اندروید: بررسی پیش‌نیاز resolverهای TCP/DoT (با مهلت ۸ ثانیه) قبل از اتصال، تا با حذف موارد غیرفعال از توقف در روند اتصال جلوگیری شود.\n\nزنجیره‌سازی تونل‌ها (Tunnel Chaining): پشتیبانی پل‌های SnowflakeBridge و DohBridge از SOCKS5 بالادستی، که اجازه می‌دهد لایه‌ها را روی هم قرار دهید (مانند DoH-over-Tor).\n\nخروجی رمزنگاری‌شده: اضافه شدن گزینه \"Export All (Encrypted)\" به منوی اصلی.\n\nبهینه‌سازی و مستندات: کاهش حجم فایل باینری Tor (تا ۲۹٪ در armv7) و اضافه شدن راهنمای رسمی کاربران به زبان‌های انگلیسی و فارسی در مخزن برنامه.\n\nGitHub: https://github.com/anonvector/SlipNet/\n\nنسخه جدید CLI در GitHub",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 0,
+      "length": 679,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 0,
+      "length": 28
+    },
+    {
+      "_": "MessageEntityItalic",
+      "offset": 680,
+      "length": 5
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 689,
+      "length": 824,
+      "collapsed": true
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 689,
+      "length": 28
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1450,
+      "length": 38
+    }
+  ],
+  "views": 1522,
+  "forwards": 2,
+  "replies": null,
+  "edit_date": "2026-04-27T07:47:38+00:00",
+  "post_author": "ÐΛɌ₭ᑎΞ𐒡𐒡",
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤‍🔥"
+        },
+        "count": 5,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

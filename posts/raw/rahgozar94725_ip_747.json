@@ -1,0 +1,126 @@
+{
+  "_": "Message",
+  "id": 747,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1644374078
+  },
+  "date": "2026-04-24T20:30:10+00:00",
+  "message": "[MasterDNS] Rahgozar 🦋\n\nDomain: a.owel.my\n\nENCRYPTION_KEY: aaaaaaa-@rahgozar94725_ip-aaaaaa\n\nv2026.04.12.234117-978faee\n\nMasterDNS Groupe\n\n🆔@rahgozar94725_ip",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 12,
+      "length": 8
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 33,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 60,
+      "length": 32
+    },
+    {
+      "_": "MessageEntityItalic",
+      "offset": 94,
+      "length": 26
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 122,
+      "length": 16,
+      "url": "https://t.me/MasterDnsVPNGroup"
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 142,
+      "length": 17
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 142,
+      "length": 17
+    }
+  ],
+  "views": 7837,
+  "forwards": 328,
+  "replies": null,
+  "edit_date": "2026-04-24T20:31:19+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 45,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🔥"
+        },
+        "count": 10,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👎"
+        },
+        "count": 2,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

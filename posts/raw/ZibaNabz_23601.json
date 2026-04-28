@@ -1,0 +1,161 @@
+{
+  "_": "Message",
+  "id": 23601,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1319668965
+  },
+  "date": "2026-04-21T13:21:12+00:00",
+  "message": "🔴 هاست و پورت برای سایفون (ترکیبی نیست)\n\nHostname: 87.248.156.172\nPort: 8080\n\nHostname: 37.32.11.186\nPort: 8080\n\nHostname: 81.12.124.25\nPort: 8080\n\nHostname: 31.47.45.119\nPort: 12341\n\n\n🆔@ZibaNabz",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 0,
+      "length": 2,
+      "document_id": 4990182601252668309
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 3,
+      "length": 37
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 52,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 73,
+      "length": 4
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 89,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 108,
+      "length": 4
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 124,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 143,
+      "length": 4
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 159,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 178,
+      "length": 5
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 186,
+      "length": 2,
+      "document_id": 6035239240625820254
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 188,
+      "length": 9
+    }
+  ],
+  "views": 5794,
+  "forwards": 75,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 455655,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 1694825362,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-21T13:39:59+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 1,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🕊"
+        },
+        "count": 1,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

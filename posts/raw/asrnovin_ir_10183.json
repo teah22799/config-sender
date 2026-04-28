@@ -1,0 +1,104 @@
+{
+  "_": "Message",
+  "id": 10183,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1139260001
+  },
+  "date": "2026-04-23T10:38:10+00:00",
+  "message": "#هوش_مصنوعی\n\n♨️ اپن ای آی از نسخه اختصاصی ChatGPT برای پزشکان رونمایی کرد 🏥🤖\n\n🔸 این نسخه تخصصی که ChatGPT for Clinicians نام دارد، به‌صورت رایگان در دسترس برخی متخصصان حوزه سلامت قرار گرفته و با هدف ساده‌کردن فرایندهای کاری بالینی مانند مستندسازی 📝، تحقیقات پزشکی 🔬 و پاسخگویی به سؤالات مرتبط طراحی شده است.\n\n🔸 ازجمله مهم‌ترین قابلیت‌های ChatGPT for Clinicians به دسترسی به جدیدترین مدل‌های پیشرو هوش مصنوعی که برای حوزه سلامت تنظیم شده‌اند 🧠، قابلیت جستجوی بالینی برای پیدا کردن پاسخ‌های موردنیاز متخصصان از میان منابع پزشکی 🔍، و ابزارهای تحقیق عمیق (Deep Research) برای مرور متون و مقالات پزشکی 📚 و تدوین گزارش‌های جامع اشاره شده است. OpenAI در معرفی این مدل تأکید کرده که ChatGPT for Clinicians برای کمک به پزشکان طراحی شده و نمی‌تواند جایگزین آنها باشد ⚕️",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 0,
+      "length": 11
+    }
+  ],
+  "views": 21393,
+  "forwards": 92,
+  "replies": null,
+  "edit_date": "2026-04-23T10:39:22+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 74,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💔"
+        },
+        "count": 16,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👀"
+        },
+        "count": 7,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🔥"
+        },
+        "count": 4,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

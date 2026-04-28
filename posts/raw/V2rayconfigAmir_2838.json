@@ -1,0 +1,159 @@
+{
+  "_": "Message",
+  "id": 2838,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 2232706026
+  },
+  "date": "2026-04-24T04:01:00+00:00",
+  "message": "🚀 لیست جدید کانفیگ‌های V2Ray\nتعداد: 9\n\nvless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?security=reality&encryption=none&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=94f9#%40v2rayconfigamir%206102\n\nss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDM4LjE4MC4xNjEuMTIzOjgxMTk=#%40v2rayconfigamir%208353\n\nvless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?security=reality&encryption=none&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=910aab#%40v2rayconfigamir%205736\n\nvless://fe517777-f835-4e97-9efa-784e2ecf2200@swi.great-server-list.co.uk:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=swi.great-server-list.co.uk&fp=chrome&packetEncoding=xudp#%40v2rayconfigamir%203224\n\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Qlo3VFplbVRmaUg=@ss.us.sshmax.net:8139/?plugin=obfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#%40v2rayconfigamir%204191\n\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOelF4Wg==#%40v2rayconfigamir%205255\n\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU01vQlZpV21DOHo=@ss.sg.sshmax.net:8139/?plugin=obfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#%40v2rayconfigamir%208246\n\nss://YWVzLTI1Ni1nY206QjBMUGo@sg-ss-1.sshstores.vip:1443#%40v2rayconfigamir%202601\n\nss://YWVzLTI1Ni1nY206bXZ4TjE@sg-ss-2.sshstores.vip:1443#%40v2rayconfigamir%202684\n──────────────\n📢 فوروارد کنید به هموطنامون ❤️🤍💚\n\n⏱ بعد از کانکت شدن ۴۰ ثانیه در تلگرام منتظر بمونید تا کانکت شه (پینگ نمیده)\n\n⚡️ عملکرد سرورها روی هر اپراتور متفاوت است در صورت قطعی از سرورهای دیگر کانال استفاده کنید.\n\n✅ ری اکشن فراموش نشه :)\n🆔 @V2rayconfigamir",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 3,
+      "length": 26
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 40,
+      "length": 235
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 277,
+      "length": 95
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 374,
+      "length": 230
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 606,
+      "length": 225
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 833,
+      "length": 165
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1000,
+      "length": 71
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1073,
+      "length": 165
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1240,
+      "length": 81
+    },
+    {
+      "_": "MessageEntityCode",
+      "offset": 1323,
+      "length": 81
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 1423,
+      "length": 32
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 1654,
+      "length": 16
+    }
+  ],
+  "views": 168,
+  "forwards": 0,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 7854,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 2428075715,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-24T04:01:03+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 5,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "👍"
+        },
+        "count": 4,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🥰"
+        },
+        "count": 3,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

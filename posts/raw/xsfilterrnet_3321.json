@@ -1,0 +1,148 @@
+{
+  "_": "Message",
+  "id": 3321,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3209702364
+  },
+  "date": "2026-04-27T18:32:51+00:00",
+  "message": "🍷 سایت  TradingView در لیست سفید قرار گرفت \nو روی اغلب اپراتور ها باز شد\n\ntradingview.com\n\n\n@xsfilterrnet 👑",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaPhoto",
+    "spoiler": false,
+    "live_photo": false,
+    "photo": {
+      "_": "Photo",
+      "id": 6014615967771593886,
+      "access_hash": 5950467204311799547,
+      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xf9i\\xf0\\xd6I\\xf3\\xc0Sd\\x1c\\xc8[\\x88\\x10\\xd9o\\x12\\xde\\x03\\xb7\\xe8'",
+      "date": "2026-04-27T18:32:51+00:00",
+      "sizes": [
+        {
+          "_": "PhotoStrippedSize",
+          "type": "i",
+          "bytes": "b'\\x01\\x15(\\xcaXdu\\xdc\\x88Xt\\xe3\\x9a_\\xb3\\xcd\\xb4\\x1f)\\xf0}\\xa9b\\x97b\\x8f\\xde8\\xc1\\xce\\x00\\x06\\x9f\\xf6\\x8e@2\\xc8Ts\\xc8\\x1f\\xca\\x80#\\xfb<\\xc0\\xe0\\xc6\\xd9\\xf4\\xc5\\x1eI\\xdd\\x82@>\\xfd\\xaaO=\\xb2Yf\\x93s\\x1eF1\\xdf\\xebLb\\xcf .\\xe4\\x93\\xd4\\xe6\\x9a\\x01\\x0c\\x04F[r\\xf1\\xd4QC\\xf0\\xa4g\\x92y\\xc5\\x140!\\xa2\\x8a)\\x00\\xe5\\x14\\xea(\\xa0\\x00\\xf2\\xa7\\xda\\x8a(\\xa6\\x07'"
+        },
+        {
+          "_": "PhotoSize",
+          "type": "m",
+          "w": 320,
+          "h": 168,
+          "size": 9457
+        },
+        {
+          "_": "PhotoSize",
+          "type": "x",
+          "w": 800,
+          "h": 420,
+          "size": 32712
+        },
+        {
+          "_": "PhotoSizeProgressive",
+          "type": "y",
+          "w": 1200,
+          "h": 630,
+          "sizes": [
+            7687,
+            14459,
+            23034,
+            31733,
+            43156
+          ]
+        }
+      ],
+      "dc_id": 4,
+      "has_stickers": false,
+      "video_sizes": []
+    },
+    "ttl_seconds": null,
+    "video": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 0,
+      "length": 2,
+      "document_id": 5812037770301938686
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 75,
+      "length": 15
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 93,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 107,
+      "length": 2,
+      "document_id": 5053169761232356354
+    }
+  ],
+  "views": 7021,
+  "forwards": 65,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 5,
+    "replies_pts": 102786,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 6286955838
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 150142937
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 526394879
+      }
+    ],
+    "channel_id": 2200550029,
+    "max_id": 64780,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-27T18:32:54+00:00",
+  "post_author": "سال گودمن",
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

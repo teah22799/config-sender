@@ -1,0 +1,166 @@
+{
+  "_": "Message",
+  "id": 10155,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 1139260001
+  },
+  "date": "2026-04-20T21:13:06+00:00",
+  "message": "🔴محدودیت‌های جدید ارتباطی در راه است!\n\n🔴 برای هر خط: روزانه حداکثر ۳۰۰ پیامک و ۵ گیگ اینترنت بین‌الملل (رایتل: ۲ گیگ)\n🔴 این قانون برای همه کاربران، حتی خطوط سفید، بدون استثنا اجرا می‌شود\n🔴 با رسیدن به سقف، دسترسی تا ۰۰:۰۰ روز بعد قطع خواهد شد\n🔴 محدودیت اینترنت بیشتر روی پلتفرم‌های پرکاربرد مثل تلگرام، اینستاگرام، واتساپ، یوتیوب و توییتر است\n🔴 بدون اطلاع قبلی اجرا شده و فقط نزدیک سقف از طریق پیامک خبردار می‌شوید\n🔴 زمان دقیق اجرا هم مشخص نیست؛ برخی می‌گویند همین چند روز اخیر، برخی از دی‌ماه\nهنوز هیچ منبع معتبری در رابطه با این محدودیت توضیحی نداده..\n\n@asrnovin_ir",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": true,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 0,
+      "length": 2,
+      "document_id": 4990182601252668309
+    },
+    {
+      "_": "MessageEntityBold",
+      "offset": 2,
+      "length": 36
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 40,
+      "length": 2,
+      "document_id": 4992526863122301969
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 120,
+      "length": 2,
+      "document_id": 4992526863122301969
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 190,
+      "length": 2,
+      "document_id": 4992526863122301969
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 247,
+      "length": 2,
+      "document_id": 4992526863122301969
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 348,
+      "length": 2,
+      "document_id": 4992526863122301969
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 421,
+      "length": 2,
+      "document_id": 4992526863122301969
+    },
+    {
+      "_": "MessageEntityBlockquote",
+      "offset": 501,
+      "length": 59,
+      "collapsed": false
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 562,
+      "length": 12
+    }
+  ],
+  "views": 22860,
+  "forwards": 177,
+  "replies": null,
+  "edit_date": "2026-04-20T21:13:38+00:00",
+  "post_author": null,
+  "grouped_id": null,
+  "reactions": {
+    "_": "MessageReactions",
+    "results": [
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "💔"
+        },
+        "count": 81,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "🤯"
+        },
+        "count": 35,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "❤"
+        },
+        "count": 11,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😁"
+        },
+        "count": 3,
+        "chosen_order": null
+      },
+      {
+        "_": "ReactionCount",
+        "reaction": {
+          "_": "ReactionEmoji",
+          "emoticon": "😍"
+        },
+        "count": 3,
+        "chosen_order": null
+      }
+    ],
+    "min": false,
+    "can_see_list": false,
+    "reactions_as_tags": false,
+    "recent_reactions": [],
+    "top_reactors": []
+  },
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

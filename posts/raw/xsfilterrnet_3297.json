@@ -1,0 +1,155 @@
+{
+  "_": "Message",
+  "id": 3297,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3209702364
+  },
+  "date": "2026-04-24T15:02:18+00:00",
+  "message": "💡ترجمه‌ی دستورالعمل برنامه‌نویس:\n\n\n💎نحوه استفاده (How to use)\n\n1. یک یا چند URL مربوط به Apps Script deployment (یا فقط IDها) و همچنین auth_key خودت رو وارد کن.\n\n\n2. روی گزینه Install MITM certificate بزن. پیام تأیید رو قبول کن.\nگواهی در مسیر Downloads/mhrv-ca.crt ذخیره میشه و تنظیمات گوشی باز میشه.\nداخل Settings جستجو کن «CA certificate»، روی همون نتیجه بزن (نه «VPN & app user certificate» و نه «Wi-Fi»)، بعد فایل mhrv-ca.crt رو از Downloads انتخاب کن.\nاگر قفل صفحه نداری، ازت میخواد یکی تنظیم کنی (الزام اندروید).\n\n\n3. قبل از زدن Start، بخش SNI pool + tester رو باز کن و روی Test all بزن.\nاگر همه آیتم‌ها timeout شدن، یعنی google_ip در دسترس نیست. باید با یه IP جایگزینش کنی که روی دستگاهت resolve بشه (مثلاً با دستور nslookup www.google.com روی یه دستگاه سالم).\n\n\n4. روی Start بزن و درخواست VPN رو قبول کن.\nاین حالت TUN کامل، تمام ترافیک دستگاه رو از طریق پراکسی عبور میده و نیازی به تنظیم جداگانه برای هر اپ نیست.\n(در اندروید، VPNها از طریق یک تونل سراسری کل ترافیک رو هدایت می‌کنن )\n\n\n5. اگر تو Chrome خطای 504 Relay timeout دیدی:\nیعنی Apps Script پاسخ نمی‌ده. باید اسکریپت رو دوباره deploy کنی، لینک جدید /exec رو بگیری و جایگزین کنی.\nدر لاگ زنده (Live logs) به خطاهای \"Relay timeout\" و \"connect:\" دقت کن تا بفهمی مشکل از کدوم لایه است.\n\n\n⁉️محدودیت شناخته‌شده\n\nسیستم Cloudflare Turnstile (همون «Verify you are human») معمولاً روی اکثر سایت‌های محافظت‌شده با Cloudflare وارد لوپ بی‌نهایت میشه.\n\nدلیلش:\n\nهر درخواست Apps Script از یک IP دیتاسنتر گوگل متفاوت ارسال میشه\n\nولی User-Agent و TLS fingerprint ثابت هست\n\nکوکی cf_clearance به ترکیب (IP، UA، JA3) وابسته‌ست\n\nپس وقتی IP عوض میشه، Cloudflare دوباره چالش میده.\n\nهیچ راه‌حلی داخل این اپ برای این مشکل وجود نداره، چون ذاتاً به نحوه کار Apps Script برمی‌گرده.\nفقط سایت‌هایی که فقط صفحه اول رو بررسی می‌کنن (نه همه درخواست‌ها) بعد از یک بار تأیید، کار خواهند کرد✅\n\nدانلود داخلی:\nhttps://punkpaste.ir/f/mitm-connect-setup-c57nn9\n\n\n@xszapass 👑",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": {
+    "_": "MessageMediaDocument",
+    "nopremium": false,
+    "spoiler": false,
+    "video": false,
+    "round": false,
+    "voice": false,
+    "document": {
+      "_": "Document",
+      "id": 5141316350005741449,
+      "access_hash": -4236640575988006484,
+      "file_reference": "b'\\x05\\x00\\x00\\x00\\x00\\xbfP+\\xdc\\x00\\x00\\x0c\\xe1i\\xf0\\xd6I\\xa4{\\x15\\x98\\xc0\\xff\\xde\\xbc8\\xe8\\x17\\xc3\\x88\\xef\\xdf\\xd3'",
+      "date": "2026-04-24T10:08:40+00:00",
+      "mime_type": "application/octet-stream",
+      "size": 39579575,
+      "dc_id": 1,
+      "attributes": [
+        {
+          "_": "DocumentAttributeFilename",
+          "file_name": "mhrv-rs-android-universal-v1.2.12.apk"
+        }
+      ],
+      "thumbs": [],
+      "video_thumbs": []
+    },
+    "alt_documents": [],
+    "video_cover": null,
+    "video_timestamp": null,
+    "ttl_seconds": null
+  },
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 0,
+      "length": 2,
+      "document_id": 5312536423851630001
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 36,
+      "length": 2,
+      "document_id": 5309958691854754293
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 734,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityBotCommand",
+      "offset": 1116,
+      "length": 5
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 1250,
+      "length": 2,
+      "document_id": 5377438129928020693
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 1820,
+      "length": 1,
+      "document_id": 5427009714745517609
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 1837,
+      "length": 48
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 1888,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 1898,
+      "length": 2,
+      "document_id": 5053169761232356354
+    }
+  ],
+  "views": 8233,
+  "forwards": 271,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 14,
+    "replies_pts": 102786,
+    "comments": true,
+    "recent_repliers": [
+      {
+        "_": "PeerUser",
+        "user_id": 112198531
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 55262710
+      },
+      {
+        "_": "PeerUser",
+        "user_id": 71815944
+      }
+    ],
+    "channel_id": 2200550029,
+    "max_id": 64202,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-24T15:04:11+00:00",
+  "post_author": "امیرپارسا",
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}

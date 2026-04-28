@@ -1,0 +1,92 @@
+{
+  "_": "Message",
+  "id": 3285,
+  "peer_id": {
+    "_": "PeerChannel",
+    "channel_id": 3209702364
+  },
+  "date": "2026-04-22T17:38:38+00:00",
+  "message": "Dns⚡️\n\nهمراه اول:\n217.144.106.113:53,2.183.8.76:53,85.185.1.10:53,194.60.210.67:53,2.180.43.13:53,95.38.15.247:53,5.202.251.235:53\nاسلیپ نت🙂\n\nslipnet-enc://AZw8fFy3VnldbAZJW+Pskowj3kboKCLwfWccPJx9mBKolhVceZtmoADYJkxlLLJFB60RBtiaTZuXKLFZ3L0xxemwvGeyoLoGFjHTrKkrxgiYmDxmebw0AQVtPvIXTEQq6D70z6Tlc043F2XmvXh3HfDfQsTtymmIRbqCm/47yCkdcncujpxRyNKBU+78cn2MaZM0ogJ9ldgUbDUX21L4tGwuJen+wqDGmlM9PYigjMk6Sq7XNv2ZmsXRdVvNaAyobTaDSi1SYJvrsSSpeBGrOeay5DFL1R6WX5yxsxP5XRy8+L4WJUkYg4YwJiQMMPTyXCgBw+KXEKC+UCC7inx+I3R02QV/ugBlKLV/uvGpxGRlYxZ2qNFrxOwRbBMah+MkTbJwPpiq3vYdTEaKjMO4JPSABXBHXComyheLxe5WBU3xcIM1ia3hdKV0LO8RQfX6aiyH5uFJyh/0oYyySe5A8Fa0e9LFk5MSc/xgGHdkPYO8WTxeXwLP2kJyMHU7ua+3Q9rwPUhkaZ8ff6x4/nyzdTEA1RG6vbBhxT27O1kSTeESWSxKRjIUi2xFmC1HlxRUIAHT7q+OP+hBaisdSaA9+mPtplGMEPZmjqWmSDjerWR7Wtf/rVqIh9gOGIII6UN6JRZKH7RkhqtnUrZMcXn8OOlpEpXZiLML97H0VmfWQJgvNCKNBbmqUSZUbl/enesZ1r6QbI21O1ufZsk+XWPMUU405meVEw2O1vH7FWf4uJQ0T4rPjg8J9xu/ce/1vmxrsUqBzku5YInoNbeQw4CpzCkjhpLRnmk9t5NVKg9mABv3exY3PBT+sCo=\n@xszapass",
+  "out": false,
+  "mentioned": false,
+  "media_unread": false,
+  "silent": false,
+  "post": true,
+  "from_scheduled": false,
+  "legacy": false,
+  "edit_hide": false,
+  "pinned": false,
+  "noforwards": false,
+  "invert_media": false,
+  "offline": false,
+  "video_processing_pending": false,
+  "paid_suggested_post_stars": false,
+  "paid_suggested_post_ton": false,
+  "from_id": null,
+  "from_boosts_applied": null,
+  "from_rank": null,
+  "saved_peer_id": null,
+  "fwd_from": null,
+  "via_bot_id": null,
+  "via_business_bot_id": null,
+  "reply_to": null,
+  "media": null,
+  "reply_markup": null,
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 3,
+      "length": 2,
+      "document_id": 5312016608254762256
+    },
+    {
+      "_": "MessageEntityPre",
+      "offset": 18,
+      "length": 112,
+      "language": ""
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 139,
+      "length": 2,
+      "document_id": 6032632289966427910
+    },
+    {
+      "_": "MessageEntityPre",
+      "offset": 143,
+      "length": 838,
+      "language": ""
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 982,
+      "length": 9
+    }
+  ],
+  "views": 11182,
+  "forwards": 125,
+  "replies": {
+    "_": "MessageReplies",
+    "replies": 0,
+    "replies_pts": 102786,
+    "comments": true,
+    "recent_repliers": [],
+    "channel_id": 2200550029,
+    "max_id": null,
+    "read_max_id": null
+  },
+  "edit_date": "2026-04-22T17:40:07+00:00",
+  "post_author": "امیرپارسا",
+  "grouped_id": null,
+  "reactions": null,
+  "restriction_reason": [],
+  "ttl_period": null,
+  "quick_reply_shortcut_id": null,
+  "effect": null,
+  "factcheck": null,
+  "report_delivery_until_date": null,
+  "paid_message_stars": null,
+  "suggested_post": null,
+  "schedule_repeat_period": null,
+  "summary_from_language": null
+}
