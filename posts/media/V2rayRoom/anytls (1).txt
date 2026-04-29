@@ -1,3 +1,0 @@
-﻿anytls://dcccacba-fa44-11ef-8400-f23c9164ca5d@da57700a-tdr0g0-tf681f-1j6h0.se.hyhuawei.com:443?security=none&type=tcp&allowInsecure=1&sni=da57700a-tdr0g0-tf681f-1j6h0.se.hyhuawei.com&insecure=1&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_143
-anytls://905fcd78-866c-81e1-3cb8-1beb59d661ab@6a16f341-tdr0g0-tf5zuq-fa3p.se.hyhuawei.com:443?security=none&type=tcp&allowInsecure=1&sni=6a16f341-tdr0g0-tf5zuq-fa3p.se.hyhuawei.com&insecure=1&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_158
-anytls://6b7c1278-ff9d-11ee-84ca-f23c913c8d2b@592cf1f0-tdsv40-tf8z9r-1pr35.sj.oshuawei.com:8443?security=none&type=tcp&allowInsecure=1&sni=592cf1f0-tdsv40-tf8z9r-1pr35.sj.oshuawei.com&insecure=1&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_175

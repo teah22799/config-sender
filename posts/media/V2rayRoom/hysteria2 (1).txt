@@ -1,8 +1,0 @@
-﻿hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@jp-hy2.onetaplink.app:5443?obfs=salamander&obfs-password=CF7WJGiw6r1c8imX&sni=hy2-jp.onetaplink.app#%F0%9F%87%AF%F0%9F%87%B5JP_1
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-020.fastervpn.world:443?insecure=1&sni=vpn-us-020.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8US_36
-hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@sg-hy2.onetaplink.app:443?insecure=1&obfs=salamander&obfs-password=OrT7yQQIMqcvKdet&sni=hy2-sg.onetaplink.app#%F0%9F%87%B8%F0%9F%87%ACSG_4
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-019.fastervpn.world:443?insecure=1&sni=vpn-us-019.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8US_134
-hysteria2://9d9519a0-7df0-42a4-a765-29512ab65f5c@151.241.130.90:55000?insecure=1&sni=www.bing.com#%F0%9F%87%AF%F0%9F%87%B5JP_12
-hysteria2://fc4dd6fd-4a35-42f5-8208-bbb089747292@46.38.157.183:10004?insecure=1&sni=46.38.157.183#%F0%9F%87%BA%F0%9F%87%B8US_139
-hysteria2://rstnnl%3A7ltZBmta4ahLenTIoywBy3R1Z1PV7ZGf@nrealistic.nn-foto.ru:8932?insecure=1&obfs=salamander&obfs-password=CvxXZnSth1bVJKGFP2cof4rI52ifHJ2W&sni=nrealistic.nn-foto.ru#%F0%9F%87%BA%F0%9F%87%B8US_148
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-021.fastervpn.world:443?insecure=1&sni=vpn-us-021.fastervpn.world#%E2%9D%93Other_32
